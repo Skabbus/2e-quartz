@@ -1,0 +1,39 @@
+---
+heading: Patrician (Comp. Wizard's Handbook)
+source: https://regalgoblins.com/2erules/CWH/DD06130.htm
+subclass: Mage
+class_group: Wizard
+type: Kit
+---
+
+**Patrician**
+
+Description:** The Patrician is a wizard of noble birth, a member of his culture's aristocracy. Born into a life of wealth and privilege, the Patrician considers himself an arbiter of good taste and a connoisseur of the finer things in life. He looks down his nose at working men and women, as well as all others he considers to be inconsequential rabble. If anything, his mastery of magic makes him even more arrogant than other members of the ruling class, since he sees his talent as clear proof of his superiority over common folk.**
+
+The Patrician may join an adventuring party out of a sense of duty to his country or to promote the common good-- in spite of their snobbery, good-aligned Patricians have strong moral codes. A Patrician might have grown weary of his pampered life and sought an adventuring party to add a touch of excitement to his otherwise dreary existence. Alternately, his parents might have ordered him to join a party to teach him humility.
+
+There are no special requirements to be a Patrician. The majority are male, but noblewomen are also included in this category (although such a character would more correctly be called a Noblewoman or Aristocrat).
+
+To abandon this kit, the Patrician must renounce his birthright. He will forever after be ostracized by all the nobility from his homeland and may even be disowned and disinherited by his family.
+
+**Preferred Schools:** The Patrician can specialize in any school, but prefers those that he perceives as most powerful, such as conjuration/summoning, alteration, and invocation/evocation.
+
+**Barred Schools:** The Patrician will not specialize in necromancy, a school he considers disgusting and repulsive.
+
+**Role:** The Patrician prefers the company of nobles and other members of the upper class. Most Patricians are wealthy and have no need to earn money, but many still serve their societies as administrators, counselors, and ambassadors. Since they have access to the the finest teachers and universities, Patricians are extremely well-educated and expert in a variety of areas.
+
+Fellow player characters will rightfully perceive the Patrician to be an arrogant, condescending snob. On the positive side, the Patrician is also well-mannered and courteous, even to those he considers to be his social inferiors. Male Patricians can be extremely chivalrous to members of the opposite sex, regardless of whether they like it or not. The Patrician is generally cooperative with the party, though he will balk at any suggestion that compromises his sense of dignity (for instance, he will never enter a filthy cavern or search the bodies of slain enemies without squawking). His first-rate education and extensive travels make him an excellent source of information.
+
+**Secondary Skills:** Required (the player must choose one of the following): Bowyer, Gambler, Groom, Jeweler, Limner/Painter, Scribe. **Weapon Proficiency:** Required (the player must choose one of the following): dagger, knife.
+
+**Nonweapon Proficiencies:** Bonus: (General) Etiquette, Heraldry, Riding (Land-based). Recommended: (General) Dancing, Languages (Modern), Riding (Land-based), Singing; (Wizard) Ancient History, Languages (Ancient), Reading/Writing, Religion; (Rogue, double slots) Ancient History, Appraising, Gaming, Local History, Musical Instrument; (Priest, double slots) Languages (Ancient).
+
+**Equipment:** A beginning Patrician must buy all of the following items: horse (must be at least a riding horse), riding saddle, bit and bridle, horseshoes and shoeing, halter, and saddle blanket. He can spend the rest of his money as he wishes.
+
+**Special Benefits:** The Patrician begins with more starting money than other wizards (see the Wealth Options entry below). Additionally, he receives a +3 reaction modifier from any noble from his own culture, and a +2 reaction modifier from nobles from other cultures. When traveling, a Patrician can demand shelter from any fellow noblemen from his own culture. Such shelter is offered free of charge and is made available for the Patrician and up to two persons per experience level of the Patrician (for instance, a 3rd-level Patrician can demand shelter for himself and six others). **Special Hindrances:** When making purchases, the Patrician accepts nothing but the best, whether it be a meal, a room for the night, a weapon, or even a chest to carry his possessions. Any time he buys any item, the Patrician must pay 10 to 100 percent more than the listed price in the [Player's Handbook](..\PHB\DD01614.htm)*.* The DM will decide the price paid by the Patrician, which may vary from item to item, depending on the quality of merchandise in a particular locale. For instance, the best meal in Village A might sell for 7 sp, while the best meal in Village B might sell for 10 sp. In all cases, the Patrician will settle for no less than the most expensive item available; he always pays at least 10 percent more than the listed price.
+
+If a Patrician lacks the funds to buy high-quality items, he can settle for cheaper goods, but he no longer receives his reaction bonus in that particular encounter or community; NPCs simply do not believe that he is a noble. For instance, if a Patrician settles for a standard 5 sp meal at an inn, all of the NPCs in the inn react to him normally, ignoring his insistence that he's a nobleman. Word will quickly spread throughout the community that an amusing fellow is pretending to be a nobleman, and soon all of the NPCs in the community will react to him normally. If a Patrician settles for shabby accoutrements, such as a normal sword or average saddle, all NPCs will react to him normally until he replaces them with more expensive items.
+
+Just as the Patrician can demand shelter from other noblemen, so can they demand shelter from him. Note that this can get to be an expensive proposition if the NPC noblemen stay for any length of time.
+
+**Wealth Options:** The Patrician receives an extra 150 gp in addition to the standard (1d4 + 1) x 10 gp. **Races:** No restrictions. However, if a particular race doesn't recognize or allow socio-economic stratifications in the DM's campaign world, that race will not have Patricians [[The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

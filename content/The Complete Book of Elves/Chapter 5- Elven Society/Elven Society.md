@@ -1,0 +1,22 @@
+---
+heading: "Chapter 5: Elven Society (Comp. Book of Elves)"
+source: https://regalgoblins.com/2erules/CBE/DD04750.htm
+---
+
+**Chapter 5: Elven Society***Of all the festivals I've been to over the years, none compares to the elven Rite of Spring, which celebrates the return of spring. I am a ranger and a lover of the forest, but I am only human. Being human溶o matter how close to nature悠 did not expect the honor of being invited to witness one of the finest elven festivals known to mortal man. Perhaps my years of service to the good of the forest earned me the goodwill of the elf lords.
+
+As I traveled to the designated meeting place, I heard the sounds of elven laughter shimmering through the woods. The light of a huge bonfire shone through the night, guiding revelers to their destination. When I arrived at the feasting site, many of the elves were already well into the celebrations. My host, one Alarrain Mistraveler, guided me to my place and bade me enjoy the festivities. The mead and elfwine, or feywine as they call it, flowed freely even before the meal properly began.
+
+I cannot do justice to the food by describing it. Suffice to say that normal human food is forever ruined for me, for I shall never again taste anything as heavenly as that which was served to me those many years ago. Although some elves tried to make conversation with me, I could not return the compliment. I was as dumbstruck as a miser in a gold mine. I had never known that such perfection as was around me could exist.
+
+After the meal came the dancing and the singing. Although I admit I was giddy from the elfwine, I can reliably swear that no mortal will ever be able to duplicate the beauty I saw and heard that night. The graceful forms of the elves twisted in a huge celebratory dance around the bonfire to the tune of elf musicians harmonizing with the wind, the sky, and the stars. The last thing I remember is being dragged into the dancing circle and losing myself to the wilderness.
+
+I awoke in the morning covered with dew. Although I would swear I was in the same place as the celebrations held the night previous, I found no sign that there was anyone in that clearing that night save me.*勇irik Leafwalker, human rangerGeneral statements will be made about various elven tendencies in this chapter. Note that these are not absolutes for all elven societies; grey elves and drow in particular do not have the vast range of freedoms available to most other elves. Although grey elves are not evil like the drow, the movement within their society is carefully restricted. Grey elves tend to be more lawful than chaotic in nature and alignment and therefore do not value individual freedoms as much as other elves might. Likewise, while drow are chaotic in nature, they will brutally crush any who seek to show any semblance of free will.
+
+Because of the vastly different world views between these two elf subraces and their kin, many of the descriptions below apply only to aquatic, high, and sylvan elves. There may certainly be exceptions (a city of good drow or a grey elf realm where stratified society is rejected), but these will be of the utmost rarity.
+
+As a rule, most elves are the epitome of all that champions the individual's cause for goodness. They believe a single strong individual, focused on making the world a better place, is far better than an entire weak society determined to do the same thing. Elves seek to be as powerful as they can for the side of goodness.
+
+There is no discrimination based on gender in elven society. Female elves are considered on an equal basis with male elves擁n all things and in all ways. As often as not, it is elf women who rise to positions of power, fame, and glory. At least half of elven legends revolve around female heroes, and historically there have been more elf queens than kings. More than any other race, elves recognize the value of women and their full potential.
+
+[[The Complete Book of Elves/Table of Contents|Table of Contents]]

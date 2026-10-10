@@ -1,0 +1,33 @@
+---
+heading: Slaad, Blue (Monstrous Manual)
+source: "[[Slaad]]"
+url: https://regalgoblins.com/2erules/MM/DD04054.htm
+---
+
+Slaad, Blue
+
+![[SLAAD.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Limbo |
+| **FREQUENCY:** | Rare |
+| **ORGANIZATION:** | Group |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Carnivore |
+| **INTELLIGENCE:** | Low (5-7) |
+| **TREASURE:** | K,Q |
+| **ALIGNMENT:** | Chaotic neutral |
+| **NO. APPEARING:** | 2-12 |
+| **ARMOR CLASS:** | 2 |
+| **MOVEMENT:** | 6 |
+| **HIT DICE:** | 8+4 |
+| **THAC0:** | 11 |
+| **NO. OF ATTACKS:** | 5 |
+| **DAMAGE/ATTACK:** | 2-12/2-12/2-12/2-12/2-16 |
+| **SPECIAL ATTACKS:** | Disease |
+| **SPECIAL DEFENSES:** | + 1 or better weapons to hit |
+| **MAGIC RESISTANCE:** | 40% |
+| **SIZE:** | L (10' tall) |
+| **MORALE:** | Steady(11-12) |
+| **XP VALUE:** | 16,500 |

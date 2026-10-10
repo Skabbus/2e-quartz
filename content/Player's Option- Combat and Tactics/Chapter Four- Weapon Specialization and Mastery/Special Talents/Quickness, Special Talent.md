@@ -1,0 +1,8 @@
+---
+heading: "Quickness-- Special Talent (Combat and Tactics)"
+source: https://regalgoblins.com/2erules/CT/DD02663.htm
+---
+
+**Quickness** (2 slots/6 CP) Dexterity/AimGroup: Warrior, Rogue Initial rating: 3A character with this talent is unusually fast. Her hand-eye coordination is excellent, and she can often get past her opponent’s defenses before they realize how quick she really is. In combat, she gains a special –2 bonus to her initiative roll if she makes a proficiency check. She can use this bonus if she moves or makes an attack with a weapon of average speed or quicker, but her special bonus does not apply to attacks with slow weapons or stationary actions such as guarding or parrying.
+
+[[Player's Option- Combat and Tactics/Table of Contents#d57de195|Table of Contents]]

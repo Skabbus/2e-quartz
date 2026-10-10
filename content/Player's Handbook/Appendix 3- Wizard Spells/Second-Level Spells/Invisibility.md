@@ -1,0 +1,32 @@
+---
+heading: Invisibility-- 2nd Level Wizard Spell (Player's Handbook)
+source: https://regalgoblins.com/2erules/PHB/DD01871.htm
+type:
+  - Spell
+level: 2
+school:
+  - Illusion/Phantasm
+spellist:
+  - Wizard
+---
+
+> [!spell|ill] 2 | Invisibility
+> | Range | AoE |
+> | :--- | :--- |
+> | Touch | Creature touched |
+> | **Casting Time** | **Duration** |
+> | 2 | Special |
+> | **Save** | **Damage** |
+> | None | — |
+> | **Components** | **Material** |
+> | S V M | An eyelash and a bit of gum arabic, the former encased in the latter |
+> 
+> This spell causes the creature touched to vanish from sight and be undetectable by normal vision or even infravision. Of course, the invisible creature is not magically silenced, and certain other conditions can render the creature detectable. Even allies cannot see the invisible creature or his gear, unless these allies can normally see invisible things or employ magic to do so. Items dropped or put down by the invisible creature become visible; items picked up disappear if tucked into the clothing or pouches worn by the creature. Note, however, that light never becomes invisible, although a source of light can become so (thus, the effect is that of a light with no visible source).
+> 
+> The spell remains in effect until it is magically broken or dispelled, until the wizard or recipient cancels it, until the recipient attacks any creature, or until 24 hours have passed. Thus, the invisible being can open doors, talk, eat, climb stairs, etc., but if he attacks, he immediately becomes visible, although the invisibility enables him to attack first. Note that the priest spells *bless, chant*, and *prayer* are not attacks for this purpose. All highly Intelligent (Intelligence 13 or more) creatures with 10 or more Hit Dice or levels of experience have a chance to detect invisible objects (they roll saving throws vs. spell; success means they noticed the invisible object).
+> 
+> The material components of the *invisibility* spell are an eyelash and a bit of gum arabic, the former encased in the latter.
+> 
+> | **School** | **Sphere** |
+> | :--- | :--- |
+> | Illusion/Phantasm | — |

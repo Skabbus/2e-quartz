@@ -1,0 +1,8 @@
+---
+heading: "Necromancy-- Wizard Spells by School (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD02302.htm
+---
+
+Necromancy
+
+[[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Cantrip|Cantrip (1st)]][[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Chill Touch|Chill Touch (1st)]][[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Detect Undead#d4c619ca|Detect Undead (1st)]][[Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Spectral Hand|Spectral Hand (2nd)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Feign Death|Feign Death (3rd)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Hold Undead|Hold Undead (3rd)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Vampiric Touch|Vampiric Touch (3rd)]][[Contagion|Contagion (4th)]][[Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Enervation|Enervation (4th)]][[Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Animate Dead|Animate Dead (5th)]][[Magic Jar|Magic Jar (5th)]][[Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Summon Shadow|Summon Shadow (5th)]][[Player's Handbook/Appendix 3- Wizard Spells/Sixth-Level Spells/Death Spell|Death Spell (6th)]][[Reincarnation|Reincarnation (6th)]][[Control Undead#d81f749d|Control Undead (7th)]][[Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Finger of Death|Finger of Death (7th)]][[Clone|Clone (8th)]][[Player's Handbook/Appendix 3- Wizard Spells/Ninth-Level Spells/Energy Drain|Energy Drain (9th)]][[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

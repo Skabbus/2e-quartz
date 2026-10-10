@@ -1,0 +1,20 @@
+---
+heading: "Nonhuman Necromancers"
+source: https://regalgoblins.com/2erules/CBN/CBN00063.htm
+---
+
+**Nonhuman Necromancers***
+
+Long ago, when my beloved Gerard was still alive, we used to ride into the most distant hills of our estate during the cool weeks after Greengrass, accompanied only by our most trusted retainers. One day, when we camped near a rustic town called Soulbar, the burgers told us of a wyrm that had been ravaging caravans up and down the Trade Way for the past several months.
+
+This dragon, which the villagers had named Shadow-spawn, only attacked after nightfall and left behind not a trace of its victims—nor their goods, for that matter. It was as if the unfortunates had been snatched up or swallowed by the very night, or so the villagers claimed. Weeks after the attacks began, some of the dragon’s victims were spotted by woodcutters in the Forest of Wyrms, but these were only animated shells, mere zombies of the victims which had been raised up by the dragon for her perverse pleasure and then cast loose into the forest once they ceased to amuse her. This much the town had learned when Soulbar’s clerics called back the victims’ spirits from the zombie remains, asking them about their murderer.
+
+Thus warned, my husband I returned home, for we were ill-equipped to deal with a draconic necromancer. I later learned that several adventuring companies had gone up against the beast (and been added to the undead wandering the forest) before a victorious band of hunters put an end to that loathsome abomination. Those few who survived claimed that the dragon employed many spells of criminal necromancy against them.
+
+With suitable monetary encouragement, I was ultimately able to purchase the dragon’s spellbook from the triumphant Blades. The grimoire was an enormous, iron-bound book inscribed with notes that revealed a frightening understanding of the Art, surpassing in many ways my own knowledge! How that creature accomplished such mastery in relative isolation is beyond my comprehension. Perhaps a human wizard passed along his secrets to the wyrm or it discovered the key in some erudite tome of necromantic lore. My heart trembles at the thought of other creatures like Shadowspawn, with but a fraction of its talent for necromancy!*—From the diary of Doctor Ellandra TolbertAlthough human wizards constitute the overwhelming majority of necromancers, exceptions do occur and can make for a nasty surprise for adventurers. Certainly members of other races can learn necromantic spells—but in general, only humans can specialize in the Art. However, as an added twist for an adventure or campaign, the nasty DM may decide to create unique NPC necromancers of the select few, evil monster races that employ magic.
+
+Certain humanoids (specifically orcs), drow, dragons, and githyanki all have the potential to specialize in necromancy. In orcish witch doctors, this inherent potential is only realized by a scant few members of their race, constituting a tiny minority. Among the warlike drow and the githyanki—two races with a powerful talent for magic—necromancers tend to be as common as among humans. Finally, a few varieties of magic-using dragons—especially the shadow dragon—possess both the talent and interest to specialize in the Art.
+
+All of these monsters are suitable for powerful NPC nemeses, providing suitable challenges for an experienced party of adventurers. Dragons make an excellent example of standard monsters that can be given a new twist by allowing them to focus their inherent magical talents in necromancy. The DM may extend the practice of necromancy to other magic-using creatures (like the shade) or possibly even create new monsters that exclusively practice the Art.
+
+[[The Complete Book of Necromancers/Table of Contents|Table of Contents]]

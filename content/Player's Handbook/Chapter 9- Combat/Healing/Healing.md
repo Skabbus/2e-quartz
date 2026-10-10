@@ -1,0 +1,12 @@
+---
+heading: "Healing (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01743.htm
+---
+
+**Healing**
+
+Once a character is wounded, his player will naturally want to get him healed. Characters can heal either by natural or magical means. Natural healing is slow, but it's available to all characters, regardless of class. Magical healing may or may not be available, depending on the presence (or absence) of spellcasters or magical devices.
+
+The only limit to the amount of damage a character can recover through healing is the total hit points the character has. A character cannot exceed this limit until he gains a new level, whereupon another Hit Die (or a set number of points) is added to his total. Healing can never restore more hit points to a character than his maximum hit point total.
+
+[[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

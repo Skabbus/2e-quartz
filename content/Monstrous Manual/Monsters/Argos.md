@@ -1,0 +1,73 @@
+---
+heading: "Argos (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD03799.htm
+---
+
+Argos
+
+![[ARGOS.gif]]
+
+|                       |                                              |
+| --------------------- | -------------------------------------------- |
+| **CLIMATE/TERRAIN:**  | Space/Any Earth-based body                   |
+| **FREQUENCY:**        | Very rare                                    |
+| **ORGANIZATION:**     | Solitary                                     |
+| **ACTIVITY CYCLE:**   | Feed till consume 2xHD, then rest 2 hours/HD |
+| **DIET:**             | Omnivore                                     |
+| **INTELLIGENCE:**     | Low to High (5-14)                           |
+| **TREASURE:**         | U                                            |
+| **ALIGNMENT:**        | Neutral evil                                 |
+| **NO. APPEARING:**    | 1                                            |
+| **ARMOR CLASS:**      | 0                                            |
+| **MOVEMENT:**         | 9, Fl 3 (B)                                  |
+| **HIT DICE:**         | 5-10                                         |
+| **THAC0:**            | 5-6 HD: 15                                   |
+|                       | 7-8 HD: 13                                   |
+|                       | 9-10 HD: 11                                  |
+| **NO. OF ATTACKS:**   | 3 per victim                                 |
+| **DAMAGE/ATTACK:**    | 1-4                                          |
+| **SPECIAL ATTACKS:**  | See below                                    |
+| **SPECIAL DEFENSES:** | See below                                    |
+| **MAGIC RESISTANCE:** | 25%                                          |
+| **SIZE:**             | L-G (2' per HD)                              |
+| **MORALE:**           | Champion (16)                                |
+| **XP VALUE:**         | 5-6 HD: 2,000 (+1,000 for additional HD)     |
+
+Argos are found in the same regions of wildspace as the baleful beholder nations. An argos resembles a giant amoeba. It has one large, central eye with a tripartite pupil, and a hundred lashless, inhuman eyes and many sharp-toothed mouths. An argos can extrude several pseudopods, each tipped with a fanged maw that functions as a hand to manipulate various tools.
+
+Argos move by slithering; they can cling to walls and ceilings. They can levitate and fly at the very slow rate of 3.
+
+Argos colors tend toward shades of transparent blues and violets; they smell like a bouquet of flowers. They are huge beasts ranging in size from 10 to 20 feet in diameter, weighing about 200 pounds per Hit Die. Though they exhibit signs of being intelligent tool users, they do not wear clothes, choosing rather to carry gear stored in temporary cavities within their bodies. However, their digestive juices often ruin devices within two to three weeks (saving throw vs. acid).
+
+**Combat:** An argos can attack with one to three weapons or items, or it can enfold a victim in a pseudopod and attack with 1d3 mouths for 1d4 points of damage each. It may attack as many foes in this way as it can physically reach.
+
+If an argos rolls a natural 20 on an attack, it envelopes its victim, swallowing him whole. A swallowed victim suffers 2d8 points of damage each round from the creature's digestive juices. The victim may attempt to cut his way free from within, using only short cutting weapons. He must inflict 8 points of damage to break free.
+
+The eyes of an argos, like those of a beholder, have a variety of special powers. An argos can bring 1d10 of its smaller eyes to bear on any target. The large, central eye can focus only on targets that are in front of the creature (within 90 degrees of the "straight-ahead point" of the central eye). Though the creature has nearly 100 eyes, only 20 special powers have been noted; therefore a number of eyes must possess the same power.
+
+Each point of damage inflicted on an argos eliminates one eye; the DM decides which powers are reduced in the process. It is possible to target one particular eye by attacking with a -4 penalty to the attack roll.
+
+Each ability of an argos's eye is treated as a spell effect. Use the argos's Hit Dice as the caster level. Roll 1d20 and check the following table for a particular eye's power.
+
+|  |  |
+| --- | --- |
+| 1. *Blindness* | 11. *Gaze Reflection* |
+| 2. *Burning Eyes (Hands)* | 12. *Heat Metal* |
+| 3. *Charm Monster* | 13. *Hold Monster* |
+| 4. *Clairvoyance* | 14. *Imp. Phantasmal Force* |
+| 5. *Confusion* | 15. *Irritation* |
+| 6. *Darkness, 15' rad.* | 16. *Light* |
+| 7. *Dispel Magic* | 17. *Slow* |
+| 8. *Emotion* | 18. *Suggestion* |
+| 9. *ESP* | 19. *Tongues* |
+| 10. *Fumble* | 20. *Turn Flesh to Stone* |
+
+The central eye can use one of three different powers once per round. It can create a personal illusion (an *alter self* spell), or it can cast a *color spray* or a *ray of enfeeblement* spell.
+
+**Habitat/Society:** Argos are solitary creatures, though it is not unheard of to discover an argos guardian aboard an eye tyrant ship. Argos appear capable of replenishing their own air envelope and thus may be encountered wandering asteroid rings and dust clouds alone.
+
+Despite its relative intelligence, the argos is a ravenous creature driven by its hunger. It tries to lure prey into its grasp, feeding until it has consumed a number of creatures equal to two times its own Hit Dice. It then slips away to digest its meal for a period equal to two hours per Die. If an argos is unable to find food within a week of its last meal, it loses 1 Hit Die per week until it becomes a 5-Hit Die creature. After that point, it can hibernate for up to a year by crystallizing its outer shell and forming a chrysalis.
+
+**Ecology:** Argos consume anything that moves and is digestible. Their preference is to use their abilities to lure their prey into traps and then to pick off individuals one at a time. It sorts through the tools and weapons of its victims and keeps the useful items.
+
+[[Monstrous Manual/Monstrous Manual Index#6d2de9d5|Index]]

@@ -1,0 +1,36 @@
+---
+heading: "Enchantment/Charm (Comp. Wizard's Handbook)"
+source: https://regalgoblins.com/2erules/CWH/DD06083.htm
+---
+
+**Enchantment/Charm**Description:** Similar to the school of conjuration/summoning, this school encompasses two general types of spells. Both types imbue their subjects with magical energy to create specific effects. *Charm* spells induce changes or influence the behavior of creatures, usually altering their subject's mental or emotional states. Enchantment spells invest non-living objects with magical powers. Neither *charm* nor *enchantment* spells have any effect on their subject's physical form.**
+
+**Specialist Name:** Enchanter.
+
+**Allowed Races:** Humans, half-elves, and elves can all become enchanters.
+
+**Ability Requirements:** Since influencing the will of others is in part a manifestation of the caster's personal charm, a wizard must have a Charisma of at least 16 to specialize as an enchanter.
+
+**Saving Throw Modifiers:** All opponents modify their saving throws by -1 when attempting to save against an enchantment/charm spell cast by an enchanter. An enchanter adds a +1 bonus when saving against enchantment/charm spells.
+
+**Bonus Spells and Acquired Powers:** An enchanter can memorize an extra spell at each spell level, providing that at least one of the memorized spells is from the school of enchantment/charm. When an enchanter reaches 17th level, he acquires immunity to all forms of *charm* spells. When an enchanter reaches 20th level, he gains the ability to cast a special free action spell once per day. The enchanter can cast this spell on himself or any creature he touches. No material components are required for this spell and the casting time is 1; the enchanter merely touches the subject to be affected and concentrates. When enchanted with *free action*, the subject is able to move and attack normally for one hour, even under the influence of a spell that impedes movement such as *web* or *slow*. The spell negates the effects of *hold* spells. Underwater, the subject moves at normal surface speed and inflicts full damage with weapons, provided that the weapon is wielded and not hurled.
+
+**Oppositional Schools:** An enchanter cannot learn spells from the schools of invocation/evocation and necromancy.
+
+**Spell Analysis:** The enchanter has a moderate number of spells from which to choose, most of them emphasizing defensive rather than offensive effects. Not only can this school of spells be divided into charms and enchantments, the spells can also be divided into those that affect only a single person or object, and those capable of affecting a group.
+
+Generally, the group-affecting spells are more useful to the enchanter, but he must consider their ranges and durations when deciding which spells to learn and memorize. For instance, both *ray of enfeeblement* and *Tasha's uncontrollable hideous laughter* are 2nd-level enchantment/charm spells that inflict penalties on the attack and damage rolls of opponents. *Ray of enfeeblement* affects only one creature, while *Tasha's laughter* affects all those within a 30-foot cube. But note that even though *Tasha's laughter* inflicts a higher damage penalty, it lasts only a single round (although the effects essentially carry over into the next round). *Ray of enfeeblement* lasts 1 round/level; when cast at higher levels, this spell can be extremely debilitating. And though the 60-yard range of *Tasha's laughter* makes the range of ray of enfeeblement look dismal by comparison (10 yards + 5 yards/level), note that at higher levels, the range of *ray of enfeeblement* increases dramatically, while the range of *Tasha's laughter* stays the same.
+
+The shortcoming of the enchantment/charm catalog is the lack of offensive spells. Only a handful of them are capable of inflicting damage. This usually defines the enchanter's role in an adventuring party as defensive. As with the abjurer, it should be noted that with his low AC, the enchanter is extremely vulnerable to attacks. A bodyguard with a high AC or a lot of hit points is more of a necessity than a luxury for an enchanter. Unlike an abjurer, whose defensive spells operate more or less automatically, the enchanter's defensive spells often require him to take an additional action after they are successfully cast. A *hypnotized* victim, for instance, needs to be told what to do, as does a subject affected by *suggestion*. *Charmed* creatures may simply stand and stare unless directed otherwise by the caster. Clearly, the most effective enchanters are those who are creative, quick-thinking, and vigilant.
+
+**Most Desirable Spells:**
+
+**Low-Level: Nearly all of the low- level enchantment/charm spells are defensive. The best are those that allow the enchanter the most latitude in the number of creatures he can affect, such as *hypnotism, sleep, scare,* and *Tasha's uncontrollable hideous laughter*. Though it affects only one creature, *suggestion* can be an extremely useful spell in the hands of a creative caster; with a duration of 1 hour + 1 hour/level, it's also among the longest-lasting low-level spells. Medium-Level: *Enchanted weapon* is one of the few offensive spells available in this school, a valuable addition to any enchanter's repertoire. *Charm monster* and *hold monster* have the advantage of being able to affect a variety of opponents. *Magic mirror* effectively substitutes for a *crystal ball* and other scrying devices. *Mass suggestion* and *eyebite* have the most possibilities of all the medium-level spells in the hands of a creative caster.**
+
+High-Level: Unfortunately, few high-level enchantment/charm spells are available to the enchanter. For their variety of uses, *antipathy-sympathy, binding*, and *mass charm* are the best all-purpose spells. In lieu of a conjurer, *demand* essentially functions as a conjuration spell.
+
+**Ethos:** With their high Charisma, enchanters tend to be the most physically attractive and personable of all the specialists. They are sensitive, passionate, and caring. They believe in the sanctity of life and share the druid's love of nature. Most enchanters see themselves as protectors of the helpless and advocates of the weak, but there are some who see their mastery of enchantment magic as evidence of their inevitable ascendance in the world. Notably, there are ample numbers of good and evil enchanters, but few neutral ones.
+
+Enchanters are commonly the voice of reason in adventuring parties. They are often able to devise options and solutions that have eluded their companions. They are excellent team-players, superb negotiators, and shrewd bargainers. They enjoy fine arts and good conversation, and are fascinated by magic in all its forms. It is not unusual for an enchanter to acquire dozens of close friends. Though deeply romantic, enchanters often marry late in life, as they are reluctant to settle down with just one person.
+
+Fond of the simple life, enchanters usually live in modest homes in small villages. They spend much of their time tinkering with magical potions and devices, commonly earning money as counselors, teachers, and farmers[[The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

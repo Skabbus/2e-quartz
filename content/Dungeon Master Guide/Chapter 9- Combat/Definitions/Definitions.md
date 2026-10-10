@@ -1,0 +1,36 @@
+---
+heading: "Definitions-- Combat Rules (Dungeon Master Guide)"
+source: https://regalgoblins.com/2erules/DMG/DD00386.htm
+---
+
+Definitions
+
+Many game terms are used throughout the combat rules. To understand the rules, players must understand these terms, so brief explanations appear below. Further details are provided throughout this chapter.
+
+**Armor Class (AC)** is the protective rating of a type of armor. In some circumstances, AC is modified by the amount of protection gained or lost because of the character's situation. For instance, crouching behind a boulder improves a character's Armor Class, while being attacked from behind worsens his AC.Abilities and situations can also affect a character's Armor Class. High Dexterity gives a bonus to Armor Class, for example. But even a character with a Dexterity bonus can have this bonus negated if he is attacked from the rear.
+
+Armor provides protection by reducing the chance that a character is attacked successfully (and suffers damage). Armor does not absorb damage, it prevents it. A fighter in full plate mail may be a slow-moving target, but penetrating his armor to cause any damage is no small task.
+
+Armor Class is measured on a scale from 10, the worst (no armor), to -10, the best (very powerful magical armors). The lower the number, the more effective the armor. Shields can also improve the AC of a character.
+
+**Damage (D)** is what happens to a character when an opponent attacks him successfully. Damage can also occur as a result of poison, fire, falling, acid, and anything even remotely dangerous in the real world. Damage from most attacks is measured in hit points. Each time a character is hit, he suffers points of damage. It could be as little as 1 point to as many as 80 or more. These points are subtracted from the character's current hit point total. When this total reaches 0, the character is dead.
+
+**Initiative** determines the order in which things happen in a combat round. Like so many things in the world, initiative is determined by a combination of ability, situation, and chance.
+
+At the start of each round of a battle, an initiative roll is made by both sides. This roll can be modified by the abilities of the combatants and by the situation. The person or side with the lower modified die roll acts first.
+
+**Melee** is any situation in which characters are battling each other hand-to-hand, whether with fists, teeth, claws, swords, axes, pikes, or something else. Strength and Dexterity are valuable assets in melee.
+
+**Missile combat** is defined as any time a weapon is shot, thrown, hurled, kicked, or otherwise propelled. Missile and melee combat have the same basic rules, but there are special situations and modifiers that apply only to missile combat.
+
+**Saving throws** are measures of a character's resistance to special types of attacks--poisons, magic, and attacks that affect the whole body or mind of the character. The ability to make successful saving throws improves as the character increases in level.
+
+**Surprise** can happen any time characters unexpectedly meet another group (monsters, evil knights, peasants, etc.). Surprise is simply what happens when one side--a person or party--is taken unawares, unable to react until they gather their wits. Their opponents, if unsurprised, are allowed a bonus round of action while the surprised characters recover. It's entirely possible for both sides in a given situation to be surprised!
+
+Attacking with surprise gives bonuses to the attack roll (see [[Dungeon Master Guide/Tables/Table 35- Combat Modifiers|Table 35]] ). A surprised character also has a decreased chance of rolling a successful saving throw, if one is needed.
+
+Surprise is determined by a die roll and is normally checked at the beginning of an encounter. Surprise is very unpredictable, so there are very few modifiers to the roll.
+
+**THAC0** is an acronym for "To Hit Armor Class 0." This is the number a character, NPC, or monster needs to attack an Armor Class 0 target successfully. THAC0 depends on a character's group and level or a monster's Hit Dice (see [[Dungeon Master Guide/Tables/Table 37- THAC0 Advancement|Tables 37]] -39). The THAC0 number can be used to calculate the number needed to hit any Armor Class. THAC0 is refigured each time a character increases in level. Using THAC0 speeds the play of combat greatly.
+
+[[Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

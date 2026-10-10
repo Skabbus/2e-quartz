@@ -1,0 +1,12 @@
+---
+heading: "Despotic/Populist (Comp. Thief's Handbook)"
+source: https://regalgoblins.com/2erules/CTH/DD05900.htm
+---
+
+**Despotic/Populist**This is a rather high-sounding term for a simple dichotomy. A despotic guildmaster is one who decides on rules, punishments, policies, and important guild matters for himself. He does not consult others (much), and while he may listen to advice from his juniors he doesn't take any notice of it—he listens, he does not attend. However, this does not mean that the guildmaster is a tyrant, nor that he is cruel or even necessarily strong (a weak despot is in real trouble, however). It means that the guildmaster thinks that he knows best, and this doesn't imply wickedness or cruelty. The guildmaster may be very intelligent, wise, and far-seeing. Also, just because the guildmaster is a despot doesn't mean that the guildmembers don't like this state of affairs—a truly smart guildmaster will gain the loyalty of the guildmembers through his wisdom and the way his rulings clearly benefit the guild.
+
+A populist guildmaster is one who goes to some lengths to listen to all (or most) opinions within the guild. He is ready to listen to advice, and may delegate some of his authority and decision-making to others within the guild. Again, this need not necessarily make the guildmaster popular. A common problem for a populist guildmaster is that he will be perceived as weak, especially if the affairs of the guild are not in good order. He may leave himself wide open to backstabbing (quite literally).
+
+These styles of guildmaster rulership can be combined to generate individual styles, such as strong-cruel-despotic and (at the other extreme) weak-fair-populist, and all points inbetween. Combining these should be fairly straightforward for the DM, but the developed case of The Thieves' Guild of Mallain (page 76) gives an example of how to combine these different elements into an overall picture for a guildmaster's style of leadership.
+
+[[The Complete Thief's Handbook/Table of Contents|Table of Contents]]

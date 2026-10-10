@@ -1,0 +1,16 @@
+---
+heading: "Supplies and Reagents-- Laboratories (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03485.htm
+---
+
+Supplies and Reagents
+
+Laboratories require a large amount of both common and unusual substances. Furnaces and burners must be fueled; water, oil, brine, vinegar, and other liquids are required for cooling, distilling, and quenching; small amounts of chemicals, salts, rare earths, herbs, and various specimens are expended with each day of research; and glassware and pottery may be ruined by one use or broken in accidents. Even if a lab is not in active use, some of the supplies and reagents will go bad or lose their potency with prolonged storage. The upshot of this discussion is simple: Once a wizard finishes building and outfitting his lab, he will still have to spend some money to maintain its supplies and equipment.
+
+This maintenance cost is assumed to be 10% of the lab’s total value, not counting the library, for every month of active use. For example, a 5,000 gp forge uses up 500 gp of supplies each month. This cost does not include any special or unique materials, such as a particular item that is to be enchanted, or an unusual material required for a specific potion or scroll ink. For example, if a wizard is enchanting a *long sword +1*, the cost of the sword itself is not included in the lab’s monthly operating cost. Similarly, if he is mixing the ink for a scroll of *protection from petrification*, any exotic ingredients such as a basilisk’s eye or a cockatrice’s feather must be obtained through a deliberate action of the player character.
+
+If the laboratory is not in active use—the owner is off adventuring, or otherwise engaged—the maintenance cost drops to half the normal amount. For the 5,000 gp forge described above, this would be 250 gp per month. This “moth-balled” expense reflects the materials and specimens that are becoming unusable due to the passage of time. Of course, the wizard can choose not to pay this cost, allowing several months of maintenance to pile up before restocking the laboratory. In any event, the cost to resupply a laboratory never exceeds more than half the lab’s total value, since a lot of the equipment is fairly permanent. In the case of the 5,000 gp forge, a character would have to pay 2,500 gp to restock his laboratory after 10 months of neglect, but 15 or 20 months of not paying the maintenance cost wouldn’t be any more damaging.
+
+**Alchemists and Artificers:** These specialist wizards must pay 50 gp per character level per month in order to maintain their laboratories. The wizard can defer or ignore these expenses, but this causes the loss of many of his specialist benefits—see [[Player's Option- Spells and Magic/Chapter 1- Wizards/Wizards|Chapter 1]] . If the wizard misses some payments, he must make up all the money he owes before restoring his lab to operation, up to half the value of the laboratory itself. In other words, an 8th-level artificer must pay 400 gp per month to maintain his forge; if he skips one month of resupply, he loses many of his special abilities, and must pay 800 gp the following month or do without his powers for another month.
+
+[[Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

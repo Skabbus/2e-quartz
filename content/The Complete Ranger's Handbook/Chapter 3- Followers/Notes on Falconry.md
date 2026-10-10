@@ -1,0 +1,10 @@
+---
+heading: "Notes on Falconry  (Comp. Ranger's Handbook)"
+source: https://regalgoblins.com/2erules/CRH/DD05704.htm
+---
+
+**Notes on Falconry**
+
+The principle of training hunting birds is that all food comes from the trainer, otherwise they are likely to fly off. They will be very dependent on the trainer; failure to feed them for 24 hours is pushing their limits. If more than 36 hours pass, the birds will likely die. Birds should be flown and exercised daily. Their health will deteriorate if they are not flown once at least every 3-4 days. Flying multiple birds at once is nearly impossible, as species dominance instincts take over; the higher status bird will let the lower status bird do the dirty work, then come in and steal the kill. Rarely, a species will hunt in family groups--one main hunter and several others to flush out the prey. A real-world example of this behavior is the Harris hawk. No falconer will fail to wear a heavy leather gauntlet on his catching arm (the "off" arm, usually the left). The gauntlet will not be metal, which is uncomfortable for the bird. It will cover the forearm, perhaps extending as far as the elbow. Carrying birds like this is tiring, so a perch of some sort (as on a staff) is desirable. Hunting birds are never carried on the shoulder. Their natural instinct is to take out an eye or ear (which they can do with unbelievable speed) and their training reinforces the instinct. Even a well-trained bird cannot be trusted so close to the face. Owls can be flown as hunting birds. They are much harder to train than hawks or falcons (comparable to the independent feline versus the eager-to-please canine). Unlike other birds, owls can be flown in the dark; however, their instinct is to strike stationary targets. They will not attack while a target is moving, but only when it pauses, stops, or hunkers down. Owls will kill hawks and falcons; the two types of birds cannot be flown together.
+
+[[The Complete Ranger's Handbook/Table of Contents|Table of Contents]]

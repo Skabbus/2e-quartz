@@ -1,0 +1,8 @@
+---
+heading: "Defining a New Spell (Comp. Wizard's Handbook)"
+source: https://regalgoblins.com/2erules/CWH/DD06229.htm
+---
+
+**Defining a New Spell**
+
+The first step in researching a spell is defining exactly what the spell is intended to accomplish. The player begins by making a rough draft of the proposed spell, including its effects, school, range, duration, and area of effect. The DM will then adjust these elements, making sure the proposed spell does not duplicate the effects of an existing spell, or is not a minor variation of an existing spell. The DM, working with the player, will establish the spell's casting time, saving throw, and, most importantly, its level. (For help with determining the elements of a new spell, see the [[The Complete Wizard's Handbook/Chapter 7- Advanced Procedures/Spell Research/Spell Components|Spells section]] in Chapter 2.)Every proposed spell is not automatically acceptable. The DM can veto a proposed spell for any of the following reasons:· The player character already knows the maximum number of spells of the proposed spell's level. (This is allowable if the optional Researching Extra Wizard Spells rule on page 44 of the [DMG](..\DMG\DD00362.htm) is being used.)· The proposed spell is not of a level allowed by the player character's Intelligence, as per Table 4 of the *Player's Handbook*. (For instance, a wizard with an Intelligence of 9 cannot cast 4th-level spells. Therefore, he cannot research them.)· The proposed spell belongs to a school in opposition to the player character's school.· The player proposes to research a spell of 10th-level or higher. (No spell can exceed 9th- level.)[[The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

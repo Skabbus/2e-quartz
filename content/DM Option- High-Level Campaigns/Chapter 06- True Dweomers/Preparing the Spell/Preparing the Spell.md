@@ -1,0 +1,20 @@
+---
+heading: "Preparing the Spell (High-Level Campaigns)"
+source: https://regalgoblins.com/2erules/HLC/DD01341.htm
+---
+
+Preparing the Spell
+
+Once a true dweomer’s adjusted difficulty has been calculated, the caster can begin preparing to cast the spell. To prepare a spell, the caster must spend time in quiet study or meditation. The caster cannot fight, cast spells, move faster than a walk, or engage in any other activity that requires intense physical effort or mental concentration. If the preparation time is one day or more, the caster must spend eight hours a day preparing for the endeavor, although he is free to pursue other activities during the remaining 16 hours. Keep in mind that there is a limit to the number of true dweomers a character can prepare at once (see [[DM Option- High-Level Campaigns/Chapter 06- True Dweomers/Requirements/Knowledge|page 119]] and [[DM Option- High-Level Campaigns/Tables/Table 44- Wizard Spell Progression|Table 44]]).
+
+If the caster wishes to reduce the spell’s preparation time, material components or special conditions can be added to reduce the adjusted difficulty, which in turn reduces preparation and casting times.
+
+If the caster is interrupted or ceases the preparations, the spell is disrupted. Preparations that require one day or less are completely disrupted and must be restarted. If the preparations require one week or more, the caster loses any preparation time already spent on the day when the disruption occurs and loses another day’s worth of preparations as the caster makes the readjustments to continue the spell.
+
+For example, Pharjis, a 25th-level diviner, is preparing a spell with an adjusted difficulty of 15, which requires a week’s worth of preparations. He prepares for three days without incident, but in the middle of the fourth day an explosion in his laboratory keeps him busy well into the night. Pharjis loses the preparation time he completed on day four and must backtrack another day, so he must prepare for five more days before he can cast the spell.
+
+If an interruption lasts more than one day, the caster must either begin preparations again or backtrack that many days when resuming preparations. For example, if Pharjis were preparing a spell with an adjusted difficulty of 55 , he would need to prepare for two months. If he were to be interrupted for a full week, he loses not only that week but another seven days worth of preparations.
+
+When the caster completes the required preparation time, the spell may or may not be ready to cast. The character must roll a final difficulty check to conclude the preparations.
+
+[[DM Option- High-Level Campaigns/Table of Contents|Table of Contents]]

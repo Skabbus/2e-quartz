@@ -1,0 +1,16 @@
+---
+heading: "Priests-- Chapter 2 (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03419.htm
+---
+
+**Chapter 2: Priests**The [Player’s Handbook](..\PHB\DD01477.htm)describes two types of priests: clerics and specialty priests. While clerics are intended to serve as a generic model for a priest character, DMs and players in campaigns that feature specific pantheons or mythoi are encouraged to create specialty priests to reflect the particular aims and powers of the different deities of the world. The druid is presented as an example of a specialty priest, representing any power that stands for nature—or even nature itself.
+
+In this chapter, we’ll examine the basic cleric and druid classes in great detail, concentrating on their magical abilities. A number of spells are reorganized into different spheres in order to provide the specialty priests with basic abilities that should be common to all priest characters, while maintaining unique spells that can only be cast by certain specialists. We’ll also introduce three new types or subclasses of specialty priest: the crusader, the shaman, and the monk. Last but not least, we’ll present a point-based design system for customizing specialty priests.
+
+Hordes of specialty priests have been introduced in various accessories following the *Player’s Handbook*. There are specialty priesthoods in *Legends and Lore, The Complete Priest’s Handbook, Monster Mythology*, and several of the campaign settings. At this point, there are well over one hundred varieties of priests in print! Unfortunately, some of these specialty priests are far more powerful than similar specialty priests presented in different settings. This raises the question of which sources are “generic” enough to use in any campaign setting, and which should be reserved for specific campaign worlds.
+
+The first rule of thumb is simple: If a campaign setting features its own pantheon and specialty priests for those powers, you should give that material precedence. For example, the deities and priesthoods of the Forgotten Realms, Birthright, or Dark Sun campaign settings are described in detail in their respective boxed sets. When a player creates a priest character for one of these settings, he should refer to the character creation rules specific to those settings. Of course, a DM who has assembled this information for his own campaign can certainly require his players to create their priest characters accordingly!
+
+If a world does not feature a fully-developed pantheon or special priesthood rules for the various powers of the mythoi, then you should consider the material in *Player’s Option: Spells & Magic* to take precedence over all earlier material. In other words, the rules here are intended to replace the specialty priesthoods presented in *The Complete Priest’s Handbook, Legends and Lore*, and *Monster Mythology*. Note that the powers and faiths presented in these books remain unchanged; *Player’s Option: Spells & Magic* just changes the way the specialty priests are put together.
+
+[[Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

@@ -1,0 +1,16 @@
+---
+heading: Rod of Flailing (Dungeon Master Guide
+source: https://regalgoblins.com/2erules/DMG/DD00822.htm
+type:
+  - Item
+  - " Rod"
+magical: true
+---
+
+**Rod of Flailing:** This magical weapon radiates faintly of alteration magic when subjected to a *detect magic* spell. Upon the command of its possessor, the weapon activates, changing from a normal-seeming rod to a double-headed flail. In close quarters, or if the wielder is mounted, it is the small, horseman's weapon (base damage 1d4+1, S-M/L); otherwise, it is a footman's weapon (base damage 1d6+1/2d4, S-M/L).
+
+In either form, the weapon has a +3 bonus to attack and damage rolls. Each of the weapon's two heads can be used to attack, so double hits can be scored, either on a single opponent or on two opponents who are man-sized or smaller and standing side by side.
+
+If the holder of the rod expends one charge, he gains +4 bonuses on Armor Class and saving throws for one turn. The rod need not be in weapon-form for this protection benefit to be employed. Transforming it into a weapon (or back into a rod) does not expend any charges.
+
+[[Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

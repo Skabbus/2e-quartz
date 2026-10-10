@@ -1,0 +1,20 @@
+---
+heading: "Multiple Attacks and Initiative (Dungeon Master Guide)"
+source: https://regalgoblins.com/2erules/DMG/DD00410.htm
+---
+
+Multiple Attacks and Initiative
+
+Combat may involve creatures or characters able to attack more than once in a single round. This may be due to multiple attack forms (claws and bite), skill with a weapon, or character level. No matter what the reason, all multiple attacks are handled by one of two methods.
+
+When multiple attacks result from different attack forms--for example claws and a bite or bite and tail, or a ranger with his two-weapon combat ability--the attacks occur at the same time. The creature resolves all of its attacks in initiative order.
+
+When the attacks are true multiples--using the same weapon more than once--as in the case of a highly skilled fighter, the attacks are staggered. Everyone involved in the combat completes one action before the second (or subsequent) attack roll is made.
+
+Take, for example, a fighter who can attack twice per round, and say he's battling creatures that can only make one attack. The fighter wins initiative. He makes his first attack according to the rolled initiative order. Then each creature gets its attack. Finally, the fighter gets his second attack.
+
+If fighters on both sides in a battle were able to attack twice in a round, their first attacks would occur according to the initiative roll. Their second attacks would come after all other attacks, and would then alternate according to the initiative roll.
+
+As an option, a warrior fighting creatures with less than one Hit Die (1-1 or lower) can make a number of attacks equal to his level (i.e., a 7th-level fighter can make seven attacks). These attacks are handled in order of initiative.
+
+[[Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

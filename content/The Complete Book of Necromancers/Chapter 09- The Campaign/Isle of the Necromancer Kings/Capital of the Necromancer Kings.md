@@ -1,0 +1,18 @@
+---
+heading: "Capital of the Necromancer Kings"
+source: https://regalgoblins.com/2erules/CBN/CBN00162.htm
+---
+
+**Capital of the Necromancer Kings**
+
+The ruined city of Nycopolis stands on Sahu’s inland plateau, on the shores of an inky black lake. The desolate ruins are utterly devoid of life. No speck of grass grows within a mile of its crumbling walls. No animals, living monsters, or island natives will voluntarily approach it. The last of the Necromancer Kings, in his madness, opened a *gate* to the Negative Material Plane in the lake, and it promptly sucked all the life force out of the city’s debauched inhabitants. Some believe it was the evil god Thasmudyan who inspired the last King’s madness, a final act of vengeance against the dynasty that betrayed him. Others believe the King’s vile act was performed out of sheer spite held against those that were destined to outlive his tortured soul’s time on this earth.
+
+At night, Nycopolis comes alive with the spirits of the dead. Pale ghosts, spectres, and banshees rise up from the lake every evening, flitting mournfully around the ruins. These spirits take on the shapes and professions they had in life, centuries ago when the metropolis prospered. Every night, the ghost of the last Necromancer King rises from the lake to hold court in his Royal Palace, accompanied by an entire doomed retinue of spirits. The living are not welcome in this ghost city by night, but there is nothing to deter adventurers from exploring the city during the day.
+
+The monumental architecture of Nycopolis is at once sinister and beautiful to behold. The city was hewn from the blackest of volcanic rock, erected in the shape of a perfect nonagon with a monolithic black tower at each of its nine corners. Wide boulevards radiate into the city from each gatetower, opening into a network of palaces, bazaars, shops, and warehouses, all constructed from the same dark granite, all completely deserted and eerily empty. The city looks as if it were deserted yesterday, with laden carts still littering the streets and fully-furnished homes still lining the boulevards. Nycopolis has been frozen in undeath by a terrible curse.
+
+The vast Royal Palace at the center of Nycopolis still contains many treasures of its past. There is enough wealth and magical items in the palace to fill a thousand coffers, but all of the gold is tainted with an irrevocable *plague curse*, and its only surviving artifacts are twisted and evil.
+
+In the basement of the Royal Palace, past the vaults heaped with antique treasures, lies a massive copper portal tarnished blue-green with age and heavily traced with spirit wardings and ghost banishings. Indeed, the warded door is meant to keep out ghosts, spirits, and other undead, but these magic runes have no power over the living. The door is unlocked, and leads into a tiny, 10’ teleportation chamber. Those who enter immediately vanish, reappearing in a similar chamber beneath Uruk’s Summer Palace.
+
+[[The Complete Book of Necromancers/Table of Contents|Table of Contents]]

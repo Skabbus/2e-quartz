@@ -1,0 +1,32 @@
+---
+heading: "Wizard Experience Levels-- Table 38 (Skills and Powers)"
+source: https://regalgoblins.com/2erules/SP/DD02960.htm
+---
+
+**Table 38: Wizard Experience Levels**
+
+|  |  |  |
+| --- | --- | --- |
+| **Level** | **Wizard** | **Hit dice (d4)** |
+| 1 | 0 | 1 |
+| 2 | 2,500 | 2 |
+| 3 | 5,000 | 3 |
+| 4 | 10,000 | 4 |
+| 5 | 20,000 | 5 |
+| 6 | 40,000 | 6 |
+| 7 | 60,000 | 7 |
+| 8 | 90,000 | 8 |
+| 9 | 135,000 | 9 |
+| 10 | 250,000 | 10 |
+| 11 | 375,000 | 10+1 |
+| 12 | 750,000 | 10+2 |
+| 13 | 1,125,000 | 10+3 |
+| 14 | 1,500,000 | 10+4 |
+| 15 | 1,875,000 | 10+5 |
+| 16 | 2,250,000 | 10+6 |
+| 17 | 2,625,000 | 10+7 |
+| 18 | 3,000,000 | 10+8 |
+| 19 | 3,375,000 | 10+9 |
+| 20 | 3,750,000 | 10+10 |
+
+[[Player's Option- Skills and Powers/Table of Contents#d57de441|Table of Contents]]

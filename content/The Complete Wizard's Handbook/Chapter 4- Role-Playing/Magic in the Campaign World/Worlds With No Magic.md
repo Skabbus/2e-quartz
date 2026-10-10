@@ -1,0 +1,14 @@
+---
+heading: "Worlds With No Magic (Comp. Wizard's Handbook)"
+source: https://regalgoblins.com/2erules/CWH/DD06178.htm
+---
+
+**Worlds With No Magic**
+
+By means of a portal, a magical device or artifact, or divine intervention, an adventuring party might find themselves on a world where magic does not exist. Alternately, a player character may find himself transported from a world where magic is common to a world with no magic. Aside from the PC wizards in the party, such a world has no wizards at all. There are also no magical items, spell books, magical monsters, or magical effects of any kind. Such a world will have a number of interesting ramifications for wizard characters, as well as for the party as a whole.· There is no way to recharge rods and other magical items.· There is no way for a wizard to learn new spells.· Magical research is impossible.· Magical potions no longer exist (aside from those the characters brought with them).
+
+How would such a world react to a wizard? As an analogy, imagine how people of our world would react to the news that an actual wizard walked the planet. Some would beseech him for favors, while others would seek to exploit him. Some would see him as a hero, while others would see him as a physical manifestation of their religious beliefs. Governments might attempt to recruit him as a weapon against enemies. Scholars might seek to study him. Unsophisticated people, fearful of his power, might try to capture or kill him.
+
+Obviously, a world without magic is radically different from the typical AD&D® campaign world, but it can be a refreshing change for the DM and a stimulating challenge for players with wizard PCs. There are many interesting themes to explore in this type of campaign world, but the action is also likely to be more subdued without magical monsters and evil wizards for opponents.
+
+[[The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

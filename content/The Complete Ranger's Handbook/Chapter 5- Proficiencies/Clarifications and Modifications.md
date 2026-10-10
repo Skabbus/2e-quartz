@@ -1,0 +1,20 @@
+---
+heading: "Clarifications and Modifications (Comp. Ranger's Handbook)"
+source: https://regalgoblins.com/2erules/CRH/DD05731.htm
+---
+
+**Clarifications and Modifications**
+
+The following modifications are used in addition to the information in the proficiency descriptions given in Chapter 5 of the *Player's Handbook*. The modifications apply to rangers only. Except where specified otherwise, rangers must spend the slot points indicated in Table 55 to acquire any proficiency. Whenever a proficiency bonus is indicated, the bonus is added to the normal check modifier. For example, if a terrain-specialized ranger with a Wisdom of 14 uses direction sense (Wis +1) in his primary terrain (+2), the check is made at Wis +3. A roll of 17 or less on 1d20 is a success.
+
+**Animal Handling** A ranger's animal empathy ability (see Chapter 2) can produce essentially the same calming effect on an animal as the animal handling proficiency. If a ranger also has the animal handling proficiency, he may attempt to soothe an animal either by making a proficiency check or by using his *animal empathy* ability--but not both. If an animal is among a ranger's followers, neither animal empathy nor the animal handling proficiency is necessary to control the follower. Use the guidelines in Chapter 3 instead. The animal handling proficiency has no effect on a ranger's species enemy.
+
+**Animal Training** Rangers are more efficient than other characters at training animals. In the Standard method (see Chapter 3) a ranger needs two months to train an animal to perform a general task. Training for a specific trick requires 2d4 weeks. At the end of the training period, he makes a proficiency check. If the check is successful, the animal has learned the task or trick. If the check fails, the ranger may make a second attempt at teaching it the same task (requiring another two months) or trick (requiring another 2d4 weeks), followed by a second proficiency check. If this second proficiency check fails, the animal is too dumb or too stubborn to learn that particular trick or task. The ranger may repeat the training process with a different trick or task. An animal can learn a maximum of 2d4 tasks or tricks, in any combination of the two. The animal training proficiency isn't necessary to train followers. Use the guidelines in Chapter 3 instead. A species enemy can't be trained by the ranger, neither with the follower guidelines nor the animal training proficiency.
+
+**Riding, Airborne and Land-based** A ranger cannot use his species enemy as an airborne or land-based mount. If the mount is a follower, use the guidelines in Chapter 3 instead of the proficiency rules.
+
+**Survival** All rangers have basic survival skills in their primary terrain. Additional proficiency slots may be spent to add more terrain types. Thus, if a ranger spends slots to acquire this proficiency, he must choose a terrain type other than his primary terrain, giving him the survival proficiency in two types of terrain.
+
+**Tracking** Most rangers will have this proficiency in outdoor land terrain without spending any slots, as discussed in Chapter 2. Generally, success chances in urban, man-made, or aquatic terrains are halved, unless a specific kit description says otherwise. Some kits give tracking in alternative terrains instead of the usual outdoor land environment.
+
+[[The Complete Ranger's Handbook/Table of Contents|Table of Contents]]

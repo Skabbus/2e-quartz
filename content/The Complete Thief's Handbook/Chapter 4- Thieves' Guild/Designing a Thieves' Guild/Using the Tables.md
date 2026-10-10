@@ -1,0 +1,20 @@
+---
+heading: "Using the Tables (Comp. Thief's Handbook)"
+source: https://regalgoblins.com/2erules/CTH/DD05902.htm
+---
+
+**Using the Tables**
+
+There are quite a lot of tables on the following pages. This shouldn't be intimidating; the system is detailed, not overly complicated.
+
+Using the tables which follow can be done in more than one way. Random dice-rolling is OK, and will not give silly combinations of results. Sometimes odd-appearing combinations result, but these can often be a spur to DM creativity and generate the most interesting guilds! The DM may also ignore the dice-rolling and deliberately select results from the tables which he feels will fit his campaign needs.
+
+The system which follows is detailed, as noted. This for DMs who like lots of detail! For those who don't, the best bet may be to combine the dice-roll and deliberate-design approaches; use dice rolls, and alter one or two when the DM especially wants some result or wants to maximize consistency. Or can't be bothered to do all the dice-rolling! Also, a few sections of design do not use tables.
+
+Lastly, the tables mostly have suggested modifiers for basic d20 rolls. For example, the attitude of the law is determined on a d20 roll which is modified by social alignment (more hostile for Lawful societies, etc.). It is quite impossible to list all the possible modifiers for each table. This would eat up masses of space and no system can foresee all possible modifiers anyway, so only the key modifiers have been listed in each instance. The DM can easily add further modifiers as he sees fit, to reflect special circumstances.
+
+**What Isn't Covered**Some of the idiosyncratic guild details aren't covered here. For example, any oaths of fealty the thief may have to pledge, and the exact rules and constitution (if one exists) of the guild isn't covered here. If a DM wants this kind of depth of detail, he will surely want to write such details for himself.
+
+Also, infrequent reference is made to any of the kits, proficiencies, or magic items introduced in this book. This is deliberate, ensuring that DMs who wish to be cautious about introducing such new elements are not prevented from being able to use the design system.
+
+In summary, all the really important stuff you are going to need is here, and for any frills you want to add揚o ahead![[The Complete Thief's Handbook/Table of Contents|Table of Contents]]

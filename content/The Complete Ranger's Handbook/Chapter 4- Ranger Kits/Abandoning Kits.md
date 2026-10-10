@@ -1,0 +1,10 @@
+---
+heading: "Abandoning Kits (Comp. Ranger's Handbook)"
+source: https://regalgoblins.com/2erules/CRH/DD05724.htm
+---
+
+**Abandoning Kits**
+
+Once a kit is chosen for a ranger, it can't be exchanged later in the game for a different one. However, unless otherwise specified, it can be abandoned entirely, the character continuing the game as a standard ranger; that is, a ranger as described in the *Player's Handbook* without any of the benefits or hindrances associated with a particular kit. Why would a player want to abandon a kit? Maybe recent campaign events have made the kit less fun to play (the king has declared amnesty for all Forest Runners). Perhaps the player feels limited by the kit restrictions (he wants more spells than those allowed to the Greenwood Ranger). Or maybe he's just tired of it (the Sea Ranger is fed up with life on the water). Whatever the reason, the DM should honor a player's request to abandon his kit. The abandonment may take place gradually, if the DM's wishes to work the change into an adventure, or immediately, if the DM doesn't see the change as significantly affecting the story line of his campaign. A character who abandons a kit undergoes the following modifications:· All of the kit's bonuses and benefits are lost. All penalties and hindrances are ignored.· The character may use any weapons and armor normally available to the ranger.· Should the character acquire new weapon proficiency slots, they may be spent on weapon proficiencies of the player's choice.· The nonweapon proficiencies associated with the kit, including requirements and recommendations, no longer apply.· Bonus proficiencies *aren't* forfeited. Instead, they are set aside (written down but not used) until the character acquires new nonweapon proficiency slots. The new slots must be spent paying for the former bonus proficiencies, in an order determined by the player. The player must pay for all former bonus proficiencies before he can choose any new nonweapon proficiencies.
+
+[[The Complete Ranger's Handbook/Table of Contents|Table of Contents]]
