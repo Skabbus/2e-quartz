@@ -6,22 +6,27 @@ componentRegistry.setOptionOverrides("explorer", {
   sortFn: (a: any, b: any) => {
     const g: any = globalThis
     if (!g.__explorerOrderL) {
-      let src: any = {}
+      let src: any = null
       try {
+        let bp = document.body.dataset.basepath || ""
+        if (!bp && location.pathname.indexOf("/2e-quartz/") === 0) bp = "/2e-quartz"
+        if (bp.length > 1 && bp.charAt(bp.length - 1) === "/") bp = bp.slice(0, -1)
         const x = new XMLHttpRequest()
-        x.open("GET", "/static/explorer-order.json", false)
+        x.open("GET", bp + "/static/explorer-order.json", false)
         x.send()
-        src = JSON.parse(x.responseText)
+        if (x.status === 200) src = JSON.parse(x.responseText)
       } catch (e) {
-        src = {}
+        src = null
       }
-      const low: any = {}
-      for (const k of Object.keys(src)) {
-        low[k.toLowerCase()] = src[k]
+      if (src) {
+        const low: any = {}
+        for (const k of Object.keys(src)) {
+          low[k.toLowerCase()] = src[k]
+        }
+        g.__explorerOrderL = low
       }
-      g.__explorerOrderL = low
     }
-    const pos = g.__explorerOrderL
+    const pos = g.__explorerOrderL || {}
     const ks = [a, b].map((n: any) =>
       String(n.slug || (n.data && n.data.slug) || "")
         .toLowerCase()
