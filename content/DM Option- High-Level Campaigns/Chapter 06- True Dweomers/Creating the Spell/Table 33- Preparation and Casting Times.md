@@ -1,6 +1,0 @@
----
-heading: "Preparation and Casting Times-- Table 33 (High-Level Campaigns)"
-source: https://regalgoblins.com/2erules/HLC/DD01337.htm
----
-
-![[DM Option- High-Level Campaigns/Tables/Table 33- Preparation and Casting Times]]

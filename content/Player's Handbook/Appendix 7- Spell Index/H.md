@@ -1,8 +1,0 @@
----
-heading: "DD02327"
-source: https://regalgoblins.com/2erules/PHB/DD02327.htm
----
-
-H
-
-[[Player's Handbook/Appendix 4- Priest Spells/Fourth-Level Spells/Hallucinatory Forest|Hallucinatory Forest (Pr 4)]][[Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Hallucinatory Terrain|Hallucinatory Terrain (Wiz 4)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Haste|Haste (Wiz 3)]][[Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Heal|Heal (Pr 6)]][[Player's Handbook/Appendix 4- Priest Spells/Second-Level Spells/Heat Metal|Heat Metal (Pr 2)]][[Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Heroes' Feast|Heroes' Feast (Pr 2)]][[Player's Handbook/Appendix 4- Priest Spells/Third-Level Spells/Hold Animal|Hold Animal (Pr 3)]][[Hold Monster|Hold Monster (Wiz 5)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Hold Person|Hold Person (Wiz 3)]][[Player's Handbook/Appendix 4- Priest Spells/Second-Level Spells/Hold Person|Hold Plant (Pr 4)]][[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Hold Portal|Hold Portal (Wiz 1)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Hold Undead|Hold Undead (Wiz 3)]][[Player's Handbook/Appendix 4- Priest Spells/Seventh-Level Spells/Holy Word|Holy Word (Pr 7)]][[Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Hypnotic Pattern|Hypnotic Pattern (Wiz 2)]][[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Hypnotism|Hypnotism (Wiz 1)]]
