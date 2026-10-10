@@ -1,0 +1,12 @@
+---
+heading: "Customized Priest Characters (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03429.htm
+---
+
+Customized Priest Characters
+
+At least one of the five priest character classes presented in this book are appropriate for almost any faith, but some unique priesthoods may require special treatment. The point-based character design system explained here allows a player to create almost any kind of priest character imaginable. Generally, this system works much like the point-based wizard design rules introduced in [[Player's Option- Spells and Magic/Chapter 1- Wizards/Wizards|Chapter 1]] ; it expands the specialty priest design rules from *Player’s Option:* *[Skills & Powers](..\SP\DD02955.htm#7406776d)* *.*A priest character receives 120 character points to purchase the spheres of access, granted abilities, and class abilities the player desires. Each ability costs a variable number of character points. A character can gain extra CPs with which to buy abilities by choosing limitations, or reduce the cost of an ability by deferring it to a higher level. An ability deferred to 3rd level is 1 point cheaper than normal, 2 points cheaper at 5th, 3 points cheaper at 7th, 4 points cheaper at 9th, and 5 points cheaper if deferred until 11th level. All abilities have a minimum cost of 1 CP.The basic priest has a d8 Hit Die, uses the priest’s THAC0 and saving throw chart, gains the ability to cast priest spells as indicated on [Table 24](..\PHB\DD01479.htm) : Priest Spell Progression in the *PHB*, may use only bludgeoning weapons, may wear any kind of armor, and may use any magical item normally usable by priests. The priest does *not* begin play with any spheres of access; he must purchase each sphere of access he wishes to have available. For example, if a player wishes his priest to have major access to the sphere of elemental air, he needs to spend 5 CPs. If, on the other hand, he wants the priest to have *minor* access to all of the elemental spheres, he needs to spend 8 CPs.
+
+For minor alterations to an existing priest class, a customized character can begin the process with all the abilities and restrictions of the cleric, crusader, or any other variety of priest. If this is the starting point for the customized character, the character receives 0 CPs to purchase new abilities; he must take limitations to compensate for all new abilities he selects.
+
+[[Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

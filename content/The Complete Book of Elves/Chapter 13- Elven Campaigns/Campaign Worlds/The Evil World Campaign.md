@@ -1,0 +1,16 @@
+---
+heading: "The Evil World Campaign (Comp. Book of Elves)"
+source: https://regalgoblins.com/2erules/CBE/DD04820.htm
+---
+
+**The Evil World Campaign**
+
+In this campaign, the forces of evil have somehow taken control of the world. As a result, the forces of good have been driven underground. The evil ones, who might be orcs or some other humanoids, may have been dominant right from the beginning of the world's history, or they may have seized power only as recently as twenty years ago, perhaps with the aid of some powerful magical artifact.
+
+The PCs play elf characters from the Wild Lands, where the good folk have been captured. Their job, naturally, is to restore the world to the side of good. They harry travelers and fight the heroes of the orcs. Eventually they undertake earth-spanning quests in search of the power that will enable their side to overthrow the orc empire's brutal regime.
+
+The tone of the campaign is, naturally, rather dark. The situation might seem somewhat hopeless initially, as the orcs are breeding the sort of adventurers the players are used to playing themselves. But in this campaign, the players get to see what the orcs and goblins must routinely experience in other worlds—that is, when PCs trounce *them* in search of adventure. This should give the players a better perspective on the adventuring life and the effects of their rampaging through the lands of humanoids.
+
+An interesting variation on this theme would be to have the elves and humans in the Wild Lands revert to a savage bestiality, while the orcs and their allies come to flourish in the cities. Consequently, the orcs grow ever more civilized, learning the value of cooperation, while humans and elves begin a descent into savage evil, fighting among themselves only for their own individual benefit.
+
+[[The Complete Book of Elves/Table of Contents|Table of Contents]]

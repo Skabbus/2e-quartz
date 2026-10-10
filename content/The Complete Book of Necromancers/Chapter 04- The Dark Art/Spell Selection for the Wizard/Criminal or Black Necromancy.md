@@ -1,0 +1,16 @@
+---
+heading: "Criminal or Black Necromancy"
+source: https://regalgoblins.com/2erules/CBN/CBN00085.htm
+---
+
+**Criminal or Black Necromancy**
+
+The *Player’s Handbook* and other sources of necromantic spells tend to be vague or (worse yet) contradictory about what constitutes an evil spell. For instance, the classic spell of the necromancer, *animate dead*, contains a clear admonition against its use by good characters.
+
+However, certain other necromantic spells (in the *Player’s Handbook*, particularly) have been written in a way that conceals, or at least understates, their baneful nature. The description of *summon shadows* mentions nothing about the moral implications of summoning several chaotic evil beings from the Negative Material Plane to serve the caster (usually by draining the life forces of the wizard’s enemies). Hence, there is obviously a need for some clearer definitions.
+
+Criminal necromancy includes all spells which are cast for the sole purpose of inflicting permanent physical harm on other individuals, or (worse yet) draining their immortal life force. Consider the *death spell* (another classic from the *PHB*), which supposedly “snuffs out the life forces of creatures . . . instantly and irrevocably.”In context with other punishing spells like *chain lightning* and *disintegrate, death spell* might not appear terribly horrible or evil. Take another look at the second line in the description which nonchalantly states that “[victims] cannot be raised or resurrected”! In other words, the spell utterly annihilates the victim’s life force, past all hope of restoration, save by the omnipotent *wish*.Black necromancy usually brings death, physical injury, or spiritual annihilation in an excruciating and terrifying manner. In order to make the evil nature of a spell painfully clear, the DM should feel free to improvise, exaggerate, or embellish a particularly dry description. Consider the account of *death spell* given in the chapter introduction. This spell and the others on [[The Complete Book of Necromancers/List of Tables/Table 10- Forbidden Spells of Black Necromancy|Table 10]] fall under the classification of black necromancy and, as such, are most appropriate for evil villains.
+
+In game terms, therefore, every time a wizard (NPC or PC) uses a spell of black necromancy, the DM should secretly roll a *powers check*. By their very nature, these spells attract the attention of evil deities who will seek to reward, punish, and ultimately subvert the wizard involved. Criminal necromancy embraces all spells which inflict bodily or spiritual damage, spread disease, bring untimely death, or cause pain. The DM is encouraged to devise similarly nasty descriptions for all of the spells listed in [[The Complete Book of Necromancers/List of Tables/Table 10- Forbidden Spells of Black Necromancy|Table 10]]. Don’t sermonize to your players about the evils of criminal necromancy—have their characters experience the horrors themselves. If, despite your warnings, players willingly and consistently employ evil spells, feel free to impose any of the afflictions outlined in Chapter Three.
+
+[[The Complete Book of Necromancers/Table of Contents|Table of Contents]]

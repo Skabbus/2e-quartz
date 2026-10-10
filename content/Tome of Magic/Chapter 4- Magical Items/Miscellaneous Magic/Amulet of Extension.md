@@ -1,0 +1,12 @@
+---
+heading: "Amulet of Extension-- Miscellaneous Magic (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04458.htm
+---
+
+**Amulet of Extension**
+
+:** When desired by the caster, this amulet can be used to increase the duration of 1st- and 2nd-level spells by 50%, and the duration of 3rd- and 4th-level spells by 25%. Fractions of one-half and above are rounded up (e.g., a spell with duration of 1 round extended to 1 ½ rounds is rounded to 2 rounds). Fractions less than one-half are rounded down (e.g., a spell with 1 round duration extended to 1 rounds is rounded down to 1 round and thus gains no benefit from the amulet).
+
+The amulet has no effect on spells with instantaneous or permanent durations. A maximum of 1d10+4 spell levels can be affected by the amulet each day. Each amulet has its own individual limit, secretly determined when it is found. If this limit is exceeded on any given day, the amulet shatters and is destroyed permanently.
+
+[[Tome of Magic/Table of Contents|Table of Contents]]

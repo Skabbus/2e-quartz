@@ -1,0 +1,8 @@
+---
+heading: "Chapter 9: Orders (Comp. Paladin's Handbook)"
+source: https://regalgoblins.com/2erules/CPaH/DD05441.htm
+---
+
+**Chapter 9: Orders** Orders are honorary organizations whose members are distinguished by careers of exceptional service. As invitations to join are extended only to a select few, most paladins view membership as a profound privilege and great accolades. Whereas some orders exist merely as social clubs, providing fellowship in an informal atmosphere, others perform a variety of civic activities, such as charity drives and educational programs. Regardless of its function, each order maintains its own membership qualifications, hierarchies, and bylaws. Orders are entirely optional. A DM is never required to include a particular order in his campaign, nor is a paladin character ever obligated to join. In any case, treat an invitation as a major event. The DM should not devalue the prestige of membership by offering invitations casually or as prizes for routine performance; typically, a paladin receives an invitation only once in his life. Several sample orders are described below. A campaign may include any, all, or just one of them. The DM is free to modify or adapt the descriptions as he sees fit, or invent new orders of his own. The standard information below applies to all orders; the individual entries that follow include supplemental material. Additionally, each entry lists an emblem and a motto. A candidate repeats the motto when he accepts membership; most orders recite the motto to open and close their meetings.
+
+[[The Complete Paladin's Handbook/Table of Contents|Table of Contents]]

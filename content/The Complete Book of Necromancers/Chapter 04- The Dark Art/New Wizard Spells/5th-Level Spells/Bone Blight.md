@@ -1,0 +1,37 @@
+---
+heading: "Bone Blight"
+source: https://regalgoblins.com/2erules/CBN/CBN00105.htm
+type:
+  - Spell
+level: 5
+school:
+  - Necromancy/Alteration
+spellist:
+  - Wizard
+  - Necromancer
+---
+
+> [!spell|alt] 5 | Bone Blight *Reversible*
+> | Range | AoE |
+> | :--- | :--- |
+> | 30 yards | One creature |
+> | **Casting Time** | **Duration** |
+> | 5 | Permanent |
+> | **Save** | **Damage** |
+> | Neg. | — |
+> | **Components** | **Material** |
+> | S V M | See text |
+> 
+> This nasty curse slowly erodes the healthy bone of any chosen creature within range, who is entitled to a saving throw vs. spells. If failed, all bone in the creature slowly begins to dissolve, eventually reducing it to a quivering mound of formless flesh.
+> 
+> Except for experiencing a strange “tingling sensation” at the time of casting, the victim is not immediately aware of the spell’s effect (making it even more insidious). In the short term (starting at the moment of casting up to the first full day), the bones of the victim become embrittled, greatly increasing his or her susceptibility to crushing attacks or falling damage. At the onset, the subject of this spell sustains double normal damage from such attacks; by the end of the first day, the victim’s current hit points are reduced by 20%.In the medium term (lasting 1d6+1 days from the time of the casting), a victim is subject to frequent, painful fractures. All attacks by piercing and slashing weapons inflict double normal damage, while crushing attacks inflict quadruple damage. By the end of this period, the creature’s hit points are reduced by 60%. In the terminal stage of this spell, a victim’s bones finally dissolve, collapsing the subject’s spine and skull, bringing a slow and painful death.
+> 
+> While under the effects of this spell, the victim’s body is unable to undergo normal healing processes. Magical healing (spells or potions) slows the onset of the terminal stage, but it cannot halt the bone loss process completely. Every 10 hp of magical healing effectively prolongs the victim’s life in the intermediate stage of the affliction for one full day. The slow dissolution of bone can only be halted by a successful *dispel magic* or by *remove curse, cure disease, limited wish, wish, heal*, or *restoration* spells. Once the spell has been broken, lost hit points can be healed by normal or magical means.
+> 
+> The reverse of the spell, *bone growth*, immediately halts the *bone blight* and slowly (over a period of 1–6 days) restores all damage caused by that spell. *Bone growth* can also be used to fuse normal fractures by accelerating the recipient’s normal healing processes. Mild compression fractures heal in a day, while more serious ruptures (such as a broken leg or back) might take 1–4 days to fuse (assuming complete bed rest for the patient; otherwise healing time is doubled). This spell does not affect wounds or soft tissue damage, including cuts and sprains, nor does it correct for improper alignment of the bones while healing.
+> 
+> Both versions of this spell only work on living creatures and have no effect if cast on undead. The material component is a drop of aqua regia for *bone blight* and a drop of milk for *bone growth*.
+> 
+> | **School** | **Sphere** |
+> | :--- | :--- |
+> | Necromancy/Alteration | — |

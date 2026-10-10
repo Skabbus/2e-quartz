@@ -1,0 +1,20 @@
+---
+heading: "Clothing (Comp. Ranger's Handbook)"
+source: https://regalgoblins.com/2erules/CRH/DD05738.htm
+---
+
+**Clothing**
+
+Aba.** This desert robe is made of lightweight fabric and covers the entire body. Typical colors include brown, gold, black, and white. Elaborate embroidery, made of brightly colored cloth strips or gold thread, often decorates the hem. A silken or cotton sash ties the aba at the waist. In deserts and other dry climates, such garments help prevent evaporation, allowing the wearer to retain more moisture and function more comfortably. Assuming adequate water, a character wearing a desert robe is no more likely to suffer heat exhaustion on days of extreme heat than a normal person would on days of moderate temperatures. Note that desert robes don't help in areas of high humidity; in humid environments, as much skin should be exposed as possible to encourage cooling from the evaporation of perspiration.**
+
+**Arctic Coat.** Designed for protection against extreme cold, the arctic coat is a knee-length single-piece garment with a billowing hood. The long sleeves allow the wearer to warm his hands by drawing them inside and holding them against his chest. Arctic coats are usually made of thick bear fur, lined with seal skin for comfort. An arctic coat keeps the wearer comfortable in temperatures well below zero degrees F.**Rain Poncho.** A one-piece garment resembling a large cloak with a head-sized hole in the center, a poncho helps keep the wearer dry during rain storms. Ponchos are made of canvas or similar material, often treated with a waterproofing oil. A poncho can double as ground cover and can also be used as an emergency tent. Crude ponchos are sometimes woven from grass or reeds.
+
+**Snowshoes.** Each about three feet long, these oval-shaped wooden frames are laced with leather webbing to allow the wearer to walk across snow without sinking. A character newly introduced to wearing snowshoes moves at half his normal rate until he gets used to them. After a day or so of practice, he moves at his normal rate. A character wearing snowshoes receives no bonuses for charging.
+
+**Terrain Suit.** Made of lightweight material, usually fine linen or silk, the terrain suit consists of a long-sleeved shirt or blouse and long trousers, dyed in various colors to help the wearer blend in with his surroundings. Styles include arctic (colored solid white), sand (mottled patches of various shades of brown, for desert and similarly sandy terrain), woodland (patterns of green and brown, for forests and jungles), and urban (black). A terrain suit must be precisely made and fitted to the person to wear it. It is worn most commonly by Stalkers, though some individual tribes and groups of warriors, woodsmen, or thieves use them, too. (As a rule of thumb, terrain suits should be slightly more common than elven chain mail.) A terrain suit gives the same advantages as the camouflage proficiency when worn in the appropriate terrain, using a base Wisdom rating of 14. A character wearing a terrain suit with the camouflage proficiency uses his Wisdom (or 14, whichever is higher) with an additional +1 bonus.
+
+**Waterproof Boots.** These thick boots are made of tough, water-resilient hide (such as alligator or caribou) treated with a waterproofing oil (typically derived from seals or minks). The wearer tucks his trousers inside the boots, then ties them near the knees with a leather drawstring. The boots keep the feet dry, even when wading in water.
+
+**Wilderness Harness.** This device resembles a thick leather belt with straps that cross over the wearer's back. Both the belt and the straps contain a series of small pouches, useful for storing supplies, ammunition for missile weapons, and other materials. A secret compartment in the back section of the belt conceals a 6-inch-long flat knife (the knife comes with the harness; see Table 58 for statistics).
+
+[[The Complete Ranger's Handbook/Table of Contents|Table of Contents]]

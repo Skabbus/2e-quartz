@@ -1,0 +1,26 @@
+---
+heading: "The Intimidator (Comp. Wizard's Handbook)"
+source: https://regalgoblins.com/2erules/CWH/DD06146.htm
+---
+
+**The Intimidator**
+
+Character Description:** Many believe that the wizard is the most powerful of all mortals-- the Intimidator is convinced of it. Radiating power and confidence, the Intimidator faces all challenges head on. There's no opponent too tough and no obstacle too difficult for him. His access to magic makes him superior to all others-- at least *he* believes this to be fact. His reaction to common people-- that is, people who cannot cast spells-- ranges from sympathy to impatience, but as long as they acknowledge his superiority, he can tolerate them.**
+
+Usually, this amount of confidence evolves over many years, so most Intimidators are mid-level or high-level wizards. But an especially powerful or an especially arrogant lower-level wizard might easily be an Intimidator.
+
+An inflated ego alone is not enough-- this personality type is primarily intended for wizards who are in fact more powerful than their contemporaries. To qualify as an Intimidator, a wizard should have higher than normal scores in at least two abilities other than Intelligence (for instance, a wizard with Strength and Charisma scores of 12 or more would be a good candidate for an Intimidator). However, even if a character lacks exceptional abilities, he might still be an Intimidator if he has a reputation as a no-nonsense aggressor and has the personality to match.
+
+**Best Suited For:** The Intimidator is suited to any alignment, though characters of neutral and chaotic alignments might make better egomaniacs; neutral good, neutral evil, chaotic good, and chaotic neutral are all appropriate choices.
+
+Any kits that suggest aggressive, grim characters are good for the Intimidator, with the Savage Wizard and the Militant Wizard being obvious choices. More passive types, such as the Mystic and Academician, are less appropriate for the Intimidator.
+
+**In Combat Situations:** The Intimidator loves nothing more than a good fight. He is a shrewd, dangerous opponent bent on extinguishing every one of his enemies.
+
+Although he does not attack recklessly, the Intimidator prefers to face off with the most formidable opponent on the battlefield. Where some wizards might use *fireball* to frighten a group of opponents by sailing it over their heads, the Intimidator would scare them by firing it directly at their leader, incinerating him.
+
+**In Role-Playing Situations:** The Intimidator is accustomed to getting his way. If reason fails, he will threaten, frighten, or otherwise intimidate NPCs to get their cooperation, unless a player character companion intervenes.
+
+The Intimidator is a man of few words. He knows that a snarl or a stare can be a much more effective way to coerce uncooperative NPCs than long speeches or kind words. Needless to say, the Intimidator is not especially adept at delicate negotiations.
+
+In a campaign, all player characters will respect the Intimidator, but he's likely to associate only with player characters he sees as peers, such as high-level warriors and other wizards. The Intimidator will tend to be patronizing and condescending to the rest of the party, treating them as well-meaning children, incompetent bumblers, or outright irritants[[The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

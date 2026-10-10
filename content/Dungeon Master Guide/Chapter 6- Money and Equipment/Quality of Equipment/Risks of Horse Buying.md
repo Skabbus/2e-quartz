@@ -1,0 +1,12 @@
+---
+heading: "Risks of Horse Buying (Dungeon Master Guide)"
+source: https://regalgoblins.com/2erules/DMG/DD00323.htm
+---
+
+Risks of Horse Buying
+
+Beyond just the quality and quirks of horses, there are other reasons to be careful when buying a horse. Horse theft always has been a popular pastime, and punishments are often equally severe for both the thief and the buyer--assuming, of course, that the buyer isn't mistaken for the thief. Unscrupulous merchants often try to pass horses off as what they are not ("Yeah, this is a heavy war horse, really it is.") Horses may not be trained, although merchants always claim they are. While it is easy to spot a horse not broken to the saddle, it's not so simple to tell if a horse has been trained for war.
+
+Characters with the riding proficiency can avoid many of the hazards of horse-buying on a successful proficiency check. The character must choose to use the proficiency (but considering the investment he would be foolish not to). A successful roll will reveal a horse's true quality and perhaps some of its obvious quirks. Naturally, there is no way to ascertain the origin of the mount, unless you decide the horse has been branded or marked in some way. Even this may not be foolproof, since clever thieves can find ways to alter virtually any marking.
+
+[[Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

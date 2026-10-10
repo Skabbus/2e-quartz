@@ -1,0 +1,16 @@
+---
+heading: "Magic Resistance (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01729.htm
+---
+
+**Magic Resistance**
+
+Some creatures or items strongly resist the effects of magic (or impart such resistance to others). This makes them more difficult to affect with magical energy than ordinary creatures or items.
+
+A rare few creatures are extremely anti-magical--magic rolls off them like water off a duck's back. More common are creatures, especially from the Outer Planes of existence, that live in enchanted or sorcerous lands and are filled with powerful magical energies. These creatures eat and breathe the vapors of wizardry, and they have a high tolerance against arcane power.
+
+Magic resistance is an innate ability--that is, the possessor does not have to do anything special to use it. The creature need not even be aware of the threat for his magic resistance to operate. Such resistance is part of the creature or item and cannot be separated from it. (Creatures, however, can voluntarily lower their magic resistance at will.)Magic resistance is also an individual ability. A creature with magic resistance *cannot* impart this power to others by holding their hands or standing in their midst. Only the rarest of creatures and magical items have the ability to bestow magic resistance upon another.
+
+Magic resistance is given as a percentile number. For a magical effect to have any chance of success, the magic resistance must be overcome. The target (the one with the magic resistance) rolls percentile dice. If the roll is higher than the creature's magic resistance, the spell has a normal effect. If the roll is equal to or less than the creature's magic resistance, the spell has absolutely no effect on the creature.
+
+[[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

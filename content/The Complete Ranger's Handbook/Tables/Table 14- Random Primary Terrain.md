@@ -1,0 +1,67 @@
+---
+heading: "Primary Terrain (Comp. Ranger's Handbook)"
+source: https://regalgoblins.com/2erules/CRH/DD05688.htm
+---
+
+**Primary Terrain**
+
+Though rangers work well in all types of outdoor settings, most of them have one particular environment with which they are exceptionally familiar and feel especially comfortable. This environment, called the *primary terrain*, may be similar to the area where the ranger grew up, received his training, or currently calls home. A ranger operates best in his primary terrain, thanks to his intimate knowledge of this type of setting.
+
+A ranger's primary terrain has no particular function in and of itself. Rather, it's used to generate special benefits and other variables described elsewhere in this book. For instance, certain character kits in Chapter 4 grant bonuses to rangers when they occupy their primary terrain. A ranger's primary terrain also helps determine his species enemy (Chapter 2) and followers (Chapter 3).
+
+**Types of Primary Terrain**
+
+The concept of primary terrain presumes that similar survival techniques, modes of transportation, flora and fauna, and physical features prevail in similar environments, regardless of where in the world they're located. Therefore, primary terrain doesn't refer to a particular area, such as the High Moor of the FORGOTTEN REALMS® setting, but to a general category of terrain, such as swamp or mountains. Conceivably, any combination of geographical features and climate could serve as a primary terrain, but for convenience, we'll confine the possibilities to nine general types:
+
+**Aquatic.** This terrain type includes all areas consisting primarily of water, such as lakes, oceans, and rivers. At the DM's discretion, this category may also include islands and coastal regions.
+
+**Arctic.** This includes any region covered with ice and snow where temperatures rarely rise above zero degrees. The North Pole is good example of arctic terrain.
+
+**Desert.** This includes any barren, flat areas covered with sand or hard-packed earth. Desert climates are extremely dry and hot, with daytime temperatures commonly in excess of 100 degrees, followed by much colder nights. Vegetation is usually sparse, with special adaptations. Much of a desert may be unsettled or unexplored.
+
+**Forest.** This category comprises any woodland areas in temperate climates. At the DM's option, subarctic and subtropical climates may also be included. Forests abound with a variety of animal species, and vegetation flourishes. Not surprisingly, Forest is the primary terrain of choice for the majority of rangers.
+
+**Hill.** These are highlands, often wild and rough, which may or may not be forested. They usually form an intermediate zone between lowlands, such as Plains or Desert, and the highest lands, which are Mountain terrain.
+
+**Jungle.** These are tropical lands (including rain forests) overgrown with dense vegetation and trees, and teeming with animal life. Such regions are often hot, humid, and hostile to civilization.
+
+**Mountain.** This category includes terrain consisting of high rocky peaks, typically 4,000 feet or more above sea level, with sparse vegetation, severe slopes, and jagged cliffs. Subtropical to subarctic climates are typical, though a wide range of temperatures is possible.
+
+**Plains.** These are flat areas with stretches of low rolling land, including pastures, meadows, fields, and farmlands. Grazing animals are common here. Such regions are usually covered with grasses or scrub vegetation and are usually temperate in climate.
+
+**Swamp.** This includes bogs, marshes, and other low elevation areas with standing water or waterlogged soil. Many species of reptiles, birds, and insects live in these regions. Vegetation grows in abundance. The climate may be oppressively hot and humid or cold and misty.
+
+An ambitious DM may wish to define these primary terrain categories more precisely. Instead of a general Aquatic primary terrain category, he may include both Freshwater Aquatic and Saltwater Aquatic, or distinguish them further by designating Temperate Freshwater Aquatic, Tropical Freshwater Aquatic, and so on. In such cases, the DM will need to adjust the primary terrain references elsewhere in this book; for instance, creating his own Freshwater Aquatic Species Enemy Table like the tables in Chapter 2.
+
+For most campaigns, however, the nine categories listed above should suffice. Though obvious differences exist, say, between saltwater and freshwater settings, a ranger's associated skills--the ability to swim, an understanding of aquatic ecology, a familiarity with water-breathing creatures--are applicable to both. Hence, a ranger whose primary terrain is Aquatic is presumably comfortable in a variety of watery environments.
+
+**Choosing a Primary Terrain**
+
+The player chooses his ranger's primary terrain as part of the character creation procedure, subject to the DM's approval. Each ranger has only one primary terrain. Because the primary terrain reflects many years, perhaps a lifetime, of exposure to a particular environment, the primary terrain never changes. In exceptional campaign circumstances, however, the DM may allow a ranger to discard an old primary terrain and choose a new one; for instance, if a ranger whose primary terrain is Forest spends a few decades exploring the Great Glacier, his primary terrain may become Arctic. But as a rule, the primary terrain remains constant throughout a ranger's career.
+
+In most cases, the choice of the primary terrain will be obvious, as it usually derives from the ranger's background. It will be similar to the area where the ranger was raised, or the region where he's spent most of his life. The primary terrain of a ranger who grew up in the barren wastelands of the WORLD OF GREYHAWK® Sea of Dust would probably be Desert. A ranger trained to oversee a private hunting reserve in the Wendle Wood of the DRAGONLANCE® setting would probably have Forest as his primary terrain.
+
+A ranger's primary terrain can be randomly rolled on Table 14. The results are subject to the approval of the DM.
+
+Once the ranger has a primary terrain, it can be used as a basis for developing the character's personal history. If the primary terrain is Arctic, for example, consider how the ranger might have become familiar with such an extreme environment. Was he hired by a king to oversee a seal refuge? Abandoned in the Great Glacier as a youth when his explorer parents were killed by a polar bear? Accepted as an apprentice by a famous white dragon hunter? Let your imagination soar!
+
+**Table 14: Random Primary Terrain**
+
+|  |  |  |
+| --- | --- | --- |
+|  | **D100 Roll** | **Primary Terrain** |
+|  | 01-04 | Aquatic |
+|  | 05-06 | Arctic |
+|  | 07-10 | Desert |
+|  | 11-50 | Forest |
+|  | 51-65 | Hill |
+|  | 66-75 | Jungle |
+|  | 76-85 | Mountain |
+|  | 86-95 | Plain |
+|  | 96-00 | Swamp |
+
+**Optional Rule: Primary Terrain Specialization**
+
+As an option, a ranger may be allowed to specialize in his primary terrain. This confers a +2 bonus when tracking in that terrain, a +2 bonus when training animals from that terrain, general a +2 bonus on any proficiency check associated with that terrain, and an additional -2 penalty to anyone trying to track the ranger through his primary terrain. On the other hand, the terrain-specialized ranger has a -2 penalty in all terrains except the one in which he is specialized. This specialization in terrain does not cost any proficiency slots. The ranger cannot specialize in more than one type of terrain.
+
+[[The Complete Ranger's Handbook/Table of Contents|Table of Contents]]

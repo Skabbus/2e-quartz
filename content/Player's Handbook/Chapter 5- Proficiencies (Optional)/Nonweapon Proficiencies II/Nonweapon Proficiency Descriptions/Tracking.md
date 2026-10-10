@@ -1,0 +1,30 @@
+---
+heading: Tracking-- Nonweapon Proficiency (Player's Handbook)
+source: https://regalgoblins.com/2erules/PHB/DD01601.htm
+type:
+  - Non-Weapon Proficiency
+class_group:
+  - Warrior
+---
+
+**Tracking**
+
+:** Characters with tracking proficiency are able to follow the trail of creatures and characters across most types of terrain. Characters who are not rangers roll a proficiency check with a -6 penalty to their ability scores; rangers have no penalty to their ability scores. In addition, other modifiers are also applied to the attempt, according to [[Player's Handbook/Tables/Table 39- Tracking Modifiers|Table 39]].
+
+The modifiers in Table 39 are cumulative--total the modifiers for all conditions that apply and combine that with the tracker's Wisdom score to get the modified chance to track.
+
+For example, if Thule's Wisdom score is 16 and he is trying to track through mud (+4), at night (-6), during a sleet storm (-5), his chance to track is 9 (16+4-6-5). (Thule is a ranger so he does not suffer the -6 penalty for non-rangers tracking.)For tracking to succeed, the creature tracked must leave some type of trail. Thus, it is virtually impossible to track flying or noncorporeal creatures. The DM may allow this in rare instances, but he should also assign substantial penalties to the attempt.
+
+To track a creature, the character must first find the trail. Indoors, the tracker must have seen the creature in the last 30 minutes and must begin tracking from the place last seen. Outdoors, the tracker must either have seen the creature, have eyewitness reports of its recent movement ("Yup, we saw them orcs just high-tail it up that trail there not but yesterday."), or must have obvious evidence that the creature is in the area (such as a well-used game trail). If these conditions are met, a proficiency check is rolled. Success means a trail has been found. Failure means no trail has been found. Another attempt cannot be made until the above conditions are met again under different circumstances.
+
+Once the trail is found, additional proficiency checks are rolled for the following situations:• The chance to track decreases (terrain, rain, creatures leaving the group, darkness, etc.).• A second track crosses the first.• The party resumes tracking after a halt (to rest, eat, fight, etc.).
+
+Once the tracker fails a proficiency check, another check can be rolled after spending at least one hour searching the area for new signs. If this check is failed, no further attempts can be made. If several trackers are following a trail, a +1 bonus is added to the ability score of the most adept tracker. Once he loses the trail, it is lost to all.
+
+If the modifiers lower the chance to track below 0 (for example, the modifiers are -11 and the character's Wisdom is 10), the trail is totally lost to that character and further tracking is impossible (even if the chance later improves). Other characters may be able to continue tracking, but that character cannot.
+
+A tracking character can also attempt to identify the type of creatures being followed and the approximate number by rolling a proficiency check. All the normal tracking modifiers apply. One identifying check can be rolled each time a check is rolled to follow the trail. A successful check identifies the creatures (provided the character has some knowledge of that type of creature) and gives a rough estimate of their numbers. Just how accurate this estimate is depends on the DM. When following a trail, the character (and those with him) must slow down, the speed depending on the character's modified chance to track as found from [[Player's Handbook/Tables/Table 39- Tracking Modifiers|Table 39]].
+
+In the earlier example, Thule has a modified tracking chance of 9, so he moves at ½ his normal movement rate.
+
+[[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

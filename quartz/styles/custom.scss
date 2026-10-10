@@ -1,3 +1,170 @@
 @use "./variables.scss" as *;
 
 // put your custom CSS here!
+/* --- AD&D 2e Tabell-baserat Spell Card --- */
+
+.callout[data-callout="spell"] {
+  border: 2px solid #333 !important;
+  background-color: #ffffff !important;
+  border-radius: 4px !important;
+  box-shadow: 3px 3px 8px rgba(0, 0, 0, 0.15);
+  margin: 15px 0;
+  padding: 0 !important;
+}
+
+/* Färgad rubrikrad */
+.callout[data-callout="spell"] .callout-title {
+  background-color: #002b80 !important;
+  color: #ffffff !important;
+  padding: 8px 12px !important;
+  border-bottom: 2px solid #333;
+  font-weight: bold;
+}
+
+.callout[data-callout="spell"] .callout-title-inner {
+  display: flex;
+  justify-content: space-between;
+  width: 100%;
+  align-items: center;
+}
+
+/* Innehållsområdet */
+.callout[data-callout="spell"] .callout-content {
+  padding: 8px !important;
+  color: #000000 !important;
+  font-size: 0.9em;
+}
+
+/* Kompakt och snygg styling för tabeller inuti kortet */
+.callout[data-callout="spell"] .callout-content table {
+  width: 100%;
+  border-collapse: collapse;
+  margin: 4px 0;
+  font-size: 0.85em;
+}
+
+.callout[data-callout="spell"] .callout-content th,
+.callout[data-callout="spell"] .callout-content td {
+  border: 1px solid #333 !important;
+  padding: 4px 8px !important;
+  text-align: left;
+}
+
+.callout[data-callout="spell"] .callout-content th {
+  background-color: #e6e6e6;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  color: #444;
+}
+
+/* 1. Skapa en gemensam grå ram och bakgrund för hela textinnehållet mellan tabellerna */
+.callout[data-callout="spell"] .callout-content {
+  background-color: #d1d1d1 !important;
+  border: 1px solid #333 !important;
+  padding: 8px !important;
+  margin: 8px 0 !important;
+}
+
+/* 2. Nollställ styckena inuti så de bara fungerar som vanliga textrader med avstånd */
+.callout[data-callout="spell"] .callout-content p {
+  background-color: transparent !important;
+  border: none !important;
+  padding: 0 !important;
+  margin: 0 0 8px 0 !important;
+  line-height: 1.3;
+}
+
+/* Ta bort sista marginalen på sista stycket så det inte blir extra utrymme i botten */
+.callout[data-callout="spell"] .callout-content p:last-child {
+  margin-bottom: 0 !important;
+}
+
+/* 3. Se till att tabellerna inuti .callout-content INTE ärvs av den grå bakgrunden */
+.callout[data-callout="spell"] .callout-content table {
+  background-color: #ffffff !important;
+  border: none !important;
+  margin: 4px 0 !important;
+}
+
+
+
+
+
+/* Gör att fetstilta celler i tabellen ser ut som de gråa rubrikerna */
+.callout[data-callout="spell"] .callout-content td strong {
+  display: block;
+  background-color: #e6e6e6;
+  font-size: 0.75em;
+  text-transform: uppercase;
+  color: #444;
+  padding: 4px 8px;
+  margin: -4px -8px; /* Fyller ut cellens kant */
+  border-bottom: 1px solid #333;
+}
+
+/* Gör att fetstilta celler i tabellen ser ut som de gråa rubrikerna med lite mindre text */
+.callout[data-callout="spell"] .callout-content td strong {
+  display: block;
+  background-color: #e6e6e6;
+  font-size: 0.65em; /* Justera till 0.65em eller 0.6em om du vill ha den ännu mindre */
+  text-transform: uppercase;
+  color: #444;
+  padding: 4px 8px;
+  margin: -4px -8px;
+  border-bottom: 1px solid #333;
+}
+
+/* Tvinga alla tabeller inuti kortet att centrera sig och fördela kolumnerna jämnt */
+.callout[data-callout="spell"] .callout-content table {
+  width: 100% !important;
+  table-layout: fixed !important;
+  margin-left: auto !important;
+  margin-right: auto !important;
+}
+
+/* Sök till att texten i tabellcellerna bryts snyggt när kolumnerna har fast bredd */
+.callout[data-callout="spell"] .callout-content th,
+.callout[data-callout="spell"] .callout-content td {
+  overflow: hidden;
+  text-overflow: ellipsis;
+  word-wrap: break-word;
+}
+
+
+/* Färgvarianter för metadata */
+/* --- AD&D 2e Skolfärger för Spell Cards --- */
+
+/* Standard (fallback) */
+.callout[data-callout="spell"] .callout-title { background-color: #333333 !important; }
+
+/* 1. Abjuration (Blå / Skydd) */
+.callout[data-callout="spell"][data-callout-metadata*="abj"] .callout-title { background-color: #1a4488 !important; }
+
+/* 2. Alteration (Grön / Förändring) */
+.callout[data-callout="spell"][data-callout-metadata*="alt"] .callout-title { background-color: #2e6b34 !important; }
+
+/* 3. Conjuration / Summoning (Orange / Frammaning) */
+.callout[data-callout="spell"][data-callout-metadata*="con"] .callout-title { background-color: #a85a18 !important; }
+
+/* 4. Enchantment / Charm (Rosa / Charm) */
+.callout[data-callout="spell"][data-callout-metadata*="enc"] .callout-title { background-color: #8a2be2 !important; }
+
+/* 5. Greater Divination (Ljusblå / Spådom) */
+.callout[data-callout="spell"][data-callout-metadata*="gdiv"] .callout-title { background-color: #008b8b !important; }
+
+/* 6. Illusion (Lila / Illusion) */
+.callout[data-callout="spell"][data-callout-metadata*="ill"] .callout-title { background-color: #6a1b9a !important; }
+
+/* 7. Invocation / Evocation (Röd / Skada & Eld) */
+.callout[data-callout="spell"][data-callout-metadata*="inv"] .callout-title { background-color: #a31d1d !important; }
+
+/* 8. Necromancy (Mörkgrå / Död & Mörker) */
+.callout[data-callout="spell"][data-callout-metadata*="nec"] .callout-title { background-color: #37474f !important; }
+
+/* 9. Lesser Divination (Turkos / Spådom) */
+.callout[data-callout="spell"][data-callout-metadata*="ldiv"] .callout-title { background-color: #00796b !important; }
+
+/* Behåll dina gamla smeknamn om du vill använda dem */
+.callout[data-callout="spell"][data-callout-metadata="purple"] .callout-title { background-color: #8b008b !important; }
+.callout[data-callout="spell"][data-callout-metadata="teal"] .callout-title { background-color: #008b8b !important; }
+.callout[data-callout="spell"][data-callout-metadata="grey"] .callout-title { background-color: #555555 !important; }

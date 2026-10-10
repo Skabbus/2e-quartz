@@ -1,0 +1,12 @@
+---
+heading: "Fur of Warmth-- Miscellaneous Magic (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04480.htm
+---
+
+**Fur of Warmth**
+
+: These large, white furs (5' by 8') are reportedly taken from the skins of creatures native to the para-elemental plane of Ice. A person wearing the fur still feels cold in a cold environment (such as the para-elemental plane of ice), but does not suffer damage from exposure.
+
+Anyone wrapped in the fur is immune to the natural effects of cold, including the environments of the inner planes. Anyone wearing the fur takes half-damage from coldbased attacks. The wearer need not be covered completely by the fur to receive the enchanted protection; the fur must simply be draped over him like a cape. If the fur is cut into more than one piece, it loses its magical property.
+
+If the fur is worn in pleasant or hot weather, it affects the wearer as any other large fur would. [[Tome of Magic/Table of Contents|Table of Contents]]

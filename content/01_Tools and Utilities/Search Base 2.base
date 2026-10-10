@@ -1,0 +1,12 @@
+views:
+  - type: table
+    name: Tabell
+    filters:
+      and:
+        - file.inFolder("Player's Option- Skills and Powers")
+        - type == ["Non-Weapon Proficiency"]
+    order:
+      - file.name
+      - type
+      - class_group
+    sort: []

@@ -1,0 +1,24 @@
+---
+heading: "Encounters-- Chapter 11 (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01756.htm
+---
+
+**Chapter 11:**
+
+**Encounters** Whenever a player character meets an NPC (nonplayer character), fights a monster, or even discovers a mysterious fountain in the woods, he is having an encounter. An encounter is any significant thing a character meets, sees, or interacts with during the course of a game. When a player character discovers a fountain of blue flame in the midst of the forest, its very strangeness forces the character to react and the player to think. Why is it here? Does it have a purpose? Is it beneficial or dangerous? Few characters are going to pass this by as just another flaming fountain in the forest.
+
+Encounters are vital to the AD&D game, for without them nothing can really happen to the player character. An adventure without encounters is like sitting in a room all day with no one to talk to and little to look at. It certainly wouldn't be very exciting. And who wants to play an unexciting role-playing game? Encounters provide danger, risk, mystery, information, intrigue, suspense, humor, and more.
+
+For an encounter to provide excitement, it must also have an element of danger. A good deal of this comes from the fact that player characters don't know how the encountered beings will react to them. Your DM is not going to say, “You meet a group of peasants and they are friendly.” (If he *does* say this, you ought to be suspicious.) Instead, he will say something like, “As you ride around the bend, you come upon an oxcart lumbering down the road. A young man in rough clothes is leading the cart. Peering over the sides are a woman and several dirty children. When the man sees you he nods, smiles, and says, “Hail, strangers. Have you news of Thornhampton-on-the-Hill?” You can probably guess they are peasants and they seem friendly, but your DM didn't come out and say so. Not knowing for sure is what keeps you on your toes. They could be anything!
+
+When your character travels or explores a dungeon, your DM will have prepared two general types of encounters. The first are *specific* (planned) *encounters*. These are meetings, events, or things the DM has chosen to place in the adventure to build on the story of the adventure.
+
+For example, upon sneaking into the bugbear stronghold, your characters find a squalid cell filled with humans and elves. Your DM has placed them here for your character to rescue. Of course, he could also be playing a trick and the prisoners could actually be evil dopplegangers (creatures able to change their appearances at will).
+
+Later, while in the hallway, your group bumps into a bugbear patrol. This is the second type of encounter, a *random encounter*, also called a *wandering encounter*. In this case, your DM has made die rolls to see if you come upon something and, if so, just what that something is.
+
+Specific encounters generally have more choices of action--your DM may want you to discover some important information or set up a particularly difficult battle. Specific encounters usually yield greater treasures and more magical items. Creatures may be placed by the DM to guard the armory or prevent the characters from reaching the throne room.
+
+Random encounters normally involve simple choices--run away, fight, or ignore. Sometimes characters can talk to creatures in random encounters and learn valuable information, but not often. Random encounters also tend to have little or no treasure. A patrol of city guardsmen does not carry as many valuable items on its rounds as it would have in its barracks. Random encounters are most often used to weaken PCs, raise an unexpected alarm, hurry them along, or just make their lives difficult.
+
+Sometimes encounters are not with people or monsters but with things. The fountain in the forest is an encounter, but your characters cannot fight it or talk to it (well, maybe not). So what are you supposed to do? In these cases, the encounter is more of a puzzle. You have to figure out why this fountain is here, what it can do, and if it is important to your adventure. It may be a red herring--something placed there just to confuse you; it may be a set up for a future adventure--later on your characters may learn that the flaming fountain they saw is important to their latest mission. It may be a deadly trap. To find out, though, you will have to deal with the thing in some way. You could throw stones into the pool, drink the glowing water, try to walk through the flames, or use spells to learn more. By doing these things, you may get more information from your DM. Of course, you may not like the answer! ("You drank the water? Oh, dear. Tsk, tsk, tsk.")[[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

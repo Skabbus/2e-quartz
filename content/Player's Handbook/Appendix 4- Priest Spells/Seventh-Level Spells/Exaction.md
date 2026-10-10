@@ -1,0 +1,40 @@
+---
+heading: Exaction-- 7th Level Priest Spell (Player's Handbook)
+source: https://regalgoblins.com/2erules/PHB/DD02282.htm
+type:
+  - Spell
+level: 7
+school:
+  - Evocation
+  - Alteration
+spellist:
+  - Priest
+sphere:
+  - Charm
+  - Summoning
+---
+
+> [!spell|inv] 7 | Exaction
+> | Range | AoE |
+> | :--- | :--- |
+> | 10 yds. | 1 creature |
+> | **Casting Time** | **Duration** |
+> | 1 rd. | Special |
+> | **Save** | **Damage** |
+> | None | — |
+> | **Components** | **Material** |
+> | S V M | The priest's holy symbol, some matter or substance from the plane of the creature from whom an exaction is expected, and knowledge of the creature's nature or actions that is written out on a parchment that is burned to seal the pledge |
+> 
+> When this spell is employed, the priest confronts some powerful creature from another plane (including devas and other powerful minions, for instance, but not demigods or deities of any sort) and requires of it some duty or quest. A creature of an alignment opposed to the priest (e.g., evil if the priest is good, chaotic if the priest is lawful) cannot be ordered around unless it is willing. Note that an absolute (true) neutral creature is effectively opposed to both good and evil, and both law and chaos.
+> 
+> The spellcaster must know something about the creature to exact service from it, or else he must offer some fair trade in return for the service. That is, if the priest is aware that the creature has received some favor from someone of the priest's alignment, then the *exaction* spell can name this as cause. If no balancing reason for service is known, then some valuable gift or service must be pledged in return for the exaction. The service exacted must be reasonable with respect to the past or promised favor or reward, and with the being's effort and risk. The spell then acts, subject to a magic resistance roll, as a quest upon the being that is to perform the required service. Immediately upon completion of the service, the being is transported to the vicinity of the priest, and the priest must then and there return the promised reward, whether it is irrevocable cancellation of a past debt or the giving of some service or other material reward. After this is done, the creature is instantly freed to return to its own plane.
+> 
+> The DM adjudicates when an equitable arrangement has been reached. If the caster requests too much, the creature is free to depart or to attack the priest (as if the agreement were breached) according to its nature. If circumstances leave the situation unbalanced (for example, the creature dies while achieving a result that was not worth dying for), then this might create a debt owed by the caster to the creature's surviving kith and kin, making the caster vulnerable to a future *exaction* spell from that quarter. Agreeing to a future exaction or release in the event of catastrophic failure or death are common caster pledges in securing an exaction.
+> 
+> Failure to fulfill the promise to the letter results in the priest being subject to exaction by the subject creature or by its master, liege, etc., at the very least. At worst, the creature can attack the reneging priest without fear of any of his spells affecting it, for the priest's failure to live up to the bargain gives the creature immunity from the priest's spell powers.
+> 
+> The material components of this spell are the priest's holy symbol, some matter or substance from the plane of the creature from whom an exaction is expected, and knowledge of the creature's nature or actions that is written out on a parchment that is burned to seal the pledge.
+> 
+> | **School** | **Sphere** |
+> | :--- | :--- |
+> | Evocation | Charm, Summoning |

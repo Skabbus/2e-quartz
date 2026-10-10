@@ -1,0 +1,16 @@
+---
+heading: "The Sylvan Elves' Encampment (Comp. Book of Elves)"
+source: https://regalgoblins.com/2erules/CBE/DD04766.htm
+---
+
+**The Sylvan Elves' Encampment**
+
+Sylvan elf encampments are built with both defense and admiration of nature in mind. Low, mottled-green tents are pitched in a circle, with the openings toward the central fires. Occasionally, the elves will engage in shifting the earth about to provide added protection. These encampments represent the only home sylvan elves know. The land readily returns to normal when the elves continue on their nomadic course.
+
+In the winter or when they intend to stay for a year or more, wood elves build semipermanent wood lodges, rather than use tents. Many barbarian human tribes have emulated this practice, for they and the wood elves would rather not endure harsh winters with only a thin canvas separating them from the elements. Still, even the sylvan elves' wood tents are well disguised, and casual travelers passing within 100 yards will not spot the campsite. Even if they did, the wood elf guards would dissuade them from advancing any nearer with some well-placed arrows.
+
+The bivouac is nearly always established in a clearing or on a hill, or both, if possible. The escape routes and battle tactics are thoroughly established at the same time a camp is, so wood elves are never caught unawares. They usually move only twice a year.
+
+Whatever their schedule, the wood elves have as great a love for impermanence and change as the grey elves have for permanence. While a grey elf city radiates a feeling of timelessness, comforting its citizens with the knowledge that it will never change, a wood elf encampment always gives the impression of constant readiness to change.
+
+[[The Complete Book of Elves/Table of Contents|Table of Contents]]

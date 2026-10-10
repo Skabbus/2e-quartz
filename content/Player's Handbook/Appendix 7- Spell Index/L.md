@@ -1,0 +1,8 @@
+---
+heading: "DD02331"
+source: https://regalgoblins.com/2erules/PHB/DD02331.htm
+---
+
+L
+
+[[Legend Lore|Legend Lore (Wiz 6)]][[Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Leomund's Lamentable Belaborment|Leomund's Lamentable Belaborment (Wiz 5)]] [[Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Leomund's Secret Chest|Leomund's Secret Chest (Wiz 5)]][[Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Leomund's Secure Shelter|Leomund's Secure Shelter (Wiz 4)]] [[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Leomund's Tiny Hut|Leomund's Tiny Hut (Wiz 3)]][[Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Leomund's Trap|Leomund's Trap (Wiz 2)]][[Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Levitate|Levitate (Wiz 2)]][[Light Priest|Light (Pr 1)]][[Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Light Spell|Light (Wiz 1)]][[Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Lightning Bolt|Lightning Bolt (Wiz 3)]][[Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Limited Wish|Limited Wish (Wiz 7)]][[Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Liveoak|Liveoak (Pr 6)]][[Player's Handbook/Appendix 4- Priest Spells/First-Level Spells/Locate Animals or Plants|Locate Animals or Plants (Pr 1)]][[Player's Handbook/Appendix 4- Priest Spells/Third-Level Spells/Locate Object|Locate Object (Pr 3)]][[Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Locate Object|Locate Object (Wiz 2)]][[Player's Handbook/Appendix 4- Priest Spells/Fourth-Level Spells/Lower Water|Lower Water (Pr 4)]][[Player's Handbook/Appendix 3- Wizard Spells/Sixth-Level Spells/Lower Water|Lower Water (Wiz 6)]]

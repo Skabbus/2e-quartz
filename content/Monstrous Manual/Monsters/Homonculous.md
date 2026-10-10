@@ -1,0 +1,58 @@
+---
+heading: "Homonculus (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD03951.htm
+---
+
+Homonculous
+
+![[HOMONCU.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Omnivore |
+| **INTELLIGENCE:** | See below |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | See below |
+| **NO. APPEARING:** | 1 |
+| **ARMOR CLASS:** | 6 |
+| **MOVEMENT:** | 6, Fl 18 (B) |
+| **HIT DICE:** | 2 |
+| **THAC0:** | 19 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 1-3 |
+| **SPECIAL ATTACKS:** | Bite causes sleep |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | See below |
+| **SIZE:** | T(18" tall) |
+| **MORALE:** | Elite (13-14) |
+| **XP VALUE:** | 270 |
+
+Homonculi are small mystical beings created by magicians for spying and other special tasks.
+
+The average homonculous is vaguely humanoid in form. It is 18 inches tall and its greenish, reptilian skin may have spots or warts. They have leathery, bat-like wings with a span of 24 inches and a mouth filled with long, pointed teeth that can inject a potent sleeping venom.
+
+**Combat:** The homonculous is a quick and agile flyer which uses this ability to great advantage in combat. It can dart to and fro so quickly that any attempt to capture it short of a net or *web* spell is almost impossible.
+
+In combat, the homonculous will land on its chosen victim and bite with its needle-like fangs. In addition to doing 1-3 points of damage, the creature injects a powerful venom. Anyone bitten by the homonculous must save vs. poison or fall into a comatose sleep for 5-30 (5d6) minutes.
+
+The creature's saving throws are the same as those of its creator. While most attacks against either the homonculous or creator do not affect the other, there is one exception. Any attack which destroys the homonculous causes its creator to suffer 2-20 (2d10) points of damage. Conversely, if the creator is slain, the homonculous also dies and its body swiftly melts away into a pool of ichor.
+
+**Habitat/Society:** Homonculi are artificial creatures created by wizards as living tools. The process by which one is created is long, complicated, and expensive. Any wizard who desires a homonculous servant must first locate and hire an alchemist. The wizard must provide one pint of his own blood and 500-2,000 (1d4 x 500) gold pieces. The blood becomes the basis for the creature's body while the money pays for a variety of other supplies and the alchemist's time. The alchemist requires 1-4 weeks to transform the blood into the necessary magical base. The wizard is then sent for and required to cast *mending, mirror image,* and *wizard eye* spells upon the fluids. As the last of these spells is worked, the fluids spontaneously coagulate and form the body of the homonculous.
+
+The homonculous is telepathically linked to its creator. It knows everything that its master knows and transmits everything it sees and hears to him. The creator can telepathically control the actions of the homonculous at a range of up to 480 yards. The homonculous will never willingly travel beyond the limits of contact with its master, though it can be removed from that region by force. As soon as it loses contact with its master, the creature panics and will do anything to regain contact. Contact between the two cannot be maintained across planar or dimensional barriers. If either the creator or homonculous is on another plane, the homonculous will remain near the point where it was last in contact with its master.
+
+Homonculi are a reflection of their creator. They have the creator's alignment, basic intelligence, and even physical mannerisms. They are mute but can write if the creator is literate. They may assist their creator in a variety of tasks including magical endeavors, although they cannot themselves cast spells.
+
+Homonculi lairs are in the homes of their creators. Indulgent wizards may provide a specially built bed, nest, or living chamber. Otherwise, the homonculous simply perches wherever it can.
+
+**Ecology:** Homonculi are nothing more than tools. They have no place in the natural world and are not part of any ecological system. They provide the wizard who created them with a variety of useful services. Commonly, a homonculous is called upon to act as a spy, scout, messenger, or emissary. Because of the potential harm which the death of a homonculous inflicts on its master, they are seldom employed as body guards or living weapons.
+
+Although they are magical creations, homonculi possess the same biological functions as non-magical creatures. They must rest and require food and drink in order to survive. When eating, they share the tastes of their masters and generally consume about as much as a typical cat.
+
+There are rumors of magical means by which non-wizards can acquire their own form of homonculous. Although these are not widely believed to be valid, there are those who report having seen the process or its results first hand. If such a procedure exists, it would be quite valuable to its discoverer.
+
+[[Monstrous Manual/Monstrous Manual Index#6d2de9d5|Index]]
