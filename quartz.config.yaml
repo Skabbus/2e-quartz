@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: skabbus.github.io/2e-quartz
+  baseUrl: "https://skabbus.github.io/2e-quartz"
   ignorePatterns:
     - private
     - templates
