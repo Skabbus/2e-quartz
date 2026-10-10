@@ -1,7 +1,8 @@
- console.log(">>> quartz.ts laddad")
+console.log(">>> quartz.ts laddad")
 import { componentRegistry } from "./quartz/components/registry"
 import { loadQuartzConfig, loadQuartzLayout } from "./quartz/plugins/loader/config-loader"
-
+import * as fs from "fs"
+import * as path from "path"
 
 componentRegistry.setOptionOverrides("explorer", {
   sortFn: (a: any, b: any) => {
@@ -9,10 +10,10 @@ componentRegistry.setOptionOverrides("explorer", {
     if (!g.__explorerOrderL) {
       let src: any = {}
       try {
-        const x = new XMLHttpRequest()
-        x.open("GET", "/static/explorer-order.json", false)
-        x.send()
-        src = JSON.parse(x.responseText)
+        const filePath = path.join(process.cwd(), "static", "explorer-order.json")
+        if (fs.existsSync(filePath)) {
+          src = JSON.parse(fs.readFileSync(filePath, "utf-8"))
+        }
       } catch (e) {
         src = {}
       }
@@ -51,4 +52,4 @@ console.log(">>> overrides:", Object.keys(componentRegistry.getOptionOverrides("
 
 const config = await loadQuartzConfig()
 export default config
-export const layout = await loadQuartzLayout() 
+export const layout = await loadQuartzLayout()
