@@ -96,4 +96,4 @@ A proficiency check is made by rolling D20+*Stat*+*Proficiency Bonus*+*Check Mod
 
 Multiple Non-weapon proficiency slots may be invested in the same Non-weapon proficiency, each one within the same area granting a +2. In the case where the NWP is applied to a sub-category, (i.e. the Artistic Ability example above), the player decides whether to further specialize within the area or expand into a new area (Artistic Ability: Painting at +4 or Painting at +2, Sculpting +2).
 
-![[Proficiencies Base.base]]
+![[Non-Weapon Proficiencies.base]]

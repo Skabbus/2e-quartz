@@ -1,0 +1,39 @@
+views:
+  - type: table
+    name: NWPs
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - disabled != true
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Disabled NWPs
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - disabled == true
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Duplicate NWPs
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate == true
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+    sort:
+      - property: ability
+        direction: ASC

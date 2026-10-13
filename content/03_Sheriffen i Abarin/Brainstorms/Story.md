@@ -25,11 +25,16 @@ draft: true
 **Jesper Svinakarl** - Jesper bor i en stuga i utkanten av byn intill svinstian. Han är inte adlig, utan Svinakarl är ett öknamn. Jesper har generellt väldigt låg standard: han släpar gärna ett lik för något silvermynt. 
 
 **Gamle Olof** - Gamle Olof är en tiggare i byn som får betalt för att gå nattvarvet: han patrullerar runt ute och håller koll efter eldsvådor osv. 
+
+**Harkus Stål** - Harkus Stål är den informella ledaren för det Fjärde Kompaniet. Han antingen jobbar på skogsbruket eller äger skogsbruket. Föredrar nog att han jobbar där.
+
+**Drevan** - Drevan är ledaren av Brinkbröderna. 
+
 ## Grupperingar
 ***
 **Brinkbröderna** - Ett löst sammankopplat kriminellt gäng av yngre personer. Har sitt ställe på södra brinken (brink=sluttning.) 
 
-**Fjärde kompaniet AKA Gamla Stålet** - Ett gäng av veteraner från den Valdorianska invasionen. 
+**Fjärde kompaniet AKA Gamla Stålet** - Ett gäng av veteraner från den Valdorianska invasionen. Många i det Fjärde Kompaniet har ordinarie arbeten och sysslar med kriminalitet på sidan. 
 
 
 ## Torrak
