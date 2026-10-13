@@ -1,6 +1,13 @@
 ---
-heading: "Underclass-- Proficiency (Comp. Ninja's Handbook)"
+heading: Underclass-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Underclass_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Wisdom
+check_modifier: 0
+disabled: true
 ---
 
 ## Underclass

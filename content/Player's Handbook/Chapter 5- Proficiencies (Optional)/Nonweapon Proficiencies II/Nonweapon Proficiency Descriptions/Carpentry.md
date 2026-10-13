@@ -5,6 +5,8 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Strength
+check_modifier: 0
 ---
 
 **Carpentry**

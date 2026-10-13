@@ -7,28 +7,28 @@ source: https://regalgoblins.com/2erules/DMG/DD00378.htm
 
 **Individual Class Awards**
 
-|  |  |
-| --- | --- |
-|  | **Award** |
-| **Warrior** |  |
-| Per Hit Die of creature defeated | 10 XP/level |
-|  |  |
-| **Priest** |  |
-| Per successful use of a granted power | 100 XP |
-| Spells cast to further ethos | 100 XP/spell level\* |
-| Making potion or scroll | XP value |
-| Making permanent magical item | XP value |
-|  |  |
-| **Wizard** |  |
-| Spells cast to overcome foes or problems | 50 XP/spell level |
-| Spells successfully researched | 500 XP/spell level |
-| Making potion or scroll | XP value |
-| Making permanent magical item | XP value |
-|  |  |
-| **Rogue** |  |
-| Per successful use of a special ability | 200 XP |
-| Per gold piece value of treasure obtained | 2 XP |
-| Per Hit Die of creatures defeated (bard only) | 5 XP |
+|                                               |                      |
+| --------------------------------------------- | -------------------- |
+|                                               | **Award**            |
+| **Warrior**                                   |                      |
+| Per Hit Die of creature defeated              | 10 XP/level          |
+|                                               |                      |
+| **Priest**                                    |                      |
+| Per successful use of a granted power         | 100 XP               |
+| Spells cast to further ethos                  | 100 XP/spell level\* |
+| Making potion or scroll                       | XP value             |
+| Making permanent magical item                 | XP value             |
+|                                               |                      |
+| **Wizard**                                    |                      |
+| Spells cast to overcome foes or problems      | 50 XP/spell level    |
+| Spells successfully researched                | 500 XP/spell level   |
+| Making potion or scroll                       | XP value             |
+| Making permanent magical item                 | XP value             |
+|                                               |                      |
+| **Rogue**                                     |                      |
+| Per successful use of a special ability       | 200 XP               |
+| Per gold piece value of treasure obtained     | 2 XP                 |
+| Per Hit Die of creatures defeated (bard only) | 5 XP                 |
 
 \* The priest character gains experience for those spells which, when cast, support the beliefs and attitudes of his mythos. Thus, a priest of a woodland deity would not gain experience for using an *entangle* spell to trap a group of orcs who were attacking his party, since this has little to do with the woodlands. If the priest were to use the same spell to trap the same orcs just as they were attempting to set fire to the forest, the character would gain the bonus.
 

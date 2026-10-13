@@ -3,8 +3,8 @@ views:
     name: Tabell
     filters:
       and:
-        - type == ["Spell"]
-        - spellist.contains("Priest")
+        - type == ["Non-Weapon Proficiency"]
+        - disabled == true
     order:
       - file.name
       - sphere

@@ -5,9 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Warrior
+ability: Dexterity
+check_modifier: -1
 ---
 
-**Bowyer/Fletcher:** This character can make bows and arrows of the types given in [[Player's Handbook/Tables/Table 44- Equipment|Table 44]].
+**Bowyer/Fletcher** 
+
+This character can make bows and arrows of the types given in [[Player's Handbook/Tables/Table 44- Equipment|Table 44]].
 
 A weaponsmith is required to fashion arrowheads, but the bowyer/fletcher can perform all other necessary functions. The construction time for a long or short bow is one week, while composite bows require two weeks, and 1d6 arrows can be made in one day.
 

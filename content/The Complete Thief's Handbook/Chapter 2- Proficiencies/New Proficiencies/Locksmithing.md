@@ -3,6 +3,9 @@ heading: Locksmithing (Comp. Thief's Handbook)
 source: https://regalgoblins.com/2erules/CTH/DD05790.htm
 type: Non-Weapon Proficiency
 class_group: Rogue
+ability:
+  - Dexterity
+check_modifier: 0
 ---
 
 **Locksmithing**

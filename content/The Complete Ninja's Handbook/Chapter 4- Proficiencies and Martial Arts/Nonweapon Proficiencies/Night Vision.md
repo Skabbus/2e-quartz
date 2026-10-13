@@ -1,6 +1,13 @@
 ---
-heading: "Night Vision-- Proficiency (Comp. Ninja's Handbook)"
+heading: Night Vision-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Night_Vision_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Wisdom
+check_modifier: -2
+disabled: true
 ---
 
 ## Night Vision

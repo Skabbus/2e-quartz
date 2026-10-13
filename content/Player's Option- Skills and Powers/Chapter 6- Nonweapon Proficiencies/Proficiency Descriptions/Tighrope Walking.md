@@ -4,6 +4,8 @@ source: https://regalgoblins.com/2erules/SP/DD03082.htm
 type: Non-Weapon Proficiency
 class_group:
   - Rogue
+ability: Dexterity
+check_modifier: 0
 ---
 
 **Tightrope Walking:** The character with this proficiency can balance on ropes, wires, slender beams, and other narrow, perilous surfaces. A typical movement rate is 60 feet a round, though an upward angle will slow this. Ascents and descents of 45 degrees or more are not possible.

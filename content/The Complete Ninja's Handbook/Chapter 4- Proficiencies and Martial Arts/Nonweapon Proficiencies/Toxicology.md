@@ -1,19 +1,24 @@
 ---
-heading: "Toxicology-- Proficiency (Comp. Ninja's Handbook)"
+heading: Toxicology-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Toxicology_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Intelligence
+check_modifier: 0
 ---
 
 ## Toxicology
 
 (Proficiency)
 
-|  |  |
-| --- | --- |
-| Name | Toxicology |
-| Crossover Group | Rogue |
+| Name             | Toxicology   |
+| ---------------- | ------------ |
+| Crossover Group  | Rogue        |
 | Relevant Ability | Intelligence |
-| Check Modifier | 0 |
-| # of Slots | 2 |
+| Check Modifier   | 0            |
+| # of Slots       | 2            |
 
 **Toxicology:** In the hands of the ninja, proficiency in Herbalism is bent toward knowledge of knockout drugs and poisons. A Toxicologist knows more about such drugs than an [[Player's Handbook/Chapter 5- Proficiencies (Optional)/Nonweapon Proficiencies II/Nonweapon Proficiency Descriptions/Herbalism|Herbalist]] with a similar Intelligence score (hence the lack of penalty), but will not know anything about other types of chemical compounds.
 

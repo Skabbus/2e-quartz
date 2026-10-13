@@ -1,64 +1,66 @@
 
 # Basic Information
 ***
-
-| Ability Requirements: | Intelligence 9       |
-| --------------------- | -------------------- |
-| Prime Requisite:      | Intelligence         |
-| Races Allowed:        | Human, Elf, Half-elf |
-```
-
-> [!NOTE]+ Wizard Experience, Hit Dice and Attack Bonus
+> [!tldr]+ Wizard Experience, Hit Dice and Attack Bonus
 > | **Level** | **Mage/Specialist** | **Hit Dice (d6)** | To hit |
-| --------- | ------------------- | ----------------- | ------ |
-| 1         | 0                   | 1                 | 0      |
-| 2         | 2,500               | 2                 | 0      |
-| 3         | 5,000               | 3                 | 0      |
-| 4         | 10,000              | 4                 | +1     |
-| 5         | 20,000              | 5                 | +1     |
-| 6         | 40,000              | 6                 | +1     |
-| 7         | 60,000              | 7                 | +2     |
-| 8         | 90,000              | 8                 | +2     |
-| 9         | 135,000             | 9                 | +2     |
-| 10        | 250,000             | 10                | +3     |
-| 11        | 375,000             | 10+1              | +3     |
-| 12        | 750,000             | 10+2              | +3     |
-| 13        | 1,125,000           | 10+3              | +4     |
-| 14        | 1,500,000           | 10+4              | +4     |
-| 15        | 1,875,000           | 10+5              | +4     |
-| 16        | 2,250,000           | 10+6              | +5     |
-| 17        | 2,625,000           | 10+7              | +5     |
-| 18        | 3,000,000           | 10+8              | +5     |
-| 19        | 3,375,000           | 10+9              | +6     |
-| 20        | 3,750,000           | 10+10             | +6     |
-```
+>| --------- | ------------------- | ----------------- | ------ |
+>| 1         | 0                   | 1                 | 0      |
+>| 2         | 2,500               | 2                 | 0      |
+>| 3         | 5,000               | 3                 | 0      |
+>| 4         | 10,000              | 4                 | +1     |
+>| 5         | 20,000              | 5                 | +1     |
+>| 6         | 40,000              | 6                 | +1     |
+>| 7         | 60,000              | 7                 | +2     |
+>| 8         | 90,000              | 8                 | +2     |
+>| 9         | 135,000             | 9                 | +2     |
+>| 10        | 250,000             | 10                | +3     |
+>| 11        | 375,000             | 10+1              | +3     |
+>| 12        | 750,000             | 10+2              | +3     |
+>| 13        | 1,125,000           | 10+3              | +4     |
+>| 14        | 1,500,000           | 10+4              | +4     |
+>| 15        | 1,875,000           | 10+5              | +4     |
+>| 16        | 2,250,000           | 10+6              | +5     |
+>| 17        | 2,625,000           | 10+7              | +5     |
+>| 18        | 3,000,000           | 10+8              | +5     |
+>| 19        | 3,375,000           | 10+9              | +6     |
+>| 20        | 3,750,000           | 10+10             | +6     |
+>
+>
+>
+>| **Wizard Action** | **Experience Award** |
+>| --- | --- |
+>| Spells cast to overcome foes or problems      | 50 XP/spell level    |
+>| Spells successfully researched                | 500 XP/spell level   |
+>| Making potion or scroll                       | XP value             |
+>| Making permanent magical item                 | XP value             |
 
-> [!NOTE]+ Wizard Spells Memorized per Level
+> [!tldr]+ Wizard Spells Memorized per Level
 > | **Level** | **1** | **2** | **3** | **4** | **5** | **6** | **7** | **8** | **9** |
-| --------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
-| 1         | 1     | --    | --    | --    | --    | --    | --    | --    | --    |
-| 2         | 2     | --    | --    | --    | --    | --    | --    | --    | --    |
-| 3         | 2     | 1     | --    | --    | --    | --    | --    | --    | --    |
-| 4         | 3     | 2     | --    | --    | --    | --    | --    | --    | --    |
-| 5         | 4     | 2     | 1     | --    | --    | --    | --    | --    | --    |
-| 6         | 4     | 2     | 2     | --    | --    | --    | --    | --    | --    |
-| 7         | 4     | 3     | 2     | 1     | --    | --    | --    | --    | --    |
-| 8         | 4     | 3     | 3     | 2     | --    | --    | --    | --    | --    |
-| 9         | 4     | 3     | 3     | 2     | 1     | --    | --    | --    | --    |
-| 10        | 4     | 4     | 3     | 2     | 2     | --    | --    | --    | --    |
-| 11        | 4     | 4     | 4     | 3     | 3     | --    | --    | --    | --    |
-| 12        | 4     | 4     | 4     | 4     | 4     | 1     | --    | --    | --    |
-| 13        | 5     | 5     | 5     | 4     | 4     | 2     | --    | --    | --    |
-| 14        | 5     | 5     | 5     | 4     | 4     | 2     | 1     | --    | --    |
-| 15        | 5     | 5     | 5     | 5     | 5     | 2     | 1     | --    | --    |
-| 16        | 5     | 5     | 5     | 5     | 5     | 3     | 2     | 1     | --    |
-| 17        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 2     | --    |
-| 18        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 2     | 1     |
-| 19        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 3     | 1     |
-| 20        | 5     | 5     | 5     | 5     | 5     | 4     | 3     | 3     | 2     |
-The wizard group encompasses all spellcasters working in the various fields of magic--both those who specialize in specific schools of magic and those who study a broad range of magical theories. Spending their lives in pursuit of arcane wisdom, wizards have little time for physical endeavors. They tend to be poor fighters with little knowledge of weaponry. However, they command powerful and dangerous energies with a few simple gestures, rare components, and mystical words.
+>| --------- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- | ----- |
+>| 1         | 1     | --    | --    | --    | --    | --    | --    | --    | --    |
+>| 2         | 2     | --    | --    | --    | --    | --    | --    | --    | --    |
+>| 3         | 2     | 1     | --    | --    | --    | --    | --    | --    | --    |
+>| 4         | 3     | 2     | --    | --    | --    | --    | --    | --    | --    |
+>| 5         | 4     | 2     | 1     | --    | --    | --    | --    | --    | --    |
+>| 6         | 4     | 2     | 2     | --    | --    | --    | --    | --    | --    |
+>| 7         | 4     | 3     | 2     | 1     | --    | --    | --    | --    | --    |
+>| 8         | 4     | 3     | 3     | 2     | --    | --    | --    | --    | --    |
+>| 9         | 4     | 3     | 3     | 2     | 1     | --    | --    | --    | --    |
+>| 10        | 4     | 4     | 3     | 2     | 2     | --    | --    | --    | --    |
+>| 11        | 4     | 4     | 4     | 3     | 3     | --    | --    | --    | --    |
+>| 12        | 4     | 4     | 4     | 4     | 4     | 1     | --    | --    | --    |
+>| 13        | 5     | 5     | 5     | 4     | 4     | 2     | --    | --    | --    |
+>| 14        | 5     | 5     | 5     | 4     | 4     | 2     | 1     | --    | --    |
+>| 15        | 5     | 5     | 5     | 5     | 5     | 2     | 1     | --    | --    |
+>| 16        | 5     | 5     | 5     | 5     | 5     | 3     | 2     | 1     | --    |
+>| 17        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 2     | --    |
+>| 18        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 2     | 1     |
+>| 19        | 5     | 5     | 5     | 5     | 5     | 3     | 3     | 3     | 1     |
+>| 20        | 5     | 5     | 5     | 5     | 5     | 4     | 3     | 3     | 2     |
+>
+>The wizard group encompasses all spellcasters working in the various fields of magic--both those who specialize in specific schools of magic and those who study a broad range of magical theories. Spending their lives in pursuit of arcane wisdom, wizards have little time for physical endeavors. They tend to be poor fighters with little knowledge of weaponry. However, they command powerful and dangerous energies with a few simple gestures, rare components, and mystical words.
 
-> [!NOTE] Wizard Saving Throws per Level
+> [!tldr]+ Wizard Saving Throws per Level
 > | **Wizards Experience Level** | **Save against Paralyzation, Poison, or Death Magic** | **Save against Rod, Staff, or Wand** | **Save against Petrification or Polymorph**\* | **Save against Breath Weapon**\*\* | Save against Spell*\*\* |
 > | ---------------------------- | ----------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ---------------------------------- | ----------------------- |
 > | 1-5                          | 14                                                    | 11                                   | 13                                            | 15                                 | 12                      |
@@ -66,38 +68,39 @@ The wizard group encompasses all spellcasters working in the various fields of m
 > | 11-15                        | 11                                                    | 7                                    | 9                                             | 11                                 | 8                       |
 > | 16-20                        | 10                                                    | 5                                    | 7                                             | 9                                  | 6                       |
 > | 21+                          | 8                                                     | 3                                    | 5                                             | 7                                  | 4                       |
+> 
 > \*Excluding *polymorph wand* attacks.
 > \*\*Excluding those that cause petrification or polymorph.
 > \*\*\*Excluding those for which another saving throw type is specified, such as death, petrification, polymorph, etc.
 
-> [!NOTE]+ Intelligence Table for Spell Learning
+> [!tldr]+ Intelligence Table for Spell Learning
 > | **Intelligence Score** | **Spell Level** | **Chance to Learn Spell** | **Max. # of Spells/Level** |
-| ---------------------- | --------------- | ------------------------- | -------------------------- |
-| **1**                  | **--**          | **--**                    | **--**                     |
-| **2**                  | **--**          | **--**                    | **--**                     |
-| **3**                  | **--**          | **--**                    | **--**                     |
-| 4                      | --              | --                        | --                         |
-| 5                      | --              | --                        | --                         |
-| 6                      | --              | --                        | --                         |
-| 7                      | --              | --                        | --                         |
-| 8                      | --              | --                        | --                         |
-| 9                      | 4th             | 35%                       | 6                          |
-| 10                     | 5th             | 40%                       | 7                          |
-| 11                     | 5th             | 45%                       | 7                          |
-| 12                     | 6th             | 50%                       | 7                          |
-| 13                     | 6th             | 55%                       | 9                          |
-| 14                     | 7th             | 60%                       | 9                          |
-| 15                     | 7th             | 65%                       | 11                         |
-| 16                     | 8th             | 70%                       | 11                         |
-| 17                     | 8th             | 75%                       | 14                         |
-| 18                     | 9th             | 85%                       | 18                         |
-| 19                     | 9th             | 95%                       | All                        |
-| **20**                 | **9th**         | **96%**                   | **All**                    |
-| **21**                 | **9th**         | **97%**                   | **All**                    |
-| **22**                 | **9th**         | **98%**                   | **All**                    |
-| **23**                 | **9th**         | **99%**                   | **All**                    |
-| **24**                 | **9th**         | **100%**                  | **All**                    |
-| **25**                 | **9th**         | **100%**                  | **All**                    |
+>| ---------------------- | --------------- | ------------------------- | -------------------------- |
+>| **1**                  | **--**          | **--**                    | **--**                     |
+>| **2**                  | **--**          | **--**                    | **--**                     |
+>| **3**                  | **--**          | **--**                    | **--**                     |
+>| 4                      | --              | --                        | --                         |
+>| 5                      | --              | --                        | --                         |
+>| 6                      | --              | --                        | --                         |
+>| 7                      | --              | --                        | --                         |
+>| 8                      | --              | --                        | --                         |
+>| 9                      | 4th             | 35%                       | 6                          |
+>| 10                     | 5th             | 40%                       | 7                          |
+>| 11                     | 5th             | 45%                       | 7                          |
+>| 12                     | 6th             | 50%                       | 7                          |
+>| 13                     | 6th             | 55%                       | 9                          |
+>| 14                     | 7th             | 60%                       | 9                          |
+>| 15                     | 7th             | 65%                       | 11                         |
+>| 16                     | 8th             | 70%                       | 11                         |
+>| 17                     | 8th             | 75%                       | 14                         |
+>| 18                     | 9th             | 85%                       | 18                         |
+>| 19                     | 9th             | 95%                       | All                        |
+>| **20**                 | **9th**         | **96%**                   | **All**                    |
+>| **21**                 | **9th**         | **97%**                   | **All**                    |
+>| **22**                 | **9th**         | **98%**                   | **All**                    |
+>| **23**                 | **9th**         | **99%**                   | **All**                    |
+>| **24**                 | **9th**         | **100%**                  | **All**                    |
+>| **25**                 | **9th**         | **100%**                  | **All**                    |
 
 
 Spells are the tools, weapons, and armor of the wizard. He is weak in a toe-to-toe fight, but when prepared he can strike down his foes at a distance, vanish in an instant, become a wholly different creature, or even invade the mind of an enemy and take control of his thoughts and actions. No secrets are safe from a wizard and no fortress is secure. His quest for knowledge and power often leads him into realms where mortals were never meant to go.
@@ -122,6 +125,12 @@ Unlike many other characters, wizards gain no special benefits from building a f
 
 # Mage
 ***
+
+| Ability Requirements: | Intelligence 9       |
+| --------------------- | -------------------- |
+| Prime Requisite:      | Intelligence         |
+| Races Allowed:        | Human, Elf, Half-elf |
+
 Mages are the most versatile types of wizards, those who choose not to specialize in any single school of magic. This is both an advantage and disadvantage. On the positive side, the mage's selection of spells enables him to deal with many different situations. (Wizards who study within a single school of magic learn highly specialized spells, but at the expense of spells from other areas.) The other side of the coin is that the mage's ability to learn specialized spells is limited compared to the specialist's.
 
 

@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Rogue
+ability: Strength
+check_modifier: 0
 ---
 
 **Jumping**
 
-:** The character can attempt exceptional leaps both vertically and horizontally. If the character has at least a 20-foot running start, he can leap (broad jump) 2d6+his level in feet. No character can broad jump more than six times his height, however. With the same start, he can leap vertically (high jump) 1d3 plus half his level in feet. No character can high jump more than 1-½ times his own height.
+The character can attempt exceptional leaps both vertically and horizontally. If the character has at least a 20-foot running start, he can leap (broad jump) 2d6+his level in feet. No character can broad jump more than six times his height, however. With the same start, he can leap vertically (high jump) 1d3 plus half his level in feet. No character can high jump more than 1-½ times his own height.
 
 From a standing start, a character with this proficiency can broad jump 1d6 plus half his level in feet and high jump only three feet.
 

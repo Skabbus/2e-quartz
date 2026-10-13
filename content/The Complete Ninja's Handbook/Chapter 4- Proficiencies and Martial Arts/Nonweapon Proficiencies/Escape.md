@@ -1,6 +1,13 @@
 ---
-heading: "Escape-- Proficiency (Comp. Ninja's Handbook)"
+heading: Escape-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Escape_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Dexterity
+check_modifier: 0
+disabled: true
 ---
 
 ## Escape

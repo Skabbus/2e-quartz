@@ -5,6 +5,10 @@ type: Non-Weapon Proficiency
 class_group:
   - Warrior
   - Rogue
+ability:
+  - Intelligence
+check_modifier: -2
+disabled: true
 ---
 **Foraging**
 

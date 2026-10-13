@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Dexterity
+check_modifier: 0
 ---
 
 **Dancing**
 
-:** The character knows many styles and varieties of dance, from folk dances to formal court balls.
+The character knows many styles and varieties of dance, from folk dances to formal court balls.
 
 [[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]
 

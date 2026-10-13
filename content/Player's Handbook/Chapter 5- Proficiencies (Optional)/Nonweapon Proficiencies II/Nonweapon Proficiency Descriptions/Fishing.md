@@ -5,6 +5,8 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Wisdom
+check_modifier: -1
 ---
 
 **Fishing**

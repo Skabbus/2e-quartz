@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Wisdom
+check_modifier: 0
 ---
 
 **Animal Training**
 
-:** Characters with this proficiency can train one type of creature (declared when the proficiency is chosen) to obey simple commands and perform tricks. A character can spend additional proficiencies to train other types of creatures or can improve his skill with an already chosen type. Creatures typically trained are dogs, horses, falcons, pigeons, elephants, ferrets, and parrots. A character can choose even more exotic creatures and monsters with animal intelligence (although these are difficult to control).
+Characters with this proficiency can train one type of creature (declared when the proficiency is chosen) to obey simple commands and perform tricks. A character can spend additional proficiencies to train other types of creatures or can improve his skill with an already chosen type. Creatures typically trained are dogs, horses, falcons, pigeons, elephants, ferrets, and parrots. A character can choose even more exotic creatures and monsters with animal intelligence (although these are difficult to control).
 
 A trainer can work with up to three creatures at one time. The trainer may choose to teach general tasks or specific tricks. A general task gives the creature the ability to react to a number of nonspecific commands to do its job. Examples of tasks include guard and attack, carry a rider, perform heavy labor, hunt, track, or fight alongside soldiers (such as a war horse or elephant). A specific trick teaches the trained creature to do one specific action. A horse may rear on command, a falcon may pluck a designated object, a dog may attack a specific person, or a rat may run through a particular maze. With enough time, a creature can be trained to do both general tasks and specific tricks.
 

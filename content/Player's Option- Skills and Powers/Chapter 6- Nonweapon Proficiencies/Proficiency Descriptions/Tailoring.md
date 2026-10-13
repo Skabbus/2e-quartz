@@ -4,6 +4,7 @@ source: https://regalgoblins.com/2erules/SP/DD03080.htm
 type: Non-Weapon Proficiency
 class_group:
   - General
+duplicate: true
 ---
 
 **Tailoring**

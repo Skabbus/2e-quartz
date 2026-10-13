@@ -1,6 +1,13 @@
 ---
-heading: "Water Walking-- Proficiency (Comp. Ninja's Handbook)"
+heading: Water Walking-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Water_Walking_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Dexterity
+check_modifier: -1
+disabled: true
 ---
 
 ## Water Walking

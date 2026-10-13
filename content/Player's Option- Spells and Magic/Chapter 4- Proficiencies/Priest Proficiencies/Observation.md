@@ -4,6 +4,10 @@ source: https://regalgoblins.com/2erules/SM/DD03474.htm
 type:
   - Non-Weapon Proficiency
 class_group: Priest
+ability:
+  - Intelligence
+check_modifier: 0
+disabled: true
 ---
 **Observation** 
 

@@ -5,6 +5,10 @@ type: Non-Weapon Proficiency
 class_group:
   - Priest
 subclass: Ranger
+ability:
+  - Wisdom
+check_modifier: -3
+disabled: true
 ---
 **Veterinary Healing**
 

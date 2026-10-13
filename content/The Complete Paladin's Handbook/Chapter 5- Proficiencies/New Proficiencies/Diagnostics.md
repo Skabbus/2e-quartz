@@ -5,10 +5,15 @@ type: Non-Weapon Proficiency
 class_group:
   - Priest
 subclass: Paladin
+ability:
+  - Wisdom
+check_modifier: -1
+disabled: true
 ---
 **Diagnostics** 
 
-Both the Healing and Diagnostics proficiencies aid victims of trauma and disease. But while the Healing proficiency can be used to restore lost hit points, Diagnostics is mainly concerned with determining the cause of the damage and the prognosis; Diagnostics alone will *not* heal damage. With a successful proficiency check, a character becomes aware all of the following information applicable to a particular patient:• If the patient has suffered physical damage, the character can determine the extent of the damage, though he may not be able to ascertain the exact cause (if a victim was attacked by a tiger, the character will know that the victim was clawed by a large animal, but not necessarily the species). The character can recommend treatments and offer prognoses, as with victims of diseases.
+Both the Healing and Diagnostics proficiencies aid victims of trauma and disease. But while the Healing proficiency can be used to restore lost hit points, Diagnostics is mainly concerned with determining the cause of the damage and the prognosis; Diagnostics alone will *not* heal damage. With a successful proficiency check, a character becomes aware all of the following information applicable to a particular patient:
+• If the patient has suffered physical damage, the character can determine the extent of the damage, though he may not be able to ascertain the exact cause (if a victim was attacked by a tiger, the character will know that the victim was clawed by a large animal, but not necessarily the species). The character can recommend treatments and offer prognoses, as with victims of diseases.
 
 • If the patient has been poisoned, the character knows the antidote (if one exists) and how to prepare it. Note that even if the character knows how to prepare an antidote, he may not have access to the necessary ingredients.
 

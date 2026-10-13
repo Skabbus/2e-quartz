@@ -3,11 +3,14 @@ heading: Alchemy-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03455.htm
 type: Non-Weapon Proficiency
 class_group: Wizard
+ability:
+  - Intelligence
+check_modifier: -3
 ---
 
 **Alchemy**
 
-:** A wizard with this skill is not necessarily an alchemist or a specialist in the school of alchemy, but he is well-versed in the physical aspects of magical research and the properties of various chemicals, reagents, and substances. If the character has access to a decent laboratory, he can use his knowledge to identify unknown elements or compounds, create small doses of acids, incendiaries, or pyrotechnical substances, or (if he is 9th level or higher) brew potions.
+A wizard with this skill is not necessarily an alchemist or a specialist in the school of alchemy, but he is well-versed in the physical aspects of magical research and the properties of various chemicals, reagents, and substances. If the character has access to a decent laboratory, he can use his knowledge to identify unknown elements or compounds, create small doses of acids, incendiaries, or pyrotechnical substances, or (if he is 9th level or higher) brew potions.
 
 Refer to [[Player's Option- Spells and Magic/Chapter 5- Equipment/Equipment|Chapter 5]] for information on the size, cost, and equipment of an alchemical laboratory. Naturally, a wizard may be able to defray some of the costs by sharing his facilities or striking some kind of deal with a local wizard’s guild; the DM can come up with the details.
 

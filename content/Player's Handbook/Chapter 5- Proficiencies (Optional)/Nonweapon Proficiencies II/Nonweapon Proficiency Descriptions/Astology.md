@@ -6,6 +6,9 @@ type:
 class_group:
   - Priest
   - Wizard
+ability: Intelligence
+check_modifier: 0
+disabled: true
 ---
 
 **Astrology:** This proficiency gives the character some understanding of the supposed influences of the stars. Knowing the birth date and time of any person, the astrologer can study the stars and celestial events and then prepare a forecast of the future for that person. The astrologer's insight into the future is limited to the next 30 days, and his knowledge is vague at best. If a successful proficiency check is made, the astrologer can foresee some general event--a great battle, a friend lost, a new friendship made, etc. The DM decides the exact prediction (based on his intentions for the next few gaming sessions). Note that the prediction does not guarantee the result--it only indicates the potential result. If the proficiency check is failed, no information is gained unless a 20 is rolled, in which case the prediction is wildly inaccurate.

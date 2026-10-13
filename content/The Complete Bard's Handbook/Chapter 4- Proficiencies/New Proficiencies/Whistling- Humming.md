@@ -3,6 +3,12 @@ heading: New Proficiencies (Comp. Bard's Handbook)
 source: https://regalgoblins.com/2erules/CBH/DD04975.htm
 type: Non-Weapon Proficiency
 subclass: Bard
+class_group:
+  - General
+ability:
+  - Dexterity
+check_modifier: 2
+disabled: true
 ---
 **Whistling/Humming**
 

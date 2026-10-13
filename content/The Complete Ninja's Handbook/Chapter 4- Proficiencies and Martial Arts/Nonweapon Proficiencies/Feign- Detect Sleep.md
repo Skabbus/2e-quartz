@@ -1,6 +1,13 @@
 ---
-heading: "Feign/Detect Sleep-- Proficiency (Comp. Ninja's Handbook)"
+heading: Feign/Detect Sleep-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Feign_Detect_Sleep_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - Intelligence
+check_modifier: 0
+disabled: true
 ---
 
 ## Feign/Detect Sleep (Proficiency)

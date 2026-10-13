@@ -6,6 +6,9 @@ class_group:
   - Priest
   - Rogue
 subclass: Paladin
+ability:
+  - Intelligence
+check_modifier: 0
 ---
 **Bureaucracy** 
 

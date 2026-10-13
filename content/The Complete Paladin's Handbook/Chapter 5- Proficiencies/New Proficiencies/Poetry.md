@@ -4,6 +4,9 @@ source: https://regalgoblins.com/2erules/CPaH/DD05419.htm
 type: Non-Weapon Proficiency
 class_group:
   - General
+ability:
+  - Intelligence
+check_modifier: -2
 ---
 **Poetry** 
 

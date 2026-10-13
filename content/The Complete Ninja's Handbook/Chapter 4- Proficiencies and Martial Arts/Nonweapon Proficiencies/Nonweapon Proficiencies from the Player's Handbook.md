@@ -1,5 +1,5 @@
 ---
-heading: "Nonweapon Proficiencies from the Player's Handbook"
+heading: Nonweapon Proficiencies from the Player's Handbook
 source: https://regalgoblins.com/2erules/CNH/Nonweapon_Proficiencies.htm#Nonweapon_Proficiencies_from_the_Player's_Handbook
 ---
 

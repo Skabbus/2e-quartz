@@ -5,11 +5,14 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Warrior
+ability:
+  - Wisdom
+check_modifier: 0
 ---
 
 **Tracking**
 
-:** Characters with tracking proficiency are able to follow the trail of creatures and characters across most types of terrain. Characters who are not rangers roll a proficiency check with a -6 penalty to their ability scores; rangers have no penalty to their ability scores. In addition, other modifiers are also applied to the attempt, according to [[Player's Handbook/Tables/Table 39- Tracking Modifiers|Table 39]].
+Characters with tracking proficiency are able to follow the trail of creatures and characters across most types of terrain. Characters who are not rangers roll a proficiency check with a -6 penalty to their ability scores; rangers have no penalty to their ability scores. In addition, other modifiers are also applied to the attempt, according to [[Player's Handbook/Tables/Table 39- Tracking Modifiers|Table 39]].
 
 The modifiers in Table 39 are cumulative--total the modifiers for all conditions that apply and combine that with the tracker's Wisdom score to get the modified chance to track.
 

@@ -7,6 +7,11 @@ class_group:
   - Priest
 subclass:
 duplicate: false
+ability:
+  - Wisdom
+  - Intelligence
+check_modifier: 0
+disabled: true
 ---
 **Law** 
 

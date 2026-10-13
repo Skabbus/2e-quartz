@@ -5,8 +5,12 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Dexterity
+check_modifier: -1
 ---
 
-**Seamstress/Tailor:** The character can sew and design clothing. He can also do all kinds of embroidery and ornamental work. Although no proficiency check is required, the character must have at least needle and thread to work.
+**Seamstress/Tailor** 
+
+The character can sew and design clothing. He can also do all kinds of embroidery and ornamental work. Although no proficiency check is required, the character must have at least needle and thread to work.
 
 [[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

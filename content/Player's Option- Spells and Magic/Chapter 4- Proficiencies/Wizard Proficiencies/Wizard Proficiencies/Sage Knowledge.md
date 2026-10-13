@@ -2,13 +2,15 @@
 heading: Sage Knowledge-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03468.htm
 type: Non-Weapon Proficiency
-class_group: Wizard
-duplicate: true
+class_group:
+  - Wizard
+  - Priest
+duplicate: false
 ---
 
 **Sage Knowledge**
 
-:** This proficiency represents a specialized area of knowledge or learning. A character with this skill is a fully qualified sage in the area of study chosen and is capable of answering questions concerning the topic after some time spent researching. Refer to [Table 62](..\DMG\DD00577.htm) : Sage Modifiers and [Table 63](..\DMG\DD00578.htm) : Research Times in the *DMG*. As noted in the [DMG](..\DMG\DD00575.htm) , a sage requires an excellent library as a resource—at least 50 to 100 books, costing no less than 10,000 gp altogether. Naturally, a character may be able to strike a deal with a university, monastery, or wizards’ guild hall in order to gain access to their library.
+This proficiency represents a specialized area of knowledge or learning. A character with this skill is a fully qualified sage in the area of study chosen and is capable of answering questions concerning the topic after some time spent researching. Refer to [[Dungeon Master Guide/Tables/Table 62- Sage Modifiers|Table 62- Sage Modifiers]] and [[Dungeon Master Guide/Tables/Table 63- Research Times|Table 63- Research Times]] in the *DMG*. As noted in the [DMG](..\DMG\DD00575.htm) , a sage requires an excellent library as a resource—at least 50 to 100 books, costing no less than 10,000 gp altogether. Naturally, a character may be able to strike a deal with a university, monastery, or wizards’ guild hall in order to gain access to their library.
 
 In addition to his ability to perform sage research, the character’s high level of learning allows him to make field observations or attempt to come up with knowledge off the top of his head. For example, a sage who studies botany may attempt a proficiency check in order to identify a particular plant, while one who studies toxicology may be able to identify a poison by its symptoms in a victim. These on-the-spot observations should be limited to information any expert could reasonably come up with in the field— identifying a common gemstone is one thing for a geologist, but making a guess about the electrical conductivity of quartz crystal or the enchantments of a magical gem is a different matter entirely.
 

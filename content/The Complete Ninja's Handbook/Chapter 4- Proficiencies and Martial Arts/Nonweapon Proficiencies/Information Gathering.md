@@ -1,6 +1,10 @@
 ---
-heading: "Information Gathering-- Proficiency (Comp. Ninja's Handbook)"
+heading: Information Gathering-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Information_Gathering_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+duplicate: true
 ---
 
 ## Information Gathering

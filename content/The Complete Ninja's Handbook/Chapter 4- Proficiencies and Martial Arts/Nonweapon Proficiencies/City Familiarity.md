@@ -1,8 +1,15 @@
 ---
-heading: "City Familiarity-- Proficiency (Comp. Ninja's Handbook)"
+heading: City Familiarity-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/City_Familiarity_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - General
+ability:
+  - Intelligence
+check_modifier: 0
+disabled: true
 ---
-
+ 
 ## City Familiarity
 
 (Proficiency)

@@ -4,6 +4,10 @@ source: https://regalgoblins.com/2erules/SP/DD03028.htm
 type: Non-Weapon Proficiency
 class_group:
   - Wizard
+ability:
+  - Intelligence
+check_modifier: 0
+disabled: true
 ---
 
 **Astronomy**

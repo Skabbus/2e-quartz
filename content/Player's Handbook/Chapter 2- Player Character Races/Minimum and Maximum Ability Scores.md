@@ -3,7 +3,7 @@ heading: "Minimum and Maximum Ability Scores (Player's Handbook)"
 source: https://regalgoblins.com/2erules/PHB/DD01439.htm
 ---
 
-Minimum and Maximum Ability Scores
+**Minimum and Maximum Ability Scores**
 
 All nonhuman PC races (also called “demihuman” races) have minimum and maximum requirements for their ability scores. If you want to have a demihuman character, the character's ability scores must be within the allowable range. The minimums and maximums for each race are listed on [[Player's Handbook/Tables/Table 7- Racial Ability Requirements|Table 7]] (the minimums are listed before the slash; the maximums are listed after the slash). Your character's sex has no effect on these minimums or maximums.
 

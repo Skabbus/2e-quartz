@@ -4,6 +4,9 @@ source: https://regalgoblins.com/2erules/CRH/DD05732.htm
 type: Non-Weapon Proficiency
 class_group:
   - General
+ability:
+  - Intelligence
+check_modifier: -2
 ---
 
 **Cartography**

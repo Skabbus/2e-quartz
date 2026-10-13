@@ -5,6 +5,9 @@ type: Non-Weapon Proficiency
 class_group:
   - Warrior
 subclass:
+ability:
+  - Dexterity
+check_modifier: 2
 ---
 **Jousting** 
 

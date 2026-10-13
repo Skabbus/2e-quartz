@@ -1,32 +1,39 @@
 # Basic Information
 ***
-```
-> [!NOTE] Rogue Experience, Hit Dice and Attack Bonus
-> | **Level** | **Thief/Bard** | **Hit Dice (d8)** | To hit |
-| --------- | -------------- | ----------------- | ------ |
-| 1         | 0              | 1                 | 0      |
-| 2         | 1,250          | 2                 | 0      |
-| 3         | 2,500          | 3                 | +1     |
-| 4         | 5,000          | 4                 | +1     |
-| 5         | 10,000         | 5                 | +2     |
-| 6         | 20,000         | 6                 | +2     |
-| 7         | 40,000         | 7                 | +3     |
-| 8         | 70,000         | 8                 | +3     |
-| 9         | 110,000        | 9                 | +4     |
-| 10        | 160,000        | 10                | +4     |
-| 11        | 220,000        | 10+2              | +5     |
-| 12        | 440,000        | 10+4              | +5     |
-| 13        | 660,000        | 10+6              | +6     |
-| 14        | 880,000        | 10+8              | +6     |
-| 15        | 1,100,000      | 10+10             | +7     |
-| 16        | 1,320,000      | 10+12             | +7     |
-| 17        | 1,540,000      | 10+14             | +8     |
-| 18        | 1,760,000      | 10+16             | +8     |
-| 19        | 1,980,000      | 10+18             | +9     |
-| 20        | 2,200,000      | 10+20             | +9     |
 
-```
-> [!NOTE] Rogue Saving Throws per Level
+> [!tldr]+ Rogue Experience, Hit Dice and Attack Bonus
+> | **Level** | **Thief/Bard** | **Hit Dice (d8)** | To hit |
+>| --------- | -------------- | ----------------- | ------ |
+>| 1         | 0              | 1                 | 0      |
+>| 2         | 1,250          | 2                 | 0      |
+>| 3         | 2,500          | 3                 | +1     |
+>| 4         | 5,000          | 4                 | +1     |
+>| 5         | 10,000         | 5                 | +2     |
+>| 6         | 20,000         | 6                 | +2     |
+>| 7         | 40,000         | 7                 | +3     |
+>| 8         | 70,000         | 8                 | +3     |
+>| 9         | 110,000        | 9                 | +4     |
+>| 10        | 160,000        | 10                | +4     |
+>| 11        | 220,000        | 10+2              | +5     |
+>| 12        | 440,000        | 10+4              | +5     |
+>| 13        | 660,000        | 10+6              | +6     |
+>| 14        | 880,000        | 10+8              | +6     |
+>| 15        | 1,100,000      | 10+10             | +7     |
+>| 16        | 1,320,000      | 10+12             | +7     |
+>| 17        | 1,540,000      | 10+14             | +8     |
+>| 18        | 1,760,000      | 10+16             | +8     |
+>| 19        | 1,980,000      | 10+18             | +9     |
+>| 20        | 2,200,000      | 10+20             | +9     |
+>
+>
+>
+>| **Rogue Action** | **Experience Award** |
+>| --- | --- |
+>| Per successful use of a special ability       | 200 XP |
+>| Per gold piece value of treasure obtained     | 2 XP |
+>| Per Hit Die of creatures defeated (bard only) | 5 XP |
+
+> [!tldr]+ Rogue Saving Throws per Level
 > | **Rogue Experience Level** | **Save against Paralyzation, Poison, or Death Magic** | **Save against Rod, Staff, or Wand** | **Save against Petrification or Polymorph**\* | **Save against Breath Weapon**\*\* | Save against Spell*\*\* |
 > | -------------------------- | ----------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ---------------------------------- | ----------------------- |
 > | 1-4                        | 13                                                    | 14                                   | 12                                            | 16                                 | 15                      |
@@ -35,6 +42,7 @@
 > | 13-16                      | 10                                                    | 8                                    | 9                                             | 13                                 | 9                       |
 > | 17-20                      | 9                                                     | 6                                    | 8                                             | 12                                 | 7                       |
 > | 21+                        | 8                                                     | 4                                    | 7                                             | 11                                 | 5                       |
+> 
 > \*Excluding *polymorph wand* attacks.
 > \*\*Excluding those that cause petrification or polymorph.
 > \*\*\*Excluding those for which another saving throw type is specified, such as death, petrification, polymorph, etc.
@@ -85,8 +93,6 @@ To determine the initial value of each skill, start with the base scores listed.
 | Climb Walls       | 60%            |
 | Read Languages    | 0%             |
 
-
-
 | **Dexterity** | **Pick Pockets** | **Open Locks** | **Find/Remove Traps** | **Move Silently** | **Hide in shadows** |
 | ------------- | ---------------- | -------------- | --------------------- | ----------------- | ------------------- |
 | 9             | -15%             | -10%           | -10%                  | -20%              | -10%                |
@@ -110,25 +116,23 @@ To determine the initial value of each skill, start with the base scores listed.
 | Detect Noise      | --        | +5%     | +10%      | --           | +5%          |
 | Climb Walls       | -10%      | --      | -15%      | --           | -15%         |
 | Read Languages    | -5%       | --      | --        | --           | -5%          |
+
 The scores arrived at in the preceding paragraph do not reflect the effort a thief has spent honing his skills. To simulate this extra training, all thieves at 1st level receive 60 discretionary percentage points that they can add to their base scores. No more than 30 points can be assigned to any single skill. Other than this restriction, the player can distribute the points however he wants.
 
 Each time the thief rises a level in experience, the player receives another 30 points to distribute. No more than 15 points per level can be assigned to a single skill, and no skill can be raised above 95 percent, including all adjustments for Dexterity, race, and armor. 
 
-> [!NOTE] Thief Skills
-> **Pick Pockets:** 
-> ***
+> [!info] Thief Skills
+> ##### **Pick Pockets:** 
 > The thief uses this skill when filching small items from other peoples' pockets, sleeves, girdles, packs, etc., when palming items (such as keys), and when performing simple sleight of hand.
 > 
 > A failed attempt means the thief did not get an item, but it does not mean that his attempt was detected. To determine whether the victim noticed the thief's indiscretion, subtract three times the victim's level from 100. If the thief's pick pockets roll was equal to or greater than this number, the attempt is detected. A 0th-level victim, for example, notices the attempt only if the roll was 00 (100), while a 13th-level character notices the attempt on a dice roll of 61 or more. In some cases, the attempt may succeed and be noticed at the same time.
 > 
 > A thief can try to pick someone's pocket as many times as he wants. Neither failure nor success prevents additional attempts, but getting caught might!
 > 
-> **Open Locks:**
-> ***
+> ##### **Open Locks:**
 > A thief can try to pick padlocks, finesse combination locks (if they exist), and solve puzzle locks (locks with sliding panels, hidden releases, and concealed keyholes). Picking a padlock requires tools. Using typical thief's tools grants normal chances for success. Using improvised tools (a bit of wire, a thin dirk, a stick, etc.) imposes a penalty on the character's chance for success. The DM sets the penalty based on the situation; penalties can range from -5 for an improvised but suitable tool, to -60 for an awkward and unsuitable item (like a stick). The amount of time required to pick a lock is 1d10 rounds. A thief can try to pick a particular lock only once per experience level. If the attempt fails, the lock is simply too difficult for the character until he learns more about picking locks (goes up a level).
 > 
-> **Find/Remove Traps:**
-> ***
+> ##### **Find/Remove Traps:**
 > The thief is trained to find small traps and alarms. These include poisoned needles, spring blades, deadly gases, and warning bells. This skill is not effective for finding deadfall ceilings, crushing walls, or other large, mechanical traps.
 > 
 > To find the trap, the thief must be able to touch and inspect the trapped object. Normally, the DM rolls the dice to determine whether the thief finds a trap. If the DM says, “You didn't find any traps,” it's up to the player to decide whether that means there are no traps or there are traps but the thief didn't see them. If the thief finds a trap, he knows its general principle but not its exact nature. A thief can check an item for traps once per experience level. Searching for a trap takes 1d10 rounds.
@@ -137,26 +141,21 @@ Each time the thief rises a level in experience, the player receives another 30 
 > 
 > This skill is far less useful when dealing with magical or invisible traps. Thieves can attempt to remove these traps, but their chances of success are half their normal percentage.
 > 
-> **Move Silently:** 
-> ***
+> ##### **Move Silently:** 
 > A thief can try to move silently at any time simply by announcing that he intends to do so. While moving silently, the thief's movement rate is reduced to 1/3 normal. The DM rolls percentile dice to determine whether the thief is moving silently; the thief always *thinks* he is being quiet. Successful silent movement improves the thief's chance to surprise a victim, avoid discovery, or move into position to stab an enemy in the back. Obviously, a thief moving silently but in plain view of his enemies is wasting his time.
 > 
-> **Hide in Shadows:** 
-> ***
+> ##### **Hide in Shadows:** 
 > A thief can try to disappear into shadows or any other type of concealment -- bushes, curtains, crannies, etc. A thief can hide this way only when no one is looking at him; he remains hidden only as long as he remains virtually motionless. (The thief can make small, slow, careful movements: draw a weapon, uncork a potion, etc.) A thief can never become hidden while a guard is watching him, no matter what his dice roll is--his position is obvious to the guard. However, trying to hide from a creature that is locked in battle with another is possible, as the enemy's attention is fixed elsewhere. The DM rolls the dice and keeps the result secret, but the thief always *thinks* he is hidden.
 > 
 > Hiding in shadows cannot be done in total darkness, since the talent lies in fooling the eye as much as in finding real concealment (camouflage, as it were). However, hidden characters are equally concealed to those with or without infravision. Spells, magical items, and special abilities that reveal invisible objects can reveal the location of a hidden thief.
 > 
-> **Detect Noise:** 
-> ***
+> ##### **Detect Noise:** 
 > A good thief pays attention to every detail, no matter how small, including faint sounds that most others miss. His ability to hear tiny sounds (behind heavy doors, down long hallways, etc.) is much better than the ordinary person's. Listening is not automatic; the thief must stand still and concentrate on what he's hearing for one round. He must have silence in his immediate surroundings and must remove his helmet or hat. Sounds filtering through doors or other barriers are unclear at best.
 > 
-> **Climb Walls:** 
-> ***
+> ##### **Climb Walls:** 
 > Although everyone can climb rocky cliffs and steep slopes, the thief is far superior to others in this ability. Not only does he have a better climbing percentage than other characters, he can also climb most surfaces without tools, ropes, or devices. Only the thief can climb smooth and very smooth surfaces without climbing gear. Of course, the thief is very limited in his actions while climbing--he is unable to fight or effectively defend himself.
 > 
-> **Read Languages:** 
-> ***
+> ##### **Read Languages:** 
 > Out of necessity, thieves tend to learn odd bits of information. Among these is the ability to read various languages, particularly as they apply to treasure maps, deeds, secret notes, and the like. At 4th level, the thief has enough exposure to languages that he has a chance to read most nonmagical writing. This ability naturally improves with more experience. However, your DM can rule that some languages (those the thief has never encountered) are indecipherable to the thief.
 > 
 > The die roll to read a language must be made every time the character tries to read a document (not just once per language). A successful die roll means the thief puzzled out the meaning of the writing. His understanding of the document is roughly equal to his percentage chance for success: a 20% chance means that, if the thief understands it at all, he gets about 20% of the meaning. A different document in the same language requires another die roll (it probably contains different words). It isn't necessary to keep notes about what languages the thief has read in the past, since each document is handled individually.
@@ -165,15 +164,13 @@ Each time the thief rises a level in experience, the player receives another 30 
 > 
 > If the character knows how to read a given language because he spent a proficiency slot on it, this die roll is unnecessary for documents in that language.
 > 
-> **Backstab:** 
-> ***
+> ##### **Backstab:** 
 > Thieves are weak in toe-to-toe hacking matches, but they are masters of the knife in the back. When attacking someone by surprise and from behind, a thief can improve his chance to successfully hit (+4 modifier for rear attack and negate the target's shield and Dexterity bonuses) and greatly increase the amount of damage his blow causes.
 > 
 > To use this ability, the thief must be behind his victim and the victim must be unaware that the thief intends to attack him. If an enemy sees the thief, hears him approach from a blind side, or is warned by another, he is not caught unaware, and the backstab is handled like a normal attack (although bonuses for a rear attack still apply). Opponents in battle will often notice a thief trying to maneuver behind them--the first rule of fighting is to never turn your back on an enemy! However, someone who isn't expecting to be attacked (a friend or ally, perhaps) can be caught unaware even if he knows the thief is behind him.
 > 
 > The multiplier given in [[Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]] applies to the amount of damage before modifiers for Strength or weapon bonuses are added. The weapon's standard damage is multiplied by the value given in [[Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]]. Then Strength and magical weapon bonuses are added.
 > 
->
 >
 > | **Thief's Level** | **Damage Multiplier** |
 > | ----------------- | --------------------- |
@@ -184,12 +181,10 @@ Each time the thief rises a level in experience, the player receives another 30 
 > 
 > Backstabbing does have limitations. First, the damage multiplier applies only to the first attack made by the thief, even if multiple attacks are possible. Once a blow is struck, the initial surprise effect is lost. Second, the thief cannot use it on every creature. The victim must be generally humanoid. Part of the skill comes from knowing just where to strike. A thief could backstab an ogre, but he wouldn't be able to do the same to a beholder. The victim must also have a definable back (which leaves out most slimes, jellies, oozes, and the like). Finally, the thief has to be able to reach a significant target area. To backstab a giant, the thief would have to be standing on a ledge or window balcony. Backstabbing him in the ankle just isn't going to be as effective. 
 > 
-> **Thieves' Cant:** 
-> ***
+> ##### **Thieves' Cant:** 
 > Thieves' cant is a special form of communication known by all thieves and their associates. It is not a distinct language; it consists of slang words and implied meanings that can be worked into any language. The vocabulary of thieves' cant limits its use to discussing things that interest thieves: stolen loot, easy marks, breaking and entering, mugging, confidence games, and the like. It is not a language, however. Two thieves cannot communicate via thieves' cant unless they know a common language. The cant is useful, however, for identifying fellow cads and bounders by slipping a few tidbits of lingo into a normal conversation.
 > 
-> **Use Scrolls:**
-> ***
+> ##### **Use Scrolls:**
 > At 10th level, a thief gains a limited ability to use magical and priest scrolls. A thief's understanding of magical writings is far from complete, however. The thief has a 25% chance to read the scroll incorrectly and reverse the spell's effect. This sort of malfunction is almost always detrimental to the thief and his party. It could be as simple as accidentally casting the reverse of the given spell or as complex as a foul-up on a *fireball* scroll, causing the ball of flame to be centered on the thief instead of its intended target. The exact effect is up to the DM (this is the sort of thing DMs enjoy, so expect the unexpected).
 
 

@@ -5,6 +5,8 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Priest
+ability: Wisdom
+check_modifier: -2
 ---
 
 **Healing**

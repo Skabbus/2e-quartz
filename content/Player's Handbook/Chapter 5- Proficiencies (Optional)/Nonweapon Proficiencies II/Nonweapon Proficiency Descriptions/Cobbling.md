@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Dexterity
+check_modifier: 0
 ---
 
 **Cobbling**
 
-:** The character can fashion and repair shoes, boots, and sandals.
+The character can fashion and repair shoes, boots, and sandals.
 
 [[Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]
 

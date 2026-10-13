@@ -6,11 +6,15 @@ type:
 class_group:
   - Rogue
   - Warrior
+ability:
+  - Dexterity
+  - Intelligence
+check_modifier: -1
 ---
 
 **Set Snares**
 
-:** The character can make simple snares and traps, primarily to catch small game. These can include rope snares and spring traps. A proficiency check must be rolled when the snare is first constructed and every time the snare is set. A failed proficiency check means the trap does not work for some reason. It may be that the workmanship was bad, the character left too much scent in the area, or he poorly concealed the finished work. The exact nature of the problem does not need to be known. The character can also attempt to set traps and snares for larger creatures: tiger pits and net snares, for example. A proficiency check must be rolled, this time with a -4 penalty to the ability score. In both cases, setting a successful snare does not ensure that it catches anything, only that the snare works if triggered. The DM must decide if the trap is triggered.
+The character can make simple snares and traps, primarily to catch small game. These can include rope snares and spring traps. A proficiency check must be rolled when the snare is first constructed and every time the snare is set. A failed proficiency check means the trap does not work for some reason. It may be that the workmanship was bad, the character left too much scent in the area, or he poorly concealed the finished work. The exact nature of the problem does not need to be known. The character can also attempt to set traps and snares for larger creatures: tiger pits and net snares, for example. A proficiency check must be rolled, this time with a -4 penalty to the ability score. In both cases, setting a successful snare does not ensure that it catches anything, only that the snare works if triggered. The DM must decide if the trap is triggered.
 
 Thief characters (and only thieves) with this proficiency can also attempt to rig man-traps. These can involve such things as crossbows, deadfalls, spiked springboards, etc. The procedure is the same as that for setting a large snare. The DM must determine the amount of damage caused by a man-trap.
 

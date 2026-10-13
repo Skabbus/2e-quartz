@@ -5,6 +5,10 @@ type:
   - Non-Weapon Proficiency
 class_group: Priest
 duplicate: false
+ability:
+  - Intelligence
+check_modifier: -2
+disabled: true
 ---
 **Investigation** 
 

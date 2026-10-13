@@ -3,6 +3,9 @@ heading: Glassblowing-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03461.htm
 type: Non-Weapon Proficiency
 class_group: Wizard
+ability:
+  - Dexterity
+check_modifier: 0
 ---
 
 **Glassblowing**

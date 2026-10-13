@@ -6,6 +6,8 @@ type:
 class_group:
   - Rogue
   - Wizard
+ability: Dexterity
+check_modifier: -2
 ---
 
 **Gem Cutting**

@@ -1,5 +1,5 @@
 ---
-heading: "Nonweapon Proficiencies (Comp. Ninja's Handbook)"
+heading: Nonweapon Proficiencies (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Nonweapon_Proficiencies.htm
 ---
 
@@ -9,29 +9,29 @@ As you'll recall from [[The Complete Ninja's Handbook/Chapter 1- The Ninja Class
 
 #### Table 12: Nonweapon Proficiency Groups
 
-| Proficiency | # of Slots Required | Relevant Ability | Check Modifier |
-| --- | --- | --- | --- |
-| General | | | |
-| [City Familiarity](City_Familiarity_(Proficiency).htm) | 1 | Intelligence | 0 |
-| Warrior | | | |
-| [Style Analysis](Style_Analysis_(Proficiency).htm) | 1 | Intelligence | -1 |
-| Rogue | | | |
-| [Acting](Acting_(Proficiency).htm) | 1 | Charisma | -1 |
-| [Assimilation](Assimilation_(Proficiency).htm) | 1 | Intelligence | 0 |
-| [Detect Signing](Detect_Signing_(Proficiency).htm) | 1 | Intelligence | +1 |
-| [Enamor](Enamor_(Proficiency).htm) | 1 | Charisma | -2 |
-| [Escape](Escape_(Proficiency).htm) | 2 | Dexterity | 0 |
-| [Feign/Detect Sleep](Feign_Detect_Sleep_(Proficiency).htm) | 1 | Intelligence | 0 |
-| [Giant Kite Flying](Giant_Kite_Flying_(Proficiency).htm) | 1 | Dexterity | -3 |
-| [Hold Breath](Hold_Breath_(Proficiency).htm) | 1 | Constitution | 0 |
-| [Information Gathering](Information_Gathering_(Proficiency).htm) | 1 | Intelligence | Var |
-| [Night Vision](Night_Vision_(Proficiency).htm) | 1 | Wisdom | -2 |
-| [Observation](Observation_(Proficiency).htm) | 1 | Intelligence | 0 |
-| [Quick Study](Quick_Study_(Proficiency).htm) | 2 | Varies | -3 |
-| [Toxicology](Toxicology_(Proficiency).htm) | 2 | Intelligence | 0 |
-| [Underclass](Underclass_(Proficiency).htm) | 1 | Wisdom | 0 |
-| [Voice Mimicry](Voice_Mimicry_(Proficiency).htm) | 2 | Charisma | Var |
-| [Water Walking](Water_Walking_(Proficiency).htm) | 1 | Dexterity | -1 |
+| Proficiency               | # of Slots Required | Relevant Ability | Check Modifier |
+| ------------------------- | ------------------- | ---------------- | -------------- |
+| General                   |                     |                  |                |
+| [[City Familiarity]]      | 1                   | Intelligence     | 0              |
+| Warrior                   |                     |                  |                |
+| [[Style Analysis]]        | 1                   | Intelligence     | -1             |
+| Rogue                     |                     |                  |                |
+| [[Acting]]                | 1                   | Charisma         | -1             |
+| [[Assimilation]]          | 1                   | Intelligence     | 0              |
+| [[Detect Signing]]        | 1                   | Intelligence     | +1             |
+| [[Enamor]]                | 1                   | Charisma         | -2             |
+| [[Escape]]                | 2                   | Dexterity        | 0              |
+| [[Feign- Detect Sleep]]          | 1                   | Intelligence     | 0              |
+| [[Giant Kite Flying]]     | 1                   | Dexterity        | -3             |
+| [[Hold Breath]]           | 1                   | Constitution     | 0              |
+| [[Information Gathering]] | 1                   | Intelligence     | Var            |
+| [[Night Vision]]          | 1                   | Wisdom           | -2             |
+| [[Observation]]           | 1                   | Intelligence     | 0              |
+| [[Quick Study]]           | 2                   | Varies           | -3             |
+| [[Toxicology]]            | 2                   | Intelligence     | 0              |
+| [[Underclass]]            | 1                   | Wisdom           | 0              |
+| [[Voice Mimicry]]         | 2                   | Charisma         | Var            |
+| [[Water Walking]]         | 1                   | Dexterity        | -1             |
 
 ## Nonweapon Proficiencies from the Player's Handbook
 

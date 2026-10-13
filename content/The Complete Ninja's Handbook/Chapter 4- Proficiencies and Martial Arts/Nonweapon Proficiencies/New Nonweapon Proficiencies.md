@@ -1,5 +1,5 @@
 ---
-heading: "New Nonweapon Proficiencies (Comp. Ninja's Handbook)"
+heading: New Nonweapon Proficiencies (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/New_Nonweapon_Proficiencies.htm
 ---
 

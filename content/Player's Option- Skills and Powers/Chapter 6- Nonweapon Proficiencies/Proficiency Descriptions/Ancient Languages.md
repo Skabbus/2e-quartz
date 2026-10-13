@@ -5,6 +5,7 @@ type: Non-Weapon Proficiency
 class_group:
   - Priest
   - Wizard
+duplicate: true
 ---
 
 **Ancient Languages**

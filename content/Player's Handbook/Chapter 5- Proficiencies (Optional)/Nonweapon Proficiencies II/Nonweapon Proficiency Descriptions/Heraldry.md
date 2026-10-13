@@ -5,6 +5,8 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Intelligence
+check_modifier: 0
 ---
 
 **Heraldry**

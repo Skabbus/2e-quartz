@@ -3,7 +3,13 @@ heading: Priest Proficiencies (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03474.htm
 type:
   - Non-Weapon Proficiency
-class_group: Priest
+class_group:
+  - Priest
+  - Wizard
+ability:
+  - Intelligence
+check_modifier: -2
+duplicate: true
 ---
 **Sage Knowledge** 
 

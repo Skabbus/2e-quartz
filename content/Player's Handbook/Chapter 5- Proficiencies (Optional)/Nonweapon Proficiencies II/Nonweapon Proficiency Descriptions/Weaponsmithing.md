@@ -5,6 +5,9 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Warrior
+ability:
+  - Intelligence
+check_modifier: -3
 ---
 
 **Weaponsmithing**

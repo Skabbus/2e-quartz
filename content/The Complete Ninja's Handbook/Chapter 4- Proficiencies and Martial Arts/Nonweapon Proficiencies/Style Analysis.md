@@ -1,6 +1,13 @@
 ---
-heading: "Style Analysis-- Proficiency (Comp. Ninja's Handbook)"
+heading: Style Analysis-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Style_Analysis_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Warrior
+ability:
+  - Intelligence
+check_modifier: -1
+disabled: true
 ---
 
 ## Style Analysis

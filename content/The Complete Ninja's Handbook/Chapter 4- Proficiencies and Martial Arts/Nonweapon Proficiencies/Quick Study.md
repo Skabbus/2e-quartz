@@ -1,6 +1,13 @@
 ---
-heading: "Quick Study-- Proficiency (Comp. Ninja's Handbook)"
+heading: Quick Study-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Quick_Study_(Proficiency).htm
+type: Non-Weapon Proficiency
+class_group:
+  - Rogue
+ability:
+  - NA
+check_modifier: -3
+disabled: true
 ---
 
 ## Quick Study

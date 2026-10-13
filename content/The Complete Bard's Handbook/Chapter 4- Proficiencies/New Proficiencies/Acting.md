@@ -5,6 +5,9 @@ type: Non-Weapon Proficiency
 subclass: Bard
 class_group:
   - Rogue
+ability:
+  - Charisma
+check_modifier: -1
 ---
 **Acting**
 

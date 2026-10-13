@@ -3,9 +3,12 @@ heading: Signature Spells (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03472.htm
 type: Non-Weapon Proficiency
 class_group: Wizard
+ability:
+  - NA
+disabled: true
 ---
 
-Signature Spells
+**Signature Spells**
 
 Just as fighters can reach unusual levels of skill by specializing in a particular weapon, a wizard can spend extra proficiency slots (weapon or nonweapon) or character points in order to specialize in a particular spell. This spell is known as a *signature spell*. Unlike fighters, who may only specialize in a single weapon, wizards may have one signature spell per spell level, as long as they have the proficiency slots or character points available.
 

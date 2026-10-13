@@ -1,0 +1,172 @@
+views:
+  - type: table
+    name: All Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - "!class_group.isEmpty()"
+        - disabled != true
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+    columnSize:
+      note.ability: 156
+  - type: table
+    name: General Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group == ["General"]
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Priest Non-Weapon Proficiency Groups
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.contains("Priest")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Wizard Non-Weapon Proficiency Groups
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.contains("Wizard")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Warrior Non-Weapon Proficiency Groups
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.contains("Warrior")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Rogue Non-Weapon Proficiency Groups
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.contains("Rogue")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Fighter Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Warrior")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Paladin Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Warrior", "Priest")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Ranger Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Warrior", "Wizard")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Cleric Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Priest")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Druid Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Priest", "Warrior")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Wizard Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Wizard")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Thief Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Rogue")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier
+  - type: table
+    name: Bard Non-Weapon Proficiencies
+    filters:
+      and:
+        - type == ["Non-Weapon Proficiency"]
+        - duplicate != true
+        - class_group.containsAny("General", "Rogue", "Warrior", "Wizard")
+    order:
+      - file.name
+      - class_group
+      - ability
+      - check_modifier

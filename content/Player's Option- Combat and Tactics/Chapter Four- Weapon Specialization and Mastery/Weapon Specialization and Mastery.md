@@ -3,9 +3,9 @@ heading: "Weapon Specialization & Mastery-- Chapter 4 (Combat and Tactics)"
 source: https://regalgoblins.com/2erules/CT/DD02618.htm
 ---
 
-Chapter Four:
+Chapter Four: Weapon Specialization & Mastery
 
-Weapon Specialization & MasteryIn a desperate battle, the only thing that stands between a brave hero and a grisly end is his skill with blade or shield. Skill at personal combat is a valuable commodity in a fantasy setting; it’s hard to imagine Conan meeting his better at swordplay, or the Gray Mouser encountering a foe swifter and more agile than himself.
+In a desperate battle, the only thing that stands between a brave hero and a grisly end is his skill with blade or shield. Skill at personal combat is a valuable commodity in a fantasy setting; it’s hard to imagine Conan meeting his better at swordplay, or the Gray Mouser encountering a foe swifter and more agile than himself.
 
 This chapter describes a revised weapon proficiency system that includes several grades of specialization as well as new uses for a weapon proficiency. This material is completely compatible with the character point proficiency system described in the [Skills & Powers](..\SP\DD02863.htm#57b7e2df) book; the point system allows characters to purchase proficiency, expertise, specialization, or mastery in the same way that an AD&D character can spend proficiency slots to gain these benefits.
 

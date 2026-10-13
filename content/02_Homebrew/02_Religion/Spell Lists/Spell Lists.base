@@ -18,6 +18,8 @@ views:
     sort:
       - property: level
         direction: ASC
+    columnSize:
+      file.name: 358
   - type: table
     name: Altumus
     filters:

@@ -3,6 +3,10 @@ heading: Fortune Telling (Comp. Thief's Handbook)
 source: https://regalgoblins.com/2erules/CTH/DD05785.htm
 type: Non-Weapon Proficiency
 class_group: Rogue
+ability:
+  - Charisma
+check_modifier: 2
+disabled: true
 ---
 
 **Fortune Telling**

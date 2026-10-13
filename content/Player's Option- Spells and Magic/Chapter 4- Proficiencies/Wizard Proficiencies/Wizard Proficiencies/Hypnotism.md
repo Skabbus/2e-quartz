@@ -3,11 +3,15 @@ heading: Hypnotism-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03462.htm
 type: Non-Weapon Proficiency
 class_group: Wizard
+ability:
+  - Charisma
+check_modifier: -2
+disabled: true
 ---
 
 **Hypnotism**
 
-:** With this proficiency, the wizard can hypnotize another character, placing him into a relaxed state in which he is susceptible to suggestions. The subject must be willing and must know he is being hypnotized. Only human, demihuman, and humanoid characters may be hypnotized, and the hypnotist and subject must be able to understand one another’s language.
+With this proficiency, the wizard can hypnotize another character, placing him into a relaxed state in which he is susceptible to suggestions. The subject must be willing and must know he is being hypnotized. Only human, demihuman, and humanoid characters may be hypnotized, and the hypnotist and subject must be able to understand one another’s language.
 
 It takes about five minutes to hypnotize someone in a reasonably calm or peaceful environment. Once hypnotized, the subject is willing to do almost anything that isn’t very dangerous or against his alignment. However, a hypnotized subject can be fooled into thinking he’s doing one thing when he’s actually doing something else. Hypnotism can have the following effects:
 

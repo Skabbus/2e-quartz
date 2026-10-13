@@ -5,6 +5,10 @@ type: Non-Weapon Proficiency
 class_group:
   - Warrior
   - Priest
+ability:
+  - Charisma
+check_modifier: 0
+disabled: true
 ---
 
 **Oratory** 

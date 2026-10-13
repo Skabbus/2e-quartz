@@ -7,6 +7,8 @@ class_group:
   - Rogue
   - Warrior
 duplicate: false
+ability: Charisma
+check_modifier: 0
 ---
 
 **Gaming**

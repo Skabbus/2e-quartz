@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - General
+ability: Charisma
+check_modifier: 0
 ---
 
 **Etiquette**
 
-:** This proficiency gives the character a basic understanding of the proper forms of behavior and address required in many different situations, especially those involving nobility and persons of rank. Thus, the character will know the correct title to use when addressing a duke, the proper steps of ceremony to greet visiting diplomats, gestures to avoid in the presence of dwarves, etc. For extremely unusual occurrences, a proficiency check must be made for the character to know the proper etiquette for the situation (an imperial visit, for example, is a sufficiently rare event).
+This proficiency gives the character a basic understanding of the proper forms of behavior and address required in many different situations, especially those involving nobility and persons of rank. Thus, the character will know the correct title to use when addressing a duke, the proper steps of ceremony to greet visiting diplomats, gestures to avoid in the presence of dwarves, etc. For extremely unusual occurrences, a proficiency check must be made for the character to know the proper etiquette for the situation (an imperial visit, for example, is a sufficiently rare event).
 
 However, having the character know what is correct and actually do what is correct are two different matters. The encounters must still be role-played by the character. Knowledge of etiquette does not give the character protection from a gaffe or faux pas; many people who know the correct thing still manage to do the exact opposite.
 

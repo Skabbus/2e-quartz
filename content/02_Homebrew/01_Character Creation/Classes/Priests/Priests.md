@@ -1,60 +1,68 @@
 # Basic Information
 ***
-```
 
-> [!NOTE] Priest Experience, Hit Dice and Attack Bonus
+> [!tldr]+ Priest Experience, Hit Dice and Attack Bonus
 > | **Level** | **Cleric** | **Druid** | **Hit Dice (d8)** | To hit |
-| --------- | ---------- | --------- | ----------------- | ------ |
-| 1         | 0          | 0         | 1                 | 0      |
-| 2         | 1,500      | 2,000     | 2                 | 0      |
-| 3         | 3,000      | 4,000     | 3                 | 0      |
-| 4         | 6,000      | 7,500     | 4                 | +2     |
-| 5         | 13,000     | 12,500    | 5                 | +2     |
-| 6         | 27,500     | 20,000    | 6                 | +2     |
-| 7         | 55,000     | 35,000    | 7                 | +4     |
-| 8         | 110,000    | 60,000    | 8                 | +4     |
-| 9         | 225,000    | 90,000    | 9                 | +4     |
-| 10        | 450,000    | 125,000   | 9+2               | +6     |
-| 11        | 675,000    | 200,000   | 9+4               | +6     |
-| 12        | 900,000    | 300,000   | 9+6               | +6     |
-| 13        | 1,125,000  | 750,000   | 9+8               | +8     |
-| 14        | 1,350,000  | 1,500,000 | 9+10              | +8     |
-| 15        | 1,575,000  | 3,000,000 | 9+12              | +8     |
-| 16        | 1,800,000  | 3,500,000 | 9+14              | +10    |
-| 17        | 2,025,000  | 500,000*  | 9+16              | +10    |
-| 18        | 2,250,000  | 1,000,000 | 9+18              | +10    |
-| 19        | 2,475,000  | 1,500,000 | 9+20              | +12    |
-| 20        | 2,700,000  | 2,000,000 | 9+22              | +12    |
-```
-
-> [!NOTE] Priest Spells Received per Level
-> | **Priest Level** | **1** | **2** | **3** | **4** | **5** | **6\*** | **7\*\*** |
-| ---------------- | ----- | ----- | ----- | ----- | ----- | ------- | --------- |
-| 1                | 1     | --    | --    | --    | --    | --      | --        |
-| 2                | 2     | --    | --    | --    | --    | --      | --        |
-| 3                | 2     | 1     | --    | --    | --    | --      | --        |
-| 4                | 3     | 2     | --    | --    | --    | --      | --        |
-| 5                | 3     | 3     | 1     | --    | --    | --      | --        |
-| 6                | 3     | 3     | 2     | --    | --    | --      | --        |
-| 7                | 3     | 3     | 2     | 1     | --    | --      | --        |
-| 8                | 3     | 3     | 3     | 2     | --    | --      | --        |
-| 9                | 4     | 4     | 3     | 2     | 1     | --      | --        |
-| 10               | 4     | 4     | 3     | 3     | 2     | --      | --        |
-| 11               | 5     | 4     | 4     | 3     | 2     | 1       | --        |
-| 12               | 6     | 5     | 5     | 3     | 2     | 2       | --        |
-| 13               | 6     | 6     | 6     | 4     | 2     | 2       | --        |
-| 14               | 6     | 6     | 6     | 5     | 3     | 2       | 1         |
-| 15               | 6     | 6     | 6     | 6     | 4     | 2       | 1         |
-| 16               | 7     | 7     | 7     | 6     | 4     | 3       | 1         |
-| 17               | 7     | 7     | 7     | 7     | 5     | 3       | 2         |
-| 18               | 8     | 8     | 8     | 8     | 6     | 4       | 2         |
-| 19               | 9     | 9     | 8     | 8     | 6     | 4       | 2         |
-| 20               | 9     | 9     | 9     | 8     | 7     | 5       | 2         |
+>| --------- | ---------- | --------- | ----------------- | ------ |
+>| 1         | 0          | 0         | 1                 | 0      |
+>| 2         | 1,500      | 2,000     | 2                 | 0      |
+>| 3         | 3,000      | 4,000     | 3                 | 0      |
+>| 4         | 6,000      | 7,500     | 4                 | +2     |
+>| 5         | 13,000     | 12,500    | 5                 | +2     |
+>| 6         | 27,500     | 20,000    | 6                 | +2     |
+>| 7         | 55,000     | 35,000    | 7                 | +4     |
+>| 8         | 110,000    | 60,000    | 8                 | +4     |
+>| 9         | 225,000    | 90,000    | 9                 | +4     |
+>| 10        | 450,000    | 125,000   | 9+2               | +6     |
+>| 11        | 675,000    | 200,000   | 9+4               | +6     |
+>| 12        | 900,000    | 300,000   | 9+6               | +6     |
+>| 13        | 1,125,000  | 750,000   | 9+8               | +8     |
+>| 14        | 1,350,000  | 1,500,000 | 9+10              | +8     |
+>| 15        | 1,575,000  | 3,000,000 | 9+12              | +8     |
+>| 16        | 1,800,000  | 3,500,000 | 9+14              | +10    |
+>| 17        | 2,025,000  | 500,000*  | 9+16              | +10    |
+>| 18        | 2,250,000  | 1,000,000 | 9+18              | +10    |
+>| 19        | 2,475,000  | 1,500,000 | 9+20              | +12    |
+>| 20        | 2,700,000  | 2,000,000 | 9+22              | +12    |
 >
-\* Usable only by priests with 17 or greater Wisdom.
-\*\* Usable only by priests with 18 or greater Wisdom.
+>
+>
+> | **Priest Action** | **Experience Award** |
+> | --- | --- |
+> | Per successful use of a granted power         | 100 XP               |
+> | Spells cast to further ethos                  | 100 XP/spell level\* |
+> | Making potion or scroll                       | XP value             |
+> | Making permanent magical item                 | XP value             |
 
-> [!NOTE] Priest Saving Throws per Level
+
+> [!tldr]+ Priest Spells Received per Level
+> | **Priest Level** | **1** | **2** | **3** | **4** | **5** | **6\*** | **7\*\*** |
+>| ---------------- | ----- | ----- | ----- | ----- | ----- | ------- | --------- |
+>| 1                | 1     | --    | --    | --    | --    | --      | --        |
+>| 2                | 2     | --    | --    | --    | --    | --      | --        |
+>| 3                | 2     | 1     | --    | --    | --    | --      | --        |
+>| 4                | 3     | 2     | --    | --    | --    | --      | --        |
+>| 5                | 3     | 3     | 1     | --    | --    | --      | --        |
+>| 6                | 3     | 3     | 2     | --    | --    | --      | --        |
+>| 7                | 3     | 3     | 2     | 1     | --    | --      | --        |
+>| 8                | 3     | 3     | 3     | 2     | --    | --      | --        |
+>| 9                | 4     | 4     | 3     | 2     | 1     | --      | --        |
+>| 10               | 4     | 4     | 3     | 3     | 2     | --      | --        |
+>| 11               | 5     | 4     | 4     | 3     | 2     | 1       | --        |
+>| 12               | 6     | 5     | 5     | 3     | 2     | 2       | --        |
+>| 13               | 6     | 6     | 6     | 4     | 2     | 2       | --        |
+>| 14               | 6     | 6     | 6     | 5     | 3     | 2       | 1         |
+>| 15               | 6     | 6     | 6     | 6     | 4     | 2       | 1         |
+>| 16               | 7     | 7     | 7     | 6     | 4     | 3       | 1         |
+>| 17               | 7     | 7     | 7     | 7     | 5     | 3       | 2         |
+>| 18               | 8     | 8     | 8     | 8     | 6     | 4       | 2         |
+>| 19               | 9     | 9     | 8     | 8     | 6     | 4       | 2         |
+>| 20               | 9     | 9     | 9     | 8     | 7     | 5       | 2         |
+>
+> \* Usable only by priests with 17 or greater Wisdom.
+> \*\* Usable only by priests with 18 or greater Wisdom.
+
+> [!tldr]+ Priest Saving Throws per Level
 > | **Priest Experience Level** | **Save against Paralyzation, Poison, or Death Magic** | **Save against Rod, Staff, or Wand** | **Save against Petrification or Polymorph**\* | **Save against Breath Weapon**\*\* | Save against Spell*\*\* |
 > | --------------------------- | ----------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ---------------------------------- | ----------------------- |
 > | 1-3                         | 10                                                    | 14                                   | 13                                            | 16                                 | 15                      |
@@ -64,39 +72,40 @@
 > | 13-15                       | 5                                                     | 9                                    | 8                                             | 11                                 | 10                      |
 > | 16-18                       | 4                                                     | 8                                    | 7                                             | 10                                 | 9                       |
 > | 19+                         | 2                                                     | 6                                    | 5                                             | 8                                  | 7                       |
+> 
 > \*Excluding *polymorph wand* attacks.
 > \*\*Excluding those that cause petrification or polymorph.
 > \*\*\*Excluding those for which another saving throw type is specified, such as death, petrification, polymorph, etc.
 
-```
-> [!NOTE] Wisdom Modifiers
+
+> [!tldr]+ Wisdom Modifiers
 > | Ability Score | Bonus Spells | **Chance of Spell Failure** |
-| ------------- | ------------ | --------------------------- |
-| **1**         | **--**       | **80%**                     |
-| 2             | --           | 60%                         |
-| 3             | --           | 50%                         |
-| 4             | --           | 45%                         |
-| 5             | --           | 40%                         |
-| 6             | --           | 35%                         |
-| 7             | --           | 30%                         |
-| 8             | --           | 25%                         |
-| 9             | 0            | 20%                         |
-| 10            | 0            | 15%                         |
-| 11            | 0            | 10%                         |
-| 12            | 0            | 5%                          |
-| 13            | 1st          | 0%                          |
-| 14            | 1st          | 0%                          |
-| 15            | 2nd          | 0%                          |
-| 16            | 2nd          | 0%                          |
-| 17            | 3rd          | 0%                          |
-| 18            | 4th          | 0%                          |
-| **19**        | **1st, 3rd** | **0%**                      |
-| **20**        | **2nd, 4th** | **0%**                      |
-| **21**        | **3rd, 5th** | **0%**                      |
-| **22**        | **4th, 5th** | **0%**                      |
-| **23**        | **1st, 6th** | **0%**                      |
-| **24**        | **5th, 6th** | **0%**                      |
-| **25**        | **6th, 7th** | **0%**                      |
+>| ------------- | ------------ | --------------------------- |
+>| **1**         | **--**       | **80%**                     |
+>| 2             | --           | 60%                         |
+>| 3             | --           | 50%                         |
+>| 4             | --           | 45%                         |
+>| 5             | --           | 40%                         |
+>| 6             | --           | 35%                         |
+>| 7             | --           | 30%                         |
+>| 8             | --           | 25%                         |
+>| 9             | 0            | 20%                         |
+>| 10            | 0            | 15%                         |
+>| 11            | 0            | 10%                         |
+>| 12            | 0            | 5%                          |
+>| 13            | 1st          | 0%                          |
+>| 14            | 1st          | 0%                          |
+>| 15            | 2nd          | 0%                          |
+>| 16            | 2nd          | 0%                          |
+>| 17            | 3rd          | 0%                          |
+>| 18            | 4th          | 0%                          |
+>| **19**        | **1st, 3rd** | **0%**                      |
+>| **20**        | **2nd, 4th** | **0%**                      |
+>| **21**        | **3rd, 5th** | **0%**                      |
+>| **22**        | **4th, 5th** | **0%**                      |
+>| **23**        | **1st, 6th** | **0%**                      |
+>| **24**        | **5th, 6th** | **0%**                      |
+>| **25**        | **6th, 7th** | **0%**                      |
 
 
 The priest is a believer and advocate of a god from a particular mythos. More than just a follower, he intercedes and acts on behalf of others, seeking to use his powers to advance the beliefs of his mythos.
@@ -132,6 +141,10 @@ Spells are the main tools of the cleric, however, helping him to serve, fortify,
 The cleric receives his spells as insight directly from his deity (the deity does not need to make a personal appearance to grant the spells the cleric prays for), as a sign of and reward for his faith, so he must take care not to abuse his power lest it be taken away as punishment.
 
 The cleric is also granted power over undead -- evil creatures that exist in a form of non-life, neither dead nor alive. The cleric is charged with defeating these mockeries of life. His ability to *turn undead* (see “[[Player's Handbook/Chapter 9- Combat/Turning Undead/Turning Undead|Turning Undead]]” in Chapter 9: Combat) enables him to drive away these creatures or destroy them utterly (though a cleric of evil alignment can bind the creatures to his will). Some of the more common undead creatures are ghosts, zombies, skeletons, ghouls, and mummies. Vampires and liches (undead sorcerers) are two of the most powerful undead.
+
+
+> [!Info]- Cleric Spell List by God
+> ![[Spell Lists.base]] 
 
 # Druid
 ***

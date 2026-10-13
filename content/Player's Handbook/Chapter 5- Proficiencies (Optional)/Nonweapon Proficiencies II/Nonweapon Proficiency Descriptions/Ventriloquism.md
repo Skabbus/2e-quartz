@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Rogue
+ability: Intelligence
+check_modifier: -2
 ---
 
 **Ventriloquism**
 
-:** The character has learned the secrets of “throwing his voice.” Although not actually making sound come from somewhere else (like the spell), the character can deceive others into believing this to be so. When using ventriloquism, the supposed source of the sound must be relatively close to the character. The nature of the speaking object and the intelligence of those watching can modify the character's chance of success. If the character makes an obviously inanimate object talk (a book, mug, etc.), a -5 penalty is applied to his ability score. If a believable source (a PC or NPC) is made to appear to speak, a +2 bonus is added to his ability score. The observer's intelligence modifies this as follows:
+The character has learned the secrets of “throwing his voice.” Although not actually making sound come from somewhere else (like the spell), the character can deceive others into believing this to be so. When using ventriloquism, the supposed source of the sound must be relatively close to the character. The nature of the speaking object and the intelligence of those watching can modify the character's chance of success. If the character makes an obviously inanimate object talk (a book, mug, etc.), a -5 penalty is applied to his ability score. If a believable source (a PC or NPC) is made to appear to speak, a +2 bonus is added to his ability score. The observer's intelligence modifies this as follows:
 
 |  |  |
 | --- | --- |

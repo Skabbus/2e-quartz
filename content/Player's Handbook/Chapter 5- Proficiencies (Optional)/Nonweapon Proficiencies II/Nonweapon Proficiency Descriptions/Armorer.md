@@ -5,11 +5,13 @@ type:
   - Non-Weapon Proficiency
 class_group:
   - Warrior
+ability: Intelligence
+check_modifier: -2
 ---
 
 **Armorer**
 
-:** This character can make all of the types of armor listed in the *Player's Handbook,* given the proper materials and facilities. When making armor, the proficiency check is rolled at the end of the normal construction time.
+This character can make all of the types of armor listed in the *Player's Handbook,* given the proper materials and facilities. When making armor, the proficiency check is rolled at the end of the normal construction time.
 
 The time required to make armor is equal to two weeks per level of AC below 10. For example, a shield would require two weeks of work, whereas a suit of full plate armor would require 18 weeks of work.
 

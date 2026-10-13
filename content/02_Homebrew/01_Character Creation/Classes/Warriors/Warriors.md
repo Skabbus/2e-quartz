@@ -1,31 +1,39 @@
 # Basic Information
 ***
-```
-> [!NOTE]+ Warrior Experience, Hit Dice and Attack Bonus
+
+> [!tldr]+ Warrior Experience, Hit Dice and Attack Bonus
 >| **Level** | **Fighter** | **Paladin/Ranger** | Hit Dice **(d10)** | Attacks per Round | To hit |
-| --------- | ----------- | ------------------ | ------------------ | ----------------- | ------ |
-| 1         | 0           | 0                  | 1                  | 1                 | 0      |
-| 2         | 2,000       | 2,250              | 2                  | 1                 | +1     |
-| 3         | 4,000       | 4,500              | 3                  | 1                 | +2     |
-| 4         | 8,000       | 9,000              | 4                  | 1                 | +3     |
-| 5         | 16,000      | 18,000             | 5                  | 1                 | +4     |
-| 6         | 32,000      | 36,000             | 6                  | 1                 | +5     |
-| 7         | 64,000      | 75,000             | 7                  | 3/2               | +6     |
-| 8         | 125,000     | 150,000            | 8                  | 3/2               | +7     |
-| 9         | 250,000     | 300,000            | 9                  | 3/2               | +8     |
-| 10        | 500,000     | 600,000            | 9+3                | 3/2               | +9     |
-| 11        | 750,000     | 900,000            | 9+6                | 3/2               | +10    |
-| 12        | 1,000,000   | 1,200,000          | 9+9                | 3/2               | +11    |
-| 13        | 1,250,000   | 1,500,000          | 9+12               | 2                 | +12    |
-| 14        | 1,500,000   | 1,800,000          | 9+15               | 2                 | +13    |
-| 15        | 1,750,000   | 2,100,000          | 9+18               | 2                 | +14    |
-| 16        | 2,000,000   | 2,400,000          | 9+21               | 2                 | +15    |
-| 17        | 2,250,000   | 2,700,000          | 9+24               | 2                 | +16    |
-| 18        | 2,500,000   | 3,000,000          | 9+27               | 2                 | +17    |
-| 19        | 2,750,000   | 3,300,000          | 9+30               | 2                 | +18    |
-| 20        | 3,000,000   | 3,600,000          | 9+33               | 2                 | +19    | 
-```
-> [!NOTE] Warrior Saving Throws per Level
+>| --------- | ----------- | ------------------ | ------------------ | ----------------- | ------ |
+>| 1         | 0           | 0                  | 1                  | 1                 | 0      |
+>| 2         | 2,000       | 2,250              | 2                  | 1                 | +1     |
+>| 3         | 4,000       | 4,500              | 3                  | 1                 | +2     |
+>| 4         | 8,000       | 9,000              | 4                  | 1                 | +3     |
+>| 5         | 16,000      | 18,000             | 5                  | 1                 | +4     |
+>| 6         | 32,000      | 36,000             | 6                  | 1                 | +5     |
+>| 7         | 64,000      | 75,000             | 7                  | 3/2               | +6     |
+>| 8         | 125,000     | 150,000            | 8                  | 3/2               | +7     |
+>| 9         | 250,000     | 300,000            | 9                  | 3/2               | +8     |
+>| 10        | 500,000     | 600,000            | 9+3                | 3/2               | +9     |
+>| 11        | 750,000     | 900,000            | 9+6                | 3/2               | +10    |
+>| 12        | 1,000,000   | 1,200,000          | 9+9                | 3/2               | +11    |
+>| 13        | 1,250,000   | 1,500,000          | 9+12               | 2                 | +12    |
+>| 14        | 1,500,000   | 1,800,000          | 9+15               | 2                 | +13    |
+>| 15        | 1,750,000   | 2,100,000          | 9+18               | 2                 | +14    |
+>| 16        | 2,000,000   | 2,400,000          | 9+21               | 2                 | +15    |
+>| 17        | 2,250,000   | 2,700,000          | 9+24               | 2                 | +16    |
+>| 18        | 2,500,000   | 3,000,000          | 9+27               | 2                 | +17    |
+>| 19        | 2,750,000   | 3,300,000          | 9+30               | 2                 | +18    |
+>| 20        | 3,000,000   | 3,600,000          | 9+33               | 2                 | +19    | 
+>
+>
+>
+>| **Warrior Action** | **Experience Award** |
+>| --- | --- |
+>| Per Hit Die of creature defeated | 10 XP/level |
+
+
+
+> [!tldr]+ Warrior Saving Throws per Level
 > | **Warrior Experience Level** | **Save against Paralyzation, Poison, or Death Magic** | **Save against Rod, Staff, or Wand** | **Save against Petrification or Polymorph**\* | **Save against Breath Weapon**\*\* | Save against Spell*\*\* |
 > | ---------------------------- | ----------------------------------------------------- | ------------------------------------ | --------------------------------------------- | ---------------------------------- | ----------------------- |
 > | 0                            | 16                                                    | 18                                   | 17                                            | 20                                 | 19                      |
@@ -38,19 +46,20 @@
 > | 13-14                        | 5                                                     | 7                                    | 6                                             | 5                                  | 8                       |
 > | 15-16                        | 4                                                     | 6                                    | 5                                             | 4                                  | 7                       |
 > | 17+                          | 3                                                     | 5                                    | 4                                             | 4                                  | 6                       |
+> 
 > \*Excluding *polymorph wand* attacks.
 > \*\*Excluding those that cause petrification or polymorph.
 > \*\*\*Excluding those for which another saving throw type is specified, such as death, petrification, polymorph, etc.
 
-> [!NOTE] Exceptional Strength Table
+> [!tldr]+ Exceptional Strength Table
 > | **Ability Score** | **Hit Prob.** | **Dmg. Adj.** | **Weight Allow.** | **Max. Press** | **Open Doors** | **Bend Bars/Lift Gates** |
-| ----------------- | ------------- | ------------- | ----------------- | -------------- | -------------- | ------------------------ |
-| 18                | +1            | +2            | 110               | 255            | 11             | 16%                      |
-| 18/01-50          | +1            | +3            | 135               | 280            | 12             | 20%                      |
-| 18/51-75          | +2            | +3            | 160               | 305            | 13             | 25%                      |
-| 18/76-90          | +2            | +4            | 185               | 330            | 14             | 30%                      |
-| 18/91-99          | +2            | +5            | 235               | 380            | 15(3)          | 35%                      |
-| 18/00             | +3            | +6            | 335               | 480            | 16(6)          | 40%                      |
+>| ----------------- | ------------- | ------------- | ----------------- | -------------- | -------------- | ------------------------ |
+>| 18                | +1            | +2            | 110               | 255            | 11             | 16%                      |
+>| 18/01-50          | +1            | +3            | 135               | 280            | 12             | 20%                      |
+>| 18/51-75          | +2            | +3            | 160               | 305            | 13             | 25%                      |
+>| 18/76-90          | +2            | +4            | 185               | 330            | 14             | 30%                      |
+>| 18/91-99          | +2            | +5            | 235               | 380            | 15(3)          | 35%                      |
+>| 18/00             | +3            | +6            | 335               | 480            | 16(6)          | 40%                      |
 
 The warrior group encompasses the character classes of heroes who make their way in the world primarily by skill at arms: fighters, paladins, and rangers.
 
@@ -79,7 +88,7 @@ The fighter is a warrior, an expert in weapons and, if he is clever, tactics and
 
 As a master of weapons, the fighter is the only character able to have weapon specialization (explained in [[Player's Handbook/Chapter 5- Proficiencies (Optional)/Proficiencies (Optional)|Chapter 5]]). Weapon specialization enables the fighter to use a particular weapon with exceptional skill, improving his chances to hit and cause damage with that weapon by spending additional weapon proficiency slots on a weapon. A fighter character is not required to specialize in a weapon; the choice is up to the player. No other character class--not even ranger or paladin--is allowed weapon specialization.
 
-> [!NOTE]- Weapon Specialization & Mastery
+> [!info]- Weapon Specialization & Mastery
 > When a character specializes with a *melee* weapon, he gains a +1 bonus to all his attack rolls with that weapon and a +2 bonus to all damage rolls (in addition to bonuses for Strength and magic). The attack bonuses are not magical and do not enable the character to affect a creature that can be injured only by magical weapons.
 >
 *Bow* and *crossbow* specialists gain an additional range category: point blank. Point-blank range for bows is from six feet to 30 feet. Point-blank range for crossbows is from six feet to 60 feet. At point-blank range, the character gains a +2 modifier on attack rolls. No additional damage is caused, but Strength (for bows) and magical bonuses apply. Furthermore, if the character has an arrow nocked and drawn, or a bolt loaded and cocked, and has his target in sight, he can fire at the beginning of the round before any initiative rolls are made.
@@ -94,15 +103,14 @@ Fighters who specialize also gain extra attacks earlier than those who don't spe
 >
 >The fighter can also dedicate further Weapon Proficiency slots to *Master* the weapon. 
 >
->| Mastery Level | Melee Weapon                                                                                                                                                                                                                                                                                                                                                              | Ranged Weapon                                                                                                                                                                                                                                                                                                                                                                                                               |
-| ------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| Mastery       | If a fighter spends another proficiency slot on a melee weapon he already specializes in, his attack and damage bonuses increase to +3 and +3, respectively                                                                                                                                                                                                               | For bows and crossbows, his point-blank bonuses increase to +3/+3 as with melee weapons, and he gains an additional +1 to hit at all other range categories, for a total of +2.                                                                                                                                                                                                                                             |
-| High Mastery  | High masters increase the speed factor of their chosen weapon by one category; for example, a slow weapon in the hands of a high master is automatically considered to be of average speed. High masters also score critical hits on rolls of 16 or higher rather than 18 (if the optional critical hit system is used) that hit their opponent by a margin of 5 or more. | High masters who specialize in bows, crossbows, slings, or firearms gain a new range category: extreme range. For all weapons, extreme range is 1/3 farther than long range. For example, if a weapon has a normal maximum range of 18 squares, in the hands of a master it can shoot 24 (1/3x18=6, 18+6=24) squares. Extreme range shots have a –10 penalty to hit before adjustments are made for the effects of mastery. |
-| Grand Mastery | Grand masters gain one additional attack per round above and beyond a specialist’s rate of attacks for their level, so a 12th-level melee weapon grand master would attack 3 times per round with his weapon of choice. The weapon’s base damage die is also increased to the next greater die size against all opponents.                                                | Grand masters gain one additional attack per round above and beyond a specialist’s rate of attacks for their level, so a 12th-level melee weapon grand master would attack 3 times per round with his weapon of choice. The weapon’s base damage die is also increased to the next greater die size against all opponents.                                                                                                  |
->
+> | Mastery Level | Melee Weapon | Ranged Weapon |
+>| ---- | ---- | ---- |
+>| **Mastery** | If a fighter spends another proficiency slot on a melee weapon he already specializes in, his attack and damage bonuses increase to +3 and +3, respectively.  | For bows and crossbows, his point-blank bonuses increase to +3/+3 as with melee weapons, and he gains an additional +1 to hit at all other range categories, for a total of +2.  |
+>| **High Mastery** | High masters increase the speed factor of their chosen weapon by one category; for example, a slow weapon in the hands of a high master is automatically considered to be of average speed. High masters also score critical hits on rolls of 16 or higher rather than 18 (if the optional critical hit system is used) that hit their opponent by a margin of 5 or more. | High masters who specialize in bows, crossbows, slings, or firearms gain a new range category: extreme range. For all weapons, extreme range is 1/3 farther than long range. For example, if a weapon has a normal maximum range of 18 squares, in the hands of a master it can shoot 24 (1/3x18=6, 18+6=24) squares. Extreme range shots have a –10 penalty to hit before adjustments are made for the effects of mastery. |
+>| **Grand Mastery** | Grand masters gain one additional attack per round above and beyond a specialist’s rate of attacks for their level, so a 12th-level melee weapon grand master would attack 3 times per round with his weapon of choice. The weapon’s base damage die is also increased to the next greater die size against all opponents. | Grand masters gain one additional attack per round above and beyond a specialist’s rate of attacks for their level, so a 12th-level melee weapon grand master would attack 3 times per round with his weapon of choice. The weapon’s base damage die is also increased to the next greater die size against all opponents.  |
+
 
 While fighters cannot cast magical spells, they can use many magical items, including potions, protection scrolls, most rings, and all forms of enchanted armor, weapons, and shields.
-
 
 # Ranger
 ***
@@ -111,6 +119,7 @@ While fighters cannot cast magical spells, they can use many magical items, incl
 | --------------------- | ----------------------------------------------------------- |
 | Prime Requisites:     | Strength, Dexterity, Wisdom                                 |
 | Races Allowed:        | Human, Elf, Half-elf                                        |
+
 The ranger must have scores not less than 13 in Strength, 14 in Constitution, 13 in Dexterity, and 14 in Wisdom. The prime requisites of the ranger are Strength, Dexterity, and Wisdom. 
 
 Although the ranger can use any weapon and wear any armor, several of his special abilities are usable only when he is wearing studded leather or lighter armor.

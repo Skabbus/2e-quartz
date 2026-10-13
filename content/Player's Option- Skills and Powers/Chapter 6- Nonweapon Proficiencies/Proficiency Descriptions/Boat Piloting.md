@@ -5,11 +5,14 @@ type: Non-Weapon Proficiency
 class_group:
   - General
 duplicate: false
+ability:
+  - Intelligence
+check_modifier: 0
 ---
 
 **Boat Piloting**
 
-:** This proficiency is useful for negotiating challenging waters with a rowboat, canoe, or small dory. When shooting a rapids, trying to stay afloat in a storm, or trying to row upstream against a strong current, the character will succeed without a proficiency check—unless the water conditions are very extreme. In this case, the DM will require an appropriately modified roll; a successful roll means that the character negotiates the challenge and no further checks are necessary (until the next stretch of rapids, etc.). Failure does not necessarily mean that the boat sinks, but it gets swept away by the current, or turned about, or moderately swamped—with everything and everyone inside getting wet. If the rough water continues, the character must make additional proficiency checks (every 1–6 rounds). The character’s proficiency rating suffers a –1 modifier for each failed check, indicating the difficulty of steering a boat that is slowly filling with water.
+This proficiency is useful for negotiating challenging waters with a rowboat, canoe, or small dory. When shooting a rapids, trying to stay afloat in a storm, or trying to row upstream against a strong current, the character will succeed without a proficiency check—unless the water conditions are very extreme. In this case, the DM will require an appropriately modified roll; a successful roll means that the character negotiates the challenge and no further checks are necessary (until the next stretch of rapids, etc.). Failure does not necessarily mean that the boat sinks, but it gets swept away by the current, or turned about, or moderately swamped—with everything and everyone inside getting wet. If the rough water continues, the character must make additional proficiency checks (every 1–6 rounds). The character’s proficiency rating suffers a –1 modifier for each failed check, indicating the difficulty of steering a boat that is slowly filling with water.
 
 The character also knows the basics of sailing, and can effectively maneuver a single-masted sailboat. As above, challenges will require proficiency checks, with failed checks leading to increasingly dire straits.
 
