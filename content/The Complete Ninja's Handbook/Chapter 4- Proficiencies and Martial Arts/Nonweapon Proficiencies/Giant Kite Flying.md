@@ -1,7 +1,8 @@
 ---
 heading: Giant Kite Flying-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Giant_Kite_Flying_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Rogue
 ability:

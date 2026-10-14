@@ -1,7 +1,8 @@
 ---
 heading: Signature Spells (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03472.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group: Wizard
 ability:
   - NA

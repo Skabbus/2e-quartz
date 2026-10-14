@@ -2,12 +2,12 @@
 heading: Forgery-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01567.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - Rogue
 ability: Dexterity
 check_modifier: -1
-disabled: true
+disabled: false
 ---
 
 **Forgery**

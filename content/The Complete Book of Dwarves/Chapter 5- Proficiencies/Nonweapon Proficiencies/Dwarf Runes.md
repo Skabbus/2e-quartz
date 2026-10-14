@@ -1,7 +1,8 @@
 ---
 heading: Dwarf Runes-- Proficiency (Comp. Book of Dwarves)
 source: https://regalgoblins.com/2erules/CBD/Dwarf_Runes_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 race_allowed:
   - Dwarf
 ---

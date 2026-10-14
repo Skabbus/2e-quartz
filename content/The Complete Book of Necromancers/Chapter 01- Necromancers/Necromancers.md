@@ -3,7 +3,9 @@ heading: "Chapter 01: Necromancers"
 source: https://regalgoblins.com/2erules/CBN/CBN00006.htm
 ---
 
-**CHAPTER 1**Necromancers***Master P., My Lord,M. spotted our unwelcome visitors, and I am writing to report our first confrontation. By the time this message reaches you, I will have raised up more bodies for another attempt. With M. to guide me, I expect no difficulty in locating them again.**
+**Necromancers**
+
+*Master P., My Lord, M. spotted our unwelcome visitors, and I am writing to report our first confrontation. By the time this message reaches you, I will have raised up more bodies for another attempt. With M. to guide me, I expect no difficulty in locating them again.*
 
 The first battle started auspiciously, exactly as you predicted. K. and I first eliminated their battle mage with lightning and mage bolts, while the zombies lurched towards the massed fighters. (There must be some way of enhancing their speed—they make unwieldy tools in battle!) K. and I hurled more mage bolts and dead-hands at their formation, dropping three warriors.
 

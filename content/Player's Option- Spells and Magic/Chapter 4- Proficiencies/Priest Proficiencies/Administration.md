@@ -2,7 +2,7 @@
 heading: Priest Proficiencies (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03474.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group: Priest
 ability:
   - Intelligence

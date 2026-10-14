@@ -1,7 +1,8 @@
 ---
 heading: Animal Handling-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03022.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - General
 duplicate: true

@@ -2,7 +2,7 @@
 heading: Seamstress/Tailor-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01593.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - General
 ability: Dexterity

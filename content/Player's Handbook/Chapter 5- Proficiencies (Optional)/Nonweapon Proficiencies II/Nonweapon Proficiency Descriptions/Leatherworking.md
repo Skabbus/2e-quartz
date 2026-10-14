@@ -2,7 +2,7 @@
 heading: Leatherworking-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01578.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - General
 duplicate: false

@@ -1,7 +1,8 @@
 ---
 heading: City Familiarity-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/City_Familiarity_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - General
 ability:

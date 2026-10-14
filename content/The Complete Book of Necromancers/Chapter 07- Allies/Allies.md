@@ -3,7 +3,9 @@ heading: "Chapter 07: Allies"
 source: https://regalgoblins.com/2erules/CBN/CBN00142.htm
 ---
 
-**CHAPTER 7**Allies***Have I ever told you, my lads, the tale of my adventure on the dreaded Isle of Sahu? At the time when I moored offshore the island, I had no idea of its evil reputation as the homeland for necromancers. Even if I had known, I was young and invincible like you, and in search of dangerous adventure. And besides, our ship was badly in need of fresh water and supplies.**
+**Allies**
+
+*Have I ever told you, my lads, the tale of my adventure on the dreaded Isle of Sahu? At the time when I moored offshore the island, I had no idea of its evil reputation as the homeland for necromancers. Even if I had known, I was young and invincible like you, and in search of dangerous adventure. And besides, our ship was badly in need of fresh water and supplies.*
 
 Now, when I went ashore with a well-armed landing party of brave souls, I found a curious tower fashioned from rusted metal into the shape of a giant toadstool. As I approached, a door in the base of the tower opened, and a pair of plum-robed men welcomed us with a friendly greeting. The elder, an unusual man with weird, bluish skin, introduced himself as Master Pizentios, a scholar of ancient magic. The other man, a much younger, cadaverously thin fellow, was called Sarzec. I gathered from his deferential treatment of Pizentios that he served as an assistant to the older wizard.
 

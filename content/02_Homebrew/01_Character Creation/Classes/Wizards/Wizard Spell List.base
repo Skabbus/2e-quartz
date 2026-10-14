@@ -1,0 +1,18 @@
+views:
+  - type: table
+    name: Tabell
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+    order:
+      - file.name
+      - level
+      - school
+      - type
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78

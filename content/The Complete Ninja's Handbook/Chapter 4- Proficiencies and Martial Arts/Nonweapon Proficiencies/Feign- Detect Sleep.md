@@ -1,7 +1,8 @@
 ---
 heading: Feign/Detect Sleep-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Feign_Detect_Sleep_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Rogue
 ability:

@@ -1,7 +1,8 @@
 ---
 heading: Prestidigitation-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03466.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group: Wizard
 ability:
   - Dexterity

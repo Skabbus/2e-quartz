@@ -1,7 +1,8 @@
 ---
 heading: Astrology-- Proficiency (Comp. Book of Dwarves)
 source: https://regalgoblins.com/2erules/CBD/Astrology_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 race_allowed:
   - Dwarf
 duplicate: true

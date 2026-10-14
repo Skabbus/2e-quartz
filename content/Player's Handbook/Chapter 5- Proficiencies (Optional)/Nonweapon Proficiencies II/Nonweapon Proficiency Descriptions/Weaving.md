@@ -2,7 +2,7 @@
 heading: Weaving-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01606.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - General
 ability: Intelligence

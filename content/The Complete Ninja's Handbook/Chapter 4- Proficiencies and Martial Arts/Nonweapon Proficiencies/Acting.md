@@ -1,7 +1,8 @@
 ---
 heading: Acting-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Acting_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Rogue
 duplicate: true

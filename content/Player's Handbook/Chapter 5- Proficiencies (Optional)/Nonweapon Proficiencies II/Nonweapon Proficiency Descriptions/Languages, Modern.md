@@ -2,7 +2,7 @@
 heading: Languages-- Modern-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01577.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - General
 ability: Intelligence

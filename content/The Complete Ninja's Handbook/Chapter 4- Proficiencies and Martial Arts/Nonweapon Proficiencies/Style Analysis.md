@@ -1,7 +1,8 @@
 ---
 heading: Style Analysis-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Style_Analysis_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Warrior
 ability:

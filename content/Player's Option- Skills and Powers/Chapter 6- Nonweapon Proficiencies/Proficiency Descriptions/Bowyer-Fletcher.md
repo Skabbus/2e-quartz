@@ -1,7 +1,8 @@
 ---
 heading: Bowyer/Fletcher-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03032.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Warrior
 duplicate: true

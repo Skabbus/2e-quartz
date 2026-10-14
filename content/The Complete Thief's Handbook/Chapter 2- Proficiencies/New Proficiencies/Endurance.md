@@ -1,7 +1,8 @@
 ---
 heading: Endurance (Comp. Thief's Handbook)
 source: https://regalgoblins.com/2erules/CTH/DD05783.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group: Rogue
 duplicate: true
 ---

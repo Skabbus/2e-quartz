@@ -2,7 +2,7 @@
 heading: Navigation-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01583.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - Priest
   - Warrior

@@ -3,7 +3,9 @@ heading: "Chapter 08: Tools of the Trade"
 source: https://regalgoblins.com/2erules/CBN/CBN00152.htm
 ---
 
-**CHAPTER 8**Tools of the Trade***Pizentios kept me and the rest of my crew locked in his cellar for days, at the bottom of a deep, dark pit that was sealed by a single trap door. One morning, Apprentice Sarzec opened the trap door and used a rope to lower some noxious stew—perhaps intending to drug us again and feed another sailor to his master’s familiar. We had no intention of sampling his fare once again. By then, of course, we had established a plan of escape.**
+**Tools of the Trade**
+
+*Pizentios kept me and the rest of my crew locked in his cellar for days, at the bottom of a deep, dark pit that was sealed by a single trap door. One morning, Apprentice Sarzec opened the trap door and used a rope to lower some noxious stew—perhaps intending to drug us again and feed another sailor to his master’s familiar. We had no intention of sampling his fare once again. By then, of course, we had established a plan of escape.*
 
 Although stripped of all our possessions and holy symbols, Tala, a priestess with our crew, prayed for a command spell. When the apprentice opened the trap door above us, the cleric suggested that Sarzec jump. Just like that, without hesitation, the dumb sot leaped into the pit with us, breaking both legs when he hit the floor and knocking him out cold. Tala bound Sarzec’s wounds, but I refused to let her set his mangled legs. At least the villain wouldn’t bleed to death. Six of my sailors made a human pyramid, lifting up the first mate until he reached the open trap door. He then secured the rope Sarzec used to lower our food, and we all climbed out, leaving the unconscious apprentice in the pit.
 

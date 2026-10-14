@@ -1,7 +1,8 @@
 ---
 heading: Boatwright-- Proficiency (Comp. Book of Dwarves)
 source: https://regalgoblins.com/2erules/CBD/Boatwright_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 race_allowed:
   - Dwarf
 ---

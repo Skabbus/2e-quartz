@@ -1,7 +1,8 @@
 ---
 heading: Local Dwarf History-- Proficiency (Comp. Book of Dwarves)
 source: https://regalgoblins.com/2erules/CBD/Local_Dwarf_History_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 race_allowed:
   - Dwarf
 duplicate: true

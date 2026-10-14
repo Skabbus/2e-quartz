@@ -1,7 +1,8 @@
 ---
 heading: Hold Breath-- Proficiency (Comp. Ninja's Handbook)
 source: https://regalgoblins.com/2erules/CNH/Hold_Breath_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Rogue
 ability:

@@ -1,7 +1,8 @@
 ---
 heading: Locksmithing-- Proficiency (Comp. Book of Dwarves)
 source: https://regalgoblins.com/2erules/CBD/Locksmithing_(Proficiency).htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 race_allowed:
   - Dwarf
 duplicate: true

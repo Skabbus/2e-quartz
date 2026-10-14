@@ -343,6 +343,7 @@ Select a class that is available to your character's race:
 | Druid\*             | --      | --      | --      | --      | 12      | 15      |
 | Thief               | --      | 9       | --      | --      | --      | --      |
 | Bard\*              | --      | 12      | --      | 13      | --      | 15      |
+
 *Minimum Ability Requirements per Class. [[Player's Handbook/Tables/Table 13- Class Ability Minimums|Table 13]]*
 
 If your character is a fighter, paladin, or ranger, is not a halfling, and has a Strength score of 18, roll d100 to determine exceptional Strength. Consult [[Player's Handbook/Tables/Table 1- Strength|Table 1]] and readjust those bonuses affected by exceptional Strength.
@@ -362,8 +363,8 @@ If your character is a bard, note his thief abilities from [[Player's Handbook/T
 | Warrior | 1d10 |
 | ------- | ---- |
 | Priest  | 1d8  |
-| Rogue   | 1d6  |
-| Mage    | 1d4  |
+| Rogue   | 1d8  |
+| Mage    | 1d6  |
 
 **Step 7: Record Base Movement (**[[Player's Handbook/Chapter 14- Time and Movement/Time and Movement|chapter 14]]**)** Find the character' base movement rate on [[Player's Handbook/Tables/Table 64- Base Movement Rates|Table 64]] and record it. If the optional encumbrance rules are in effect, also record the encumbrance categories from [[Player's Handbook/Tables/Table 47- Character Encumbrance|Table 47]] and modified movement rates and combat abilities.
 

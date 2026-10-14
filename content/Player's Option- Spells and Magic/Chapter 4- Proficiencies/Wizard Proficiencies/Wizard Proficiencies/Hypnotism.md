@@ -1,7 +1,8 @@
 ---
 heading: Hypnotism-- Nonweapon Proficiency-- Wizard (Spells and Magic)
 source: https://regalgoblins.com/2erules/SM/DD03462.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group: Wizard
 ability:
   - Charisma

@@ -2,7 +2,7 @@
 heading: Direction Sense-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01560.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - General
 ability: Wisdom

@@ -3,19 +3,22 @@ views:
     name: NWPs
     filters:
       and:
-        - type == ["Non-Weapon Proficiency"]
+        - type.contains("NWP")
         - duplicate != true
         - disabled != true
+        - "!class_group.isEmpty()"
     order:
       - file.name
       - class_group
       - ability
       - check_modifier
+    columnSize:
+      note.check_modifier: 131
   - type: table
     name: Disabled NWPs
     filters:
       and:
-        - type == ["Non-Weapon Proficiency"]
+        - type == ["NWP"]
         - duplicate != true
         - disabled == true
     order:
@@ -23,11 +26,14 @@ views:
       - class_group
       - ability
       - check_modifier
+      - file.path
+    columnSize:
+      note.check_modifier: 53
   - type: table
     name: Duplicate NWPs
     filters:
       and:
-        - type == ["Non-Weapon Proficiency"]
+        - type == ["NWP"]
         - duplicate == true
     order:
       - file.name

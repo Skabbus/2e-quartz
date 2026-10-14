@@ -1,7 +1,8 @@
 ---
 heading: New Proficiencies (Comp. Paladin's Handbook)
 source: https://regalgoblins.com/2erules/CPaH/DD05419.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Warrior
 subclass:

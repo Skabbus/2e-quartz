@@ -1,7 +1,8 @@
 ---
 heading: Ancient Languages-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03021.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Priest
   - Wizard

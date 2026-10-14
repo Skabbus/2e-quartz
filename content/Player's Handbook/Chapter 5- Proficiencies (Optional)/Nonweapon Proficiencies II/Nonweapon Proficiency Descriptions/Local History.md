@@ -2,7 +2,7 @@
 heading: Local History-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01579.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - Priest
   - Rogue

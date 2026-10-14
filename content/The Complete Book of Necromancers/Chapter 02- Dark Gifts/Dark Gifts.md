@@ -3,7 +3,9 @@ heading: "Chapter 02: Dark Gifts"
 source: https://regalgoblins.com/2erules/CBN/CBN00032.htm
 ---
 
-**CHAPTER 2**Dark Gifts***Long before Talib began to formally study the Art, Jal’ and I knew that we had been kissed by Fate and could perceive things invisible to others. Many times, when we were still children, I would test my brother by placing a stolen turban in his hands, asking him to describe its owner. And he often would stare at the unwrapped linen, gradually outlining the facial features and mannerisms of a strong caravan handler or some dashingly handsome scribe.**
+**Dark Gifts**
+
+*Long before Talib began to formally study the Art, Jal’ and I knew that we had been kissed by Fate and could perceive things invisible to others. Many times, when we were still children, I would test my brother by placing a stolen turban in his hands, asking him to describe its owner. And he often would stare at the unwrapped linen, gradually outlining the facial features and mannerisms of a strong caravan handler or some dashingly handsome scribe.*
 
 But as my brother grew older, his visions became darker and more frightening. Once, when I placed the purse of a young porter in his hands, my brother described a much older and frail man, who appeared to be a merchant of sorts. I laughed and told him his mysterious powers had failed him, but Talib kept staring at the small velvet pouch, and went on to describe how the older merchant had been surprised on the streets one night, while returning home from the evening prayer. In chilling detail, my brother recounted the merchant’s murder at the hands of the young porter from whom I had obtained the purse in the bazaar. That night, the game stopped being fun. We never played it again.
 

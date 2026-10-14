@@ -1,7 +1,8 @@
 ---
 heading: Cobbling-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03036.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - General
 duplicate: true

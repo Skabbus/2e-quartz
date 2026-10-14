@@ -1,7 +1,8 @@
 ---
 heading: New Proficiencies (Comp. Ranger's Handbook)
 source: https://regalgoblins.com/2erules/CRH/DD05732.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - General
 ability:

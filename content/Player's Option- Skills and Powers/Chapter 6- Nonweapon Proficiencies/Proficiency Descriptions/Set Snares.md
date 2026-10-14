@@ -1,7 +1,8 @@
 ---
 heading: Set Snares-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03074.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Rogue
   - Warrior

@@ -1,7 +1,8 @@
 ---
 heading: Ancient History-- Nonweapon Proficiency (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03020.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group:
   - Priest
   - Rogue

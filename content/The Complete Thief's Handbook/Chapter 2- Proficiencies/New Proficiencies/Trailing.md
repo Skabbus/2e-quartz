@@ -1,7 +1,8 @@
 ---
 heading: Trailing (Comp. Thief's Handbook)
 source: https://regalgoblins.com/2erules/CTH/DD05797.htm
-type: Non-Weapon Proficiency
+type:
+  - NWP
 class_group: Rogue
 ability:
   - Dexterity

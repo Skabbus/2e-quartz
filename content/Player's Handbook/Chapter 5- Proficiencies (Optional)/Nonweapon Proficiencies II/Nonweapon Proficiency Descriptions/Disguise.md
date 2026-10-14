@@ -2,7 +2,7 @@
 heading: Disguise-- Nonweapon Proficiency (Player's Handbook)
 source: https://regalgoblins.com/2erules/PHB/DD01561.htm
 type:
-  - Non-Weapon Proficiency
+  - NWP
 class_group:
   - Rogue
 ability: Charisma
