@@ -2,22 +2,18 @@ views:
   - type: table
     name: By Level
     filters:
-      and:
-        - type == ["Spell"]
-        - spellist.contains("Wizard")
-    groupBy:
-      property: level
-      direction: ASC
+      or:
+        - and:
+            - spellist.contains("Wizard")
+            - level > 0
     order:
       - file.name
       - level
     sort:
-      - property: file.name
-        direction: ASC
       - property: level
         direction: ASC
     columnSize:
-      file.name: 555
+      file.name: 223
       note.level: 78
     columnWidth: 200
     imageAspectRatio: 0.5
@@ -28,9 +24,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Evocation", "Invocation/Evocation")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -50,9 +43,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Conjuration", "Conjuration/Summoning")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -72,9 +62,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Illusion", "Illusion/Phantasm", "Divination/Illusion")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -94,9 +81,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Divination", "Divination/Illusion", "Divination/Necromancy")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -116,9 +100,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Divination/Necromancy", "Necromantic", "Necromancy/Alteration", "Necromancy")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -138,9 +119,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Abjuration")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -160,9 +138,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Alteration", "Necromancy/Alteration")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -182,9 +157,6 @@ views:
         - type == ["Spell"]
         - spellist.contains("Wizard")
         - school.containsAny("Enchantment", "Enchantment/Charm")
-    groupBy:
-      property: level
-      direction: ASC
     order:
       - file.name
       - school
@@ -200,13 +172,13 @@ views:
   - type: table
     name: Other
     filters:
-      and:
-        - type == ["Spell"]
-        - spellist.contains("Wizard")
-        - '!school.containsAny("Abjuration", "Alteration", "Conjuration", "Conjuration/Summoning", "Divination", "Divination/Illusion", "Divination/Necromancy", "Enchantment", "Illusion/Phantasm", "Enchantment/Charm", "Evocation", "Invocation/Evocation", "Necromancy", "Necromancy/Alteration", "Illusion")'
-    groupBy:
-      property: level
-      direction: ASC
+      or:
+        - and:
+            - school == ["Dimension"]
+            - spellist.contains("Wizard")
+        - and:
+            - school == ["All Schools"]
+            - spellist.contains("Wizard")
     order:
       - file.name
       - school
