@@ -10,7 +10,6 @@ views:
       direction: ASC
     order:
       - file.name
-      - school
       - level
     sort:
       - property: file.name
