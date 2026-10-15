@@ -1,0 +1,210 @@
+views:
+  - type: kanban
+    name: By Level
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Evocation
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Evocation", "Invocation/Evocation")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Conjuration
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Conjuration", "Conjuration/Summoning")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Illusion
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Illusion", "Illusion/Phantasm", "Divination/Illusion")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Divination
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Divination", "Divination/Illusion", "Divination/Necromancy")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Necromancy
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Divination/Necromancy", "Necromantic", "Necromancy/Alteration", "Necromancy")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Abjuration
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Abjuration")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Alteration
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Alteration", "Necromancy/Alteration")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Enchantment
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - school.containsAny("Enchantment", "Enchantment/Charm")
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5
+  - type: kanban
+    name: Other
+    filters:
+      and:
+        - type == ["Spell"]
+        - spellist.contains("Wizard")
+        - '!school.containsAny("Abjuration", "Alteration", "Conjuration", "Conjuration/Summoning", "Divination", "Divination/Illusion", "Divination/Necromancy", "Enchantment", "Illusion/Phantasm", "Enchantment/Charm", "Evocation", "Invocation/Evocation", "Necromancy", "Necromancy/Alteration", "Illusion")'
+    groupBy:
+      property: level
+      direction: ASC
+    order:
+      - file.name
+      - school
+    sort:
+      - property: level
+        direction: ASC
+    columnSize:
+      file.name: 555
+      note.level: 78
+    columnWidth: 200
+    imageAspectRatio: 0.5

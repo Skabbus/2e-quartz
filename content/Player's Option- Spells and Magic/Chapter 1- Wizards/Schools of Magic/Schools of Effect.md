@@ -5,11 +5,7 @@ source: https://regalgoblins.com/2erules/SM/DD03382.htm
 
 Schools of Effect
 
-A second scheme for organizing wizard magic is by effect. *The* *[Tome of Magic](..\TM\DD04137.htm)
-
-*presented a new type of wizard who could specialize in schools of effect: the elementalist wizard. *Player’s Option:* *[Skills & Powers](..\SP\DD03183.htm#adcc3671)
-
-*introduced the shadow mage, another specialist wizard built around a school of effect.
+A second scheme for organizing wizard magic is by effect. The [Tome of Magic](..\TM\DD04137.htm) presented a new type of wizard who could specialize in schools of effect: the elementalist wizard. *Player’s Option: [Skills & Powers](..\SP\DD03183.htm#adcc3671)* introduced the shadow mage, another specialist wizard built around a school of effect.
 
 Schools of effect differ from schools of philosophy in that the spells of the school all share one common result or ingredient. For example, the spells of the school of fire all involve fire in some way, without regard for what the spell accomplishes. Divinations, the direction and control of energy, and the summoning of elementals can all be linked by the common effect of fire. The schools of effect are described below:
 
