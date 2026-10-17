@@ -1,5 +1,14 @@
 @use "./variables.scss" as *;
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
+
+// Caveat (för letter/parchment-callouts). Ingen @import här: Quartz slår ihop
+// CSS-filer och en @import hamnar då efter andra regler => byggfel.
+@font-face {
+  font-family: 'Caveat';
+  font-style: normal;
+  font-weight: 400 700;
+  font-display: swap;
+  src: url(https://fonts.gstatic.com/s/caveat/v23/WnznHAc5bAfYB2QRah7pcpNvOx-pjfJ9SII.ttf) format('truetype');
+}
 
 // put your custom CSS here!
 /* --- AD&D 2e Tabell-baserat Spell Card --- */
