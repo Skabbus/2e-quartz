@@ -7,13 +7,13 @@ source: https://regalgoblins.com/2erules/TCG/A_Day_in_the_Life_of_a_Peasant.htm
 
 Okay, so enough about the rich, the powerful, and the important. What about the little people? What do the poor, downtrodden, oppressed masses think about all this feudalism?
 
-Surprisingly, for the most part the peasant underclass is relatively well-off in most feudal societies. They are always assured of work, their life spans hover around forty years or so, and they rarely go hungry. When things get dangerous in times of war, they usu ally have a place to hide and. despite the myths to the contrary. the nobility treats most of their servants extremely well.
+Surprisingly, for the most part the peasant underclass is relatively well-off in most feudal societies. They are always assured of work, their life spans hover around forty years or so, and they rarely go hungry. When things get dangerous in times of war, they usually have a place to hide and despite the myths to the contrary the nobility treats most of their servants extremely well.
 
 But aren't they slaves, pressed into service by the wealthy aristocracy? Well, sure they are, in a way. But the key point here is that the serfs understand the fundamental principles of feudalism, and so do their masters.
 
 In truth, the majority of the serfs are not slaves, as open slavery of one's own countrymen is frowned upon in a feudal society. However, they are not completely free. In fact, most serfs are victims of economic slavery. While they don't wear chains or find themselves bought and sold on the auction block, they face no prospect of a better life. Like slaves, they work at seeking out an existence day by day. While they are able to pay their bills and such, they are unable to set aside money for savings. Still, that's the way the system works and most are willing, if not eager, to keep it that way.
 
-For example, while the serf works the land under a grant from the lord, all but a little of the produce from that land goes back to the lord as rent. Usually, a little bit of that food is left over to feed the serf and his family (who also work that same land). Some of that food can be sold for money at market, or back to the lord for a fair price. but the lord has charges for everything on his estate that a serf might need or want.
+For example, while the serf works the land under a grant from the lord, all but a little of the produce from that land goes back to the lord as rent. Usually, a little bit of that food is left over to feed the serf and his family (who also work that same land). Some of that food can be sold for money at market, or back to the lord for a fair price but the lord has charges for everything on his estate that a serf might need or want.
 
 There are charges for using the ovens, for using the tools on loan from the lord, for kegs of salt and spices, etc. In short, since the serfs can't afford to buy these things for themselves, they have to pay the lord for them, and because all of their money goes to the lord, they can never afford these things for themselves. As you can see, we have a vicious cycle of inter-dependance.
 

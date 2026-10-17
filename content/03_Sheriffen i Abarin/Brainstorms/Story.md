@@ -26,7 +26,7 @@ draft: true
 
 **Gamle Olof** - Gamle Olof är en tiggare i byn som får betalt för att gå nattvarvet: han patrullerar runt ute och håller koll efter eldsvådor osv. 
 
-**Harkus Stål** - Harkus Stål är den informella ledaren för det Fjärde Kompaniet. Han antingen jobbar på skogsbruket eller äger skogsbruket. Föredrar nog att han jobbar där.
+**Harkus Stål** - Harkus Stål är ledaren för det Fjärde Kompaniet. Han antingen jobbar på skogsbruket eller äger skogsbruket. Föredrar nog att han jobbar där.
 
 **Drevan** - Drevan är ledaren av Brinkbröderna. 
 

@@ -41,15 +41,15 @@ There are two ways in which this law is enforced. The first, and more serious of
 
 The second aspect of the law is intended to protect the common folk from rough treatment at the hands of trained warriors. Anyone who has been trained in fighting and threatens to use their skills against someone without such training is breaking a major tenet of the Chivalric Code. Because it is considered very improper to use superior weapons against a fairly defenseless serf, this is also a death offense.
 
-In both cases, however, self defense is considered to be an excep. tion to the law.
+In both cases, however, self defense is considered to be an exception to the law.
 
 #### Espionage
 
 Technically, this law applies to all persons who act in a covert manner to obtain the secrets of a realm. However, it is seldom used against the spies of one's lords, which are an accepted part of feudal life.
 
-However, the laws against espio. nage are enforced when the crimi. nal is a spy in the payment of a hostile government or other faction. Such persons, when they are captured, are sometimes tried. convicted, and then traded back to their masters for a ransom. I cases where the spy's master holds one of the lord's own men, an exchange is often made.
+However, the laws against espionage are enforced when the criminal is a spy in the payment of a hostile government or other faction. Such persons, when they are captured, are sometimes tried. convicted, and then traded back to their masters for a ransom. I cases where the spy's master holds one of the lord's own men, an exchange is often made.
 
-It is important to note the difference between espionage and treason. Both crimes involve the giving of information to the ene mies of the realm, but they are very different. Espionage refers to citizens of another realm who are sent into a foreign nation as spies. Such individuals are considered to be simply "doing their job" when they act against a rival power.
+It is important to note the difference between espionage and treason. Both crimes involve the giving of information to the enemies of the realm, but they are very different. Espionage refers to citizens of another realm who are sent into a foreign nation as spies. Such individuals are considered to be simply "doing their job" when they act against a rival power.
 
 Treason, on the other hand, refers to citizens of a realm who sell its secrets to a foreign power. Since they are betraying the nation of their birth, their's is by far the more serious crime.
 

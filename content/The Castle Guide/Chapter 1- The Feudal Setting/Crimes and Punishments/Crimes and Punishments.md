@@ -9,7 +9,7 @@ Feudal societies are often depicted as having harsh and unfair judicial systems 
 
 There are a few concepts which are important to understand about feudal justice. For one thing, the penalties for those convicted of serious crimes are quite severe. The death penalty is quite common, as is branding, whipping, or even dismemberment. While this is not a pleasant thought, it is the way. things are. On the other hand, penalties are not generally overly cruel. Torture, for example, is almost never employed either to obtain confessions or punish the convicted.
 
-The following is a list of various crimes and the generally administered punishments fro those convicted of them. In some places, the penalties will be more severe, while in others they will be more merciful.
+The following is a list of various crimes and the generally administered punishments from those convicted of them. In some places, the penalties will be more severe, while in others they will be more merciful.
 
 * [[The Castle Guide/Chapter 1- The Feudal Setting/Crimes and Punishments/Violent Crimes|Violent Crimes]]
 

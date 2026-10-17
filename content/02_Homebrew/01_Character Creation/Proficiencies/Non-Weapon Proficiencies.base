@@ -18,7 +18,7 @@ views:
     name: Disabled NWPs
     filters:
       and:
-        - type == ["NWP"]
+        - type.contains("NWP")
         - duplicate != true
         - disabled == true
     order:
@@ -33,7 +33,7 @@ views:
     name: Duplicate NWPs
     filters:
       and:
-        - type == ["NWP"]
+        - type.contains("NWP")
         - duplicate == true
     order:
       - file.name

@@ -13,7 +13,7 @@ In the following section, we will examine the many levels of society which chara
 
 ### Serfs
 
-By the time of the middle ages, slavery had gradually fallen out of favor in feudal europe. While there are certain to be isolated pockets of slave trading in most worlds, the vast majority of a chivalric campaign world should not be a party to it. While the distinction between a serf and a slave may be obscure to many, the most important thing to understand is this: the serf had certain rights.
+By the time of the middle ages, slavery had gradually fallen out of favor in feudal Europe. While there are certain to be isolated pockets of slave trading in most worlds, the vast majority of a chivalric campaign world should not be a party to it. While the distinction between a serf and a slave may be obscure to many, the most important thing to understand is this: the serf had certain rights.
 
 While he did not own the land which he worked and did not have a say in the local government he was acknowledged to own himself. Unlike more primitive societies, where members of the lower class were thought of as animals or property, the poor in a feudal society are recognized as having a right to fair and just treatment by the nobility and society in general.
 
@@ -27,7 +27,7 @@ In many cases, of course, a yeoman will swear loyalty to a near-by lord and pay 
 
 ### Tradesmen
 
-Tradesmen make up the lower I classes of a feudal town. They include the common laborers, lesser craftsmen, and small businessmen. As individuals, they hold little power. Because of their overall importance in society, however, they are treated fairly well by the lord of the manor.
+Tradesmen make up the lower classes of a feudal town. They include the common laborers, lesser craftsmen, and small businessmen. As individuals, they hold little power. Because of their overall importance in society, however, they are treated fairly well by the lord of the manor.
 
 As a rule, tradesmen make enough money to support themselves fairly well and to provide a comfortable home for their families. In a modern sense, they might be described as the middle class.
 
@@ -35,7 +35,7 @@ As a rule, tradesmen make enough money to support themselves fairly well and to 
 
 In order to counter the power which a lord maintains over his holdings and make certain that he does not abuse his status, the members of many professions form guilds. In essence, they function like the thieves' guild which is so much a part of many AD&D game campaigns. Guildsmen, the leaders of such groups, have much power in a town, for they can call on workers to stop key activities or delay important projects. Likewise, they can urge increased quality or quantity in times of strife.
 
-In addition to the important members of the various guilds, this class of citizens includes unusually gifted artisans or thosewho work with precious materials (like a gem merchant). This class may be the most diverse of any because it serves as a buffer between. the nobility and the common folk. In modern terms, the guildsmen might be considered to be the upper middle class.
+In addition to the important members of the various guilds, this class of citizens includes unusually gifted artisans or those who work with precious materials (like a gem merchant). This class may be the most diverse of any because it serves as a buffer between the nobility and the common folk. In modern terms, the guildsmen might be considered to be the upper middle class.
 
 As a side note, some guildsmen might have more actual power in a region than the nobles they serve. Such power is probably not openly manifested, but used in subtle ways to help the friends and family of the guildsman. The most important members of this class might be considered nobles who just haven't been given a title yet.
 
@@ -47,7 +47,7 @@ Members of this class are endowed by their own lord (usually a duke, count, or e
 
 ### Nobility
 
-The nobility are second in status only to the royal family. In practice, they are perhaps the most powerful of the classes. Members of the nobility, most of whom bear the title of Count. Duke, Earl, or Marquis, are each entrusted with a large section of the king's land. They swear loyalty to the crown, just as the members of the chivalric class swear loyalty to them. It is their responsibility to see to it that affairs in their lands are orderly and that all taxes and revenues due to the King are colected in a timely manner.
+The nobility are second in status only to the royal family. In practice, they are perhaps the most powerful of the classes. Members of the nobility, most of whom bear the title of Count. Duke, Earl, or Marquis, are each entrusted with a large section of the king's land. They swear loyalty to the crown, just as the members of the chivalric class swear loyalty to them. It is their responsibility to see to it that affairs in their lands are orderly and that all taxes and revenues due to the King are collected in a timely manner.
 
 Members of the nobility have a very close relationship with the royal family, but they can claim no direct blood ties to the throne. In the event that a great disaster were to decimate the ruling house, the successor to the throne would certainly come from this class. The means by which such an individual came to power might be very controversial and a politcal power struggle is sure to erupt whenever the throne is left uncaimed.
 
