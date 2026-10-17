@@ -1,4 +1,5 @@
 @use "./variables.scss" as *;
+@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 
 // put your custom CSS here!
 /* --- AD&D 2e Tabell-baserat Spell Card --- */
@@ -87,21 +88,6 @@
 }
 
 
-
-
-
-/* Gör att fetstilta celler i tabellen ser ut som de gråa rubrikerna */
-.callout[data-callout="spell"] .callout-content td strong {
-  display: block;
-  background-color: #e6e6e6;
-  font-size: 0.75em;
-  text-transform: uppercase;
-  color: #444;
-  padding: 4px 8px;
-  margin: -4px -8px; /* Fyller ut cellens kant */
-  border-bottom: 1px solid #333;
-}
-
 /* Gör att fetstilta celler i tabellen ser ut som de gråa rubrikerna med lite mindre text */
 .callout[data-callout="spell"] .callout-content td strong {
   display: block;
@@ -122,7 +108,7 @@
   margin-right: auto !important;
 }
 
-/* Sök till att texten i tabellcellerna bryts snyggt när kolumnerna har fast bredd */
+/* Se till att texten i tabellcellerna bryts snyggt när kolumnerna har fast bredd */
 .callout[data-callout="spell"] .callout-content th,
 .callout[data-callout="spell"] .callout-content td {
   overflow: hidden;
@@ -169,7 +155,6 @@
 .callout[data-callout="spell"][data-callout-metadata="teal"] .callout-title { background-color: #008b8b !important; }
 .callout[data-callout="spell"][data-callout-metadata="grey"] .callout-title { background-color: #555555 !important; }
 
-@import url('https://fonts.googleapis.com/css2?family=Caveat:wght@400;700&display=swap');
 
 /* Callout-typ: letter / parchment */
 .callout[data-callout="letter"],
@@ -235,7 +220,6 @@
 }
 
 
-@charset "UTF-8";
 /*Callout Positioning*/
 :not(.is-live-preview) .callout.callout.callout:is([data-callout-metadata~="p+l"],
 [data-callout-metadata~=left]) {
