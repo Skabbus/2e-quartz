@@ -1,0 +1,6 @@
+---
+heading: "Seventh-Level Wizard Spells (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01796.htm
+---
+
+7th Level[[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Banishment#9c5d22e4|Banishment]][[Bigby's Grasping Hand|Bigby's Grasping Hand]][[Charm Plants|Charm Plants]][[Control Undead#d81f749d|Control Undead]][[Delayed Blast Fireball|Delayed Blast Fireball]][[Drawmij's Instant Summons|Drawmij's Instant Summons]][[Duo-Dimension|Duo-Dimension]][[Finger of Death|Finger of Death]][[Forcecage|Forcecage]][[Limited Wish|Limited Wish]][[Mass Invisibility|Mass Invisibility]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Monster Summoning V|Monster Summoning V]][[Mordenkainen's Magnificent Mansion|Mordenkainen's Magnificent Mansion]][[Mordenkainen's Sword|Mordenkainen's Sword]][[Phase Door|Phase Door]][[Power Word Stun|Power Word Stun]][[Prismatic Spray|Prismatic Spray]][[Reverse Gravity|Reverse Gravity]][[Sequester|Sequester]][[Shadow Walk|Shadow Walk]][[Simulacrum|Simulacrum]][[Spell Turning|Spell Turning]][[Statue|Statue]][[Teleport Without Error|Teleport Without Error]][[Vanish|Vanish]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Vision|Vision]][[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

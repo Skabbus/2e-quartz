@@ -1,0 +1,8 @@
+---
+heading: "DD02325"
+source: https://regalgoblins.com/2erules/PHB/DD02325.htm
+---
+
+F
+
+[[Fabricate|Fabricate (Wiz 5)]][[Faerie Fire|Faerie Fire (Pr 1)]][[False Vision|False Vision (Wiz 5)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Fear|Fear (Wiz 4)]][[Feather Fall|Feather Fall (Wiz 1)]][[Feeblemind|Feeblemind (Wiz 5)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Third-Level Spells/Feign Death|Feign Death (Pr 3)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Feign Death|Feign Death (Wiz 3)]][Find Familiar (Wiz 1)](..\PHB\DD01825.htm#8f1fd1e4)[[Find Traps|Find Traps (Pr 2)]][[Find the Path|Find the Path (Pr 6)]] [[Finger of Death|Finger of Death (Wiz 7)]][[Fire Charm|Fire Charm (Wiz 4)]][[Fire Seeds|Fire Seeds (Pr 6)]][[Fire Shield|Fire Shield (Wiz 4)]][[Fire Storm|Fire Storm (Pr 7)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Second-Level Spells/Fire Trap|Fire Trap (Pr 2)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Fire Trap|Fire Trap (Wiz 4)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Fireball|Fireball (Wiz 3)]][[Flame Arrow|Flame Arrow (Wiz 3)]][[Flame Blade|Flame Blade (Pr 2)]][[Flame Strike|Flame Strike (Pr 5)]][[Flame Walk|Flame Walk (Pr 3)]][[Flaming Sphere|Flaming Sphere (Wiz 2)]][[Fly Spell|Fly (Wiz 3)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Second-Level Spells/Fog Cloud|Fog Cloud (Wiz 2)]][[Fool's Gold|Fools' Gold (Wiz 2)]][[Forbiddance|Forbiddance (Pr 6)]][[Forcecage|Forcecage (Wiz 7)]][[Foresight|Foresight (Wiz 9)]][[Forget|Forget (Wiz 2)]][[Free Action|Free Action (Pr 4)]][[Friends|Friends (Wiz 1)]][[Fumble|Fumble (Wiz 4)]]

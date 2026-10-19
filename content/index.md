@@ -12,6 +12,6 @@
 [[Nyckelpersoner]]
 
 **Abarin:**
-[[Det Valdorianska Kriget (516-521 4E)]]
+[[Det Valdorianska Kriget (546-551 4E)]]
 [[Tronföljden]]
 

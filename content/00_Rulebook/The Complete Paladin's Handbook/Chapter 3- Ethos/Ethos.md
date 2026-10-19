@@ -1,0 +1,8 @@
+---
+heading: "Chapter 3: Ethos (Comp. Paladin's Handbook)"
+source: https://regalgoblins.com/2erules/CPaH/DD05387.htm
+---
+
+**Chapter 3: Ethos** The set of principles that structures a paladin's life and regulates his behavior is called an *ethos*. While an ethos may encompass the written laws of society, its scope is much broader, incorporating spiritual edicts and moral absolutes to form an ethical ideal. A paladin's ethos defines his attitudes, shapes his personality, and influences virtually every decision he'll ever make. Though a guiding ideology is certainly not unique to paladins, the paladin's ethos differs from that of other character classes in two significant ways. First, the paladin's ethos is complex, comprising a long list of general guidelines and specific rules. Second, the paladin's ethos is uncompromising, requiring absolute dedication. Violations have severe consequences, ranging from reprimands to suspensions of privileges. Extreme violations may result in a complete loss of status and permanent removal of all his special abilities. Still, the paladin considers his ethos a privilege, not a burden. To him, all conduct has a moral quality. Every action is a choice between right and wrong. With justifiable pride, he considers himself an embodiment of the highest standards of human behavior. We begin with the three general components of the paladin's ethos: *strictures* (formal rules), *edicts* (commands from authorities), and *virtues* (behavioral values). The final section explains how a paladin may violate his ethos, and suggests suitable punishments and atonements.
+
+[[00_Rulebook/The Complete Paladin's Handbook/Table of Contents|Table of Contents]]

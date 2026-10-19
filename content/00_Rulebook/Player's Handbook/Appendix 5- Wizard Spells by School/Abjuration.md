@@ -1,0 +1,8 @@
+---
+heading: "Wizard Spells by School-- Appendix 5 (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD02295.htm
+---
+
+**Appendix 5:**
+
+**Wizard Spells by School**(See also[Wizard Spells by School](..\TM\DD04524.htm), Tome of Magic)Abjuration[[Alarm|Alarm (1st)]][[Cantrip|Cantrip (1st)]][[Protection From Evil|Protection From Evil (1st)]][[Protection From Cantrips|Protection From Cantrips (2nd)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Dispel Magic|Dispel Magic (3rd)]] [[Nondetection|Non-Detection (3rd)]] [[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Protection From Evil, 10' Radius|Protection From Evil, 10-foot Radius (3rd)]] [[Protection From Normal Missiles|Protection From Normal Missiles (3rd)]] [[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fourth-Level Spells/Fire Trap|Fire Trap (4th)]][[Minor Globe of Invulnerability|Minor Globe of Invulnerability (4th)]][[Remove Curse Wizard Spell|Remove Curse (4th)]][[Avoidance|Avoidance (5th)]][[Dismissal|Dismissal (5th)]][[Antimagic Shell#f6e51f6c|Anti-Magic Shell (6th)]][[Globe of Invulnerability|Globe of Invulnerability (6th)]][[Repulsion Wizard|Repulsion (6th)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Seventh-Level Spells/Banishment#9c5d22e4|Banishment (7th)]][[Sequester|Sequester (7th)]] [[Spell Turning|Spell Turning (7th)]] [[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Mind Blank|Mind Blank (8th)]][[Serten's Spell Immunity|Serten's Spell Immunity (8th)]][[Imprisonment|Imprisonment (9th)]][[Prismatic Sphere|Prismatic Sphere (9th)]] [[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

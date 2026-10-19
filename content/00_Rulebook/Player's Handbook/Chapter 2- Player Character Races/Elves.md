@@ -1,0 +1,35 @@
+---
+heading: "Elves (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01447.htm
+---
+
+**Elves**
+
+Elves tend to be somewhat shorter and slimmer than normal humans. Their features are finely chiseled and delicate, and they speak in melodic tones. Although they appear fragile and weak, as a race they are quick and strong. Elves often live to be over 1,200 years old, although long before this time they feel compelled to depart the realms of men and mortals. Where they go is uncertain, but it is an undeniable urge of their race.
+
+Elves are often considered frivolous and aloof. In fact, they are not, although humans often find their personalities impossible to fathom. They concern themselves with natural beauty, dancing and frolicking, playing and singing, unless necessity dictates otherwise. They are not fond of ships or mines, but enjoy growing things and gazing at the open sky. Even though elves tend toward haughtiness and arrogance at times, they regard their friends and associates as equals. They do not make friends easily, but a friend (or enemy) is never forgotten. They prefer to distance themselves from humans, have little love for dwarves, and hate the evil denizens of the woods.
+
+Their humor is clever, as are their songs and poetry. Elves are brave but never foolhardy. They eat sparingly; they drink mead and wine, but seldom to excess. While they find well-wrought jewelry a pleasure to behold, they are not overly interested in money or gain. They find magic and swordplay (or any refined combat art) fascinating. If they have a weakness it lies in these interests.
+
+There are five branches of the elven race; aquatic, gray, high, wood, and dark. Elf player characters are always assumed to be of the most common type -- high elves -- although a character can be another type of elf with the DM's permission (but the choice grants no additional powers). To the eye of outsiders, the differences between the groups are mostly cosmetic, but most elves maintain that there are important cultural differences between the various groups. Aquatic elves spend their lives beneath the waves and have adapted to these conditions. Gray elves are considered the most noble and serious-minded of this breed. High elves are the most common. Wood elves are considered to be wild, temperamental, and savage. All others hold that the subterranean dark elves are corrupt and evil, no longer part of the elven community.
+
+A player character elf can be a cleric, fighter, wizard, thief, or ranger. In addition, an elf can choose to be a multi-class fighter/mage, fighter/thief, or ranger. In addition, an elf can choose to be a multi-class fighter/mage, fighter/thief, fighter/mage/thief, or mage/thief. (The rules governing these combinations are explained under “Multi-Class and Dual-Class Characters” in [[00_Rulebook/Player's Handbook/Chapter 3- Player Character Classes/Player Character Classes|Chapter 3]]: Player Character Classes).
+
+Elves have found it useful to learn the languages of several of the forest's children, both the good and the bad. As initial languages, an elf can choose common, elf, gnome, halfling, goblin, hobgoblin, orc, and gnoll. The number of languages an elf can learn is limited by his Intelligence (see [[00_Rulebook/Player's Handbook/Tables/Table 4- Intelligence|Table 4]]) or the proficiency slots he allots to languages (if that optional system is used).
+
+**Charm Resistance**
+Elven characters have 90% resistance to *sleep* and all *charm-*related spells. (See [[00_Rulebook/Player's Handbook/Chapter 9- Combat/Combat|Chapter 9]]: Combat for an explanation of magic resistance.) This is in addition to the normal saving throw allowed against a *charm* spell.
+
+**Elven Weaponry**
+When employing a bow of any sort other than a crossbow, or when using a short or long sword, elves gain a bonus of +1 to their attack rolls.
+
+**Silent Stalker**
+An elf can gain a bonus to surprise opponents, but only if the elf is not in metal armor. Even then, the elf must either be alone, or with a party comprised only of elves or halflings (also not in metal armor), or 90 feet or more away from his party (the group of characters he is with) to gain this bonus. If he fulfills these conditions, he moves so silently that opponents suffer a -4 penalty to their surprise die rolls. If the elf must open a door or screen to attack, this penalty is reduced to -2.
+
+**Infravision**
+Elven infravision enables them to see up to 60 feet in darkness.
+
+**Perceptive**
+Secret doors (those constructed so as to be hard to notice) and concealed doors (those hidden from sight by screens, curtains, or the like) are difficult to hide from elves. Merely passing within 10 feet of a concealed door gives an elven character a one-in-six chance (roll a 1 on 1d6) to notice it. If actively searching for such doors, elven characters have a one-in-three chance (roll a 1 or 2 on 1d6) to find a secret door and a one-in-two chance (roll a 1, 2, or 3 on 1d6) to discover a concealed portal.
+
+As stated previously, elven characters add 1 to their initial Dexterity scores. Likewise, as elves are not as sturdy as humans, they deduct 1 from their initial Constitution scores.(See also the [Arms & Equipment Guide](..\AEG\DD00022.htm), [Monstrous Manual](..\MM\DD03884.htm#bdd25536), [Player's Option: Skills & Powers](..\SP\DD02894.htm) and [The Complete Book of Elves](..\CBE\DD04706.htm))[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

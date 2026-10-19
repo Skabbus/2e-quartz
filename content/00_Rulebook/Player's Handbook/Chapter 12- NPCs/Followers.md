@@ -1,0 +1,16 @@
+---
+heading: "Followers (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01763.htm
+---
+
+**Followers**
+
+More reliable than those who are motivated purely by money are those characters who, while they expect pay, were originally drawn into service by the reputation of the player character. These are *followers*, usually a unit of soldiers of one type or another. Followers serve only those of significant power and reputation, thus the construction of a stronghold is necessary to attract followers.
+
+Followers have the same needs and limitations of hirelings. Most must be paid and well-treated. They also do not accompany the player characters on group adventures. They have some advantages over hirelings, however. Followers do not serve for a specific term of contract. They remain with the player character as long as their basic needs are met. They are more loyal than the average hireling and are treated as elite troops. Unlike most hirelings, followers can increase in level (although this occurs very slowly since they act only as soldiers). All followers in a unit advance to the next level at the same time. Finally, the player character need not seek out followers--they come to him, seeking out positions within his illustrious household.
+
+Followers appear only once. Replacements do not arrive to fill the ranks of the fallen. (Massive losses of followers in combat only gives the character a bad reputation, discouraging others from flocking to his banner.) Player characters should take care of their followers, perhaps treating them as an elite bodyguard.
+
+Some characters attract unique followers such as animals or magical beings. Although termed followers, these creatures are more properly treated as henchmen in terms of loyalty and what they will and will not do. They do not count against the character's limit on henchmen, however, since they are technically followers.
+
+[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

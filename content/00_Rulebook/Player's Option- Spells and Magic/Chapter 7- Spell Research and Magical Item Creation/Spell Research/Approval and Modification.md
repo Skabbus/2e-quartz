@@ -1,0 +1,10 @@
+---
+heading: "Approval and Modification-- Spell (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03558.htm
+---
+
+Approval and Modification
+
+After the player writes up the spell and refines it, the DM should review and analyze the spell. Is it the right level, or is it more powerful than it should be? If the PC was the target of his own spell, would it completely obliterate him? This might be a sign that the spell is too strong. Are the effects reasonable and appropriate for its power level? Does it permit the subject a chance to avoid its effects? Does the spell intrude on a role best left to another character—in other words, would it make the wizard a better thief than the party’s thief, a better fighter than the party’s fighter, and so on? A spell can take a few steps in this direction, but it should be examined carefully. And, most importantly: do you, the DM, think that this spell will make your game better or make it worse?
+
+If the spell is well-balanced and well-considered, then the PC can go on to [[Conducting Research|Conducting Research]] . However, if it needs some work still, you can either return it to the player and inform him of any objections, or pencil in the modifications you think are appropriate to make the spell work in your campaign. Remember, the player always has the option of deciding to not go through with the research if he doesn’t like the way the spell turned out after the DM looked at it![[00_Rulebook/Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

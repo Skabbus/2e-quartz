@@ -116,7 +116,7 @@ Like the wizard, the priest's level determines how many spells he retains. He mu
 
 All priests have a limited selection of weapons and armor, but the restrictions vary according to the mythos.
 
-All priests use [[Player's Handbook/Tables/Table 23- Priest Experience Levels|Table 23]] to determine their advancement in level as they gain experience points. They also all use [[Player's Handbook/Tables/Table 24- Priest Spell Progression|Table 24]] to determine how many spells they receive at each level of experience.
+All priests use [[00_Rulebook/Player's Handbook/Tables/Table 23- Priest Experience Levels|Table 23]] to determine their advancement in level as they gain experience points. They also all use [[00_Rulebook/Player's Handbook/Tables/Table 24- Priest Spell Progression|Table 24]] to determine how many spells they receive at each level of experience.
 
 All priests spells are divided into 16 categories called *spheres of influence.* Different types of priests have access to different spheres; no priest can cast spells from every sphere of influence. The 16 spheres of influence are as follows: All, Animal, Astral, Charm, Combat, Creation, Divination, Elemental, Guardian, Healing, Necromantic, Plant, Protection, Summoning, Sun, and Weather.
 
@@ -140,7 +140,7 @@ Spells are the main tools of the cleric, however, helping him to serve, fortify,
 
 The cleric receives his spells as insight directly from his deity (the deity does not need to make a personal appearance to grant the spells the cleric prays for), as a sign of and reward for his faith, so he must take care not to abuse his power lest it be taken away as punishment.
 
-The cleric is also granted power over undead -- evil creatures that exist in a form of non-life, neither dead nor alive. The cleric is charged with defeating these mockeries of life. His ability to *turn undead* (see “[[Player's Handbook/Chapter 9- Combat/Turning Undead/Turning Undead|Turning Undead]]” in Chapter 9: Combat) enables him to drive away these creatures or destroy them utterly (though a cleric of evil alignment can bind the creatures to his will). Some of the more common undead creatures are ghosts, zombies, skeletons, ghouls, and mummies. Vampires and liches (undead sorcerers) are two of the most powerful undead.
+The cleric is also granted power over undead -- evil creatures that exist in a form of non-life, neither dead nor alive. The cleric is charged with defeating these mockeries of life. His ability to *turn undead* (see “[[00_Rulebook/Player's Handbook/Chapter 9- Combat/Turning Undead/Turning Undead|Turning Undead]]” in Chapter 9: Combat) enables him to drive away these creatures or destroy them utterly (though a cleric of evil alignment can bind the creatures to his will). Some of the more common undead creatures are ghosts, zombies, skeletons, ghouls, and mummies. Vampires and liches (undead sorcerers) are two of the most powerful undead.
 
 
 > [!Info]- Cleric Spell List by God
@@ -186,6 +186,6 @@ The precise details of each combat are worked out between the two combatants in 
 
 When a character becomes a 12th-level druid, he gains three underlings. Their level depends on the character's position among the nine druids. The druid with the most experience points is served by three initiates of 9th level; the second-most experienced druid is served by three initiates of 8th level; and so on, until the least experienced druid is served by three 1st-level initiates.
 
-Only three archdruids (13th level) can operate in a geographical region. To become an archdruid, a 12th-level druid must defeat one of the reigning archdruids or advance into a vacant position. Each of the three archdruids is served by three initiates of 10th level. From among the archdruids of the entire world, three are chosen to serve the Grand Druid (see “[[Player's Handbook/Chapter 3- Player Character Classes/Class Descriptions/Priest/Druid/The Grand Druid|The Grand Druid and Hierophant Druids]]” section). These three retain their attendees but are themselves servants of the Grand Druid.
+Only three archdruids (13th level) can operate in a geographical region. To become an archdruid, a 12th-level druid must defeat one of the reigning archdruids or advance into a vacant position. Each of the three archdruids is served by three initiates of 10th level. From among the archdruids of the entire world, three are chosen to serve the Grand Druid (see “[[The Grand Druid|The Grand Druid and Hierophant Druids]]” section). These three retain their attendees but are themselves servants of the Grand Druid.
 
 The Great Druid (14th level) is unique in his region. He, too, won his position from the previous great druid. He is served by three initiates of 11th level.

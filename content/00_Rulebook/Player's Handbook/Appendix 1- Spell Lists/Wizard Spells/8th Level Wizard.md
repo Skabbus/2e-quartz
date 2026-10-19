@@ -1,0 +1,6 @@
+---
+heading: "Eighth-Level Wizard Spells (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01797.htm
+---
+
+8th Level[[Antipathy-Sympathy#bfd3c971|Antipathy-Sympathy]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Bigby's Clenched Fist|Bigby's Clenched Fist]][[Binding|Binding]][[Clone|Clone]][[Demand|Demand]][[Glassteel|Glassteel]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Incendiary Cloud|Incendiary Cloud]][[Mass Charm|Mass Charm]][[Maze|Maze]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Mind Blank|Mind Blank]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Monster Summoning VI|Monster Summoning VI]][[Otiluke's Telekinetic Sphere|Otiluke's Telekinetic Sphere]][[Otto's Irresistable Dance|Otto's Irresistable Dance]][[Permanency|Permanency]][[Polymorph Any Object|Polymorph Any Object]][[Power Word, Blind|Power Word, Blind]][[Prismatic Wall|Prismatic Wall]][[Screen|Screen]][[Serten's Spell Immunity|Serten's Spell Immunity]][[Sink|Sink]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Eighth-Level Spells/Symbol|Symbol]][[Trap the Soul|Trap the Soul]][[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

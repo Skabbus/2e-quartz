@@ -1,0 +1,102 @@
+---
+heading: "Golem-- General (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD03927.htm
+---
+
+Golem, General
+
+![[GOLEMARC.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+
+Golems are magically created automatons of great power. The construction of one involves mighty magic and elemental forces.
+
+**Background:** Golems predate any known literature about their creation. The wizard who discovered the process, if indeed there was only one, is unknown. Some of the rediscoverers have written their secrets in various arcane manuals, enchanted to aid the reader in construction. It is thought that the first golem created was a flesh golem, possibly an accident of some great wizard experimenting with reanimating human bodies. Flesh golems are easier to make than any other sort because they are made of organic material that once lived. Later, the process was generalized to suit certain earthen materials, which produce much stronger golems.
+
+**Theory:** Golems are all made from elemental material. So far, the great wizards have only discovered how to use various earthen materials, such as clay, stone, iron, and even glass, to make golems. The exceptions, such as the flesh golem, use organic materials as components. The animating force of the golem is an elemental spirit from the elemental plane of Earth. Since the spirit is not a natural part of the body, it is not affected by most spells or even by most weapons (see individual descriptions). The process of creating the golem binds the unwilling spirit to the artificial body, and enslaves it to the will of the golem's creator. The nature of this spirit is unknown, and has so far eluded the grasp of all researchers. What is known is that it is hostile to all Prime Material plane life forms, especially toward the spell caster that bound it to the golem.
+
+Carving or assembling the golem's physical body is an exacting task. Most spell casters end up hiring skilled labor to do it for them, such as a stone mason or dwarf for stone golems, etc. If the maker has no experience working in that material, the construction time is doubled. The standard spells for creating golems specify the size of the creature. Anything bigger or smaller will not work, although some have investigated spells for other sizes of golems, with limited success.
+
+The costs listed include the base physical body and the unusual materials and spell components that are consumed or become a permanent part of the golem. The rituals used to animate the golem require as much as a full uninterrupted month to complete (included in the time below), though some variants such as the necrophidius and scarecrow reduce that time by employing shortcuts. In all cases the spells used can come from devices, such as wands or scrolls. If a magical tome is used to make the golem, no spells are needed, and the level of the spell caster can be significantly lower.
+
+**Golem Creation Table**(Note: W18 = 18th-level wizard, P17 = 17th level priest, etc.)
+
+|  |  |  |  |
+| --- | --- | --- | --- |
+| **Type of Golem** | **Creator** | **Construction Time** | **GP Cost** |
+| Bone | W18 | 2 months | 35,000 |
+| Caryatid | W16 | 4 months | 100,000 |
+| Clay | P17 | 1 month | 65,000 |
+| Doll | P15 | 2 months | 20,000 |
+| Flesh | W14 | 2 months | 50,000 |
+| Gargoyle | P16 | 4 months | 100,000 |
+| Glass | P14/W14 | 6 months | 125,000 |
+| Guardian | W14 | 1 month | 20,000 |
+| Iron | W18 | 4 months | 100,000 |
+| Juggernaut | W16 | 3 months | 80,000 |
+| Necrophidius | P9/W14 | 10 days | 8,000 |
+| Scarecrow | P9 | 21 days | 100 |
+| Stone | W16 | 3 months | 80,000 |
+
+**Combat:** All golems share several traits in common. They are all immune to all forms of poison and cannot be affected by *hold, charm, fear,* or other mindbased spells, as they have no minds of their own. Certain spells can harm golems; these are mentioned below.
+
+Most golems are fearless and need never check morale.
+
+**Flesh Golems**The pieces of the golem must be sewn together from the dead bodies of normal humans that have not decayed significantly. A minimum of 6 different bodies must be used, one for each limb, one for the torso (with head), and a different one for the brain. In some cases, more bodies may be necessary to form a complete golem. The spells needed are *wish, polymorph any object, geas, protection from normal missiles,* and *strength.
+
+***Clay Golems**Only a lawful good priest can create a clay golem. The body is sculpted from a single block of clay weighing at least 1000 pounds, which takes about a month. The vestments, which cost 30,000 gp, are the only materials that are not consumed and can be reused, reducing the total cost after the first golem. The spells used are *resurrection, animate object, commune, prayer,* and *bless.
+
+***Stone Golems**A stone golem's body is chiseled from a single block of hard stone, such as granite, weighing at least 3000 pounds, which takes 2 months. The rituals to animate require another month. The materials and spell components alone cost 60,000 gold pieces and the spells used are *wish, polymorph any object, geas,* and *slow.
+
+***Iron Golems**It takes 5000 pounds of iron,to build the body, which must be done by a skilled iron smith. The spells used in the ritual are *wish, polymorph any object, geas,* and *cloud kill.* Construction of the body requires an ornate sword which is incorporated into the monster. A magical sword can be used, in which case there is a 50% chance that it is drained of magic when the golem is animated. The golem can only use those abilities of the sword that are automatic. Any property that requires a command word and any sentient ability of the sword is lost. If the sword is ever removed from the golem, it loses all of its magic.
+
+**Variant Golems**The first golems were, undoubtedly, all traditional golems. Over the years, however, various wizards and priests examined the techniques employed by earlier designers and modified them. As they introduced changes, they documented the processes they used to create their new constructs. This process of study and modification is never-ending. Even today, the work of these mysterious scholars is being studied and revised in magical colleges around the world.
+
+**Theory:** Like other golems, golem variants depend on the powerful forces of elemental magic to animate them. They have no lives of their own and are animated by a spirit from the elemental plane of Earth. In some cases this spirit is tricked, lured, or forced into animating the body while in other cases it comes willingly. In the former cases, the stone construct sometimes breaks free of the influence of its creator and becomes a free-willed entity. Because of the nature of its physical shell, constructs that break free often become berserk killers, destroying everything in their paths before being annihilated themselves.
+
+**Construction:** The actual construction of any golem's physical body is a tiring and demanding task. Although the steps required to create a variant golem differ depending on the type, they do have some elements in common. The most important of these is the degree of detail that is put into the carving of the body. In the case of the caryatid column, for example, the construct must be lovingly crafted with great skill. In most cases, the wizard or priest creating a caryatid column hires a professional sculptor or stone mason to undertake this step of the animation process.
+
+Less sophisticated golems, like the stone guardian and the primitive scarecrow, do not require the artistic perfection of the caryatid column. However, they are often covered with delicate mystical runes or glyphs that must be perfect if the creature is to be successfully animated.
+
+**Bone Golem**The body of a bone golem is assembled wholly from the bones of animated skeletons who have been defeated in combat. Any type of skeletal undead will do, but all must have been created and slain in the Demiplane of Dread. Only 10% of the bones from any given skeleton can be used, so the final product is the compilation of bones from many creatures. Often, there will be animal, monster, and human bones in the same golem, giving the creature a nightmarish appearance. The spells woven over the body must include *animate dead, symbol of fear, binding,* and *wish.
+
+***Caryatid column**The caryatid column can be created by a priest or wizard using a special version of the manual of golems. Whenever such a tome is discovered, there is a 20% chance that it describes a caryatid column.
+
+**Doll Golem**These creatures resemble a child's toy -- often a baby doll or stuffed animal. Doll golems can serve as either the guardians of children or as murdering things too foul to contemplate.
+
+The spells needed to complete the animation are *imbue with spell ability, Tasha's uncontrollable hideous laughter, (un)holy word, bless,* and *prayer.* The first known examples of this type of golem turned up on the Demiplane of Dread in the land of Sanguinia.
+
+**Gargoyle Golem**This creature is fashioned in the image of a real gargoyle and is often placed as a warden atop buildings, cathedrals, or tombs. It is most similar to the stone golem; the body must be carved from a single slab of granite (weighing 3,000 pounds) and prepared with expensive components. Only the vestments created for the process are reusable (saving 15,000 gp on the cost of additional gargoyle golems). The spells required to complete the process are *bless, exaction, (un)holy word, stone shape, conjure earth elemental,* and *prayer.
+
+***Glass Golem**The glass golem is composed entirely of stained glass. Perhaps the most artistic of all golems, its creation requires the following spells: *glassteel, animate object, prismatic spray, rainbow,* and *wish.* Because of the mixture of spells, this type of golem is usually built by multi- or dual-classed characters or with the aid of a powerful assistant.
+
+The first appearance of glass golems is not recorded with certainty. It is believed that they were created by a spell-caster who fancied himself an artist (hence their eerie beauty), but no one knows.
+
+**Juggernaut**Juggernauts that can alter their form require an extra step in their creation, which normally resembles the process to make a stone golem. Prior to animating a juggernaut, the wizard must use the mimic blood as a material component in the final spells woven over the body. This addition gives this golem variant intelligence and an alignment.
+
+**Necrophidius**A necrophidius may be created in one of three ways. The first is a special form of *manual of golems* that provides secrets of its construction. The *Necrophidicon,* as it is called, must be burnt to ashes that provide the monster's animating force. The other two arcane and priestly processes are long and complex. A wizard must cast *limited wish, geas,* and *charm person* spells. A priest requires the spells *quest, neutralize poison, prayer, silence,* and *snake charm*. Whichever method is used, the monster requires a complete giant snake skeleton (either poisonous or constrictor), slain within 24 hours of the enchantment's commencement. Each necrophidius is built for a single specific purpose (which must be in the spellcaster's mind when he creates it), such as "Kill Ragnar the Bold." The necrophidius never seeks to twist the intent of its maker, but its enchantments fade when its task is done or cannot be completed; for example, when it kills Ragnar.
+
+The maker must want the necrophidius to serve its purpose. He could not, for example, build a death worm to "Sneak into the druid's hut and steal his staff," if he really intended for the necrophidius to merely provide a distraction. He could not build more than one death worm and assign both to kill Ragnar, since he could not imbue the second death worm with a task that he intended the first one to complete. For this reason, necrophidii almost never work as a team.
+
+Rumors claim that there were once methods to make a necrophidius gain 1 Hit Die every century it was pursuing its purpose.
+
+**Scarecrow**Scarecrows can only be created either by using a special manual or by a god answering the plea of a priest employing the following spells: *animate object, prayer, command,* and *quest.* The final step of the process, casting the *quest* spell, is done during a new moon.
+
+Scarecrows can be constructed to kill a specific person. To do so, the clothes worn by the scarecrow must come from the intended victim. Once the scarecrow is animated, the priest need only utter a single word -- "Quest". The scarecrow then moves in a direct line toward the victim. When it reaches the victim, the scarecrow disregards all other beings and concentrates its gaze and attacks entirely on the person it has been created to kill. After slaying its victim, a quested scarecrow's magic dissipates and it collapses into dust.
+
+**Stone Guardian**A stone guardian is very similar to a traditional stone golem, but it has some unique abilities its ancestor does not. In physical appearance, the two constructs are quite similar, but the stone guardian is usually decorated with runes and magical glyphs.
+
+A stone guardian is created with the following spells: *enchant an item, transmute mud to rock, magic mouth,* and *limited wish* or *wish.* In addition, the wizard creating the guardian may cast a *detect invisible* spell to give the creature that power.
+
+The initial material of the body is mud around a heart of polished stone. As the various spells are woven into the body, a spirit from the elemental plane of Earth is forced to enter the body and animate it. Because the spirit is there against its will, there is a 20% chance that the golem goes berserk each time it is activated.
+
+A special *ring of protection* can be created when the stone guardian is animated; this prevents the guardian from striking at anyone wearing it. In addition, all those within 10 feet of the ring wearer are also immune to attack. Rings of this type function only against the guardian they were made with and provide no protection from any other golem.(See also [Wizard Spells](..\PHB\DD01790.htm#faa31886) and [Priest Spells](..\PHB\DD01799.htm), Player’s Handbook)[[Monstrous Manual Index#6d2de9d5|Index]]

@@ -1,0 +1,16 @@
+---
+heading: "Missile Scale (Combat and Tactics)"
+source: https://regalgoblins.com/2erules/CT/DD02380.htm
+---
+
+Missile Scale
+
+Some battles may open in missile scale, which is five *yards* to the square. The only reason to set up a battle in missile scale is when the two hostile forces try to engage each other with spells or missiles at ranges greater than 50 yards or so. Naturally, this usually happens in outdoor settings with good visibility. If neither side has any missile or spell capability, there is no reason to set up the battle in missile scale. Save yourself the trouble of converting and set it up in melee scale from the start.
+
+*For example, the heroes encounter a party of orcs while climbing a high mountain pass. The DM decides that the two groups spot each other at a range of 500 yards, since there isn’t much cover. Nothing happens until the groups close to 210 yards, since that is the maximum range of the party’s longbows. The DM tells the players that they begin the battle in missile scale, 42 squares away from the orcs.
+
+*In missile scale, characters and monsters move 1/3 as fast as normal. A character that could normally move 12 squares in a combat round can only move four spaces per round in missile scale. There are nine melee squares in a single missile square, so up to nine Man-sized creatures can occupy a square when missile scale is in effect.
+
+Since all spell and missile weapon ranges are expressed in yards, it is easy to figure ranges in missile scale. A target eight squares away is actually 40 yards distant.
+
+[[00_Rulebook/Player's Option- Combat and Tactics/Table of Contents#d57de195|Table of Contents]]

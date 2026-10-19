@@ -1,0 +1,34 @@
+---
+heading: "Cleric Kits (Comp. Book of Gnomes and Halflings)"
+source: https://regalgoblins.com/2erules/CBGH/DD04932.htm 
+type:
+  - Kit
+---
+
+**Cleric Kits**HealerThe Healer is the community physician, counselor, and spiritual adviser for his or her fellow halflings (though not every village or town is fortunate enough to have one). Healers must have an alignment of good or neutral and specialize in the benign arts of tending injuries, curing diseases, midwifery, and general public health.
+
+The Healer must have a Wisdom score of at least 12.
+
+Roads to Adventure: Typically, the Healer gets drawn into adventure not because of any all-consuming drive to see the world or to gain fame and fortune, but because he or she feels that he or she will genuinely be able to help his or her friends--who for some reason the healer cannot fathom *are* seeking fame, fortune, and excitement.
+
+Healers are very confident in their abilities and those of their friends and are thus comforting to have around. They tend to be righteous, even a tad stodgy, in their beliefs, but loyal to a fault (even to those who might not feel a similar loyalty in return) and very determined when in pursuit of a worthy goal.
+
+Role: The Healer is fond of reminding his or her companions that he or she is "just a simple country doctor," a phrase which rarely does this highly competent cleric justice. He or she has very little aptitude for combat, preferring instead to let more vigorous allies handle the tasks of violence. Naturally enough, the Healer specializes at repairing the damage inflicted by such battles after they are over--or, sometimes, while they rage around him or her.
+
+Healers also often function as "the voice of reason" in a party; they give advice freely, whether it is asked for or not, and are not afraid of speaking their minds--whether to defend an underdog, praise an unpopular decision, or criticize an evil warlord to his or her face.
+
+Secondary Skills: The Healer's calling is a full-time job in itself, leaving no time for any secondary occupation.
+
+Weapon Proficiencies: The Healer only receives *one* weapon proficiency slot at first level; he or she can select any weapon eligible for a cleric.
+
+Bonus Nonweapon Proficiencies: The Healer automatically receives the Healing proficiency, without any penalty to his or her proficiency checks.
+
+Recommended Nonweapon Proficiencies: The Healer can benefit from a knowledge of Agriculture, Herbalism, and Reading/Writing.
+
+Equipment: A Healer will never be without his or her bag, which contains scalpels, bandages, ah-sticks, and various herbs, barks, and roots useful in the event he or she needs to whip up a quick poultice or ointment.
+
+Special Benefits: The Healer gains a +1 hit point bonus per die rolled to all *cure wounds* spells he or she casts.
+
+Special Hindrances: Healers refuse to wear armor in all but the most dire circumstances. A Healer's famed lack of tact can also cause problems in some situations.
+
+[[00_Rulebook/The Complete Book of Gnomes and Halflings/Table of Contents|Table of Contents]]

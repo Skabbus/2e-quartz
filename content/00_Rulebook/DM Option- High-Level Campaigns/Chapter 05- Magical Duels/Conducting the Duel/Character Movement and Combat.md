@@ -1,0 +1,60 @@
+---
+heading: "Character Movement and Combat (High-Level Campaigns)"
+source: https://regalgoblins.com/2erules/HLC/DD01303.htm
+---
+
+Character Movement and Combat
+
+The characters involved in a duel have power ranks and can move across the arena and conduct combat just as spells do.
+
+A character can move one space each round instead of casting a spell. Unlike a spell, characters can move forward or backward. If the character enters a space containing an opposing spell, the spell takes effect just as though the spell entered the character’s space.
+
+A character has power rank of 9 plus a bonus for high Intelligence/Reason or Wisdom/Intuition. Characters use their power ranks for conducting combat between themselves and sometimes for resisting spells.
+
+**Characters vs. Spells:**
+
+**Opposing spells are immediately revealed when they enter a character’s square; when a spell hits, the character knows exactly what it is. Spells have varying effects according to their type:**
+
+*Attack Spells:* These take effect just as if they were cast upon the character during an adventure. However, it is important to remember that the character is not affected directly, only the mental construct that represents the character in the duel is affected.
+
+If the spell normally allows a saving throw, the character is entitled to one in the duel. The saving throws by caster level optional rule (see [[00_Rulebook/DM Option- High-Level Campaigns/Tables/Table 36- Saving Throws by Caster Level or Hit Dice|page 143]]) is always used in duels; bonuses for high ability scores never apply during a duel. Refer to the individual spell description for the spell’s effects.
+
+If the spell normally requires the caster to make an attack roll, such as *Melf’s acid arrow* and all touch-delivered spells, the two characters conduct a combat to see if the incoming spell takes effect (see the [[Character Movement and Combat|Character vs. Character]] section).
+
+If the spell inflicts damage, the appropriate number of hit points are deducted from the character’s total. Characters reduced to zero hit points or less lose the duel and suffer the effects indicated under the **Spoils of Victory** section ([[The Spoils of Victory|page 105]]).
+
+If a spell has any lingering effects that hinder or incapacitate the target in any way—loss of mental control, immobilization, or any other effect that keeps the character from casting spells or acting freely—the character cannot move or cast spells into the arena, but he can cast counter spells or conduct combat with the spell. This represents the character’s struggle to regain control over his mental construct. A character with a positive hit point total can never be removed from the arena or forced to end the duel by a spell cast as part of the duel, such as a *suggestion* that tries to convince him to quit.
+
+Combat between a character and a spell is conducted just like combat between spells except that the affected character uses his power score. If a lock occurs, the attacking spell is destroyed instead. Characters cannot opt to use their power scores instead of attempting saving throws when spells first enter their spaces.
+
+When a spell first enters the same space occupied by their magical construct, the attacking spell is revealed and the character has the option of either making a saving throw or employing a counter spell. To cast a counter spell, the character selects a spell that can normally conduct combat with the spell (this can be affected by who has the advantage). The combat between spells is conducted normally, but both the attacking spell and the counter spell are destroyed if the counter spell wins or if there is a lock. If the counter spell is defeated, the attacking spell affects the character. A character can cast any number of counter spells during a round provided he has an appropriate spell memorized, but he can only cast a single counter spell against each incoming spell. Casting a counter spell does not prevent a character from casting a spell later in the round.
+
+*Defense Spells:* These vanish when they enter the opponent’s space. A defense spell—not an AD spell—can also be cast in the character’s own space. A spell cast in this manner remains in the space until destroyed or the duel ends. Any attack or attack/defense spell that enters the space must defeat the spell before it can affect the character, and some defense spells can also combat missiles in this manner.
+
+*Attack/Defense Spells:* Unless the spell has a special ability that states otherwise, an attack/defense spell inflicts 1d6 points of damage per spell level when it reaches an opponent’s space. The opponent is allowed a saving throw vs. spells to negate the damage.
+
+*Leech Spells:* Unless the spell has a special ability that states otherwise, a leech spell inflicts 1d6 points of damage per spell level when it reaches an opponent’s space. The opponent is allowed a saving throw vs. spells to reduce the damage by half.
+
+*Missile Spells:* These spells follow the same procedures as attack spells.
+
+**Characters vs. Multiple Spells:**
+
+**If several hostile spells enter a character’s space at once, the character deals with all of them simultaneously, making saving throws, conducting combat and casting counter spells; it is possible for a character to cast multiple counter spells in a single round.**
+
+The character must deal with any spell that began the round in his space first and then with the fastest opposing spell, and so on until he conducts combat with every spell in the space. If some of the spells in the space do not allow counter spells, such as creature summoning spells, the character can use counter spells against any spells in the space that do allow counter spells.
+
+**Character vs. Character:**
+
+**Combat between characters occurs whenever two characters occupy the same space as well as when a spell that requires an attack roll enters a character’s space. Character combat is conducted just like spell combat, except that locks are treated differently.**
+
+If a spell causes character combat, the attacker uses his power score or the spell’s, whichever is higher. The spell takes effect if its caster wins the combat. The spell is destroyed if it is defeated or locked. The defender can respond with his power score or a counter spell.
+
+If two characters are engaged in combat, the winning character can choose to inflict 1d6 points of damage or send the loser 1d4 spaces away in either direction, but in no case can the loser be moved out of the arena. If the forced movement takes the character into a space containing an opposing spell, the spell takes effect.
+
+It is not possible to cast spells while engaged in character combat. Counter spells cannot be used against another character.
+
+**Identifying Spells:** Spells are not readily identifiable when they are moving across the arena. However, a spell is always revealed when it is in the same space as the opponent.
+
+A character with the spellcraft proficiency can try to identify opposing spells instead of moving or casting a spell. The character chooses any spell currently in the arena and rolls a power check. If the roll succeeds, the spell is revealed. This can be particularly useful for targeting specific enemy spells.
+
+[[00_Rulebook/DM Option- High-Level Campaigns/Table of Contents|Table of Contents]]

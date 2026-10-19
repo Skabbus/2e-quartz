@@ -14,7 +14,7 @@ Många tycker att bröderna bara är lata drivdrankar och huliganer. Men det är
 
 
 
-> [!letter] 14/3 522 4E
+> [!letter] 14/3 552 4E
 > 
 > Efter gårdagens underrättelser från gamle Olof befälhavde jag Sokolov att hålla dubbla vakter vid stallarna. Någon gång efter att månen nått sitt högsta fäste varseblev han två ynglingar, knappt femton vårar gamla, som närmade sig Hensels vagn. Sokolov bidade sin tid bakom hörnet medan pojkarna dyrkade upp låset på vagnens vänstra sida – sett i färdriktningen – och inväntade att båda stigit in, varpå han skred till verket och bommade igen om dem.
 > 
@@ -25,7 +25,7 @@ Många tycker att bröderna bara är lata drivdrankar och huliganer. Men det är
 > — Sheriff Alder
 
 
-> [!letter]  1/9 522 4E
+> [!letter]  1/9 552 4E
 > 
 > En man inställde sig vid stationen och angav att han utsatts för hotfullt uppträdande av sällskap som han ofta varseblivit nedsitta sin tid på Brinken. Mannen uppgav sig heta Lios, självägande lantbrukare. Tre män skall hava närmat sig honom och antytt att hans boskap svävade i fara från vilddjur när den gick å betesmarkerna. De erbjödo sig att mot en summa penningar garantera djurens välgång, vilket Lios rättmätigt uppfattade som beskattning under hot – ren utpressning.
 > 
@@ -45,7 +45,7 @@ Många tycker att bröderna bara är lata drivdrankar och huliganer. Men det är
 
 
 
-> [!letter] 28/10 521 4E
+> [!letter] 28/10 551 4E
 > 
 > Vid sjunde timmen efter morgonringningen inkom köpmannen Barna till stationen i avsevärd sinnesrörelse. Barna uppgav att en sändning om tre tunnor finare lampolja, vilken anlänt med flodbåten under gårdagen, blivit stulen från hans bakgård under natten.
 > 

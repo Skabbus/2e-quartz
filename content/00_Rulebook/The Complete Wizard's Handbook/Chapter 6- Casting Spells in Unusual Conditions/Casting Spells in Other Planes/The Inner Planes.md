@@ -1,0 +1,30 @@
+---
+heading: "The Inner Planes (Comp. Wizard's Handbook)"
+source: https://regalgoblins.com/2erules/CWH/DD06199.htm
+---
+
+**The Inner Planes**
+
+From the Wizard's perpective, the key features of the Inner planes include the following:· Spells that rely on elemental forces can be modified to affect all other elemental types, though each modification must be researched separately. For instance, a spell that affects water can be used to similarly affect earth or fire, so that a *wall of water* may appear or *create air* can be cast. To determine if a modified spell can be cast, the wizard must roll against his Intelligence as if learning a new spell. If the roll fails, the wizard cannot make another attempt for one full day (as measured on the Prime Material plane). These modified spells can be used only in the inner planes.· Modified spells apply only when modifying one elemental spell to another. Positive and negative energies are not eligible. For instance, a wizard cannot create a *wall of negative energy*.· In the plane of Fire, all material created by spells (such as water and ice) is immeadiately affected by the extreme heat. For instance, the ice created by *ice storm* immediately melts.· In the plane of Water, spells are affected as described in the *Casting Spells Underwater* section above.· In the Energy planes, matter created by spells is destroyed one round affect its creation. Spells that inflict variable amounts of damage in the plane of Positive Energy, and minimum damage in the plane of Negative Energy. Spells that inflict damage over a period of several rounds function for only one round.
+
+The schools of magic are affected as follows:
+
+**Abjuration:** All spells of this school function normally, subject to the special laws of the inner planes, except where noted in the spell description. Spells affecting extra-dimensional creatures *do not* affect creatures native to the inner planes. When the *anti-magic shell* is used in the inner planes, all magical protections are removed from within that sphere, removing any protection the user may have to survive in that plane.
+
+**Alteration:** These spells are the most likely to be modified as described above. A *lower water* spell, for instance, can be modified to *lower fire* in the plane of Fire, and *airy water* could be modified to *airy fire*. Here are a few special cases:· *Transmute rock to mud* can function as *transform element to para-element*; earth becomes ooze or magma, fire becomes magma or smoke, air becomes smoke or ice, and water becomes ice or ooze. Each type of transmutation must be researched separately.· *Transmute water to dust* can be modified to *transform element to negative quasi-element*; elemental water becomes ash, air becomes vacuum, fire becomes ash, and earth becomes dust.· *Astral spell* will not work in the inner planes.
+
+**Conjuration/Summoning:** Usually, spells summoning a particular type of elemental creature summon that being only in its native plane. These spells do not guarantee control over the summoned elemental, but the elemental is not immediately hostile to the caster. Spells summoning animals, monsters, or other Prime Material creatures instead summon the elemental versions of these creatures. Elemental creatures have the same appearance and abilities as their Prime Material counterparts, but are elementals of that type found in that inner plane (except that the Positive and Negative planes have no elemental types).
+
+Spells that contact beings in the Astral and outer planes do not function in the inner planes.
+
+**Divination:** These spells function normally. Those that call on an entity function only if that entity is native to the inner planes or Ethereal planes.
+
+**Enchantment/Charm:** These spells function normally. *Hold person* and *charm* spells work only against humanoid elementals.
+
+**Illusion/Phantasm:** These spells function normally.
+
+**Invocation/Evocation:** Usually, invocation spells function only if the entity's domain is in the same plane as the wizard. Evocation spells dealing with elemental forces can be modified to call upon any elemental force. These include spells that create items of fire, lightning, ice (but not cold), winds, clouds, fog, and flames. For instance, a *fireball* can be modified into a *lightning ball* or *earth ball,* and *lightning bolt* can be modified into *fire bolt* or *air bolt*; in all cases, the range and damage remain the same. Note that spells such as *cone of cold* and *wall of iron* cannot be modified, since they have no actual elemental basis.
+
+**Necromancy:** Beneficial necromantic spells restore hit points, abilities, levels, or life. Harmful necromantic spells deprive victims of these quantities. Beneficial necromantic spells will not function in the Negative plane, while harmful spells automatically succeed and inflict maximum damage. Beneficial spells restore the minimum number of hp in the negative quasi-planes, and those spells that require a saving throw or are based upon Constitution automatically fail; harmful spells automatically succeed and inflict maximum damage. Beneficial spells automatically succeed and operate to their maximum ability in the positive quasi-planes; harmful spells inflict minimum damage and saving throws of 2 or greater automatically succeed against these spells. Beneficial spells in the Positive Material plane automatically succeed and operate to their maximum ability; harmful spells automatically fail.
+
+**Magical Items:** Weapon pluses are reduced by two to attack and damage rolls (a *sword +3* effectively becomes a *sword +1* ). Exceptions include those with pluses against particular elemental creatures and those that draw their power from elemental planes, such as energy draining swords. Armor and protective devices are likewise reduced by two pluses. Magical items that duplicate specific types of spells operate under the same restrictions as described above[[00_Rulebook/The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

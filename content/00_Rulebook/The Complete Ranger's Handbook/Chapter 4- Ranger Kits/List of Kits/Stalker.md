@@ -1,0 +1,69 @@
+---
+heading: Stalker (Comp. Ranger's Handbook)
+source: https://regalgoblins.com/2erules/CRH/DD05722.htm
+type: Kit
+class_group: Warrior
+subclass: Ranger
+---
+
+**Stalker**
+
+**Description:** At first glance, this soft-spoken, rather nondescript character seems hopelessly out of place in an adventuring party, looking instead like an town dweller who's wandered into the wilderness by mistake. But the drab demeanor is only a facade, concealing keen senses, a shrewd mind, and remarkable insight. Only his closest friends realize the extent of his expertise in intelligence-gathering. And that's just the way he likes it.
+
+Stalkers serve as spies, informants, and interrogators. Unlike other rangers, Stalkers are comfortable in both wilderness and urban settings. A Stalker may covertly observe a bandit camp to inventory their supplies and hostages, or eavesdrop in the corridors of an evil wizard's castle. A few innocuous questions enable him to distinguish friend from foe, and fact from fiction. His mastery of stealth makes him a deadly opponent.
+
+**Requirements:** A Stalker must have a minimum Intelligence score of 14. Stalkers must be human.
+
+**Primary Terrain:** Any; in addition, the Stalker's primary terrain can be Urban (see Special Benefits).
+
+**Role:** Stalkers tend to be introspective and reflective, valuing intellect over physical prowess. They avoid drawing attention to themselves, seldom speaking unless directly addressed, then responding succinctly and without elaboration. They avoid small talk and socializing, instead preferring the company of a good book or an hour spent examining an unusual footprint. Stalkers tend to suppress their emotions so their decisions aren't colored by what they consider to be irrelevancies.
+
+Though most people respect Stalkers, they are also wary of them. The Stalker's stealthiness and secrecy make many people uneasy, as these are traits usually associated with thieves and sneaks. But Stalkers value honor as much as any ranger, and nobles rarely hesitate to hire one in times of crisis. A hired Stalker can be trusted to focus on the job at hand, complete it efficiently, make his report, then go his own way without comment.
+
+Adventuring parties often hire Stalkers on retainer, though occasionally, a Stalker will join a party with no assurance of monetary reward if the adventure presents an intriguing challenge. Stalkers rarely are party leaders, though they express their opinions freely when invited to do so. In combat, most Stalkers are brave but cautious, waiting for tactical opportunities to present themselves rather than charging into the fray. They prefer to surprise their opponents, striking silently and quickly.
+
+**Secondary Skills:** Any.
+
+**Weapon Proficiencies:** Stalkers become proficient only with weapons they can easily conceal. Their weapon proficiencies are limited to blowgun, dagger, dart, knife, short sword, staff, and sling. *Optional:* garrote, rapier (walking stick), stiletto.
+
+**Nonweapon Proficiencies:** *Bonus:* Alertness\*, Camouflage\*. *Recommended:* Blind-fighting, Etiquette, Modern Languages, Persuasion\*, Signaling\*, Trail Marking\*, Trail Signs\*.
+
+**Armor/Equipment:** A Stalker prefers to carry no more gear than he can comfortably strap to his back. He wears well-made but unpretentious clothing, similar to that of a laborer or peasant, that allows him to blend in with crowds. Though he can wear any type of armor (see Special Benefits) he favors leather. Stalkers almost never carry shields, finding them awkward and restrictive.
+
+At the beginning of his career, a Stalker receives a free "terrain suit" (see Chapter 7). The terrain suit corresponds to his primary terrain (night black for Urban).
+
+Species Enemy: Any. Optionally, the Stalker can declare a specific thieves' guild or assassin's guild as his enemy.
+
+**Followers:** Because a Stalker prefers to work unhampered, his followers are limited in number, species, and size. Though he receives a career total of 2d6 followers like other rangers, a Stalker has only one follower at a time. A new follower won't appear until the Stalker's current follower dies or is dismissed. A Stalker won't acquire a new follower even if he releases his current follower or arranges for its care elsewhere; he must sever all ties with the old follower before another will arrive.
+
+A Stalker never accepts human or demihuman followers. Nor will he accept followers whose intelligence compares favorably with that of humans, such as pixies or aarakocra, as he fears such beings are undependable and may cause unnecessary distractions. Because he wishes to minimize the chances of attracting attention, all animal followers must be less than four feet tall (size "S" or "T").
+
+**Special Benefits:**
+
+*Tracking:* A Stalker has normal ranger tracking abilities in outdoor land settings. In addition, he has full (not half) tracking capabilities in urban settings.
+
+*Stealth Abilities:*
+
+· A Stalker has a +10% bonus to his base chance to hide in shadows/hide in natural surroundings and a +10% bonus to his chances to move silently.
+
+· A Stalker has the full (not half) chance for success when attempting to hide in shadows or move silently in urban settings or in non-natural constructions such as crypts or dungeons.
+
+· Stalkers can hide in shadows and move silently when wearing armor of AC 6 or less (see Table 13: Optional Armor in Chapter 1).
+
+· When a Stalker successfully uses his move silently ability to sneak up on an opponent to surprise him, the opponent suffers a -3 penalty to his surprise roll. The Stalker must be 90' or more from party members without similar silent movement abilities.
+
+*Interrogation:* When interrogating an NPC for any reason, a Stalker can acquire special knowledge about the NPC in one (but not both) of the following ways:
+
+· By making a successful Intelligence check (use half the Intelligence score, rounded up), the Stalker can determine the general alignment of the NPC. If successful, the Stalker learns the good-evil component of the NPC's alignment (good, neutral, or evil).
+
+· The Stalker can ascertain the NPC's honesty. The DM secretly makes an Intelligence check for the Stalker. If the check fails, the DM tells the Stalker nothing about the honesty of the NPC. The Stalker must make up his own mind about the NPC's reliability based on the NPC's responses.
+
+If the check succeeds and the NPC is being honest with the Stalker, the DM tells the Stalker that the NPC is telling the truth to the best of his knowledge. A successful check in no way compels the NPC to reveal any information to the Stalker. The NPC may refuse to cooperate, but the Stalker is assured of the truthfulness of anything the NPC decides to share (note that the NPC may still pass along unreliable information that he believes to be true).
+
+If the check succeeds, and the NPC is being dishonest with the Stalker, the DM tells the Stalker that the NPC may be lying. It's up to the Stalker to separate the truth from the lies; a successful check only tells him that he shouldn't take everything the NPC says at face value.
+
+*Photographic Memory:* When a Stalker reaches 10th level, he acquires a limited photographic memory, enabling him to recall details about anything he's seen or heard since achieving 10th level. He can recall a fragment of a conversation, conjure up a mental image of a place he's visited, or remember words on a printed page. To use this ability, the DM secretly makes an Intelligence check for the Stalker, with a -2 penalty. If the roll fails, the memory is too vague to be of any use to the Stalker. If the roll succeeds, the DM tells the Stalker what he wishes to remember. If the roll is a natural 20, the DM gives the Stalker intentionally misleading information about whatever he's trying to remember (a room, for instance, is incorrectly recalled as having a locked window or mysterious claw marks on the walls). Because of the mental stress involved, this ability can be used only once per day.
+
+**Special Hindrances:** Neither lawbreakers nor outlaws appreciate snoops. Typically, the harshest possible penalties are reserved for captured Stalkers. Should a band of orcs or goblins realize that a Stalker is in their midst, they're likely to chase him down and beat him mercilessly. A Stalker caught lurking in private residence will probably be prosecuted to the fullest extent of the law. An otherwise friendly NPC may be less likely to cooperate with the party if he recognizes one of the members as a Stalker.
+
+[[00_Rulebook/The Complete Ranger's Handbook/Table of Contents|Table of Contents]]

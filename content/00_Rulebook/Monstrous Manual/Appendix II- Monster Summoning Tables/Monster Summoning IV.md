@@ -1,0 +1,29 @@
+---
+heading: "Monster Summoning IV (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD04105.htm
+---
+
+**Monster Summoning IV**
+
+1 [[Ankheg#84ce2cc1|Ankheg (5-6 HD)]] 
+2 [[Mammal#5839bd9a|Ape, carnivorous]]
+3 [[Mammal#5839bd9a|Banderlog]]
+4 [[Ettercap#cd6048f1|Ettercap]]
+5 [[00_Rulebook/Monstrous Manual/Monsters/Gargoyle/Gargoyle#64066737|Gargoyle]]
+6 [[Ghoul#0814a9ac|Ghast]]
+7 [[Hell Hound#595cf445|Hell hound]]
+8 [[Heucuva#c5fc5448|Huecuva]]
+9 [[Hydra#f5fca8db|Hydra, 5 heads]]
+10 [[Lycanthrope, Werewolf#ac4a1bba|Lyc., wolf]]
+11 [[00_Rulebook/Monstrous Manual/Monsters/Ogre/Ogre#70d32af6|Ogre]]
+12 [[Ooze-Slime-Jelly II#5e28bc27|Ooze, gray]]
+13 [[Owlbear#8f1c2391|Owlbear]]
+14 [[Scorpion#56cb31ce|Scorpion, huge]]
+15 [[Snake#d3da629d|Snake, giant const.]] 
+16 [[Toad, Giant#900f419f|Toad, poisonous]]
+17 [[Toad, Giant#900f419f|Toad, fire]]
+18 [[Insect#28a34ff5|Wasp, giant]]
+19 [[Wolf#7bf78283|Wolf, worg]]
+20 [[Yeti#178d7748|Yeti]]
+
+[[Monstrous Manual Index#6d2de9d5|Index]]

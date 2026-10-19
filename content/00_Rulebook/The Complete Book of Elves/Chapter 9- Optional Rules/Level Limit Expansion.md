@@ -1,0 +1,16 @@
+---
+heading: "Level Limit Expansion (Comp. Book of Elves)"
+source: https://regalgoblins.com/2erules/CBE/DD04768.htm
+---
+
+**Level Limit Expansion**
+
+As an option to consider, if the DM permits, elf characters may progress in their levels as far as a human might. This option reflects the fact that elves have many extra years in which to prove themselves. Although a typical elf may become bored with an extended sojourn in any one class and would prefer to retire than continue in his or her vocation, there are always exceptions. PCs are, of course, the most notable exceptions to any rule.
+
+Naturally, given the long life of the standard elf, this could rapidly lead to elves dominating their campaign world. This may or may not be desirable to the DM, depending on the flavor of the campaign. If the elves are the dominant race of a particular world, having built or fostered other civilizations, the Dungeon Master might wish to think about this option. If the other races have developed legends about the skill, wisdom, and sage counsel of the elves, the elves most likely do not have level limitations.
+
+If, on the other hand, the DM prefers the elves to follow the AD&D® game standard as just another PC race, he or she may wish to somehow limit the elves' levels. Please note, however, that this does not mean halting their advancement in their chosen class entirely. Rather, as suggested in the *Dungeon Master's Guide,* simply slow their advancement. Remember that time is a far different matter to elves than to humans; taking longer to achieve something is natural to elves.
+
+Charging elves double the experience points necessary to achieve levels beyond their maximums seems a reasonable compromise. This reflects the enthusiasm elves feel when first entering an enterprise, as well as their subsequent diminishing commitment to their chosen class. Eventually, most elves grow bored with the repetition that adventuring as a fighter (or as a priest, mage, or rogue) provides. Such lack of concentration is indicated in the additional time it requires an elf to advance in levels.
+
+[[00_Rulebook/The Complete Book of Elves/Table of Contents|Table of Contents]]

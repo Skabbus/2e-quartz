@@ -1,0 +1,16 @@
+---
+heading: "Level Variations (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04135.htm
+---
+
+Level Variations
+
+The most broad-reaching aspect of the wild mage's powers is his approach to spells. The wild mage's work with the principles of uncertainty affects all spells that have a level variable for range, duration, area of effect, or damage. Each time a wild mage uses a spell with a level variable, he randomly determines the resulting casting level of the spell. The spell may function at lesser, equal, or greater effect than normal. The degree of variation depends on the true level of the caster, as shown inTo determine the level at which the spell is cast, the player must roll 1d20 at the moment the spell is cast. The variation from the caster's actual level is found at the point where the character's true level and the die roll intersect. (True level refers to the current experience level of the wild mage.) If the result is a positive number, that many levels are added to the caster's true level for purposes of casting the spell. If the result is a negative number, that many levels are subtracted from the caster's true level. If the result is 0, the spell is cast normally. The variation of a spell's power has no permanent effect on the mage's experience level or casting ability.
+
+For example, Theos, a 7th-level wild mage, casts a *fireball*. He wishes it to take effect 70 yards away at the site of a band of advancing orcs. *Fireball* has level variables for range (10 yds.+10 yds./level) and damage (1d6/level). A die roll is made on the [[Table 1- Level Variation|Level Variation Table]] with a result of 19, indicating a level variation of +3. The *fireball* functions as if cast by a 10th-level wizard (7+3) and easily reaches its target, causing 10d6 points of damage. If the level variation had been -3 (die roll of 2), the spell would have operated as if it were 4th level. In this case, the *fireball* would have fallen short since its maximum range would have been 50 yards (10 yds+ 10 yds 1d4).
+
+One additional effect can occur when casting level-variable spells. If the result from [[Table 1- Level Variation|Table 1]] is boldfaced, the caster has inadvertently created a *wild surge* in the spell in addition to the spell's effects. A wild surge briefly opens a doorway through which raw magical energy pours. The energy is incompletely controlled by the actions of the spellcaster. The result, often spectacular, is seldom what the caster intended and is sometimes a smaller or greater version of the desired spell. At other times, wildly improbable results occur. Songs may fill the air, people might appear out of nowhere, or the floor may become a pool of grease. Whatever happens, it is the essence of wildness.
+
+When a wild surge occurs, the DM must roll on [[Table 2- Wild Surge Results|Table 2]]. Unlike many other instances in the AD&D® game in which the DM is encouraged to choose a suitable result, wild surges are best resolved by random chance. Actively choosing a result biases the nature of wild magic. DMs are encouraged to be random and have fun.
+
+[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

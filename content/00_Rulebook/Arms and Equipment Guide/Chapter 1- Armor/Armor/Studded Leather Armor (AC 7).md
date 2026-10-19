@@ -1,0 +1,24 @@
+---
+heading: Studded Leather Armor (AC 7) (Arms and Equipment Guide)
+source: https://regalgoblins.com/2erules/AEG/DD00006.htm
+type:
+  - Item
+  - " Armor"
+armor class: 13
+---
+
+**Studded Leather Armor (AC 7)**
+
+**Description:** Studded leather armor has little in common with normal leather armor. While leather armor is a hardened shell, studded leather armor is soft and supple with hundreds of metal rivets affixed. The rivets are so close together that they form a flexible coating of hard metal that turns aside slashing and cutting attacks. The soft leather backing is little more than a means of securing the rivets in place.
+
+**Campaign Use:** Studded leather armor is known as "poor man's mail" because of its metallic components and low price. It is more common among the general population than most people would first believe because, unlike other types of mail armor, studded leather is relatively easy to make.
+
+While a soft leather backing is the most durable and comfortable, any stout cloth can be used as a backing for the rivets. The rivets themselves are also easy to acquire, as everything from nails to pebbles have been substituted at one time or another in times of desperation. In general, as long as the backing is secure and the rivets are hard enough to withstand a glancing blow, the armor so comprised should be considered studded leather for purposes of weight and protection.
+
+Studded leather, like brigandine ([[Brigandine Armor (AC 6)|described later]]), is commonly worn by pirates and other seafarers. The protection afforded is better than normal leather armor, which is an important point during sea combat when a shield may not be practical (a shield is useless when climbing or fighting in a ship's rigging).
+
+With regard to swimming, the weight of studded leather is significantly less than metal armor, and the flexibility of the soft leather backing is better for such demanding activity. Indeed, for short times in the water, it is as easy to maneuver in studded leather as it is to move in a normal leather breastplate. Therefore, most sea-going mercenaries and pirates prefer to wear studded leather as their all-purpose armor. Trained marine contingents, however, whose main function is boarding, usually wear normal leather and carry a shield.
+
+Miserly merchants, who shave pieces of gold more than they like to admit, will often buy studded leather to outfit their hired guards. However, these copper-pinchers pay for the protection one way or another, as studded leather tends to wear out rather quickly. Not only does the soft backing wear out as quickly as thick clothing, but the metal studs can be affixed only by driving them through the leather, considerably weakening the overall strength of the backing. Eventually, the holes open up and the rivets drop out. Studded leather is also prone to the same problems of sweat, grime, and insects as [[Padded Armor (AC 8)#81190c70|padded armor]] (*q.v.*).
+
+[[00_Rulebook/Arms and Equipment Guide/Table of Contents|Table of Contents]]

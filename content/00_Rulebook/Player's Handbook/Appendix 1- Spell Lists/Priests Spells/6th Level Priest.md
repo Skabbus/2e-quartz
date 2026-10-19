@@ -1,0 +1,6 @@
+---
+heading: "Sixth-Level Priest Spells (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01804.htm
+---
+
+6th Level[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Aerial Servant#4e264d03|Aerial Servant]][[Animal Summoning III|Animal Summoning III]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Animate Object|Animate Object]][[Anti-Animal Shell|Anti-Animal Shell]][[Blade Barrier|Blade Barrier]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Conjure Animals|Conjure Animals]]*[[Conjure Fire Elemental|Conjure Fire Elemental]]**[[Find the Path|Find the Path]]*[[Fire Seeds|Fire Seeds]][[Forbiddance|Forbiddance]][[Heal|Heal]][[Heroes' Feast|Heroes' Feast]][[Liveoak|Liveoak]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Part Water|Part Water]][[Speak With Monsters|Speak With Monsters]][[Stone Tell|Stone Tell]]*[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Transmute Water to Dust|Transmute Water to Dust]]*[[Transport Via Plants|Transport Via Plants]][[Turn Wood|Turn Wood]][[Wall of Thorns|Wall of Thorns]][[Weather Summoning|Weather Summoning]][[Word of Recall|Word of Recall]][[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

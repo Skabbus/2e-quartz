@@ -1,0 +1,16 @@
+---
+heading: "Chapter 2: Halfling Subraces (Comp. Book of Gnomes and Halflings)"
+source: https://regalgoblins.com/2erules/CBGH/DD04888.htm
+---
+
+**Chapter 2: Halfing Subraces**Three halfling subraces--the Hairfoot, the Stout, and the Tallfellow--are introduced in the *Player's Handbook* and detailed in MONSTROUS COMPENDIUM® Volume One; additional information on all three is included here. These three subraces exist almost everywhere halflings are found, frequently in mixed communities. Hairfeet are by far the most numerous of these three subraces, making up about 75% of most worlds' halfling population, with Stouts about 15% and Tallfellows only about 10%. Rumor persists that the original stock from which these three derive still exists in remote deep forests, but no sighting has ever been reliably confirmed; if a few rare feral halfling clans do survive in odd corners, these "wild halflings" guard their privacy so carefully as to be virtually undetectable by members of any other race. In most cases, these so-called "wild halflings" are probably Hairfeet, Tallfellows, or Stouts whose homes have been destroyed by war or some other disaster and have reverted to a primitive ancestral lifestyle.
+
+Three other subraces are less common; each originated on a single world and is found primarily only on its home planet. The Kender are native to Krynn and have been featured in numerous DRAGONLANCE® products, including *Tales of the Lance* and the DRAGONLANCE MC appendix (MC4). Originally found only on Krynn, their insatiable curiosity has led many to stow away aboard spelljamming ships, spreading individuals to many odd places. The information here is for those players and DMs rash enough to allow them into their nonDRAGONLANCE® campaigns--or unfortunate enough to do so before they have a full grasp of the consequences!
+
+The Athasian halfling from the DARK SUN® campaign world is described in the original DARK SUN boxed set and the DARK SUN MC appendix (MC12); so far as is known, no member of this subrace has ever been encountered anywhere besides Athas itself.
+
+Finally, the extremely rare Polar Halflings, or Furchin, have spread beyond their desolate homeworld by spelljamming ships, albeit not by choice, and can now be found on the Rock of Bral and in many other places where spelljammers congregate.
+
+All halflings, whatever their subrace, are highly resistant to magic and poisons; for every 3 1/2 points of Constitution, a halfling gains +1 to his or her saving throws vs. spells, rods, staves, wands, and poisons. Halflings also enjoy exceptional agility, gaining +1 to all their attack rolls involving missile weapons. Surefooted and stealthy, they are able to move very, very silently, giving them an excellent chance to surprise opponents (wearing metal armor naturally negates this ability). Finally, halflings are quick to pick up languages; in addition to their own language and the common tongue, most halflings will know at least a few words of gnome, elf, dwarf, goblin, and orc (the actual number of additional languages known being determined by the character's Intelligence, as described in the*[Player's Handbook](..\PHB\DD01444.htm)*, page 16).
+
+[[00_Rulebook/The Complete Book of Gnomes and Halflings/Table of Contents|Table of Contents]]

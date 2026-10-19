@@ -1,0 +1,54 @@
+---
+heading: Noble Warrior (Comp. Fighter's Handbook)
+source: https://regalgoblins.com/2erules/CFH/DD05144.htm
+type: Kit
+class_group: Warrior
+---
+
+**Noble Warrior**
+
+Description:** This character is of the nobility, and theoretically represents everything the ruling class stands for. In classic medieval fantasy, this means chivalry, the protection of women (those who want to be protected, that is—it's a bad idea to try to protect a woman warrior anxious to prove herself in combat), and (especially) upholding the rights of the ruling class to rule (and upholding the rights of the other classes to serve . . . ). Noble Warriors in most campaigns are called Knights or Squires, though specific campaigns may have different designations and be based on different sources than medieval European history.**
+
+To be a Noble Warrior, a character must have Strength and Constitution scores of 13 or better—it's what comes of being forced to train in heavy plate armor for so many years.
+
+**Role:** In a campaign, the Noble Warrior is a romantic ideal which most of society looks up to. The Noble Warrior is supposed to be courageous, gallant, protective of the defenseless, dedicated to honorable ideals.
+
+But that's just what society *expects* of the Noble Warrior. Some theoretically Noble Warriors are mere brutes in shiny armor, warriors who take what they want, murder the innocent, and continually betray the oaths they took when they first won their spurs. So it's up to an individual player to decide what alignment his Noble Warrior takes and how well he lives up to the pertinent ideals.
+
+Whether the Noble Warrior character is a Knight or a Squire (or some other designation) depends on the campaign and its DM. From the viewpoint of convenience, it's best for Noble Warrior characters to begin play as young knights who have just won their spurs; this will account for the fact that they have little money (they're just starting out as free-lancers) or followers, and for the fact that they're wandering around adventuring; they're anxious to prove their mettle. If the DM prefers, the starting Noble Warrior could be the squire for an NPC knight, one who is aging and needs the stout sword-arm of a young squire; but here, the DM has to run the NPC knight until it's time for the squire character to leave his knight.
+
+**Secondary Skills:** All Noble Warrior characters must take the Groom skill. Squires are expected to care for their knights' horses, and don't forget this skill when they themselves become knights.
+
+**Weapon Proficiencies:** Unless the campaign deals with a culture unlike medieval Europe, all Noble Warriors must take the following proficiencies: long sword *or* bastard sword (player choice), lance (player choice of type, usually jousting lance), and horseman's flail *or* horseman's mace (player choice). The last proficiency may be used for a weapon of the warrior's choice or to specialize in one of the required choices.
+
+**Nonweapon Proficiencies:** Bonus Proficiencies: (General) Etiquette, Heraldry, Riding (Land-Based). Recommended: (General) Animal Training, Dancing, (Warrior) Blind-Fighting, Gaming, Hunting, Tracking, (Priest, cost double slots unless Paladin) Local History, Musical Instrument, Reading/Writing.
+
+**Equipment:** The Noble Warrior may spend his gold pretty much as he chooses—but there are certain minimum standards he cannot violate. He cannot buy armor less protective than brigandine or scale mail. Before starting play, he *must* buy a suit of armor, a shield, at least one weapon larger than a dagger, a horse (at least a riding horse), riding saddle, bit & bridle, horseshoes and shoeing, halter and saddle blanket.
+
+**Special Benefits:** The Noble Warrior starts with more gold than other Warrior Kits; see below under *Wealth Options*. The Noble Warrior receives a +3 reaction from anyone of his own culture. When travelling, he can demand shelter from anyone in his own nation who is of lower social status than he. Most people of his own status or higher will offer him shelter when he is travelling—up to two persons times the Noble Warrior's experience level. (That is, if the Noble Warrior is fifth level, the patron will offer shelter for the Noble Warrior and up to nine of his companions). In his own land, the Noble Warrior can administer low justice upon commoners—act as judge, jury and executioner for minor crimes he comes across (the definition of "minor crimes" is necessarily up to the DM of the campaign, but in general should include things like assault, petty theft, etc.).
+
+**Special Hindrances:** In order to become a Noble Warrior, the character has sworn an oath of loyalty to some greater noble. If he's squire to a knight, he has an oath to his knight. If he's a knight himself, he's sworn an oath to his king or some other noble—or perhaps to both. He'll be expected to live up to that oath from time to time: Accompany his lord into combat, provide troops to his lord, even beggar his own household in order to support his lord's needs.
+
+Additionally, the Noble Warrior is expected to live well. After he is created, he must add +10% to the base cost of goods, equipment, and services he is buying—*for each experience level he has*—to reflect his noble tastes and requirements.
+
+This extra cost is *not* just a tip. The character is buying higher-quality goods. Here's how it works.
+
+*Example: Sir Amstard rides into town. He's in need of a new sword, a night's lodging at the inn for himself and his squire, and meals and baths for both. He's a 5th-level Noble Warrior.
+
+He stops by a weaponmaker. The basic cost for a long sword is 15 gp. Amstard must choose a better weapon than the "basic long sword," and so chooses a more decorative one having the exact same combat characteristics, but costing 22 gp and 5 sp.
+
+He goes to the inn. The basic rate at that specific inn is 2 gp per night per person. Amstard won't settle for the basic room, though, and so pays 3 gp per night per person, all for better quality rooms. He pays 6 gp, one night's stay for himself and his squire.
+
+The two baths would be 3 cp each, or 6 total. Amstard, though, must have soap and a brush and the water heated especially for him (and for his squire, too); total cost is 9 cp.
+
+And so on . . .* If the Noble Warrior is unable to spend this extra money because of lack of funds, he can settle for lesser goods . . . but his bonus to Reaction rolls will be reduced, at –1 per such incident, until it reaches +0, to reflect the fact that people are seeing that he is settling for shabbier goods and otherwise not living up to their expectations of how a noble warrior should live. At the DM's discretion, other problems may follow this: Nobles fail to offer him shelter or help because he's such a shabby specimen, he gets a reputation as a penny-pincher, etc.
+
+To retain his bonus, when the Noble Warrior is once again in the money he must do whatever it takes to upgrade his situation (buy new clothes, go on a buying spree, etc., at the DM's discretion) and his +3 reaction will return.
+
+If a Noble Warrior gets a bad reputation, deservedly or undeservedly, his +3 reaction becomes a *–6* reaction from everybody who knows of the reputation.
+
+And just as other nobles are expected to extend shelter to the Noble Warrior, he is expected to offer other nobles shelter when they are travelling through his territory—or when they meet on the road while he is encamped and they are not, etc. Whenever a Noble Warrior character is getting too cocky, the DM can have him visited by a nice, large crowd of nobles to whom he is expected to offer shelter and food . . . and who proceed to eat him out of house and home.
+
+**Wealth Options:** The Noble Warrior begins play with more gold than other Warrior Kits; he receives 225 gp *plus* the standard 5d4x10 gp. But do not forget that he is required to spend a large portion of that on specific items described above . . .**Races:** It's appropriate for any sort of demihuman race to have a class of Noble Warriors.
+
+[[00_Rulebook/The Complete Fighter's Handbook/Table of Contents|Table of Contents]]

@@ -1,0 +1,10 @@
+---
+heading: "Major Activities (Comp. Thief's Handbook)"
+source: https://regalgoblins.com/2erules/CTH/DD05925.htm
+---
+
+**Major Activities**
+
+Here, the DM should determine and make a record of the secondary activities which are important to the guild. These include (but aren't limited to) protection rackets, smuggling, kidnapping, slavery, forgery, clipping, "entertainments," and similar fun and games reviewed earlier. The DM should determine which activities the guild is strongly involved with to suit the social alignment, the campaign, and the nature of the guild rulers. For example, a strong-cruel-despotic neutral evil guildmaster is a lot more likely to get the guild involved with slavery and kidnapping than a just, populist good-aligned guildmaster. Some DMs may also wish to exclude certain activities such as slavery or kidnapping because players of good-aligned thieves might not want their characters part of such activities. However, it is up to the PCs to do something about such evil goings-on if they cannot accept them—a spur to their creativity and scheming.
+
+[[00_Rulebook/The Complete Thief's Handbook/Table of Contents|Table of Contents]]

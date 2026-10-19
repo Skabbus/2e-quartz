@@ -1,0 +1,12 @@
+---
+heading: "Grand Mastery (Combat and Tactics)"
+source: https://regalgoblins.com/2erules/CT/DD02643.htm
+---
+
+**Grand Mastery**
+
+High masters who spend one more slot on learning their weapon of choice can become *grand masters*. Grand masters are capable of feats of swordplay that border on the fantastic. Grand masters gain one additional attack per round above and beyond a specialist’s rate of attacks for their level, so a 12th-level melee weapon grand master would attack 3 times per round with his weapon of choice.
+
+Grand masters also increase the amount of damage and the chance of a knockdown when they employ their chosen weapon. The weapon’s base damage die and knockdown die are increased to the next greater die size against all opponents. A long sword thus inflicts 1d10/1d20 points of damage in the hands of a grand master, and its knockdown die is increased to a d10. If the weapon causes multiple dice of damage, all of them are increased. Thus, a two-handed sword in the hands of a grand master inflicts 3d8 points of damage on large targets. Needless to say, grand masters are extremely dangerous opponents.
+
+[[00_Rulebook/Player's Option- Combat and Tactics/Table of Contents#d57de195|Table of Contents]]

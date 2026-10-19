@@ -1,0 +1,38 @@
+---
+heading: "Sites (Comp. Priest's Handbook)"
+source: https://regalgoblins.com/2erules/CPrH/DD05579.htm
+---
+
+**Sites**
+
+These gods are much like gods of communities, but the sites they represent don't have to be occupied. A site-god could be the deity of a mountain, a cave, a plain, or a valley. These are usually minor gods, one god to a site. Generally, the sites are famous *because* they are the dwellings of gods; however, the gods seldom let themselves be seen.
+
+Priests of these gods are protectors of the sites, and all living things which dwell there. Because of this, the priests seldom leave those sites, and so this is not usually a good choice for a player-character. Only when the site is threatened by distant powers is the priest allowed to leave the site for adventures.
+
+Site gods are as likely to be male as female.
+
+The priests of this god are on good terms with the priests of Ancestors and Community.
+
+**Alignment:** A deity who is the patron of a single site will probably be true neutral; his interest is in the survival and veneration of the site, with little interest in the doings of men. Their priests may be of any neutral alignment, but neutral evil priests gather in one cult, while true neutral and neutral good priests gather in a second; they won't be friendly to one another. The flock may be of any alignment. The DM can decide that a particular site deity is neutral good, in which case there will be no evil priests or flock; or that he is neutral evil, in which case there will be no good priests or flock.
+
+**Minimum Ability Scores:** Wisdom 12, Strength 10. Wisdom or Strength 16 means +5% experience; Wisdom *and* Strength 16 means +10% experience.
+
+**Races Allowed:** Dwarves, elves, gnomes, half-elves, halflings, humans.
+
+**Nonweapon and Weapon Proficiencies:** Nonweapon Proficiencies Required: Local History. Nonweapon Proficiencies Recommended: Religion, Reading/Writing. Weapon Proficiencies Required: None. Nonweapon Proficiency Group Crossovers: Priest, General.
+
+**Duties of the Priest:** Marriage. Missions: If the site is threatened, the priest will be dispatched to help straighten out the situation.
+
+**Weapon and Armor Restrictions:** Weapons Permitted: One lesser weapon from the following list (Club, dagger/dirk, hand/throwing axe, javelin, light crossbow, mace, short bow, warhammer) and one greater weapon from the following list (Battle axe, heavy crossbow, long bow, morning star, polearm, quarterstaff, spear, sword/long). (The DM makes this choice based on the history and attributes of the holy site; often, the choices will be paired, such as dagger and long sword or throwing axe and battle axe.) Armor Permitted: All non-magical armor and shields. All together, these constitute Good combat abilities.
+
+**Other Limitations:** None.
+
+**Spheres of Influence:** Major Access to All, Healing, Protection. Minor Access to Animal, Plant.
+
+**Powers:** *Inspire Fear* (as per the Designing Faiths chapter); this power is granted by the god to help the priest keep the site clear of those who would harm or despoil it.
+
+**Followers and Strongholds:** The followers are received at 8th level, and consist of three third-level priests and six first-level priests of the same order, plus one fifth-level fighter, two third-level fighters and four first-level fighters who act as guards for the site and the chief priest. The priest may take the following on adventures: Three priests (only two of whom can be third-level) and one fighter of his choice. The priesthood will pay for half of the cost of stronghold construction at 8th level.
+
+**Possible Symbols:** A silhouette representing the site; if it's a mountain, it would be the silhouette of the mountain, for instance.
+
+[[00_Rulebook/The Complete Priest's Handbook/Table of Contents|Table of Contents]]

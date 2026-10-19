@@ -1,0 +1,34 @@
+---
+heading: "Monster and Weapon Mastery (Skills and Powers)"
+source: https://regalgoblins.com/2erules/SP/DD03158.htm
+---
+
+Monsters and Weapon Mastery No player would be so unfair as to feel that his character should benefit from weapon mastery rules, while the monsters retain their previous level of mediocre skill. (Well, okay—no DM would want to allow this!) In a campaign where characters can achieve levels of specialization and mastery, so, too, can the monsters. As with PCs, the development of specialization and mastery skills for monsters should reflect an unusual level of dedication and training.
+
+Determining Monster Weapon Mastery Naturally, not all monsters have even the basic requirements for one of their number to become a weapon master.
+
+While the final adjudication of monster weapon mastery is up to the DM, some basic elements should be taken into account:
+
+Weapons The monster in question must use an actual weapon—mastery cannot be obtained in the use of fangs, claws, breath weapons, etc. Neither can simple weapons such as clubs or thrown boulders be effectively mastered.
+
+Additionally, the weapon must be fairly common in that monster’s culture. Such weapons are usually listed in the monster description as part of the monster type’s combat repertoire. Some examples: a goblin might become a master in the spear or short sword; a wemic, the javelin or short sword; troglodytes have been known to specialize in their unique javelin; tritons, the trident; kuo-toa, the pincer staff or harpoon; and gnolls, the pole arm or battle axe.
+
+Intelligence As a general rule, a monster must have a minimum Intelligence score of 8 to master a weapon. The higher the intelligence, the greater the likelihood of encountering a weapon master among a group of the creatures.
+
+If the creatures are known to be very intelligent, one of them might reach the level of mastery. Only monsters of high intelligence or greater can aspire to grand mastery.
+
+Additionally, intelligence should be the primary indicator of how many specialists and masters might be encountered in the monsters’ population. The relatively stupid goblins will have very few individuals even of specialist level, while the exceptionally intelligent githyanki will likely include a number of masters and probably a grand master in each sizable tribe.
+
+Population As with characters, the greater the number of monsters in a campaign world, the greater the odds that one or more of them will reach the highest levels of weapon mastery available. Though this does not rule out the case of the solitary firbolg giant being a grand master in the use of the halberd, it is more likely that such a skilled individual will be the chieftain of a tribe—or at least the important bodyguard standing alertly at the high chief’s side.
+
+For those monsters ranked with improved hit dice for their subchiefs, battle leaders, captains, etc, the specialists and masters will invariably fall among the improved HD members of the band. If there is more than one type of elite monster, the lowest of these will be no more than specialists, with the masters and grand masters found among the second and third tiers.
+
+Restrictions Undead cannot become weapon masters. Likewise lycanthropes, highly chaotic creatures, and those of good alignment and a generally pacifistic nature will be very unlikely to generate weapon masters from among their numbers. Monsters of low intelligence (or less) will be incapable of any level of weapon mastery.
+
+Effects of Monster Weapon MasteryMonster weapon masters should be more than just beasts with increased attack and damage chances—though, naturally, they should receive all the benefits commensurate with their level of weapon skill. Additionally, the DM might create some special combat benefits for a monster weapon master, reflecting the general tactics of that monster in play. A troglodyte who masters the use of his javelin, for example, might modify it by barbing the head and attaching some kind of light rope. If the weapon hits a target, the monster can reel in the victim—unless that victim can work free with a successful Strength check. However, the victim still suffers extra damage from the weapon.
+
+Beyond these battle considerations, however, monster weapon masters should add important story and role-playing elements to the campaign. Because of their increased power and fearsome reputations, these creatures will be generally feared and obeyed by the lesser monsters of their clan. They will command these lackeys, sending them on raids or posting them to guard the lair.
+
+Through encounters with these lackeys, the player characters should learn details about the weapon master. Beyond his mere existence, the monster should become a fearsome figure to the PCs. Perhaps its extermination can be used as the impetus behind an ongoing campaign adventure.
+
+[[00_Rulebook/Player's Option- Skills and Powers/Table of Contents#d57de441|Table of Contents]]

@@ -1,0 +1,18 @@
+---
+heading: "Peasant Heroes (Comp. Fighter's Handbook)"
+source: https://regalgoblins.com/2erules/CFH/DD05182.htm
+---
+
+**Peasant Heroes**
+
+In a campaign dedicated to Peasant Heroes, you have much the same situation as with Barbarians and Berserkers. Three good approaches for campaigns are the Town Defenders, Peasant Heroes Out in the World, and Peasant Heroes Aiming for the Crown, much as the Barbarian campaigns were structured.
+
+There are differences between the Peasant Heroes and Barbarians campaigns, though. In the Barbarians campaign, the player-characters are outsiders in this civilization, and civilization itself is bad—decadent, crumbling, not at all admirable. In a Peasant Heroes campaign, the player-characters belong to this civilization; they are, in fact, small-town folk who are much admired. Civilization is not bad or ruinous, though the nation may be ruled by dissipated nobles who have to be overthrown or eliminated (leaving the throne open, of course, for one of the Peasant Heroes to take).
+
+One very appropriate Peasant Heroes mini-series to play would involve a Foreign Invasion. Troops from the neighboring enemy nation pour over the border and swarm through the PCs' country, slaughtering or enslaving everyone in their path. One large unit of enemy soldiers approaches the PCs' village. The PCs and their allies must fight and keep the enemy at bay to give the villagers time to escape. Afterward, hopefully, the PCs themselves can escape into the nearby wilderness to figure out what to do next.
+
+Their nation has been caught by surprise and overwhelmed by this sudden attack; the capital is taken, the king imprisoned or executed. The heroes have the option of fleeing their land for some nation not yet taken by the invaders . . . or arranging a resistance and revolt movement to take the nation back from the invaders. From episode to episode, the heroes can make and then execute their plans: Harrying the enemy troops, building the resistance army up to greater strength, going on sabotage missions into dangerous invader-held territory, raiding armories, kidnapping important invaders, anticipating and thwarting invader repercussions, and eventually throwing off the yoke of the enemy altogether.
+
+Such a campaign could go on for years, and when it was done, and the enemy was in retreat, could change into an altogether different sort of campaign. The surviving PC heroes could be knighted, and commence a Noble Warriors campaign; or, now that their work is done, they could find themselves unable to return to their normal, workaday lives and decide to become raiders of the high seas (i.e., pirates).
+
+[[00_Rulebook/The Complete Fighter's Handbook/Table of Contents|Table of Contents]]

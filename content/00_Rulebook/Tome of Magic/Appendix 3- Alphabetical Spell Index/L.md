@@ -1,0 +1,8 @@
+---
+heading: "DD04578"
+source: https://regalgoblins.com/2erules/TM/DD04578.htm
+---
+
+**L**
+
+[Land of Stability (P 6th)](..\TM\DD04370.htm#59a07f19)**[[Lasting Breath|Lasting Breath (W 1st)]]**[[00_Rulebook/Tome of Magic/Chapter 3- Priest Spells/Fourth-Level Spells/Leadership|Leadership (P 4th)]]**[[Legal Thoughts|Legal Thoughts (P 6th)]]**[Legend Lore (Wiz 6)](..\PHB\DD02033.htm)[Leomund's Lamentable Belaborment (Wiz 5)](..\PHB\DD01995.htm) [Leomund's Secret Chest (Wiz 5)](..\PHB\DD01996.htm)[Leomund's Secure Shelter (Wiz 4)](..\PHB\DD01952.htm) [Leomund's Tiny Hut (Wiz 3)](..\PHB\DD01914.htm)[Leomund's Trap (Wiz 2)](..\PHB\DD01875.htm)[Levitate (Wiz 2)](..\PHB\DD01876.htm)*[Light (Pr 1)](..\PHB\DD02136.htm)**[Light (Wiz 1)](..\PHB\DD01833.htm)***[[Lighten Load|Lighten Load (P 2nd)]]**[Lightning Bolt (Wiz 3)](..\PHB\DD01915.htm)[Limited Wish (Wiz 7)](..\PHB\DD02063.htm)**[[Line of Protection|Line of Protection\* (P 3rd)]]**[Liveoak (Pr 6)](..\PHB\DD02263.htm)[Locate Animals or Plants (Pr 1)](..\PHB\DD02137.htm)**[[Locate Creature|Locate Creature (W 4th)]]***[Locate Object (Pr 3)](..\PHB\DD02184.htm)**[Locate Object (Wiz 2)](..\PHB\DD01877.htm)***[[Log of Everburning|Log of Everburning (P 1st)]]**[[Lorloveim's Creeping Shadow|Lorloveim's Creeping Shadow (W 3rd)]]**[[Lorloveim's Shadowy Transformation|Lorloveim's Shadowy Transformation (W 6th)]]** **[[Lower Resistance|Lower Resistance (W 5th)]]***[Lower Water (Pr 4)](..\PHB\DD02216.htm)**[Lower Water (Wiz 6)](..\PHB\DD02034.htm)***

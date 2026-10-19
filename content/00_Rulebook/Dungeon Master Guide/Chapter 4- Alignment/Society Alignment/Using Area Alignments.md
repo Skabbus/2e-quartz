@@ -1,0 +1,30 @@
+---
+heading: "Using Area Alignments (Dungeon Master Guide)"
+source: https://regalgoblins.com/2erules/DMG/DD00266.htm
+---
+
+Using Area Alignments
+
+Using a general alignment for an area allows a quick assessment of the kind of treatment player characters can expect there. The following gives ideas for each alignment.
+
+**Lawful good:** the people are generally honest, law-abiding, and helpful. They mean well (at least most of them do). They respect the law. As a rule, people don't walk around wearing armor and carrying weapons. Those who do are viewed with suspicion or as trouble-makers. Some societies tend to dislike adventurers, since they often bring trouble.
+
+**Lawful Neutral:** The people are not only law-abiding, they are passionate creators of arcane bureaucracies. The tendency to organize and regulate everything easily gets out of control.
+
+In large empires there are ministries, councils, commissions, departments, offices, and cabinets for everything. If the region attracts a lot of adventurers, there are special ministries, with their own special taxes and licenses, to deal with the problem. The people are not tremendously concerned with the effectiveness of the government, so long as it functions.
+
+**Lawful Evil:** The government is marked by its severe laws, involving harsh punishments regardless of guilt or innocence. Laws are not intended to preserve justice so much as to maintain the status quo. Social class is crucial. Bribery and corruption are often ways of life. Adventurers, since they are outsiders who may be foreign agents, are viewed with great suspicion. Lawful evil kingdoms often find themselves quashing rebellions of oppressed peasants clamoring for humane treatment.
+
+**Neutral evil, neutral good, and true neutral:** Areas dominated by these three alignments tend to adopt whatever government seems most expedient at the moment. A particular form of government lasts as long as the ruler or dynasty in power can maintain it. The people cooperate when it suits them--or, in the case of true neutrals, when the balance of forces must be preserved.
+
+Such neutral territories often act as buffer states between lands of extreme alignment difference (for example, between a lawful good barony and a vile chaotic evil principality). They shift allegiance artfully to preserve their borders against the advances of both sides in a conflict.
+
+Neutral evil countries tend to be benign (but not pleasant) dictatorships while neutral good countries are generally "enlightened" dictatorships. Transfers of power are usually marked by shifts in government, though these are often bloodless coups. There is a certain apathy about politics and government. Adventurers are treated the same as everyone else.
+
+**Chaotic Good:** The people mean well and try to do right, but are hampered by a natural dislike of big government. Although there may be a single ruler, most communities are allowed to manage themselves, so long as their taxes are paid and they obey a few broad edicts. Such areas tend to have weak law enforcement organizations. A local sheriff, baron, or council may hire adventurers to fill the gap. Communities often take the law into their own hands when it seems necessary. Lands on the fringes of vast empires far from the capital tend to have this type of alignment.
+
+**Chaotic Neutral:** There is no government. Anarchy is the rule. A stranger to such a town may feel as if he has ridden into a town of madmen.
+
+**Chaotic Evil:** The people are ruled by, and live in fear of, those more powerful than themselves. Local government usually amounts to a series of strongarm bosses who obey the central government out of fear. People look for ways to gain power or keep the power they've got. Assassination is an accepted method of advancement, along with coups, conspiracies, and purges. Adventurers are often used as pawns in political power games, only to be eliminated when the adventurers themselves become a threat.
+
+[[00_Rulebook/Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

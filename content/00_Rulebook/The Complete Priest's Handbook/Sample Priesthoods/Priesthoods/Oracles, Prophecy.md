@@ -1,0 +1,38 @@
+---
+heading: "Oracles, Prophecy (Comp. Priest's Handbook)"
+source: https://regalgoblins.com/2erules/CPrH/DD05572.htm
+---
+
+**Oracles, Prophecy**
+
+This is a god who delivers broad statements about the future to his followers. He's distinct from the god of Fate/Destiny in that he doesn't preach a doctrine of acceptance; he just passes on the visions he has of the future, and lets his followers and those who beg his visions act on them accordingly.
+
+Priests of this god act as intermediaries between the oracular god and visitors who come to receive his prophecies. See the paragraph below on Followers and Strongholds for more on this.
+
+The oracular god is as likely to be male as female.
+
+The priests of this god are on good terms with the priests of Darkness/Night, Dawn, Fate/Destiny, Light, Magic, Moon, Sun, and Wisdom.
+
+**Alignment:** The deity is true neutral. The priests may be true neutral or neutral good; most are true neutral. The flock may be of any alignment.
+
+**Minimum Ability Scores:** Wisdom 9, Charisma 11. Wisdom or Charisma 16 means +5% experience; Wisdom *and* Charisma 16 means +10% experience.
+
+**Races Allowed:** Dwarves, elves, gnomes, half-elves, halflings, humans.
+
+**Nonweapon and Weapon Proficiencies:** Nonweapon Proficiencies Required: Astrology. Nonweapon Proficiencies Recommended: Ancient History, Ancient Languages, Local History, Reading/Writing, Religion. Weapon Proficiencies Required: None. Nonweapon Proficiency Group Crossovers: Priest, General.
+
+**Duties of the Priest:** Guidance, Marriage, Omen-Reading. Missions: Having passed on a prophecy, the priest may choose to accompany those who received the prophecy. The priest may just want to see how reality matches the vision he received; however, if the prophecy included options, visions of different ways the situation could resolve itself, the priest may be tagging along to help the preferred outcome take place.
+
+**Weapon and Armor Restrictions:** Weapons Permitted: Choose two from the following list (DM chooses based on other attributes or characteristics of the oracular god): Bows (all), crossbow, dagger/dirk, dart, hand/throwing axe, harpoon, javelin, knife, lasso, net, sling, spear, staff sling, stiletto, whip. Armor Permitted: None; no shields. Oriental Campaigns: Also included among choices are daikyu, shuriken. All together, these constitute Poor combat abilities.
+
+**Other Limitations:** None.
+
+**Spheres of Influence:** Major Access to All, Divination, Elemental, Healing, Summoning. Minor Access to Charm, Creation, Necromantic, Sun.
+
+**Powers*:*** *Language/Communication* (as per the Designing Faiths chapter); from 1st level to 8th, the priest receives one extra language per level (or one extra nonweapon proficiency slot which may only be used for taking languages); these languages may only be those of sentient humanoids. *Prophecy* (as per the Designing Faiths chapter).
+
+**Followers and Strongholds:** The followers are received at 9th level, and consist of one fifth-level priest, three third-level priests, and six first-level priests of the same order, plus five second-level fighters who act as guards. The priest may take the following on adventures: Three priests (not including the fifth-level priest, and may only include one third-level priest) and two fighters of his choice. The priesthood will pay for half of the cost of stronghold construction at 9th level. Part of the stronghold must be an oracular chamber or area where visitors may meet with the priests and receive oracles; the temple may charge a fee of money or goods for this service, so the stronghold must also have large, commodious storerooms for these goods.
+
+**Possible Symbols:** Bow, Brazier.
+
+[[00_Rulebook/The Complete Priest's Handbook/Table of Contents|Table of Contents]]

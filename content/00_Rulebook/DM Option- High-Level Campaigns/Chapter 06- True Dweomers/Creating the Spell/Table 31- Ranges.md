@@ -1,0 +1,6 @@
+---
+heading: "Ranges-- Table 31 (High-Level Campaigns)"
+source: https://regalgoblins.com/2erules/HLC/DD01335.htm
+---
+
+![[00_Rulebook/DM Option- High-Level Campaigns/Tables/Table 31- Ranges]]

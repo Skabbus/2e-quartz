@@ -14,7 +14,7 @@ Likt andra kriminella organisationer i Torrak är kriminalitet oftast inte tillr
 
 Gruppen leds formellt av Harkus "Stål" som utmärkte sig för att ha tagit en ledarroll i kompaniet efter Bethag Svalvinds bortgång. Gruppen har ingen formell mötesplats utan deras gamla gerilla-vanor sitter i. Möten kan ske i folks bostäder, på Gabrielas och ute i skogen. 
 
-> [!letter]  9/5 522 4E 
+> [!letter]  9/5 552 4E 
 > 9/5 522 4E 
 > 
 > Under min nattliga runda i stadens västra delar uppmärksammade jag ett tändt ljus i fönstret hos Daoric. Ljuset släcktes snabbt när jag närmade mig, men då det under kvällen rått ovanligt mycket rörelse i gränderna misstänkte jag att ett möte var i görningen. Jag tog position i skuggan för att observationera huset. Efter en kort stund steg Daoric ut, iklädd mörk överrock. Av hans gång och hur rocken föll att döma bar han ett svärd vid bältet.
@@ -25,7 +25,7 @@ Gruppen leds formellt av Harkus "Stål" som utmärkte sig för att ha tagit en l
 > 
 > — Sokolov
 
-> [!letter] 22/9 522 4E
+> [!letter] 22/9 552 4E
 > 
 > Vid femtiden på eftermiddagen nåddes stationen av uppgifter om en spänd konfrontation vid Garvartorget. Då det rörde sig om dagtid begav jag mig dit på egen hand.
 > 
@@ -43,7 +43,7 @@ Gruppen leds formellt av Harkus "Stål" som utmärkte sig för att ha tagit en l
 > 
 > — Sheriff Alder
 
-> [!letter] 21/7 522 4E
+> [!letter] 21/7 552 4E
 > Till Lord Vitterbäck, rättmätige herre över Torrak med omnejd:
 > 
 > Jag författar detta meddelande till er med de ädlaste av intentioner och förtröstar att ni läser det som sådant.

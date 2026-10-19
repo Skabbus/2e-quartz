@@ -1,0 +1,8 @@
+---
+heading: "Elemental Earth-- Wizard Spells by School (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04535.htm
+---
+
+**Elemental Earth**
+
+**[[Fist of Stone|Fist of Stone (1st)]]**[Fools' Gold (2nd)](..\PHB\DD01866.htm)**[[Maximilian's Earthen Grasp|Maximilian's Earthen Grasp (2nd)]]**[[Alamir's Fundemental Breakdown|Alamir's Fundamental Breakdown (3rd)]]** **[[Maximilian's Stoney Grasp|Maximilian's Stony Grasp (3rd)]]**[Dig (4th)](..\PHB\DD01936.htm)[Stoneskin (4th)](..\PHB\DD01969.htm)**[[Turn Pebble to Boulder|Turn Pebble to Boulder (4th)]]**[Conjure Elemental (5th)](..\PHB\DD01983.htm)[Distance Distortion (5th)](..\PHB\DD01987.htm)[Passwall (5th)](..\PHB\DD02001.htm)[Stone Shape (5th)](..\PHB\DD02006.htm)*[Transmute Rock to Mud (5th)](..\PHB\DD02010.htm)*[Wall of Iron (5th)](..\PHB\DD02012.htm)[Wall of Stone (5th)](..\PHB\DD02013.htm)[Glassee (6th)](..\PHB\DD02029.htm)[Move Earth (6th)](..\PHB\DD02040.htm)[Stone to Flesh (6th)](..\PHB\DD02049.htm)*[Transmute Water to Dust (6th)](..\PHB\DD02051.htm)***[[Hatch the Stone from the Egg|Hatch the Stone From the Egg (7th)]]**[Statue (7th)](..\PHB\DD02076.htm)[Glassteel (8th)](..\PHB\DD02085.htm)[Sink (8th)](..\PHB\DD02099.htm)[Crystalbrittle (9th)](..\PHB\DD02104.htm)**[[Elemental Aura|Elemental Aura (9th)]]**[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]**

@@ -1,0 +1,16 @@
+---
+heading: "Rings-- Magical (Dungeon Master Guide)"
+source: https://regalgoblins.com/2erules/DMG/DD00781.htm
+---
+
+Rings
+
+All magical rings normally radiate magic, but most are impossible to detect as magical rings without some mystic means. Furthermore, all magical rings look alike, so determination of a given ring's magical powers is difficult. The ring must be put on and various things tried in order to find what it does. No ring radiates good or evil.
+
+No more than two magical rings can be worn by a character at the same time. If more are worn, none will function. No more than one magical ring can be worn on the same hand. A second ring worn on one hand causes both to be useless. Rings must be worn on the fingers. Rings on toes, in ear lobes, etc., do not function as magical rings.
+
+The spell-like abilities of rings function as 12th-level magic unless the power requires a higher level. In cases where a higher level is necessary, rings function at the minimum level of magic use needed to cast the equivalent spell.
+
+Magical rings can be worn and used by all character classes and humans/humanoids not specifically prohibited elsewhere. You might allow "monsters'' with digits to wear rings, and some can actually benefit from them. For example, a troll could wear a *ring of regeneration* and gain its benefits in addition to its normal regenerative abilities.
+
+[[00_Rulebook/Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

@@ -1,0 +1,54 @@
+---
+heading: "Altering Monsters the Easy Way (High-Level Campaigns)"
+source: https://regalgoblins.com/2erules/HLC/DD01239.htm
+---
+
+Altering Monsters the Easy Way
+
+Some monsters, like some people, are just a little bigger, stronger, or smarter than most. Other creatures might be smaller, weaker, or dumber. You can create these creatures fairly quickly by applying a modifier to a creature’s basic statistics, as follows:
+
+**Modifiers:**
+
+**To make a monster weaker, apply a –1, –2, or –3 to its key statistics (see below). To make a monster stronger, apply a +1, +2, or +3. Once you start altering a monster, use the same modifier throughout the process.**
+
+**Hit Points:**
+
+**Weaker monsters subtract the modifier from each hit die, but the creature always receives at least one hit point from each hit die. Stronger creatures add the bonus to each hit die.**
+
+**THAC0:**
+
+**Weaker creatures add the modifier to their THAC0 numbers—not attack rolls—while stronger creatures subtract the modifier from their THAC0.**
+
+**Saving Throws:**
+
+**Weaker creatures add the modifier to their base saving throws, but no saving throw can be increased above 20. Stronger creatures subtract the modifier from their saving throw numbers, but no saving throw can be reduced below 3.**
+
+**Damage Dice:**
+
+**Weaker monsters subtract the modifier from each damage die, but the creature inflicts at least one point of damage with each die. Stronger creatures add the bonus to each damage die.**
+
+**Armor Class:**
+
+**Weaker creatures add the modifier to their Armor Class values. Stronger creatures subtract the modifier from their Armor Class values.**
+
+**XP Value:**
+
+**Weaker creatures subtract the modifier from their adjusted hit dice (see [Dungeon Master Guide](..\DMG\DD00375.htm), Chapter 8). No creature can have a value lower than 1–1. Stronger creatures add the modifier to their adjusted hit dice.**
+
+**Other Characteristics:**
+
+**A creature’s movement rate, Intelligence, alignment, morale, and other statistics remain unchanged under this system, A modifier of +3 can increase the creature’s size to the next higher class. For example, a large creature might become a huge creature, but that’s optional. Likewise, a modifier of –3 can reduce a creature’s size class one step.**
+
+**An Example** A group of scrags (freshwater trolls) have taken up residence in a river near an important ford. The bulk of the colony has normal statistics, but the DM decides that the chief/shaman and her two mates have extraordinary statistics and also decides to throw in an immature scrag. The chief is very powerful (+3), her two mates a little less so (+2), and the youth is just a baby (–3).
+
+The modified statistics (with the original in parentheses) look like this:
+
+**Scrag Chief:** AC 0 (3); MV 3, Sw 12; HD 5+20 (5+5, +3 per hit die); hp 51; THAC0 12 (15); #AT 3; Dmg\* 1d4+4/1d4+4/3d4+9 (+3 per die); SZ L (the DM decides that she is about 12 feet tall); ML Elite (14); Int Low (7); AL CE; XP 2,000 (base 650).
+
+**Chief’s Mates:** AC 1; MV 3, Sw 12; HD 5+15; hp 35 each; THAC0 13; #AT 3; Dmg\* 1d4+3/1d4+3/ 3d4+6; SZ L; ML Elite (14); Int Low (7); AL CE; XP 1,400 each.
+
+**Baby:** AC 6; MV 3, Sw 12; HD 5–10 ; hp 13; THAC0 18; #AT 3; Dmg\* 1d4–2/1d4–2/3; SZ M (the DM decides the baby is about 4 feet tall); ML Elite (14); Int Low (7); AL CE; XP 175.\* The scrag racial modifier to claw damage is added after the adjustments to the dice. In the case of the baby, the +1 bonus offsets part of the –3 penalty to the creature’s claw attacks, but the –3 modifier to each die of bite damage reduces each die to its minimum value of 1.
+
+Even with their enhanced statistics, the chief and her mates wouldn’t last long in a direct fight with high-level characters, but it helps to explain why characters of lesser stature haven’t dealt with the scrag colony. Furthermore, the DM plans to make use of the scrags’ superior mobility in the water when the PCs encounter them, and the extra damage the trio of more powerful scrags can inflict should prove to be an unpleasant surprise.
+
+[[00_Rulebook/DM Option- High-Level Campaigns/Table of Contents|Table of Contents]]

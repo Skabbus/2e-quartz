@@ -1,0 +1,8 @@
+---
+heading: "DD04589"
+source: https://regalgoblins.com/2erules/TM/DD04589.htm
+---
+
+**W-Y**
+
+[[Wail of the Banshee|Wail of the Banshee (W 9th)]]**[Wall of Fire (Pr 5)](..\PHB\DD02250.htm)[Wall of Fire (Wiz 4)](..\PHB\DD01971.htm)[Wall of Fog (Wiz 1)](..\PHB\DD01851.htm)[Wall of Force (Wiz 5)](..\PHB\DD02011.htm)[Wall of Ice (Wiz 4)](..\PHB\DD01972.htm)[Wall of Iron (Wiz 5)](..\PHB\DD02012.htm)[Wall of Stone (Wiz 5)](..\PHB\DD02013.htm)[Wall of Thorns (Pr 6)](..\PHB\DD02270.htm)**[[Warband Quest|Warband Quest (P Q)]]**[[Ward Matrix|Ward Matrix (P Q)]]***[Warp Wood (Pr 2)](..\PHB\DD02170.htm)**[Water Breathing (Pr 3)](..\PHB\DD02201.htm)**[Water Breathing (Wiz 3)](..\PHB\DD01929.htm)*[Water Walk (Pr 3)](..\PHB\DD02202.htm)**[[Watery Double|Watery Double (W 3rd)]]**[[Waveform|Waveform\*\* (W 5th)]]**[[Weather Stasis|Weather Stasis (P 4th)]]**[Weather Summoning (Pr 6)](..\PHB\DD02271.htm)[Web (Wiz 2)](..\PHB\DD01893.htm)**[[Weighty Chest|Weighty Chest (P 1st)]]**[Weird (Wiz 9)](..\PHB\DD02118.htm)[Whispering Wind (Wiz 2)](..\PHB\DD01894.htm)**[[Wildfire|Wildfire \*\* (W 9th)]]**[[Wildshield|Wildshield \*\* (W 6th)]]**[[Wildstrike|Wildstrike \*\* (W 6th)]]**[[Wildwind|Wildwind \*\* (W 9th)]]**[[Wildzone|Wildzone \*\* (W 8th)]]**[Wind Walk (Pr 7)](..\PHB\DD02294.htm)[Wind Wall (Wiz 3)](..\PHB\DD01930.htm)[Wish (Wiz 9)](..\PHB\DD02119.htm)[Withdraw (Pr 2)](..\PHB\DD02171.htm)[Wizard Eye (Wiz 4)](..\PHB\DD01973.htm)[Wizard Lock (Wiz 2)](..\PHB\DD01895.htm)[Wizard Mark (Wiz 1)](..\PHB\DD01852.htm)**[[Wizard Sight|Wizard Sight (W 3rd)]]**[[Wolf Spirits|Wolf Spirits (P Q)]]**[Word of Recall (Pr 6)](..\PHB\DD02272.htm)[Wraithform (Wiz 3)](..\PHB\DD01931.htm)[Wyvern Watch (Pr 2)](..\PHB\DD02172.htm)**

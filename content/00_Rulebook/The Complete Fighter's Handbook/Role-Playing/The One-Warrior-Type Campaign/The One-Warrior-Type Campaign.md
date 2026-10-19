@@ -1,0 +1,14 @@
+---
+heading: "The One-Warrior-Type Campaign (Comp. Fighter's Handbook)"
+source: https://regalgoblins.com/2erules/CFH/DD05174.htm
+---
+
+**The One-Warrior-Type Campaign**
+
+In this type of campaign, most or all of the player-characters have the same Warrior Kit. They don't all have to be of an identical class: In a Swashbucklers campaign, one character could be a Fighter/Swashbuckler, another a Ranger/Swashbuckler, and another a Paladin/Swashbuckler.
+
+The DM may require that all characters in such a campaign be Warriors, or may allow a mix of character classes appropriate to the campaign's subject . . . but the majority of characters must still be Warriors, and other classes can be represented only by one player-character. For example, in a campaign based on the legends of Robin Hood, most of the characters will be Warriors with the Pirate/Outlaw kit; the DM could permit just one or a few to be Thieves; there's only one Priest (Friar Tuck) and only one Bard (Allen a'Dale).
+
+The purposes of this campaign (other than the normal Having Fun and Going on Adventures, of course) are to showcase the lives of characters with this Warrior Kit, and to pursue the goals common to characters who share this Warrior Kit. So, below, you'll find descriptions of campaigns centered around all the specific Warrior Kits and their specific goals.
+
+[[00_Rulebook/The Complete Fighter's Handbook/Table of Contents|Table of Contents]]

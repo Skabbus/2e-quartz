@@ -1,0 +1,16 @@
+---
+heading: "Wild Magic (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04132.htm
+---
+
+Wild Magic
+
+One of the newest discoveries from the great lands of the Forgotten Realms is wild magic. Originally considered little more than the unfortunate by-product of an epic struggle among the gods of that world, the strange effects of the wild lands (as those areas affected by wild magic are known) have attracted the attention of many a curious or scholarly wizard.
+
+In general, two types of wizards are drawn to these strange areas. The first are the researchers: wizards devoted to the study of the theoretical underpinnings of magic. For them, the wild areas expose long-hidden secrets of the magical universe and give new insights into how magical energy functions. From their work have evolved the beginnings of a theory of random magic--one that defies the traditional schools.
+
+The second type of wizard drawn to the wild lands is far less rigorous and methodical. These spellcasters are attracted by the sheer randomness and uncertainty of the wild lands. Such mages seek to incorporate wild magic into their spells by combining traditional magic with the new theories of random magic, throwing in a dose of their own chaotic natures as an extra measure. These wizards are the true wild mages who have been seen recently in various lands.
+
+Although initially discovered and researched on Toril, the FORGOTTEN REALMS® campaign world, the art of wild magic has quickly spread to other places. Wild mages, through teleporting, spelljamming, planar hopping, and even walking, have carried the precepts of wild magic to lands and worlds far removed from Toril.
+
+[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

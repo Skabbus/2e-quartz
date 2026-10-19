@@ -1,0 +1,14 @@
+---
+heading: "Minor Spheres of Access (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03530.htm
+---
+
+Minor Spheres of Access
+
+Normally, a priest who wishes to select spells from one of his deity’s minor spheres of access may only choose spells of 3rd level or lower. However, with the spell point system, the power’s secondary interest in a minor sphere can be represented by an increased cost to select these spells. Since the power is only tangentially concerned with these areas, the priest has to work harder and devote more time and concentration to memorizing these spells. Under this optional rule, *spells selected from a minor sphere of access are treated as if they were one level higher for spell point costs*. For example, a priest with minor access to the sphere of healing could select *cure light wounds*, but the spell would cost him 6 SPs instead of 4; see the [[Table 29- Spell Point Costs for Major and Minor|Table 29]]: Spell Point Costs for Major and Minor Spheres.
+
+On the surface, this seems inefficient for the priest, and to some degree it is. But there is an advantage to this optional system: the priest is no longer limited to spells of 3rd level or lower in his minor spheres. In the preceding example, the priest with minor access to healing now has the capability to utilize *neutralize poison* or *cure serious wounds*—although it is costly for him to do so.
+
+**Free Theurgies and Minor Access:** Because spells of the same level may not have the same spell point cost under this optional system, free theurgies don’t work in the normal fashion for spells in minor spheres. The priest has two choices: he can pay the spell points for a *major free theurgy*, which allows him to freely choose from any spell of that level to which he has major access, or he can pay for a *universal free theurgy*, which allows him to choose from any spell of that level, regardless of whether he has major or minor access to the spell. See [[Table 29- Spell Point Costs for Major and Minor|Table 29]]: Spell Point Costs for Major and Minor Spheres.
+
+*Arkhosia, a 4th-level priest with a Wisdom of 17, has 25 plus 20 or 45 spell points. She chooses to memorize one 2nd-level spell as a major free theurgy (12 points), one 1st-level spell as a universal free theurgy (12 points), one major fixed 2nd-level theurgy (6 points), one minor fixed 1st-level theurgy (6 points) and two major fixed 1st-level theurgies (4 points each). She ends up spending 44 of her 45 spell points to memorize a total of two 2nd- and four 1st-level spells. Under the standard* *[PHB](..\PHB\DD01433.htm)* *rules, she would be entitled to five 1st- and four 2nd-level spells, so Arkhosia is choosing to memorize fewer spells, but giving herself the flexibility of two free slots.*[[00_Rulebook/Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

@@ -1,0 +1,6 @@
+---
+heading: "F-L"
+source: https://regalgoblins.com/2erules/HLC/DD01398.htm
+---
+
+**F豊**[[Skills for High-Level Rogues#2e11199c|Fall/Jump, Rogue Skill]][[Skills for High-Level Rogues#782264b3|Featherfoot, Rogue Skill]][[Fighters Beyond 20th Level|Fighter]][[Skills for High-Level Warriors#3a60edff|Frighten/Challenge, Warrior Skill]][[Gaze Weapon|Gaze Weapon, Monster Ability]][[Skills for High-Level Warriors#0fd18433|Hardiness, Warrior Skill]][[00_Rulebook/DM Option- High-Level Campaigns/Chapter 04- Creating Magical Items/Creating Magical Items/Creating Magical Items#249ef048|Holy Water]][[Skills for High-Level Rogues#f57b9669|Improvised Attack, Rogue Skill]][[Innate Magic|Innate Magic]][[00_Rulebook/DM Option- High-Level Campaigns/Chapter 02- Adventures/Monsters/Powers/Magic Resistance|Innate Magic Resistance, Monster Ability]][[Skills for High-Level Rogues#8189c9ff|Inner Focus, Rogue Skill]][[Skills for High-Level Warriors#11fa5ec7|Inner Focus, Warrior Skill]][[Table 46- Priest Spell Progression#557ee0b0|Invincibility, Priest Skill]][[Invulnerability (Elemental)|Invulnerability (Elemental), Monster Ability]][[Invulnerability (Magical)|Invulnerability (Magic), Monster Ability]][[Invulnerability (Physical)|Invulnerability (Physical), Monster Ability]][[Table 46- Priest Spell Progression#2a46efe5|Loan, Priest Skill]]

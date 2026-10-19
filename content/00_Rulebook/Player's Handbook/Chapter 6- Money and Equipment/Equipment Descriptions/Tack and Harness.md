@@ -1,0 +1,16 @@
+---
+heading: "Tack and Harness (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01627.htm
+---
+
+Tack and Harness
+
+**Barding:** A war horse, or any animal trained for combat, is a considerable investment for the average warrior. Therefore, it behooves the owner to see that his mount is as well protected as possible. Other than avoiding risks, the best nonmagical protection is horse armor or barding. Barding is simply some type of armor fitted to be worn by the mount. Full barding covers the neck, chest, and body of the beast, while half barding covers the head, neck, chest, and front quarters. Barding can be made from many different materials; stouter types provide increasing protection according to the Armor Class of the construction. All of this, however, is at the expense of increased weight and lowered maneuverability of the mount. Plate barding, for example, is the equivalent of a warrior's field plate and is made of carefully interlocked plates and joints. It provides an Armor Class of 2 to the mount. It weighs at least 80 to 100 pounds at the lightest and thus, a fully equipped war horse with this armor can manage little more than a steady trot at top speed.
+
+Barded animals also require special attention. Care must be taken to prevent chafing and sores. The mount cannot wear the armor indefinitely. It must be removed at night and ideally should not be worn except in preparation for a battle or tournament. Removing horse barding takes 15 minutes for leather and 30 minutes for metal armors. Fitting it on takes twice as long. The weight of barding is carefully distributed to account for the weight of the armor and the rider, so barded animals cannot be used as pack animals! It is normal practice to have a second mount for carrying gear and supplies.
+
+When barding is fitted over a mount whose natural Armor Class is better than the barding, some protection is still gained. This is explained under “[[Creatures with Natural Armor Class|Armor]]” later in this chapter.
+
+In addition to horses and elephants, it may be possible to fit barding on more fantastic mounts. Flying steeds can wear only leather or magical barding. Aquatic creatures cannot wear normal barding although extremely rare magical pieces may exist. Other land creatures can certainly be barded, provided your DM rules that they are sturdy enough to carry the weight of armor and rider. Camels, for instance, are seldom barded for this reason. A huge ostrich would not be able to carry barding, since its legs would not support the weight.
+
+**Saddles:** There are two basic saddles--riding and pack. Riding saddles take many forms, but their basic purpose is to carry a person. If your DM has set his campaign in an ancient or early Medieval setting, saddles may be without stirrups. Ask your DM to be sure. Pack saddles are special frames designed to carry supplies and equipment. The only practical limit to how much a well-stowed pack saddle can carry is the carrying ability of the animal.(See also [Horse Barding](..\AEG\DD00066.htm) in the Arms & Equipment Guide)[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

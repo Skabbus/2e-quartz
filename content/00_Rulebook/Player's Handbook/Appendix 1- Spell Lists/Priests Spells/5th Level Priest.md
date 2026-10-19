@@ -1,0 +1,6 @@
+---
+heading: "Fifth-Level Priest Spells (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01803.htm
+---
+
+5th Level[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Air Walk#22310b49|Air Walk]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Animal Growth|Animal Growth]][[Animal Summoning II|Animal Summoning II]][[Anti-Plant Shell|Anti-Plant Shell]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Atonement|Atonement]][[Commune|Commune]][[Commune With Nature|Commune With Nature]][[Control Winds|Control Winds]]*[[Cure Critical Wounds|Cure Critical Wounds]]**[[Dispel Evil|Dispel Evil]]*[[Flame Strike|Flame Strike]][[Insect Plague|Insect Plague]][[Magic Font|Magic Font]][[Moonbeam|Moonbeam]][[Pass Plant|Pass Plant]][[Plane Shift|Planr Shift]][[Quest|Quest]][[Rainbow|Rainbow]]*[[Raise Dead|Raise Dead]]*[[Spike Stones|Spike Stones]]*[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Transmute Rock to Mud|Transmute Rock to Mud]]**[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/True Seeing|True Seeing]]*[[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Wall of Fire|Wall of Fire]][[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

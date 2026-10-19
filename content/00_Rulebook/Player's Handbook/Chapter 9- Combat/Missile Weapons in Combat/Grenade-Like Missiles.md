@@ -1,0 +1,18 @@
+---
+heading: "Grenadelike Missiles (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01718.htm
+---
+
+Grenade-Like Missiles
+
+Unlike standard missiles, which target a specific creature, a grenade-like missile is aimed at a point, whether this point is a creature or a spot on the ground. When the attack is announced, the player indicates where he wants the missile to land. This then becomes the target point and is used to determine the direction and distance of any scatter.
+
+Most grenade-like missiles are items of opportunity or necessity--rocks, flasks of oil, vials of holy water, or beakers of acid. As such, these items are not listed on the equipment tables for range, ROF, and damage. The range each can be thrown varies with the Strength of the character and the weight of the object.
+
+A missile of five pounds or less can be thrown about 30 feet. Short range is 10 feet, medium range is 20 feet, and everything beyond is maximum range. Heavier items have reduced ranges. Just how far an object can be thrown is decided by the DM.Exceptionally heavy items can be thrown only if the character rolls a successful bend bars/lift gates check. In no case can a character throw an item heavier than his Strength would allow him to lift. Thus, the DM can rule that a character would have little trouble chucking a half-empty backpack across a ten-foot chasm, but the character would need to make a check in order to heave an orc ten feet through the air into the faces of his orcish friends.
+
+Once a container hits, it normally breaks immediately. However, this is not always true. Some missiles, like soft leather flasks or hard pottery, are particularly resistant. If there's some doubt about whether or not a thrown object will break, the DM can require an item saving throw (this information is in the [DMG](..\DMG\DD00330.htm)) to see if it shatters or rips, spewing its contents everywhere.
+
+The [DMG](..\DMG\DD00445.htm) contains information on how to resolve the inevitable situations in which grenade-like missiles miss their targets.
+
+[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

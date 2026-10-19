@@ -1,0 +1,8 @@
+---
+heading: "Elemental-- Priest Spells by Sphere (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04547.htm
+---
+
+**Elemental**
+
+*[Create Water (1st)](..\PHB\DD02125.htm)***[[Log of Everburning|Log of Everburning (1st)]]**[Dust Devil (2nd)](..\PHB\DD02151.htm)[Fire Trap (2nd)](..\PHB\DD02154.htm)[Flame Blade (2nd)](..\PHB\DD02155.htm)[Heat Metal (2nd)](..\PHB\DD02157.htm)[Produce Flame (2nd)](..\PHB\DD02162.htm)[Flame Walk (3rd)](..\PHB\DD02181.htm)[Meld Into Stone (3rd)](..\PHB\DD02186.htm)[Protection From Fire (3rd)](..\PHB\DD02190.htm)[Pyrotechnics (3rd)](..\PHB\DD02191.htm)[Stone Shape (3rd)](..\PHB\DD02198.htm)*[Water Breathing (3rd)](..\PHB\DD02201.htm)*[Water Walk (3rd)](..\PHB\DD02202.htm)*[Lower Water (4th)](..\PHB\DD02216.htm)**[Produce Fire (4th)](..\PHB\DD02219.htm)*[Air Walk (5th)](..\PHB\DD02228.htm#22310b49)**[[Cloud of Purification|Cloud of Purification (5th)]]**[[Elemental Forbiddance|Elemental Forbiddance (5th)]]**[Commune with Nature (5th)](..\PHB\DD02234.htm)[Spike Stones (5th)](..\PHB\DD02247.htm)*[Transmute Rock to Mud (5th)](..\PHB\DD02248.htm)*[Wall of Fire (5th)](..\PHB\DD02250.htm)*[Conjure Fire Elemental (6th)](..\PHB\DD02257.htm)*[Fire Seeds (6th)](..\PHB\DD02259.htm)[Part Water (6th)](..\PHB\DD02264.htm)[Stone Tell (6th)](..\PHB\DD02266.htm)*[Transmute Water to Dust (6th)](..\PHB\DD02267.htm)*[Animate Rock (7th)](..\PHB\DD02273.htm#daa6bd7c)[Chariot of Sustarre (7th)](..\PHB\DD02276.htm)*[Conjure Earth Elemental (7th)](..\PHB\DD02278.htm)*[Earthquake (7th)](..\PHB\DD02281.htm)*[Fire Storm (7th)](..\PHB\DD02283.htm)*[Transmute Metal to Wood (7th)](..\PHB\DD02293.htm)[Wind Walk (7th)](..\PHB\DD02294.htm)[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

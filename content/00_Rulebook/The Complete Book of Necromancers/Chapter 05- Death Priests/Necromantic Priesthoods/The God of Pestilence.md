@@ -1,0 +1,40 @@
+---
+heading: "The God of Pestilence"
+source: https://regalgoblins.com/2erules/CBN/CBN00119.htm
+---
+
+**The God of Pestilence**
+
+The merest sigh of this god washes epidemics across the land; when he exhales from his rotting lungs, vile with consumption and a thousand other ills, a fetid cloud of disease-laden filth carrying uncountable deadly plagues covers the face of the earth. At his slight irritation, towns fall into ruin and desolation. His anger can sunder societies. Although this greater god is a patron to all forms of sickness and disease, lesser deities abound, each devoted to a separate illness (such as Silver Death and the Magenta Rasp).
+
+Plague Priests spread disease, death, and ignorance wherever they may go. They afflict unwary victims with crippling afflictions and transport plague-ridden vermin to peaceful, contented cities. They harvest the festering slime from decayed corpses, greasing the door knobs and tools of innocents with sickening corruption. These evil priests delight in bringing misery and despair to healthy and joyous communities. The DM should only allow these wicked and depraved clerics to be villainous NPCs.
+
+**Alignment:** This deity is neutral evil, as are his priests and followers.
+
+**Minimum Ability Scores:** Wisdom 9, Constitution 15.
+
+**Weapon Proficiencies:** Plague Priests may employ all types of bows, the dart, scourge, scythe, sickle, staff, and whip. These priests also favor a curious form of Y-tipped staff (sometimes called a *talon staff*) which they use to transport fallen bodies of victims. The curving tips of the talon staff slip easily under the armpits of prone victims, making them easy to drag.
+
+**Dress/Armor Allowed:** Plague priests always dress in a massive mantle with a tall cowl that can be pulled up over the head to conceal their horrible faces. The color of the cloth in which they dress always represents the favored hue of their patron deity. Priests of the Black Death might wear heavy cloaks of darkest midnight, while those priests serving the sinister Lord of the Yellow Plague would favor saffron-hued robes.
+
+High-level priests sometimes wear simple wooden masks painted a single solid color to match their chosen raiment. Some even go so far as to wrap their limbs in white bandages, making them appear like mummies. Besides this ceremonial garb, the priests can wear any form of armor, favoring enchanted plate mail.
+
+**Nonweapon Proficiencies:** Required: herbalism. Recommended: (General) any; (Priest) ancient history, reading/writing, religion. Forbidden: healing, any Wizard, Rogue, or Warrior.
+
+**Role:** Plague priests seek to devastate civilization and disrupt social order both at the local level and on the grandest imaginable scale. Unlike the Stranglers, who attempt to direct their priests to engage in selective ritual murders, the priests of pestilence apply their art to humanity as a whole. Their victims are peasant and noble alike, both easily subject to disease and the ravagings of the worm. The priests are as indiscriminate in their victims as they are in their methods.
+
+Many Plague Priests are allied into a loose and secret confederation known simply as the Ravens by some, or as the Scabrous Society to others. This organization embraces the entire pantheon of plague gods, and all of them are devoted (in principle at least) to the same goals: decay and dissolution of organized society and human civilization. The Scabrous Society is further detailed in Chapter Seven and makes for an ideal long-term nemesis in the campaign.
+
+**Spheres of Influence:** Major Access to All, Animal, Healing (reversed forms of spells only), Necromantic, Summoning, Weather. Minor Access to Combat, Divination, Protection (reversed forms of spells only, where applicable).
+
+**Granted Necromantic Spells:** 1st: *undead alacrity, ebony hand*; 2nd: none; 3rd: *animate dead, cause blindness or deafness, cause disease, life drain*; 4th: *cause insanity, poison, plague curse*; 5th: *slay living, scourge*; 6th: *asphyxiate*; 7th: *mindkiller (TOM)*, wither; Quest: none.
+
+**Granted Powers:** Plague priests are completely immune to all forms of disease, magical and mundane. They can also lay on hands as a paladin of the same level, except they can only use this power to harm, rather than to heal. Thus, a 10th-level priest can inflict 20 hp of damage with a touch (once per day, no saving throw allowed). Finally, the priest can also bestow a fatal disease with a touch (as the 3rd-level cleric spell *cause disease*, once per week for every five levels of experience).
+
+In general, Plague Priests cannot turn or control undead, except when the undead have been specifically raised from bodies stricken by disease. For instance, if a necromancer animated the corpses of a dozen plague victims, then the priests of Pestilence would be able to turn or command them. Similarly, Plague Priests can only animate the corpses of those who have died from disease.
+
+**Other Limitations:** Priests of Pestilence are reflections of their corrupted deities. Although technically immune to disease, they have a horrid and disfigured appearance that festers and rots as the priest advances in power and experience. These clerics suffer a –1 penalty to Charisma for every level they advance; as their power grows, they come to resemble decayed corpses, symbolizing the very dissolution they try to promulgate. This advancing leprous condition is viewed by the priests as a sign of divine favor, the sacred Kiss of their god. Not surprisingly, they neither marry nor seek intimate relations; their priesthood is effectively celibate. Their ceremonial high cowls, masks, linen wrapping, and heavy incense help them conceal their odious appearance and odor when they move about in society.
+
+**Possible Symbols:** Mice, Rats, and other Vermin, Ravens, the Y-tipped Staff.
+
+[[00_Rulebook/The Complete Book of Necromancers/Table of Contents|Table of Contents]]

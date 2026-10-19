@@ -1,0 +1,18 @@
+---
+heading: "Dwarves' Diet (Comp. Book of Dwarves)"
+source: https://regalgoblins.com/2erules/CBD/DD04616.htm
+---
+
+**Dwarves' Diet**
+
+Dwarves enjoy a wide variety of food, with a preference for meat. Hill, mountain, and sundered dwarves keep cattle, goats, sheep, pigs, and fowl. These animals are grazed above ground on upland meadows or plateaus. Sundered dwarves keep their livestock close to home, hill and mountain dwarves allow their stock to roam.
+
+In high ranges, mountain dwarves keep animals more suited to subterranean existence: giant lizards and beetles. Deep dwarves and duergar also keep lizards and beetles, and these are selectively bred for cooking. Gully dwarves eat anything they can scavenge and rarely breed or maintain any animals for food. The few gullys who have tried were so wretched at it their animals sickened and died.
+
+Although meat is a staple of their diet, large quantities of grains are also consumed. When possible wheat, rye and barley are grown close to the stronghold. They are harvested and kept in underground granaries. Many who live close to humans or halflings buy large quantities of grain to supplement their own production.
+
+Dwarves who live in the deep earth substitute various types of fungi for grains. Like the giant lizards and beetles, many of these fungi have been carefully bred to produce a wide variety of flavors to excite the palate. Most are very careful about the kinds of fungi they eat, but gully dwarves will eat anything. As a result, many gully dwarves suffer from indigestion and bowel disorders.
+
+Dwarven cooking also makes use of vegetables for flavor and variety. They do not eat spicy or heavily seasoned food, and consequently dwarven cooking tastes bland to humans and elves, but the food is wholesome, consisting of thick stews served on broad slices of bread. While they are not voracious eaters like halflings, few humans or elves can eat as much as a dwarf in a single meal.
+
+[[00_Rulebook/The Complete Book of Dwarves/Table of Contents|Table of Contents]]

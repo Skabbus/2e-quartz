@@ -1,0 +1,98 @@
+---
+heading: Militant Wizard (Comp. Wizard's Handbook)
+source: https://regalgoblins.com/2erules/CWH/DD06128.htm
+subclass: Mage
+class_group: Wizard
+type: Kit
+---
+
+**Militant Wizard**
+
+**Description**: The Militant Wizard is skilled in both magical and military arts, making him an extremely formidable opponent. They can come from aggressive, warmongering cultures bent on the conquest of weaker nations, or from cultures continually under siege from their more warlike neighbors, making military preparedness vital to their defense. In any case, the Militant Wizard considers a trained body as important as a trained mind, and prides himself on keeping his combat skills as sharp as his magical talents.
+
+A character must have a Strength of at least 13 to be a Militant Wizard. Though male Militant Wizards will be more common, female Militant Wizards are allowable as well, unless the DM's world specifically forbids them.
+
+Abandoning this kit is difficult. A Militant Wizard must abstain from using both of the weapons he has chosen for his Weapon Proficiencies for three full experience levels. Once he reaches the third experience level, he loses the use of his two Weapon Proficiencies. If he then renounces his citizenship from his home culture, he can successfully abandon this kit.
+
+For example, consider a 5th-level Militant Wizard with Weapon Proficiencies in short sword and long bow. If he abstains from using both of these weapons (and the corresponding Weapon Proficiencies), he loses his Weapon Proficiencies in short sword and long bow when he reaches 8th level. If he then renounces his citizenship from his home culture, he can abandon this kit. If he uses these weapons before reaching 8th level, he must begin again, abstaining for an additional three levels of experience (for instance, if he uses his long bow Weapon Proficiency when at 7th level, he'll have to abstain until he reaches 10th level in order to abandon this kit. )
+
+**Preferred Schools:** Militant Wizards prefer schools with an excess of offensive and defensive spells, such as abjuration, alteration, conjuration/summoning, invocation/evocation, and necromancy.
+
+**Barred Schools:** Militant Wizards are barred from specializing in the schools of enchantment/charm and illusion, as their cultures tend to consider them relatively useless in combat. Though greater divination has uses on the battlefield, particularly in the area of reconnaissance, Militant Wizards are discouraged, but not barred, from divination specialization.
+
+**Role:** Militant Wizards are among the most honored and respected citizens in their societies, since their powerful magic makes them exceptionally able soldiers. Depending on his background, the Militant Wizard may be a brutal, savage killer, wallowing in the violence of the battlefield, or he may be a heroic warrior, fighting with honor and taking lives only when necessary.
+
+A Militant Wizard might have a variety of reasons for joining an adventuring party. Perhaps he shares the party's goal of defeating a force of evil, or he might be seeking treasure to finance his own army at home. He might wish to study the fighting techniques of other cultures, or he might hire on as a mercenary.
+
+Whatever his reasons, the Militant Wizard's fighting skills should greatly benefit any party. He makes an excellent leader, but he is also capable of following orders to the letter, assuming the orders are issued by a commander he respects. The Militant Wizard tends to prefer action to inaction and combat to negotiation. He is skeptical of scholarly and philosophic types, and is unlikely to form close relationships with such characters.
+
+**Secondary Skills:** No particular Secondary Skill is recommended or required. He receives his Secondary Skill either by choosing or rolling randomly, whatever method is normal for the campaign.
+
+**Weapon Proficiency:** Required (choose one from of the following): Battle axe, bow (any), crossbow (any), dagger, javelin, sling, spear, sword (any), warhammer. These are different from the weapons normally associated with wizards, but they are common for Militant Wizards. Also, see the Special Benefits section below.
+
+**Nonweapon Proficiency:** Bonus: (Warrior) Endurance. Recommended: (General) Animal Handling, Direction Sense, Riding (Land-based), Swimming;(Wizard) Languages (Ancient); (Warrior; these take 2 slots only) Blind- fighting, Tracking, (Warrior; these take 1 slot only) Mountaineering, Running, Set Snares.
+
+**Equipment:** The Militant Wizard may buy any equipment he chooses, keeping whatever money he might not use.
+
+**Special Benefits:** The Militant Wizard receives a bonus Weapon Proficiency free of charge; this is in addition to his normal Weapon Proficiency. This bonus Weapon Proficiency does not use any of the wizard's proficiency slots, but he must choose it from the weapons listed in the Weapon Proficiency entry above. Additionally, a Militant Wizard can acquire any of the Warrior's Nonweapon Proficiencies given on [Table 37](..\PHB\DD01538.htm) on page 55 of the *Player's Handbook* at the listed number of slots; for instance, if a Militant Wizard wants the Animal Lore proficiency, it costs him only 1 slot instead of the normal 2 for a wizard.
+
+**Special Hindrances:** Because a Militant Wizard devotes so much of his time and energy to the mastery of military skills, he is limited in his access to spells from various schools. Table 6 lists the oppositional schools for Militant Wizards of each specialty; the Militant Wizard is forbidden to learn spells from these schools.
+
+**Table 6: Oppositional Schools for Militant Wizards**
+
+|  |  |
+| --- | --- |
+| **Specialist** | **Oppositional Schools** |
+|  |  |
+| Abjurer | Illusion |
+|  | Alteration |
+|  | Greater Divin. |
+|  |  |
+| Conjurer | Alteration |
+|  | Greater Divin. |
+|  | Invoc./Evoc. |
+|  |  |
+| Diviner | Conj./Summ. |
+|  | Abjuration |
+|  |  |
+| Invoker | Illusion |
+|  | Enchant. /Charm |
+|  | Conj./Summ. |
+|  |  |
+| Necromancer | Enchant. /Charm |
+|  | Illusion |
+|  | Alteration |
+|  |  |
+| Transmuter | Necromancy |
+|  | Abjuration |
+|  | Conj. /Summ. |
+
+Militant Wizard mages are likewise limited. The DM may decide which of the following limitations affects Militant Wizard mages in his campaign (choose only one limitation).
+
+1. The Militant Wizard mage is forbidden to learn
+8th-level and 9th-level spells from any school.
+
+2. The Militant Wizard mage learns spells as if his
+Intelligence were two points lower than he actually has, as indicated
+on [Table
+4](..\PHB\DD01432.htm), page 16 of the *Player's Handbook*.
+This limitation also affects the number of languages he can learn,
+the highest level of spells he can cast, the maximum number of spells
+per level he can know, and his spell immunity. For instance, if this
+limitation is in effect for a Militant Wizard mage with an
+Intelligence score of 15, he can only know three languages, can cast
+spells of no higher than 6th-level, has a 55 percent chance to learn
+a new spell, and has a maximum of nine spells per level that he can know.
+
+3. The Militant Wizard mage can learn spells from only
+five schools. To determine which schools are unavailable to him, roll
+1d8 three times, where 1 = abjuration, 2 = conjuration/summoning, 3 =
+greater divination, 4 = enchantment/charm, 5 = illusion, 6 =
+invocation/evocation, 7 = necromancy, and 8 = alteration. If the same
+result occurs twice, roll again.
+
+**Wealth Options:** The Militant Wizard receives the standard (1d4 + 1) x 10 starting money.
+
+**Races:** No restrictions
+
+[[00_Rulebook/The Complete Wizard's Handbook/Table of Contents|Table of Contents]]

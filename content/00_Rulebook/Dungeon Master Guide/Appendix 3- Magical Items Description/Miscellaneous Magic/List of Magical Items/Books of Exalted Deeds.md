@@ -1,0 +1,18 @@
+---
+heading: Books of Exalted Deeds-- Magical Item (Dungeon Master Guide)
+source: https://regalgoblins.com/2erules/DMG/DD00885.htm
+type:
+  - Item
+  - Book
+magical: true
+---
+
+**Books of Exalted Deeds**
+
+:** This holy book is sacred to clerics of good alignment. Study of the work will require one week, but upon completion the good cleric will gain one point of Wisdom and experience points sufficient to place him halfway into the next level of experience. Clerics neither good nor evil lose 20,000-80,000 experience points for perusing the work (a negative xp total is possible, requiring restoration but not lowering level below 1st). Evil clerics lose one full experience level, dropping to the lowest number of experience points possible to hold the level; furthermore, they have to *atone* by magical means or by offering up 50% of everything they gain for 1d4 + 1 adventures.
+
+Fighters who handle or read the book are unaffected, though a paladin will sense that it is good. Mages who read it lose one point of Intelligence unless they save versus spell. If they fail to save, they lose 2,000-20,000 experience points. A thief who handles or reads the work sustains 5d6 points of damage and must successfully save vs. spell or lose one point of Dexterity. A thief also has a 10%-50% chance of giving up his profession to become a good cleric if Wisdom is 15 or higher. Bards are treated as neutral priests.
+
+Except as indicated above, the writing in a *book of exalted deeds* can't be distinguished from any other magical book, libram, tome, etc. It must be perused. (This applies also to all other works of magical writing detailed below.) Once perused, the book vanishes, never to be seen again, nor can the same character ever benefit from perusing a similar tome a second time.
+
+[[00_Rulebook/Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

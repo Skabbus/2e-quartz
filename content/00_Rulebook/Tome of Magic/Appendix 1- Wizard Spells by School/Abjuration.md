@@ -1,0 +1,8 @@
+---
+heading: "Abjuration-- Wizard Spells by School (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04525.htm
+---
+
+**Abjuration**
+
+[Alarm (1st)](..\PHB\DD01809.htm)[Cantrip (1st)](..\PHB\DD01813.htm)*[Protection From Evil (1st)](..\PHB\DD01840.htm)***[Chaos Shield\* (2nd)](..\TM\DD04171.htm#e535b004)**[[Nahal's Nonsensical Nullifier|Nahal's Nonsensical Nullifier\* (2nd)]]**[Protection From Cantrips (2nd)](..\PHB\DD01882.htm)**[[Protection From Paralysis|Protection From Paralysis (2nd)]]**[Dispel Magic (3rd)](..\PHB\DD01900.htm)[Non-Detection (3rd)](..\PHB\DD01918.htm)*[Protection From Evil, 10-foot Radius (3rd)](..\PHB\DD01920.htm)* [Protection From Normal Missiles (3rd)](..\PHB\DD01921.htm) [Fire Trap (4th)](..\PHB\DD01946.htm)[Minor Globe of Invulnerability (4th)](..\PHB\DD01956.htm)**[[Minor Spell Turning|Minor Spell Turning (4th)]]***[Remove Curse (4th)](..\PHB\DD01965.htm)**[Avoidance (5th)](..\PHB\DD01978.htm)*[Dismissal (5th)](..\PHB\DD01986.htm)**[[Lower Resistance|Lower Resistance (5th)]]**[[Safeguarding|Safeguarding (5th)]]**[[Von Gasik's Refusal|Von Gasik's Refusal (5th)]]**[Anti-Magic Shell (6th)](..\PHB\DD02014.htm#f6e51f6c)[Globe of Invulnerability (6th)](..\PHB\DD02030.htm)[Repulsion (6th)](..\PHB\DD02047.htm)[Banishment (7th)](..\PHB\DD02054.htm#9c5d22e4)[Sequester (7th)](..\PHB\DD02072.htm)[Spell Turning (7th)](..\PHB\DD02075.htm)**[[Hornung's Random Dispatcher|Hornung's Random Dispatcher\* (8th)]]**[Mind Blank (8th)](..\PHB\DD02089.htm)[Serten's Spell Immunity (8th)](..\PHB\DD02098.htm)**[[Elemental Aura|Elemental Aura (9th)]]***[Imprisonment (9th)](..\PHB\DD02108.htm)*[Prismatic Sphere (9th)](..\PHB\DD02113.htm)**[[Stablize|Stabilize\* (9th)]]**[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

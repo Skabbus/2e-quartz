@@ -1,14 +1,14 @@
 
 **Step-by-Step Player Character Generation**
 
-To create a character to play in the AD&D game, proceed, in order, through [[Player's Handbook/Chapter 1- Player Character Ability Scores/Player Character Ability Scores|Chapters 1]] through [[Player's Handbook/Chapter 6- Money and Equipment/Money and Equipment|6]]. ([[Player's Handbook/Chapter 5- Proficiencies (Optional)/Proficiencies (Optional)|Chapter 5]] is optional). These chapters will tell you how to generate your character's ability scores, race, and class, decide on his alignment, pick proficiencies, and buy equipment. The necessary steps are summarized here. Don't be concerned if you encounter terms you don't understand; they are fully explained in chapters 1 through 6. Once you've worked through this list, your character is ready for adventure!
+To create a character to play in the AD&D game, proceed, in order, through [[00_Rulebook/Player's Handbook/Chapter 1- Player Character Ability Scores/Player Character Ability Scores|Chapters 1]] through [[00_Rulebook/Player's Handbook/Chapter 6- Money and Equipment/Money and Equipment|6]]. ([[00_Rulebook/Player's Handbook/Chapter 5- Proficiencies (Optional)/Proficiencies (Optional)|Chapter 5]] is optional). These chapters will tell you how to generate your character's ability scores, race, and class, decide on his alignment, pick proficiencies, and buy equipment. The necessary steps are summarized here. Don't be concerned if you encounter terms you don't understand; they are fully explained in chapters 1 through 6. Once you've worked through this list, your character is ready for adventure!
 
-## Step 1: Roll Ability Scores ([[Player's Handbook/Chapter 1- Player Character Ability Scores/Player Character Ability Scores|chapter 1]]**)** 
+## Step 1: Roll Ability Scores ([[00_Rulebook/Player's Handbook/Chapter 1- Player Character Ability Scores/Player Character Ability Scores|chapter 1]]**)** 
 Your character needs scores for Strength, Dexterity, Constitution, Intelligence, Wisdom, Charisma and Perception.
 
-## Step 2: Choose a Race (**[[Player's Handbook/Chapter 2- Player Character Races/Player Character Races|chapter 2)]]
+## Step 2: Choose a Race (**[[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Player Character Races|chapter 2)]]
 
-### Racial Ability Score Requirements ([[Player's Handbook/Tables/Table 7- Racial Ability Requirements|Table 7- Racial Ability Requirements]])
+### Racial Ability Score Requirements ([[00_Rulebook/Player's Handbook/Tables/Table 7- Racial Ability Requirements|Table 7- Racial Ability Requirements]])
 | **Ability**  | **Dwarf** | **Elf** | **Gnome** | **Half-Elf** | **Halfling** |
 | ------------ | --------- | ------- | --------- | ------------ | ------------ |
 | Strength     | 8/18      | 3/18    | 6/18      | 3/18         | 7/18\*       |
@@ -18,7 +18,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | Wisdom       | 3/18      | 3/18    | 3/18      | 3/18         | 3/17         |
 | Charisma     | 3/17      | 8/18    | 3/18      | 3/18         | 3/18         |
 
-### Racial Modifiers ([[Player's Handbook/Tables/Table 8- Racial Abilities|Table 8- Racial Abilities]])
+### Racial Modifiers ([[00_Rulebook/Player's Handbook/Tables/Table 8- Racial Abilities|Table 8- Racial Abilities]])
 | Race     | Ability Modifier |
 | -------- | ---------------- |
 | Dwarf    | Con +1, Cha -1   |
@@ -31,7 +31,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 ### Ability Tables
 
 
-#### Strength Table ([[Player's Handbook/Tables/Table 1- Strength|Table 1- Strength]])
+#### Strength Table ([[00_Rulebook/Player's Handbook/Tables/Table 1- Strength|Table 1- Strength]])
 | **Ability Score** | **Hit Prob.** | **Dmg. Adj.** | **Weight Allow.** | **Max. Press** | **Open Doors** | **Bend Bars/Lift Gates** | **Notes**       |
 | ----------------- | ------------- | ------------- | ----------------- | -------------- | -------------- | ------------------------ | --------------- |
 | **1**             | **-5**        | **-4**        | **1**             | **3**          | **1**          | **0%**                   |                 |
@@ -59,7 +59,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **24**            | **+6**        | **+12**       | **1,235**         | **1,440**      | **19(17)**     | **95%**                  | **Storm Giant** |
 | **25**            | **+7**        | **+14**       | **1,535**         | **1,750**      | **19(18)**     | **99%**                  | **Titan**       |
 
-#### Dexterity Table ([[Player's Handbook/Tables/Table 2- Dexterity|Table 2- Dexterity]])
+#### Dexterity Table ([[00_Rulebook/Player's Handbook/Tables/Table 2- Dexterity|Table 2- Dexterity]])
 | **Ability Score** | **Missile Attack Adj.** | **Defensive Adj.** |
 | ----------------- | ----------------------- | ------------------ |
 | **1**             | **-6**                  | **+5**             |
@@ -84,7 +84,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **24**            | **+5**                  | **-6**             |
 | **25**            | **+5**                  | **-6**             |
 
-#### Constitution Table ([[Player's Handbook/Tables/Table 3- Constitution|Table 3- Constitution]])
+#### Constitution Table ([[00_Rulebook/Player's Handbook/Tables/Table 3- Constitution|Table 3- Constitution]])
 | **Ability Score** | **Hit Point Adjustment** | **System Shock** | **Resurrection Survival** | **Poison Save** | Regeneration  |
 | ----------------- | ------------------------ | ---------------- | ------------------------- | --------------- | ------------- |
 | **1**             | **-3**                   | **25%**          | **30%**                   | **-2**          | **Nil**       |
@@ -114,7 +114,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **25**            | **+2 (+7)\*\*\*\***      | **100%**         | **100%**                  | **+4**          | **1/1 turn**  |
 
 
-#### Intelligence Table ([[Player's Handbook/Tables/Table 4- Intelligence|Table 4- Intelligence]])
+#### Intelligence Table ([[00_Rulebook/Player's Handbook/Tables/Table 4- Intelligence|Table 4- Intelligence]])
 | **Ability Score** | **# of Lang.** | **# of NWP** | **Spell Level** | **Chance to Learn Spell** | **Max. # of Spells/Level** |
 | ----------------- | -------------- | ------------ | --------------- | ------------------------- | -------------------------- |
 | **1**             | **0\***        | **0**        | **--**          | **--**                    | **--**                     |
@@ -143,7 +143,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **24**            | **15**         | **15**       | **9th**         | **100%**                  | **All**                    |
 | **25**            | **20**         | **20**       | **9th**         | **100%**                  | **All**                    |
 
-#### Wisdom Table ([[Player's Handbook/Tables/Table 5- Wisdom|Table 5- Wisdom]])
+#### Wisdom Table ([[00_Rulebook/Player's Handbook/Tables/Table 5- Wisdom|Table 5- Wisdom]])
 | Ability Score | **Magical Defense Adjustment** | Bonus Spells | **Chance of Spell Failure** | Spell Immunity                                              |
 | ------------- | ------------------------------ | ------------ | --------------------------- | ----------------------------------------------------------- |
 | **1**         | **-6**                         | **--**       | **80%**                     | **--**                                                      |
@@ -172,7 +172,7 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **24**        | **+4**                         | **5th, 6th** | **0%**                      | ***geas, mass suggestion, rod of rulership***               |
 | **25**        | **+4**                         | **6th, 7th** | **0%**                      | ***antipathy/sympathy, death spell, mass charm***           |
 
-#### Charisma Table ([[Player's Handbook/Tables/Table 6- Charisma|Table 6- Charisma]])
+#### Charisma Table ([[00_Rulebook/Player's Handbook/Tables/Table 6- Charisma|Table 6- Charisma]])
 
 | **Ability Score** | **Maximum # of Henchmen** | **Loyalty Base** | **Reaction Adjustment** |
 | ----------------- | ------------------------- | ---------------- | ----------------------- |
@@ -235,38 +235,38 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 
 ### Racial Abilities
 
-#### Dwarf ([[Player's Handbook/Chapter 2- Player Character Races/Dwarves|Dwarves]])
+#### Dwarf ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Dwarves|Dwarves]])
 | Dwarven Abilities          | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                      |
 | -------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Magic Resistance**       | By nature, dwarves are nonmagical and never use magical spells (priest spells are allowed however). This gives a bonus to dwarves' saving throws against attacks from magical wands, staves, rods, and spells. This bonus is +1 for every 3 - ½ points of Constitution score. Thus, for example, if a dwarf has a Constitution score of 7 he gains +2 on saving throws. These bonuses are summarized on [[Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]].                                                                                                        |
-| **Toxin Resistance**       | Similarly, dwarves have exceptional resistance to toxic substances. All dwarven characters make saving throws against poison with the same bonuses that they get against magical attacks (see [[Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]]).                                                                                                                                                                                                                                                                                                                 |
+| **Magic Resistance**       | By nature, dwarves are nonmagical and never use magical spells (priest spells are allowed however). This gives a bonus to dwarves' saving throws against attacks from magical wands, staves, rods, and spells. This bonus is +1 for every 3 - ½ points of Constitution score. Thus, for example, if a dwarf has a Constitution score of 7 he gains +2 on saving throws. These bonuses are summarized on [[00_Rulebook/Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]].                                                                                                        |
+| **Toxin Resistance**       | Similarly, dwarves have exceptional resistance to toxic substances. All dwarven characters make saving throws against poison with the same bonuses that they get against magical attacks (see [[00_Rulebook/Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]]).                                                                                                                                                                                                                                                                                                                 |
 | **Magical Malfunction**    | Dwarves have trouble using magical items. All magical items that are not specifically suited to the character's class have a 20% chance to malfunction when used by a dwarf. This check is made each time a dwarf uses a magical item.                                                                                                                                                                                                                                                                                                                                                           |
 | **Favored Enemies**        | In melee, dwarves add 1 to their dice rolls to hit orcs, half-orcs, goblins, and hobgoblins. When ogres, trolls, ogre magi, giants, or titans attack dwarves, these monsters must subtract 4 from their attack rolls because of the dwarves' small size and combat ability against these much bigger creatures.                                                                                                                                                                                                                                                                                  |
 | **Infravision**            | Dwarven infravision enables them to see up to 60 feet in the dark.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Underground Navigation** | Dwarves are miners of great skill. While underground, they can detect the following information when within 10 feet of the particular phenomenon (but they can determine their approximate depth below the surface at any time).<br><br>Detect grade or slope in passage                            1-5 on 1d6<br>Detect new tunnel/passage construction                1-5 on 1d6<br>Detect sliding/shifting walls or rooms                     1-4 on 1d6<br>Detect stonework traps, pits, and deadfalls             1-3 on 1d6<br>Determine approximate depth underground          1-3 on 1d6 |
 
-#### Elf ([[Player's Handbook/Chapter 2- Player Character Races/Elves|Elves]])
+#### Elf ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Elves|Elves]])
 
 | Elven Abilities      | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                    |
 | -------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
-| **Charm Resistance** | Elven characters have 90% resistance to *sleep* and all *charm-*related spells. (See [[Player's Handbook/Chapter 9- Combat/Combat\|Chapter 9]]: Combat for an explanation of magic resistance.) This is in addition to the normal saving throw allowed against a *charm* spell.                                                                                                                                                                                                                                                |
+| **Charm Resistance** | Elven characters have 90% resistance to *sleep* and all *charm-*related spells. (See [[00_Rulebook/Player's Handbook/Chapter 9- Combat/Combat\|Chapter 9]]: Combat for an explanation of magic resistance.) This is in addition to the normal saving throw allowed against a *charm* spell.                                                                                                                                                                                                                                                |
 | **Elven Weaponry**   | When employing a bow of any sort other than a crossbow, or when using a short or long sword, elves gain a bonus of +1 to their attack rolls.                                                                                                                                                                                                                                                                                                                                                                                   |
 | **Silent Stalker**   | An elf can gain a bonus to surprise opponents, but only if the elf is not in metal armor. Even then, the elf must either be alone, or with a party comprised only of elves or halflings (also not in metal armor), or 90 feet or more away from his party (the group of characters he is with) to gain this bonus. If he fulfills these conditions, he moves so silently that opponents suffer a -4 penalty to their surprise die rolls. If the elf must open a door or screen to attack, this penalty is reduced to -2.       |
 | **Infravision**      | Elven infravision enables them to see up to 60 feet in darkness.                                                                                                                                                                                                                                                                                                                                                                                                                                                               |
 | **Perceptive**       | Secret doors (those constructed so as to be hard to notice) and concealed doors (those hidden from sight by screens, curtains, or the like) are difficult to hide from elves. Merely passing within 10 feet of a concealed door gives an elven character a one-in-six chance (roll a 1 on 1d6) to notice it. If actively searching for such doors, elven characters have a one-in-three chance (roll a 1 or 2 on 1d6) to find a secret door and a one-in-two chance (roll a 1, 2, or 3 on 1d6) to discover a concealed portal. |
 
-#### Gnome ([[Player's Handbook/Chapter 2- Player Character Races/Gnomes|Gnomes]])
+#### Gnome ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Gnomes|Gnomes]])
 
 | Gnome Abilities            | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                       |
 | -------------------------- | ----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Magic Resistance**       | Like their cousins the dwarves, gnomes are highly magic resistant. A gnome player character gains a bonus of +1 for every 3½ points of Constitution score, just as dwarves do (see [[Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]]). This bonus applies to saving throws against magical wands, staves, rods, and spells.                                                                                                                                                                                                        |
+| **Magic Resistance**       | Like their cousins the dwarves, gnomes are highly magic resistant. A gnome player character gains a bonus of +1 for every 3½ points of Constitution score, just as dwarves do (see [[00_Rulebook/Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]]). This bonus applies to saving throws against magical wands, staves, rods, and spells.                                                                                                                                                                                                        |
 | **Magical Malfunction**    | Gnomes also suffer a 20% chance for failure every time they use any magical item except weapons, armor, shields, illusionist items, and (if the character is a thief) items that duplicate thieving abilities. This check is made each time the gnome attempts to use the device, or, in the case of continuous-use devices, each time the device is activated. Like dwarves, gnomes can sense a cursed item if the device fails to function.                                                                                                                     |
 | **Favored Enemies**        | In melee, gnome characters add 1 to their attack rolls to hit kobolds or goblins. When gnolls, bugbears, ogres, trolls, ogre magi, giants, or titans attack gnomes, these monsters must subtract 4 from their attack rolls because of the gnomes' small size and their combat skills against these much larger creatures.                                                                                                                                                                                                                                         |
 | **Infravision**            | Gnomish infravision enables them to see up to 60 feet in the dark.                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                |
 | **Underground Navigation** | Being tunnelers of exceptional merit, gnomes are able to detect the following within 10 feet (exception: They can determine their approximate depth or direction underground at any time.). They must stop and concentrate for one round to use any of these abilities.<br><br>Detect grade or slope in passage                             1-5 on 1d6<br>Detect unsafe walls, ceiling, and floors                     1-7 on 1d10<br>Determine approximate depth underground           1-4 on 1d6<br>Determine approximate direction underground      1-3 on 1d6 |
 
 
-#### Half-Elf ([[Player's Handbook/Chapter 2- Player Character Races/Half-Elves|Half-Elves]])
+#### Half-Elf ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Half-Elves|Half-Elves]])
 
 | Half-Elf  Abilities  | Description                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                                        |
 | -------------------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
@@ -275,17 +275,17 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | **Perceptive**       | Secret or concealed doors are difficult to hide from half-elves, just as they are from elves. Merely passing within 10 feet of a concealed door (one hidden by obstructing curtains, etc.) gives the half-elven character a one-in-six chance (roll a 1 on 1d6) of spotting it. If the character is actively seeking to discover hidden doors, he has a one-in-three chance (roll a 1 or 2 on 1d6) of spotting a secret door (one constructed to be undetectable) and a one-in-two chance (roll a 1, 2, or 3 on 1d6) of locating a concealed door. |
 
 
-#### Halfling ([[Player's Handbook/Chapter 2- Player Character Races/Halflings|Halflings]])
+#### Halfling ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Halflings|Halflings]])
 
 | Halfling  Abilities        | Description                                                                                                                                                                                                                                                                                                                                                                                                                             |
 | -------------------------- | --------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- |
-| **Magic Resistance**       | All halfling characters have a high resistance to magical spells, so for every 3-½ points of Constitution score, the character gains a +1 bonus on saving throws vs. wands, staves, rods, and spells. These bonuses are summarized on [[Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]].                                                                                                                 |
+| **Magic Resistance**       | All halfling characters have a high resistance to magical spells, so for every 3-½ points of Constitution score, the character gains a +1 bonus on saving throws vs. wands, staves, rods, and spells. These bonuses are summarized on [[00_Rulebook/Player's Handbook/Tables/Table 9- Constitution Saving Throw Bonuses\|Table 9]].                                                                                                                 |
 | **Toxin Resistance**       | Halflings have a similar resistance to poisons of all sorts, so they gain a Constitution bonus identical to that for saving throws vs. magical attacks when they make saving throws vs. poison (i.e., +1 to +5, depending on Constitution score).                                                                                                                                                                                       |
 | **Favored Weapons**        | Halflings have a natural talent with slings and thrown weapons. Rock pitching is a favorite sport of many a halfling child. All halflings gain a +1 bonus to their attack rolls when using thrown weapons and slings.                                                                                                                                                                                                                   |
 | **Silent Stalker**         | A halfling can gain a bonus to surprise opponents, but only if the halfling is not in metal armor. Even then, the halfling must either be alone, or with a party comprised only of halflings or elves, or 90 feet or more away from his party to gain this bonus. If he fulfills any of these conditions, he causes a -4 penalty to opponents' surprise rolls. If a door or other screen must be opened, this penalty is reduced to -2. |
 | **Infravision**            | Depending on their lineage, certain halfling characters have infravision. Any halfling character has a 15% chance to have normal infravision (this means he is pure Stout), out to 60 feet; failing that chance, there is a 25% chance that he has limited infravision (mixed Stout/Tallfellow or Stout/Hairfeets lineage), effective out to 30 feet.                                                                                   |
 | **Underground Navigation** | Similarly, halflings with any Stoutish blood can note if a passage is an up or down grade with 75% accuracy (roll a 1, 2, or 3 on 1d4). They can determine direction half the time (roll a 1, 2, or 3 on 1d6). These abilities function only when the character is concentrating on the desired information to the exclusion of all else, and only if the character is pure or partially Stout.                                         |
-#### Human ([[Player's Handbook/Chapter 2- Player Character Races/Humans|Humans]])
+#### Human ([[00_Rulebook/Player's Handbook/Chapter 2- Player Character Races/Humans|Humans]])
 | Human  Abilities | Description |
 | ---------------- | ----------- |
 | x                | x           |
@@ -319,7 +319,7 @@ Venerable: Additional -3 penalties to physical stats (Str/Dex/Con); +2 to mental
 
 
 
-## **Step 3: Select a Class (**[[Player's Handbook/Chapter 3- Player Character Classes/Player Character Classes|chapter 3)]]
+## **Step 3: Select a Class (**[[00_Rulebook/Player's Handbook/Chapter 3- Player Character Classes/Player Character Classes|chapter 3)]]
 Select a class that is available to your character's race:
 
 | Race     | Fighter | Cleric | Mage | Thief | Paladin | Ranger | Bard | Illusionist | Druid | Multi |
@@ -344,21 +344,21 @@ Select a class that is available to your character's race:
 | Thief               | --      | 9       | --      | --      | --      | --      |
 | Bard\*              | --      | 12      | --      | 13      | --      | 15      |
 
-*Minimum Ability Requirements per Class. [[Player's Handbook/Tables/Table 13- Class Ability Minimums|Table 13]]*
+*Minimum Ability Requirements per Class. [[00_Rulebook/Player's Handbook/Tables/Table 13- Class Ability Minimums|Table 13]]*
 
-If your character is a fighter, paladin, or ranger, is not a halfling, and has a Strength score of 18, roll d100 to determine exceptional Strength. Consult [[Player's Handbook/Tables/Table 1- Strength|Table 1]] and readjust those bonuses affected by exceptional Strength.
+If your character is a fighter, paladin, or ranger, is not a halfling, and has a Strength score of 18, roll d100 to determine exceptional Strength. Consult [[00_Rulebook/Player's Handbook/Tables/Table 1- Strength|Table 1]] and readjust those bonuses affected by exceptional Strength.
 
-If your character is a mage, consult [[Player's Handbook/Tables/Table 4- Intelligence|Table 4]] and record his maximum spell level, chance to learn spells, and maximum number of spells per level. Ask your DM what spells the character knows.
+If your character is a mage, consult [[00_Rulebook/Player's Handbook/Tables/Table 4- Intelligence|Table 4]] and record his maximum spell level, chance to learn spells, and maximum number of spells per level. Ask your DM what spells the character knows.
 
-If your character is a cleric, consult [[Player's Handbook/Tables/Table 5- Wisdom|Table 5]] and record bonus spells and his chance of spell failure. Note the spell spheres to which the PC has access.
+If your character is a cleric, consult [[00_Rulebook/Player's Handbook/Tables/Table 5- Wisdom|Table 5]] and record bonus spells and his chance of spell failure. Note the spell spheres to which the PC has access.
 
-If your character is a thief, record his base thieving skills scores from [[Player's Handbook/Tables/Table 26- Thieving Skills Base Scores|Table 26]]. Modify these scores according to [[Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]] and [[Player's Handbook/Tables/Table 28- Thieving Skill Dexterity Adjustments|28]]. Then apportion 60 points between those abilities, assigning no more than 30 points to any one score.
+If your character is a thief, record his base thieving skills scores from [[00_Rulebook/Player's Handbook/Tables/Table 26- Thieving Skills Base Scores|Table 26]]. Modify these scores according to [[00_Rulebook/Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]] and [[00_Rulebook/Player's Handbook/Tables/Table 28- Thieving Skill Dexterity Adjustments|28]]. Then apportion 60 points between those abilities, assigning no more than 30 points to any one score.
 
-If your character is a bard, note his thief abilities from [[Player's Handbook/Tables/Table 33- Bard Abilities|Table 33]]. Modify these percentages according to [[Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]] and [[Player's Handbook/Tables/Table 29- Thieving Skill Armor Adjustments|28]]. Then apportion 20 points between these abilities.
+If your character is a bard, note his thief abilities from [[00_Rulebook/Player's Handbook/Tables/Table 33- Bard Abilities|Table 33]]. Modify these percentages according to [[00_Rulebook/Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]] and [[00_Rulebook/Player's Handbook/Tables/Table 29- Thieving Skill Armor Adjustments|28]]. Then apportion 20 points between these abilities.
 
-**Step 5: Record Saving Throws and "to Hit" bonus (**[[Player's Handbook/Chapter 9- Combat/Combat|chapter 9]]**)** Consult [[Player's Handbook/Tables/Table 60- Character Saving Throws|Table 60]] to determine the base saving throws for your character. Consult [[Player's Handbook/Tables/Table 53- Calculating THAC0S|Table 53]] to determine your character's "to Hit".
+**Step 5: Record Saving Throws and "to Hit" bonus (**[[00_Rulebook/Player's Handbook/Chapter 9- Combat/Combat|chapter 9]]**)** Consult [[00_Rulebook/Player's Handbook/Tables/Table 60- Character Saving Throws|Table 60]] to determine the base saving throws for your character. Consult [[00_Rulebook/Player's Handbook/Tables/Table 53- Calculating THAC0S|Table 53]] to determine your character's "to Hit".
 
-**Step 6: Roll Hit Points (**[[Player's Handbook/Chapter 3- Player Character Classes/Player Character Classes|chapter 3]]**)** Roll the appropriate hit die for your character. If the character is multi-classed, roll all applicable hit dice and average the results.
+**Step 6: Roll Hit Points (**[[00_Rulebook/Player's Handbook/Chapter 3- Player Character Classes/Player Character Classes|chapter 3]]**)** Roll the appropriate hit die for your character. If the character is multi-classed, roll all applicable hit dice and average the results.
 
 | Warrior | 1d10 |
 | ------- | ---- |
@@ -366,7 +366,7 @@ If your character is a bard, note his thief abilities from [[Player's Handbook/T
 | Rogue   | 1d8  |
 | Mage    | 1d6  |
 
-**Step 7: Record Base Movement (**[[Player's Handbook/Chapter 14- Time and Movement/Time and Movement|chapter 14]]**)** Find the character' base movement rate on [[Player's Handbook/Tables/Table 64- Base Movement Rates|Table 64]] and record it. If the optional encumbrance rules are in effect, also record the encumbrance categories from [[Player's Handbook/Tables/Table 47- Character Encumbrance|Table 47]] and modified movement rates and combat abilities.
+**Step 7: Record Base Movement (**[[00_Rulebook/Player's Handbook/Chapter 14- Time and Movement/Time and Movement|chapter 14]]**)** Find the character' base movement rate on [[00_Rulebook/Player's Handbook/Tables/Table 64- Base Movement Rates|Table 64]] and record it. If the optional encumbrance rules are in effect, also record the encumbrance categories from [[00_Rulebook/Player's Handbook/Tables/Table 47- Character Encumbrance|Table 47]] and modified movement rates and combat abilities.
 
 | **Race** | **Rate** |
 | -------- | -------- |

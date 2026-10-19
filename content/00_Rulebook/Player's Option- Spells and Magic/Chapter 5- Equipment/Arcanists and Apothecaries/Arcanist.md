@@ -1,0 +1,12 @@
+---
+heading: "Arcanist (Spells and Magic)"
+source: https://regalgoblins.com/2erules/SM/DD03503.htm
+---
+
+Arcanist
+
+Only the largest cities can support an arcanist, or a shopkeeper who deals solely in magical reagents, components, and the occasional enchanted item. An arcanist can provide spell components from any list, and also a number of other generally useful items for a wizard—paper, vellum, parchment, ink, quills, alchemical supplies and equipment, and other such things.
+
+Because arcanists have a clientele of wizards, they are willing to buy magical items and rare or unusual materials that could be useful as spell components. Player characters may sell components for 30% to 80% or (1d6+2) x 10% of their listed value. Magical items can be sold for whatever price the DM deems fair, although a PC selling a magical item should not be able to make more than twice the item’s experience point value from the sale. In fact, it’s perfectly reasonable for the DM to rule that the seller must sell by consignment—in other words, the arcanist agrees to display the item and handle any inquiries about it for a 10% share of the asking price, but he won’t buy it outright. Until another customer comes along to show an interest in the item, the PC seller makes no money. Note that magical items are rare, and from week to week the arcanist has no idea what may or may not show up in his shop.
+
+[[00_Rulebook/Player's Option- Spells and Magic/Table of Contents|Table of Contents]]

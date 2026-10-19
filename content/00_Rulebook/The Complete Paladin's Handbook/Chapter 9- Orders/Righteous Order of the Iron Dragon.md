@@ -1,0 +1,18 @@
+---
+heading: "Righteous Order of the Iron Dragon (Comp. Paladin's Handbook)"
+source: https://regalgoblins.com/2erules/CPaH/DD05447.htm
+---
+
+**Righteous Order of theIron Dragon** This order honors outstanding military service. Its members have distinguished themselves through heroism in combat and gallantry on the battlefield. While members have no formal responsibilities, the High Officers occasionally rally them to fight as an elite force in emergencies.
+
+**Requirements:** Paladins of the Militarist kit are automatically eligible for membership when they reach 9th level. Otherwise. a paladin must have demonstrated meritorious military achievement beyond the call of duty, such as:• Serving in an organized military for at least 10 consecutive years, fighting in at least two major wars during that period.• Being responsible for routing or defeating an enemy army.• Rescuing a hostage king or noble.• Dying in battle (membership is awarded posthumously unless *raise dead* was used).
+
+**Organization:** A chapter consists of 15 to 50 members, averaging about 30. One Grand Commander and three Lieutenant Commanders serve as the High Officers. Any member of the chapter can become a Lieutenant Commander by issuing a formal challenge to a current Lieutenant Commander. A Lieutenant Commander must accept all such challenges. A member can make one challenge each year or at each meeting (whichever occurs more frequently). The challenge consists of a series of contests, pitting the Lieutenant against the challenging member. The specifics of a challenge vary from chapter to chapter, but usually include a jousting match, a riding competition (including stunts and races), and a duel with blunted swords. If the Lieutenant wins the majority of the contests, he retains his position; the defeated member can never again make a challenge to any Lieutenant. If the challenger wins, he becomes a Lieutenant; the Lieutenant becomes a regular member of the order. A defeated Lieutenant can never again seek an office. The Grand Commander selects his own successor from among his Lieutenants. Should the Grand Commander die unexpectedly, the Lieutenants engage in a series of round-robin contests to decide who becomes the replacement. To replace the promoted Lieutenant—or to replace a Lieutenant who dies or steps down—the Grand Commander promotes a member from the rank and file, usually the eldest or the most experienced member. The Grand Commander wears a golden bracelet with the order's emblem. The Lieutenant Commanders wear similar bracelets made of silver. All members wear blue ribbons emblazoned with the emblem. For each year of membership, a red band is added to the ribbon. When a member has earned 10 red bands, a white ribbon replaces the blue ribbon. Thereafter, a member earns a golden band for every year of service. If he receives 10 golden bands, the Grand Commander presents him with a copper bracelet with the order's emblem, proclaiming him a Senior Member (an honorary title, not a High Officer).
+
+**Emblem:** The silhouette of a dragon's head, colored dark gray, on a field of red.
+
+**Motto:** "Peace through strength."**Benefits:** The order provides its members with personal armor, weapons, and equipment at no charge. The order also supplies war horses if necessary. The DM may veto any excessive requests. Magical items usually aren't available.
+
+**Dismissal:** In addition to the standard grounds for dismissal, even a single instance of cowardice in battle results in immediate expulsion.
+
+[[00_Rulebook/The Complete Paladin's Handbook/Table of Contents|Table of Contents]]

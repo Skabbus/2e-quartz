@@ -1,0 +1,15 @@
+---
+heading: Iron Bands of Bilarro-- Magical Item (Dungeon Master Guide)
+source: https://regalgoblins.com/2erules/DMG/DD00982.htm
+type:
+  - Item
+magical: true
+---
+
+**Iron Bands of Bilarro**
+
+:** When initially discovered, this very potent item will appear to be a rusty iron sphere. Close examination will reveal that there are bandings on the three-inch-diameter globe. Magic detection will reveal strong magic of an indeterminate nature.
+
+When the proper command word is spoken and the spherical iron device is hurled at an opponent, the bands expand and tightly constrict the target creature if a successful, unadjusted attack roll is made. A single creature of up to frost/fire giant-size can be captured thus and held immobile until the command word is spoken to bring the bands into globular form again. Any creature captured in the bands, however, gets the chance to break (and ruin) the bands by successfully *bending bars.* Only one attempt is possible before the bands are so set as to be inescapable.
+
+[[00_Rulebook/Dungeon Master Guide/Table of Contents#dc24ea2a|Table of Contents]]

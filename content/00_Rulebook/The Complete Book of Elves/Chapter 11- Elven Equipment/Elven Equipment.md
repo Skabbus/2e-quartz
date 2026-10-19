@@ -1,0 +1,22 @@
+---
+heading: "Chapter 11: Elven Equipment (Comp. Book of Elves)"
+source: https://regalgoblins.com/2erules/CBE/DD04798.htm
+---
+
+**Chapter 11: Elven Equipment***How and why feywine葉hat elixir to gladden the heart and encourage the soul of every Elf幼ame to be is a tale ancient in age. Some of you say it is merely mead, that Human drink. You say it is nothing more than flowers and honey, left to ferment and age in oak barrels. You are, in part, correct, but you know not the full story. Let me recount for you the truth of feywine's origin.
+
+The First Elves roamed the land, well pleased with all they saw and all that the gods gave them. They had no need for sustenance then, those First Elves溶o need for bread, and meat, and fruits and vegetables that we now so much enjoy. These Elves had the blood of gods burning bright in their veins. The tears of the Moon and the soil of the land also coursed through their blood.
+
+Little remains of those early years of our existence. Certainly there are no remnants of the original vessels made by the Seldarine, which they created to house our spirits. Those First Elves existed solely through the life-giving form provided by the Seldarine. Then they joined with one another, and they begat children.
+
+Although still nourished by the earth and the stars, these children were a step removed from the gods. They had needs that could not wholly be satisfied by their fathers and mothers. And the First Elves beseeched the gods, crying out as their children lay dying, for they did not understand why. The Seldarine saw their creations' sorrow, and they were moved to act.
+
+They asked the Moon to bless the land with her tears a second time, as she had when Corellon Larethian fought in the Godswar, and she did. The tears fed the children of the First Elves, and the children lived.
+
+In time, the Elves learned to take nourishment from other sources, and they can now survive without the gods' gift. But an Elf who is routinely deprived of feywine turns into but a pale imitation of his or her self . . . an Elf who has lost the soul of the gods.*友iriel Anani'Mahs, Keeper of FeywineMost of this equipment is available only to elves, for they are not willing to sell the best of their stock to humans or dwarves. There are countless more items that the elves have invented; the following list is only a sample of what they are capable.
+
+The chapter contains beverages, weapons, and other items elves find useful. Most items have multiple uses, for the elves hate to restrict anything to but one purpose.
+
+Finally, please note that few of these items are forged or constructed in great quantities. Elves believe in the unique qualities of each item and, unlike dwarves, do not enjoy mass-producing anything, no matter how good it is.
+
+[[00_Rulebook/The Complete Book of Elves/Table of Contents|Table of Contents]]

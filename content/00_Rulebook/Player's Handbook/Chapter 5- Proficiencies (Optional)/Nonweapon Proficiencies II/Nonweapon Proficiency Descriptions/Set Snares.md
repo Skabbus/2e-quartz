@@ -1,0 +1,25 @@
+---
+heading: Set Snares-- Nonweapon Proficiency (Player's Handbook)
+source: https://regalgoblins.com/2erules/PHB/DD01594.htm
+type:
+  - NWP
+class_group:
+  - Rogue
+  - Warrior
+ability:
+  - Dexterity
+  - Intelligence
+check_modifier: -1
+---
+
+**Set Snares**
+
+The character can make simple snares and traps, primarily to catch small game. These can include rope snares and spring traps. A proficiency check must be rolled when the snare is first constructed and every time the snare is set. A failed proficiency check means the trap does not work for some reason. It may be that the workmanship was bad, the character left too much scent in the area, or he poorly concealed the finished work. The exact nature of the problem does not need to be known. The character can also attempt to set traps and snares for larger creatures: tiger pits and net snares, for example. A proficiency check must be rolled, this time with a -4 penalty to the ability score. In both cases, setting a successful snare does not ensure that it catches anything, only that the snare works if triggered. The DM must decide if the trap is triggered.
+
+Thief characters (and only thieves) with this proficiency can also attempt to rig man-traps. These can involve such things as crossbows, deadfalls, spiked springboards, etc. The procedure is the same as that for setting a large snare. The DM must determine the amount of damage caused by a man-trap.
+
+Setting a small snare or trap takes one hour of work. Setting a larger trap requires two to three people (only one need have the proficiency) and 2d4 hours of work. Setting a man-trap requires one or more people (depending on its nature) and 1d8 hours of work. To prepare any trap, the character must have appropriate materials on hand.
+
+Characters with animal lore proficiency gain a +2 bonus to their ability score when attempting to set a snare for the purposes of catching game. Their knowledge of animals and the woods serves them well for this purpose. They gain no benefit when attempting to trap monsters or intelligent beings.
+
+[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

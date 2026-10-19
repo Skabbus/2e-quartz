@@ -1,0 +1,10 @@
+---
+heading: "Riddles (Comp. Book of Gnomes and Halflings)"
+source: https://regalgoblins.com/2erules/CBGH/DD04908.htm
+---
+
+**Riddles***
+
+"Did you ever try to get a straight answer out o' one of the little maggots? I know I have, and I ain't succeeded yet! Why, they'll answer a question with another question sure as the sun goes down at night! Most irritatin' thing I ever done was ask a halfling for directions!"'Where can I find the mayor?' I said, straightforward-like."'Which mayor is that?' says the little runt."'The mayor o' this town, o' course,' I told the dummy, nice as you please."'Why, do you want to see her?''says the dang fool."'Course I do!' I said, trying to resist the urge to wring his scrawny neck. 'Why else would I be askin'?'"'Don't you know?' he has the gall to ask me!"I tell you friend, if the mayor hadn't come walkin' down the street that very moment, I think that scene might have ended in bloodshed!"*-- Dwarven wayfarer, describing his unwitting participation in the Question Game.
+
+A favorite form of contest among halflings of all subraces is the exchange of riddles. These can vary from simple questions and answers to complex puzzles involving clues vague and obtuse. It's not uncommon for a halfling to spend an hour or more pondering such a problem in silence punctuated only by his or her frequent admonitions: "don't tell me the answer!"Even more baffling to nonhalflings is the Question Game, a contest in which each participant must answer a question with another question. Each response must be a complete sentence, relevant to the one that preceded it, and delivered within ten seconds, or the player loses a point. Experienced players can continue the game for hours; one legendary brother-and-sister team are rumored to have carried a game on every time they met for the last twenty years of their lives. Some halfling enthusiasts of the game will treat every question addressed to them as an invitation to play, with sometimes regrettable results[[00_Rulebook/The Complete Book of Gnomes and Halflings/Table of Contents|Table of Contents]]

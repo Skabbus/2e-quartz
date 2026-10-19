@@ -1,0 +1,19 @@
+---
+heading: Spellcraft-- Nonweapon Proficiency (Player's Handbook)
+source: https://regalgoblins.com/2erules/PHB/DD01596.htm
+type:
+  - NWP
+class_group:
+  - Priest
+  - Wizard
+ability: Intelligence
+check_modifier: -2
+---
+
+**Spellcraft**
+
+Although this proficiency does not grant the character any spellcasting powers, it does give him familiarity with the different forms and rites of spellcasting. If he observes and overhears someone who is casting a spell, or if he examines the material components used, he can attempt to identify the spell being cast. A proficiency check must be rolled to make a correct identification. Wizard specialists gain a +3 bonus to the check when attempting to identify magic of their own school. Note that since the spellcaster must be observed until the very instant of casting, the spellcraft proficiency does not grant an advantage against combat spells. The proficiency is quite useful, however, for identifying spells that would otherwise have no visible effect.
+
+Those talented in this proficiency also have a chance (equal to ½ of their normal proficiency check) of recognizing magical or magically endowed constructs for what they are.
+
+[[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

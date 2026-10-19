@@ -1,0 +1,55 @@
+---
+heading: "Gnome-- Spriggan (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD03925.htm
+---
+
+Gnome, Spriggan
+
+![[GNOMESPR.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any/Wilderness |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Pack |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Omnivore |
+| **INTELLIGENCE:** | Average to exceptional (8-16) |
+| **TREASURE:** | A |
+| **ALIGNMENT:** | Chaotic evil |
+| **NO. APPEARING:** | 3-12 |
+| **ARMOR CLASS:** | 3 or 5 (10) |
+| **MOVEMENT:** | 9 or 15 |
+| **HIT DICE:** | 4 or 8+4 |
+| **THAC0:** | 17 or 11 |
+| **NO. OF ATTACKS:** | 2 |
+| **DAMAGE/ATTACK:** | 2-8/2-8 (weapon) +7 (Strength bonus) |
+| **SPECIAL ATTACKS:** | Spells, thief abilities |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | S (3' tall) or L (12' tall) |
+| **MORALE:** | Champion (15-16) |
+| **XP VALUE:** | Male: 3,000 |
+|  | Female: 2,000 |
+
+These ugly, dour cousins of gnomes are able to become giant-sized at will.
+
+In either size, spriggans look basically the same. They are ugly, thick-bodied humanoids, with pale or dull yellow skin, brown or black hair, and red eyes. On rare occasions a spriggan may have red hair, which they believe is a symbol of good luck. Their noses are large and bulbous, but not beyond the human norm. They are very fond of mustaches and bushy sideburns, but they never clean or comb them. This same policy of uncleanliness extends to their bodies and any other possessions. Spriggans smell of dank earth, stale sweat, and grime.
+
+Outside of their lair they always wear armor and carry weapons, usually polearms, although they have been known to carry swords or maces. Spriggans never use shields. They like to carry several nasty little daggers concealed in various places in their armor. Spriggans never wear jewelry or other ornaments. They prefer to keep these things with their hoard, where they brood over them at odd moments.
+
+**Combat:** Spriggans are tricky and tough in battle. They have a wide variety of options for combat. Their major ability is to change from small to giant size at will. Weapons, armor and other inanimate objects on their person shrink and grow with them. This action takes the whole round, during which they can move up to 30 feet but not fight. When small, spriggans can use the following spell-like effects: *affect normal fires, shatter*, and *scare* (with a -2 penalty to the saving throw, due to their ugliness). They can perform any one of these instead of fighting, once in any round, as often as they want. When giant-sized, spriggans cannot perform magic, other than to shrink again. In this form they are as strong as hill giants (19).
+
+In either size, they have 8th-level thief abilities like those of a gnome with an 18 Dexterity. This high Dexterity enables them to use a weapon twice each round. They can pick pockets (75%), open locks (78%), find or remove traps (70%), move silently (77%), hide in shadows (64%), hear noise (35%), climb walls (81%), and read languages (40%). Keep in mind that their size may affect these chances indirectly. For example, it is difficult for a 12-foot-tall giant to hide in a 6-foot-tall shadow. They can backstab only while in small form, and they inflict triple damage if successful.
+
+Spriggans can never quite get organized as groups. In fact, they are sometimes encountered with part of the group giant-sized and part of them gnome-sized. On an individual level they are very clever and use their abilities to the fullest to accomplish their goals. These goals are usually to cause great havoc and mayhem amongst other races. They seem to take great pleasure in destroying property and hurting innocent creatures.
+
+**Habitat/Society:** Spriggans usually travel in packs, all of them male. The females keep to dismal burrows or secret dens in forgotten ruins, rarely venturing out farther than necessary to gather food. A female has the same combat abilities as a male except that they have only 7+4 Hit Dice in giant form. The females mate with males from packs that wander nearby. The children are cast out upon reaching maturity, the males to join up with packs and the females to find a place to lair. Spriggan infant mortality is high, with the males (80%) surviving more often than the females (60%).
+
+Spriggans hate gnomes more than any living creatures, but they truly love none but those of their own ilk. Perhaps it is the similarity of the true gnomes to their race that drives their hatred. They like to terrorize, rob, and otherwise work vile deeds. They do not hesitate to attack or steal from traveling groups or small settlements in their area. All of their possessions, including their armor and weapons, are stolen from their victims. They greatly fear large groups of organized humans and demihumans, and they avoid such parties.
+
+**Ecology:** The roving packs of males tend to be meat eaters, preferring to hunt or steal their food. As such they must keep moving and establish wide areas of control. The females tend to eat fruits and grains that can be easily gathered near their dens. They eat meat only when offered by a male as part of the mating ritual.
+
+Spriggans are too mean and nasty to have any natural predators, although gnomes attack them on sight unless faced with overwhelming odds. It usually takes a well-armed party to root out a band of spriggans.
+
+[[Monstrous Manual Index#6d2de9d5|Index]]

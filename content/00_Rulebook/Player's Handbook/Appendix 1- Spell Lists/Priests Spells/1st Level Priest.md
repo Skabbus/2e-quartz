@@ -1,0 +1,6 @@
+---
+heading: "Priest Spell Lists (Player's Handbook)"
+source: https://regalgoblins.com/2erules/PHB/DD01799.htm
+---
+
+**Priest Spells**1st Level[[Animal Friendship#3cb8e1e6|Animal Friendship]]*[[Bless|Bless]]*[[Combine|Combine]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/First-Level Spells/Command|Command]]*[[Create Water|Create Water]]**[[Cure Light Wounds|Cure Light Wounds]]**[[Detect Evil Priest|Detect Evil]]*[[Player's Handbook/Appendix 4- Priest Spells/First-Level Spells/Detect Magic Priest Spell|Detect Magic]][[Detect Poison|Detect Poison]][[Detect Snares and Pits|Detect Snares and Pits]][[Endure Cold-Endure Heat|Endure Cold/Endure Heat]][[Entangle|Entangle]][[Faerie Fire|Faerie Fire]][[Invisibility to Animals|Invisibility to Animals]][[Invisibility to Undead|Invisibility to Undead]]*[[Light Priest|Light]]*[[Locate Animals or Plants|Locate Animals or Plants]][[Magical Stone|Magical Stone]][[Pass Without Trace|Pass Without Trace]]*[[Protection From Evil Priest Spell|Protection From Evil]]**[[Purify Food and Drink|Purify Food & Drink]]**[[Remove Fear|Remove Fear]]*[[Sanctuary|Sanctuary]][[Shillelagh|Shillelagh]][[00_Rulebook/Player's Handbook/Table of Contents#e6fca08a|Table of Contents]]

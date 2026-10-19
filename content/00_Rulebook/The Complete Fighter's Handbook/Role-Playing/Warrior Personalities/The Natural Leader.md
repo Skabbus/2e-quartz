@@ -1,0 +1,16 @@
+---
+heading: "The Natural Leader (Comp. Fighter's Handbook)"
+source: https://regalgoblins.com/2erules/CFH/DD05165.htm
+---
+
+**The Natural Leader**
+
+Character Description:** This character is the all-around man in charge. He's the responsible hero who, even if he isn't party leader, thinks like one: He's always thinking about the team's goals and how to implement them, the safety of his friends, the strategy of the bad guys, and so forth. He may be happy to be the leader-type, or may be a reluctant leader; either way, his friends look to him for direction. Naturally, you should only choose this personality type for your character if you're to make the effort to do all that thinking and planning, and are willing for your character to be responsible for others.**
+
+**Best Suited For:** In terms of alignment, Lawful and Neutral characters are most appropriate; Chaotic characters tend to be more spontaneous than the Natural Leader. However, if you have a good rationale for a Chaotic Natural Leader, your DM may choose to allow you to play it that way. Most Warrior Kits are appropriate to this personality type, especially the Cavalier and Noble Warrior. In a party representing several different Warrior Kits, though, the Berserker and Savage shouldn't be Natural Leaders: Other character types don't tend to trust them as leaders.
+
+**In Combat Situations:** The Natural Leader, whether he wants to or not, is always thinking in combat and trying to direct his allies' activities. He makes sure that there's a good mix of ranged to melee combat, that shield walls don't have big holes in them, that when a friend falls there's someone to drag him behind the lines and another to take his place. If a player with a Natural Leader character doesn't do this, and simply jumps right into combat without any intent to think about or direct things, the DM should assign him temporary minuses to attack rolls and damage: This reflects the fact that the *character* is troubled by his failure to lead, even if the *player* isn't.
+
+**In Role-Playing Situations:** The Natural Leader is a very responsible character, but beyond that, there is no limitation on the way he should be played in role-playing situations. He may be grim or humorous, straightforward or deceitful, arrogant or modest, as the player decides. He will often be the negotiator for the party, but this isn't required of him.
+
+[[00_Rulebook/The Complete Fighter's Handbook/Table of Contents|Table of Contents]]

@@ -1,0 +1,16 @@
+---
+heading: "Attacks of Opportunity (Combat and Tactics)"
+source: https://regalgoblins.com/2erules/CT/DD02391.htm
+---
+
+Attacks of Opportunity
+
+Attacks of opportunity occur when a threatened character or creature ignores the enemy next to it or turns its back on a foe. The threatening enemy gets to make an immediate melee attack (or sequence of attacks for monsters with multiple attacks) against the threatened creature. Attacks of opportunity cannot be performed with missile weapons. This is a free attack that does not take the place of any actions the threatening creature had already planned.
+
+A creature can’t make more than one attack of opportunity against a single opponent in the course of a combat round, but if several enemies leave themselves open, the creature can make one free attack against each one.
+
+There is a limit to the number of attacks of opportunity a single creature may make in one round. Warriors and monsters can make three attacks of opportunity plus one per five levels or Hit Dice. All other characters can make one attack of opportunity plus one per five levels. Thirty kobolds trying to swarm past a fighter in a narrow passage will take losses, but some will still get through.
+
+Surprised characters and monsters cannot make attacks of opportunity during the round in which they are surprised.
+
+[[00_Rulebook/Player's Option- Combat and Tactics/Table of Contents#d57de195|Table of Contents]]

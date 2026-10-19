@@ -1,0 +1,8 @@
+---
+heading: "DD02339"
+source: https://regalgoblins.com/2erules/PHB/DD02339.htm
+---
+
+T
+
+[[Tasha's Uncontrollable Hideous Laughter|Tasha's Uncontrollable Hideous Laughter (Wiz 2)]] [[Taunt|Taunt (Wiz 1)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Telekinesis|Telekinesis (Wiz 5)]][[Teleport Without Error|Teleport Without Error (Wiz 7)]][[Temporal Stasis|Temporal Stasis (Wiz 9)]][[Tenser's Floating Disc|Tenser's Floating Disc (Wiz 1)]][[Tenser's Tranformation|Tenser's Transformation (Wiz 6)]][[Time Stop|Time Stop (Wiz 9)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Tongues|Tongues (Wiz 9)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fourth-Level Spells/Tongues|Tongues (Pr 4)]][[Transmute Metal to Wood|Transmute Metal to Wood (Pr 7)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/Transmute Rock to Mud|Transmute Rock to Mud (Pr 5)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Transmute Rock to Mud|Transmute Rock to Mud (Wiz 5)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Sixth-Level Spells/Transmute Water to Dust|Transmute Water to Dust (Pr 6)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Sixth-Level Spells/Transmute Water to Dust|Transmute Water to Dust (Wiz 6)]][[Transport Via Plants|Transport Via Plants (Pr 6)]][[Trap the Soul|Trap the Soul (Wiz 8)]] [[Tree|Tree (Pr 3)]][[Trip|Trip (Pr 2)]][[00_Rulebook/Player's Handbook/Appendix 4- Priest Spells/Fifth-Level Spells/True Seeing|True Seeing (Pr 5)]][[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Sixth-Level Spells/True Seeing|True Seeing (Wiz 6)]][[Turn Wood|Turn Wood (Pr 6)]]

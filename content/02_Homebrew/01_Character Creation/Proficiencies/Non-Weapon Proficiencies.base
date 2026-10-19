@@ -10,8 +10,10 @@ views:
     order:
       - file.name
       - class_group
+      - file.folder
       - ability
       - check_modifier
+    sort: []
     columnSize:
       note.check_modifier: 131
   - type: table

@@ -1,0 +1,40 @@
+---
+heading: "Burglar (Comp. Book of Gnomes and Halflings)"
+source: https://regalgoblins.com/2erules/CBGH/DD04926.htm 
+type:
+  - Kit
+---
+
+Burglar
+
+The halfling Burglar is a benign specialist at retrieving objects of value from those who have come by them wrongly--at least, that's the way the Burglar sees it (admittedly, the one who has been burgled tends to disagree). Adept at stealthy movement, lockpicking, recognizing traps, and removing them, the Burglar aspires to a life of comfort simply by virtue of his or her talents--the ultimate in halfling accomplishment.
+
+A Burglar must have a Dexterity score of at least 15.
+
+Roads To Adventure: Burgling involves skills that most halflings learn at a young age--children are forever sneaking into each other's rooms, borrowing each other's toys, and spying on their siblings. As the youngsters mature, a few of them begin to consider the potential profitability of their skills, turning their attention toward more lucrative and dangerous targets. As with many kinds of thievery, burglaring has a built-in inducement to travel--if the local authorities begin to grow suspicious, the life of a simple Burglar can become very complicated indeed.
+
+Other motivations can include the recovery of property that has been wrongfully taken from the Burglar or his or her friends. Naturally, the Burglar won't face certain death simply to recover stolen goods, but if the character thinks he or she can get away with it, he or she might derive a certain amount of satisfaction from setting matters right. Sometimes the simple challenge of slipping into a great fortress or burglaring a well-defended treasure is enough to draw a Burglar's interest--not so much for the value of the goods as for the test of skills involved.
+
+Like the Archer, the Burglar is the best of the best, a halfling who has developed to perfection skills all halflings possess to some degree--stealth, nimbleness, and unobtrusive movement. As such, he or she is highly respected by the halfling community for his or her expertise. Whereas an accomplished human thief usually tries to hide his or her profession, a Burglar's trade will be well-known by his or her halfling neighbors and his or her accomplishments highly-regarded--indeed, it is a source of civic pride for a village to be home to a really first-class Burglar, something for the town as a whole to boast about. This acceptance works to the community's benefit, since most Burglars will be willing to help out in times of crisis by using their talents for spying or gathering information that might prove useful to the village as a whole.
+
+Role: The burglar is the master of several thiefly arts, most notably Move Silently and Open Locks, though skill at finding and removing traps can be another lifesaving talent. Burglars can be found in all areas of halfling society, including the comfortably wealthy as well as the most destitute.
+
+Most Burglars congregate in areas of larger communities, where they can mingle with members of other races. Like most halfling thieves, the Burglar tends to avoid halfling victims, preferring the treasures of humanoid monsters and humans above all others. Occasionally a Burglar will choose to use his or her skills to aid fellow halflings who have suffered injustices; such Burglars can rise to the status of folk hero.
+
+Secondary Skills: Many Burglars have skills at Trading and Bartering.
+
+Weapon Proficiencies: Burglars prefer weapons that can be wielded quickly and in relative silence. Daggers and short swords are preferred for melee, though some specialize in other weapons. The sling is a popular missile weapon for a Burglar, as are darts and, in areas where they are known or used, the blowgun and hand crossbow.
+
+Bonus Nonweapon Proficiencies: The Burglar gains a nonweapon proficiency for Appraisal.
+
+Recommended Nonweapon Proficiencies: Rope Use, Disguise, and Tightrope Walking are all useful to a Burglar.
+
+Thieving Skill Emphasis: Move Silently; Hide in Shadows; Open Locks; Find and Remove Traps.
+
+Equipment: A rope and a set of lockpicks are the standard tools of the Burglar. He or she will often scorn the use of armor altogether, and in any case will wear nothing heavier than leather, delighting in dark, silent clothing.
+
+Special Benefits: At first level the Burglar gains an additional 10% to Open Locks or Move Silently. Each time he or she gains a new level, the Burglar receives a +5% bonus that can be applied to either of the above two talents or to Find and Remove Traps.
+
+Special Hindrances: The Burglar devotes so much of his or her time to developing the skills of stealth that he or she is at something of a disadvantage in face-to-face combat, suffering a -1 penalty on all attack rolls in melee. However, attacks made as a *backstab* are not affected by this penalty.
+
+[[00_Rulebook/The Complete Book of Gnomes and Halflings/Table of Contents|Table of Contents]]

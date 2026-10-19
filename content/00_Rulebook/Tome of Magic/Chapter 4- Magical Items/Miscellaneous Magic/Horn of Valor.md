@@ -1,0 +1,12 @@
+---
+heading: "Horn of Valor-- Miscellaneous Magic (Tome of Magic)"
+source: https://regalgoblins.com/2erules/TM/DD04485.htm
+---
+
+**Horn of Valor**
+
+:** This golden horn is indistinguishable from any other magical horn until it is sounded. When sounded, each unit hearing it who is allied with or loyal to the character sounding the horn gains the following benefits. First, the unit gains a +2 bonus to its morale for 1d4 BATTLESYSTEM™ rules turns. Second, any routed friendly unit who hears it immediately makes a rally check with a bonus of 2 to its morale (for that check only). (This check is made when the horn is sounded--during the magic phase--rather than in the rally phase. If this additional check is failed, the unit is entitled to a second check in the rally phase, as normal.)Enemy units who hear the horn are also affected: they suffer a -1 penalty to morale for 1d2 BATTLESYSTEM rules turns.
+
+Under normal conditions, the sound of the horn can be heard at a range of 24". Unusual conditions, such as a raging storm, can decrease this range, but the horn can *always* be heard at a range of 9" (unless the character blowing the horn is within an area of magical *silence*, of course).
+
+The horn of valor can be sounded only once per BATTLESYSTEM Rules turn, and no more than three times in any 12 hour period. If blown a fourth time within this period, it becomes totally nonmagical for 1d6 days, and any effects remaining from earlier soundings immediately terminate. Effects from multiple soundings are not cumulative. (Instantaneous effects such as the automatic rally check for friendly units take place each time the horn is sounded.)[[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

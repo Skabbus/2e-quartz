@@ -1,0 +1,18 @@
+---
+heading: "Heroic Frays (Combat and Tactics)"
+source: https://regalgoblins.com/2erules/CT/DD02518.htm
+---
+
+Heroic Frays
+
+The most heroic and inspirational stories of battle are about the stand of the few against the many. The legend of Roland holding the pass of Roncesvalles, or Davy Crockett at the Alamo, or Tolkien’s tale of the Fellowship standing against the orcs of Moria in Balin’s tomb—these stories live forever in the imaginations of people everywhere.
+
+In a heroic fray, the PCs are fighting against hordes of individually weak monsters such as goblins, kobolds, or giant rats. Warriors facing adversaries far less skillful than themselves can double their normal rate of attack. This only applies to their primary weapon; if the character is fighting with a weapon in each hand, the secondary weapon still adds only one additional attack per round. Any attacks of opportunity the heroic warrior receives must be counted off against these additional attacks, however.
+
+In addition, warriors gain one extra attack per round which may be used to perform a shield-punch, shield-rush, unarmed punch or kick, or grab maneuver against any opponent that they threaten when they begin resolving their attacks for the round. The normal penalties for these attacks don’t apply, so the shield maneuvers don’t cost the warrior his AC bonus, and the unarmed maneuvers don’t provoke attacks of opportunity.
+
+Characters can only engage in a heroic fray against creatures of 1–1 Hit Dice or less, or creatures whose Hit Dice or levels are 10 less than the hero’s. A 12th-level fighter can declare a heroic fray against monsters of up to 2 HD, a 13th-level fighter can stand against 3-HD monsters, and so on.
+
+The other requirement of a heroic fray is numbers. The hero’s side must be outnumbered by the enemy for the warrior to gain his extra attacks. If there are fewer monsters left than attacks available, the excess attacks are lost.
+
+[[00_Rulebook/Player's Option- Combat and Tactics/Table of Contents#d57de195|Table of Contents]]

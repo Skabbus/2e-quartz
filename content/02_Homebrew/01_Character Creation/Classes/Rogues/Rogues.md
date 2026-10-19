@@ -80,7 +80,7 @@ Thieves have a limited selection of weapons. Most of their time is spent practic
 | Climb Walls       | +10%         | -20%            | -30%                                | -25%                        |
 | Read Languages    | --           | --              | --                                  | --                          |
 
-To determine the initial value of each skill, start with the base scores listed. To these base scores, add (or subtract) any appropriate modifiers for race, Dexterity, and armor worn (given on [[Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]], [[Player's Handbook/Tables/Table 28- Thieving Skill Dexterity Adjustments|28]] and [[Player's Handbook/Tables/Table 29- Thieving Skill Armor Adjustments|29]], respectively).
+To determine the initial value of each skill, start with the base scores listed. To these base scores, add (or subtract) any appropriate modifiers for race, Dexterity, and armor worn (given on [[00_Rulebook/Player's Handbook/Tables/Table 27- Thieving Skill Racial Adjustments|Tables 27]], [[00_Rulebook/Player's Handbook/Tables/Table 28- Thieving Skill Dexterity Adjustments|28]] and [[00_Rulebook/Player's Handbook/Tables/Table 29- Thieving Skill Armor Adjustments|29]], respectively).
 
 | **Skill**         | **Base Score** |
 | ----------------- | -------------- |
@@ -169,7 +169,7 @@ Each time the thief rises a level in experience, the player receives another 30 
 > 
 > To use this ability, the thief must be behind his victim and the victim must be unaware that the thief intends to attack him. If an enemy sees the thief, hears him approach from a blind side, or is warned by another, he is not caught unaware, and the backstab is handled like a normal attack (although bonuses for a rear attack still apply). Opponents in battle will often notice a thief trying to maneuver behind them--the first rule of fighting is to never turn your back on an enemy! However, someone who isn't expecting to be attacked (a friend or ally, perhaps) can be caught unaware even if he knows the thief is behind him.
 > 
-> The multiplier given in [[Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]] applies to the amount of damage before modifiers for Strength or weapon bonuses are added. The weapon's standard damage is multiplied by the value given in [[Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]]. Then Strength and magical weapon bonuses are added.
+> The multiplier given in [[00_Rulebook/Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]] applies to the amount of damage before modifiers for Strength or weapon bonuses are added. The weapon's standard damage is multiplied by the value given in [[00_Rulebook/Player's Handbook/Tables/Table 30- Backstab Damage Multipliers|Table 30]]. Then Strength and magical weapon bonuses are added.
 > 
 >
 > | **Thief's Level** | **Damage Multiplier** |
@@ -229,7 +229,7 @@ In his travels, a bard also manages to learn a few wizard spells. Like a wizard,
 
 Since bards are dabblers rather than full-time wizards, their spells tend to be gained by serendipity and happenstance. In no case can a bard choose to specialize in a school of magic. Beginning bards do not have a selection of spells. A 2nd-level bard begins with one to four spells, chosen either randomly or by the DM. (An Intelligence check must still be made to see if the bard can learn a given spell.) The bard can add new spells to his spell book as he finds them, but he does not automatically gain additional spells as he advances in level. All spells beyond those he starts with must be found during the course of adventuring. The bard's casting level is equal to his current level.
 
-Combat and spells, however, are not the main strength of the bard. His expertise is in dealing and communicating with others. To this end, the bard has a number of special powers. The base percentage for each power is listed on [[Player's Handbook/Tables/Table 33- Bard Abilities|Table 33]] below. This base percentage must be adjusted for the race and Dexterity of the bard as given in the Thief description. After all adjustments are made, the player must distribute (however he chooses) 20 additional percentage points to the various special abilities. Thereafter, each time the character advances a level, he receives an additional 15 points to distribute.
+Combat and spells, however, are not the main strength of the bard. His expertise is in dealing and communicating with others. To this end, the bard has a number of special powers. The base percentage for each power is listed on [[00_Rulebook/Player's Handbook/Tables/Table 33- Bard Abilities|Table 33]] below. This base percentage must be adjusted for the race and Dexterity of the bard as given in the Thief description. After all adjustments are made, the player must distribute (however he chooses) 20 additional percentage points to the various special abilities. Thereafter, each time the character advances a level, he receives an additional 15 points to distribute.
 
 | **Climb Walls** | **Detect Noise** | **Pick Pockets** | **Read Languages** |
 | --------------- | ---------------- | ---------------- | ------------------ |

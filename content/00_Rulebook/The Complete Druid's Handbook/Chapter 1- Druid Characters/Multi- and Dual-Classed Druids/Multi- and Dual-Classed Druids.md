@@ -1,0 +1,34 @@
+---
+heading: "Multi- and Dual-Classed Druids (Comp. Druid's Handbook)"
+source: https://regalgoblins.com/2erules/CDH/DD05041.htm
+---
+
+**Multi- and Dual-Class Druids**This section elaborates on the options for players who wish to role-play multi- or dual-class druids. The choices and descriptions are culled from a variety of sources, including the *PH* and *DMG*.**Multi-Class Druids**Only half-elves can be multi-class druids. Multi-class druids must abide by the weapon, shield, and armor restrictions of their branches. The *PH* ([pgs. 22,](..\PHB\DD01449.htm) [44](..\PHB\DD01513.htm)) mentions the half-elf's options of druid/fighter, druid/ranger, druid/mage, and druid/fighter/mage. (Some earlier printings incorrectly cite only the druid/fighter combination onp. 44.)
+
+**Druid/Fighter.** The core AD&D rules permit the druid/fighter.
+
+**Druid/Ranger.** The core AD&D rules permit the druid/ranger. [The Complete Ranger's Handbook](..\CRH\DD05754.htm), p. 79, gives guidelines for playing such characters: A Nature deity of good alignment must exist whose specialty priests are all druids. This priesthood must ally with a group of rangers. Any half-elf druid/ranger must obey the level limits for demihumans ([DMG, p. 15](..\DMG\DD00223.htm)), making it unlikely for the character to compete for high levels of druidic power. The druid/ranger's multiple interests antagonize conservative druids, and the character usually suffers from divided loyalties. (Create a similar character with fewer problems by giving a druid/fighter the Avenger or Beastfriend kit, described in the next chapter.)
+
+**Druid/Mage and Druid/Fighter/Mage.** The core AD&D rules permit the druid/mage and druid/fighter/mage. While these combinations exist, they remain rare and require the DM's permission. They cannot wear armor or use shields, and must limit their weapons to those permitted to druids.
+
+**Dual-Class Druids**All normal rules for dual-class characters apply to druids. The druid's restriction to neutral alignment limits the options to bard/druid, fighter/druid, wizard/druid, and thief/druid. Some druids prefer to see the upper ranks of the Order filled by "pure" druids those who have devoted their lives solely to the Order. Dual-class characters sometimes face prejudice from other druids.
+
+**Fighter/druids.** Often acting as wandering guardians of Nature and country folk (much like neutral rangers), fighter/druids also can become hermit-knights, living away from society and defending a particular grove with their lives. Fighters who become druids often do so because they seek spiritual growth, because they have grown disgusted with the world of man, or occasionally as penance for a particular misdeed.
+
+Druids who become fighters, on the other hand, want to take a more direct approach to defending the wilderness; others seek to attune themselves to Nature by mastering their own bodies using eastern-style fighting arts, often becoming rather enigmatic Zenlike warrior-mystics.
+
+**Wizard/druids.** Looked upon with deep suspicion by most other druids, wizard/druids generally find themselves stereotyped as untrustworthy or scheming. Conservative elements within the druidic order often attempt to block wizard/druids from reaching 12th level. If they fail, they deliberately encourage rising druids to challenge the dual-class character to a duel in preference to other targets.
+
+Wizards usually become druids for philosophical reasons: either a fear that unrestrained use of magical or divine forces threatens the cosmic balance, or a desire to learn the druidic arts to better understand the workings of Nature. Druids who study wizardry most often see this magic as another part of Nature to study and master.
+
+**Thief/druids.** Such combinations appear rarely, since the city serves as the optimum home base for the thief. As with wizard/druids, people tend to distrust thief/druids. A druid who becomes a thief usually does so after becoming disillusioned with the druidic order. A thief becomes a druid usually as the result of highly unusual circumstances an outlaw flees to the wilderness to escape pursuit only to befriend a local druid, come to love Nature, and decide to adopt a new way of life.
+
+**High-level Dual-Class Druids.** A dual-class character who achieved a high level as a fighter or wizard before becoming a druid has an edge in the challenge a druid faces to advance beyond 11th level. For fairness, the Order generally bans such player characters from initiating challenges; they can gain experience levels above 11th only to fill a vacancy.
+
+DMs with a taste for political intrigue may permit an exception if the character receives special dispensation from the druidic order. This means a dual-class druid must have a sponsor: in theory, a higher-level druid who attests to the character's fairness and commitment to the Order. In practice, the sponsor is often a druid who wants a dangerous rival removed and believes the dual-class character has a good chance of doing so! In the case of wizard/druids, however, the Order often (but not always) forbids wizard spells during the challenge.
+
+A peculiar situation can occur if a character has achieved 12th to 15th level as a druid, then adopts another class. In effect, such characters have "dropped out" of the Order. Although inactive as druids, they retain their former Hit Dice and hit points. When they wish to use their druidic powers again (after achieving one level more in the new class than their druid level), they must challenge an incumbent for the high-level druidic position they once held.
+
+A dual-class character who loses the challenge must drop a level, as usual but then may face another challenge and another, until the player character eventually wins a position or falls to 11th level. As a result of this danger, dual-class player characters usually prefer to switch classes before reaching 12th level or after exceeding 15th level.
+
+[[00_Rulebook/The Complete Druid's Handbook/Table of Contents|Table of Contents]]

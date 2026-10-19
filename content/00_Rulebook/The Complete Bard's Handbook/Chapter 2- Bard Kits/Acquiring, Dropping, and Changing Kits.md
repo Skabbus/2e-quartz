@@ -1,0 +1,14 @@
+---
+heading: "Acquiring, Dropping, and Changing Kits (Comp. Bard's Handbook)"
+source: https://regalgoblins.com/2erules/CBH/DD04964.htm
+---
+
+**Acquiring, Dropping, and Changing Kits**
+
+Bard kits should be taken only when the character is first created. The one exception might occur when this handbook is first introduced into a campaign. In this case, the Dungeon Master may allow certain existing bards to be converted to the kits that most resemble the manner in which they have been played in the past. However, note that such a transfer will have to be adjudicated by the Dungeon Master.
+
+If a player decides to drop a bard kit, he should meet with his Dungeon Master to discuss the manner in which the transition should occur. When a kit is dropped, the character becomes a core bard (not a True Bard), and that character cannot regain his old kit. This has the following effects upon the character:· Future weapon proficiency slots can be spent on any weapon desired.· The bard's four bonus proficiencies must either be dropped or all future nonweapon proficiency slots must be spent paying for them before any new nonweapon proficiencies can be selected.· The character no longer needs to pay attention to his old kit's suggested nonweapon proficiencies.· The character can wear any armor normally allowed to the core bard, but cannot use any other type of armor (including shields).· All special benefits are lost.· All special hindrances are ignored.
+
+It is possible for a bard to change kits, but only in one very limited manner. First, the bard's existing kit must be dropped. Then, if the bard wants, he may gain a new kit, but it must be the True Bard kit. The process for gaining the True Bard kit goes as follows.· Once the bard's old bonus nonweapon proficiencies are either dropped or paid for, the next available proficiency slots must be spent gaining singing, musical instrument, reading/writing (native tongue), and local history.· As the bard gains the next four levels, he gains one of the True Bard's special benefits at each new level. The specific benefit gained is determined by the player.
+
+[[00_Rulebook/The Complete Bard's Handbook/Table of Contents|Table of Contents]]
