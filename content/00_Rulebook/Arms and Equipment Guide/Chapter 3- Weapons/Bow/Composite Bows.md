@@ -1,6 +1,9 @@
 ---
-heading: "Composite Bows (Arms and Equipment Guide)"
+heading: Composite Bows (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00079.htm
+aliases:
+  - Composite short bow
+  - Composite long bow
 ---
 
 **Composite Bows**

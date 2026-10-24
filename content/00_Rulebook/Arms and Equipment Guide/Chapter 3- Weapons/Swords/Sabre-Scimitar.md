@@ -1,6 +1,9 @@
 ---
-heading: "Sabre/Scimitar (Arms and Equipment Guide)"
+heading: Sabre/Scimitar (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00154.htm
+aliases:
+  - Sabre
+  - Scimitar
 ---
 
 **Sabre/Scimitar**

@@ -1,6 +1,8 @@
 ---
-heading: "New Weapons (Comp. Fighter's Handbook)"
+heading: New Weapons (Comp. Fighter's Handbook)
 source: https://regalgoblins.com/2erules/CFH/DD05330.htm
+aliases:
+  - Chain
 ---
 
 **New Weapons**

@@ -201,7 +201,7 @@ Table of Contents
 
 [[Flail|Flail]]
 
-[[Footman'a Flail|Footman's Flail]]
+[[Footman's Flail|Footman's Flail]]
 
 [[Horseman's Flail|Horseman's Flail]]
 

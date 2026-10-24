@@ -10,50 +10,50 @@ As noted in previous chapters, weapons can be classified into *tight* and *broad
 In the listing below, broad groups are noted in bold type, and tight groups are in italics.
 
 **Axes, Picks, and Hammers**
-*Axes:* battle axe, hand/throwing axe, hatchet, two-handed axe, sword-axe, mace-axe
-*Picks:* horseman’s pick, footman’s pick, pick
-*Hammers:* war hammer, maul, sledge
+*Axes:* [[battle axe]], [[Hand or Throwing Axe|hand axe]]/[[Hand or Throwing Axe|throwing axe]], [[Hand or Throwing Axe|hatchet]], two-handed axe, sword-axe, mace-axe
+*Picks:* [[Horseman's Pick]], [[Footman's Pick]], pick
+*Hammers:* [[war hammer]], maul, sledge
 *Unrelated:* adze
 
 **Bows** 
-Short bow, composite short bow, long bow, composite long bow
+[[Short bow]], [[Composite Bows|composite short bow]], [[long bow]], [[Composite Bows|composite long bow]]
 
 **Clubs, Maces, and Flails**
-*Maces:* footman’s mace, horseman’s mace, mace-axe
-*Clubs:* club, great club, war club, ankus, morning star
-*Flails:* horseman’s flail, footman’s flail
+*Maces:* [[Footman's Mace]], [[Horseman's Mace]], mace-axe
+*Clubs:* [[club]], great club, war club, ankus, [[morning star]]
+*Flails:* [[horseman's flail]], [[Footman's Flail]]
 
 ***Crossbows***
-Hand crossbow, light crossbow, heavy crossbow, pellet bow, cho-ku-no
+[[Crossbow, Hand|Hand crossbow]], [[Crossbow, Light and Heavy|light crossbow]], [[Crossbow, Light and Heavy|heavy crossbow]], pellet bow, cho-ku-no
 
 ***Daggers & Knives***
-Dagger, stiletto, jambiya, main-gauche, parrying dagger, knife, katar
+[[Dagger]], [[stiletto]], jambiya, [[main-gauche]], [[Dagger, Parrying|parrying dagger]], [[knife]], katar
 
 ***Lances***
-Light, medium, heavy, jousting
+Light, medium, heavy, [[Jousting Lance|jousting]]
 
 **Polearms**
-*Spear-like polearms:* awl pike, partisan, ranseur, spetum
-*Poleaxes:* bardiche, halberd, voulge
-*Bills:* bill, bill-guisarme, glaive-guisarme, guisarme-voulge, hook fauchard
-*Glaives:* glaive, fauchard, naginata, nagimaki, fauchard-fork
-*Beaked:* bec de corbin, lucern hammer
-*Unrelated:* military fork, tetsubo, lajatang
+*Spear-like polearms:* [[awl pike]], [[partisan]], [[ranseur]], [[spetum]]
+*Poleaxes:* [[bardiche]], [[halberd]], [[voulge]]
+*Bills:* bill, [[bill-guisarme]], [[glaive-guisarme]], [[guisarme-voulge]], [[Hook-Fauchard|hook fauchard]]
+*Glaives:* [[glaive]], [[fauchard]], naginata, nagimaki, [[fauchard-fork]]
+*Beaked:* [[bec de corbin]], [[lucern hammer]]
+*Unrelated:* [[military fork]], tetsubo, lajatang
 
 **Spears & Javelins**
-*Spears:* spear, long spear, awl pike
-*Javelins:* javelin, pilum, dart
-*Unrelated:* harpoon, trident, brandistock
+*Spears:* [[spear]], [[long spear]], [[awl pike]]
+*Javelins:* [[javelin]], pilum, [[dart]]
+*Unrelated:* [[harpoon]], [[trident]], brandistock
 
 **Swords**
-*Ancient:* broadsword, sapara, khopesh, sword-axe, short sword
-*Roman:* broadsword, drusus, gladius, spatha
-*Middle Eastern:* short sword, scimitar, great scimitar, tulwar
-*Oriental:* cutlass, katana, wakizashi, no-dachi, ninja-to
-*Short:* short sword, gladius, drusus, sapara, dagger, tulwar
-*Medium:* broadsword, long sword, cutlass, sabre, falchion, estoc
-*Large:* bastard sword, claymore, two-handed sword, great scimitar, no-dachi
-*Fencing weapons:* rapier, sabre, main-gauche, parrying dagger
+*Ancient:* [[Broad Sword|broadsword]], sapara, [[khopesh]], sword-axe, [[short sword]]
+*Roman:* [[Broad Sword|broadsword]], [[Gladius|drusus]], [[gladius]], spatha
+*Middle Eastern:* [[short sword]], [[Sabre-Scimitar|scimitar]], great scimitar, tulwar
+*Oriental:* [[cutlass]], katana, wakizashi, no-dachi, ninja-to
+*Short:* [[short sword]], [[gladius]], [[Gladius|drusus]], sapara, [[dagger]], tulwar
+*Medium:* [[Broad Sword|broadsword]], [[long sword]], [[cutlass]], [[Sabre-Scimitar|sabre]], [[falchion]], estoc
+*Large:* [[bastard sword]], [[claymore]], [[two-handed sword]], great scimitar, no-dachi
+*Fencing weapons:* [[rapier]], [[Sabre-Scimitar|sabre]], [[main-gauche]], [[Dagger, Parrying|parrying dagger]]
 
 ***Chain & Rope Weapons***
 Chain, kau sin ke, kusari-gama, kawanaga, chijikiri

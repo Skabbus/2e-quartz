@@ -1,6 +1,8 @@
 ---
-heading: "Bola (Arms and Equipment Guide)"
+heading: Bola (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00075.htm
+aliases:
+  - Bolas
 ---
 
 **Bola**

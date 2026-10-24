@@ -1,6 +1,10 @@
 ---
-heading: "Hand or Throwing Axe (Arms and Equipment Guide)"
+heading: Hand or Throwing Axe (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00099.htm
+aliases:
+  - Hand axe
+  - Throwing axe
+  - Hatchet
 ---
 
 **Hand or Throwing Axe**

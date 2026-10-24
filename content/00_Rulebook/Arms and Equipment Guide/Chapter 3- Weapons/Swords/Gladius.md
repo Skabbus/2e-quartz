@@ -1,6 +1,8 @@
 ---
-heading: "Gladius (Arms and Equipment Guide)"
+heading: Gladius (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00150.htm
+aliases:
+  - Drusus
 ---
 
 **Gladius**

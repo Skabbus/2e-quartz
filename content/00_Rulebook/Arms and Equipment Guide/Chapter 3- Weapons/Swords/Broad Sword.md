@@ -1,6 +1,8 @@
 ---
-heading: "Broad Sword (Arms and Equipment Guide)"
+heading: Broad Sword (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00146.htm
+aliases:
+  - Broadsword
 ---
 
 **Broad sword**

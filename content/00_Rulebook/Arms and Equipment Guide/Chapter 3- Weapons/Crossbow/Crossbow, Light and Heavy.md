@@ -1,6 +1,9 @@
 ---
-heading: "Crossbow-- Light and Heavy (Arms and Equipment Guide)"
+heading: Crossbow-- Light and Heavy (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00088.htm
+aliases:
+  - Heavy crossbow
+  - Light crossbow
 ---
 
 **Crossbow, Light and Heavy**

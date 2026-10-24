@@ -1,6 +1,8 @@
 ---
-heading: "New Weapons List (Comp. Priest's Handbook)"
+heading: New Weapons List (Comp. Priest's Handbook)
 source: https://regalgoblins.com/2erules/CPrH/DD05664.htm
+aliases:
+  - Scythe
 ---
 
 **New Weapons List**

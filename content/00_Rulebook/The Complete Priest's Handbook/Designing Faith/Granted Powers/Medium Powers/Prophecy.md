@@ -1,0 +1,18 @@
+
+**Prophecy**
+
+With this power, the priest can sometimes see visions of the future. A priest with the Prophecy power can use it two different ways.
+
+First, the priest may sink into a meditative trance and try to receive visions of the future. This trance lasts ten turns; if the priest is interrupted before the ten turns are done (struck with a weapon, shouted at by someone within six feet of him, or knocked over), the trance is prematurely broken and the priest gets no vision.
+
+Second, visions may just come to the priest, at the DM's discretion. When the priest is hit with such a vision, for a single combat round he no longer perceives the real world; he sees, hears and experiences nothing but his vision.
+
+The priest receives no vision of the future if the DM doesn't have one for him to see. Therefore, the priest who deliberately sinks into a receptive trance gets absolutely no vision if the DM doesn't want him to see one. Therefore, this power is only partly an ability which gives the priest an advantage of future sight; it's primarily a tool for the DM to give the priest clues about the future, clues which guide the adventure without giving the priest an overwhelming advantage in the campaign.
+
+The visions which the priest receives should be short and easy to misinterpret. They may be highly symbolic; if he sees a rat fighting a serpent to the death, the animals may represent mighty armies which bear those creatures on their flags, or may represent two characters with traits similar to those animals.
+
+Also, the DM must decide whether, in his campaign, prophetic visions are *changeable* or *unchangeable.* If they're changeable, then the priest will sometimes see events which can be prevented. This tells him which way the winds of fate are currently blowing, but he knows that enough effort can change the future he sees. If they're unchangeable, then nothing he can do will alter this vision; however, it's still possible that the vision is deceptive and not exactly what he thinks it is. (For instance, when he sees his best friend plummeting to his death from a clifftop, he may actually be seeing his friend's twin or doppleganger dying in this manner.)This is a particularly tricky power to use within the scope of the campaign. Always remember that it's a tool for the DM to give a slight advantage to the character and to guide the story, and not a weapon for the priest character to use against the DM or the story. The priest character can't sink into a trance, receive no vision, and then immediately sink into another one and expect to receive a vision then. The endowing of visions is strictly at the DM's pleasure, just as, in the campaign, visions are granted to characters strictly at the god's pleasure.
+
+This power is most appropriate to priests of the god of prophecy. However, it's appropriate to priests of any god. In Greek mythology, for example, there were famous prophetic temples devoted to the gods Zeus (a god of the sky, lightning, oaks, and wisdom), Apollo (a god of light, the sun, and music), and Gaea (the ancient earth-goddess).
+
+There is no limit on the number of times per day this power may be used. A character can try to entrance himself several times per day, though this is usually fruitless and annoying. However, the DM can supply a priest-character with visions any number of times per day. To keep prophecy from becoming a dominant part of the campaign, it's best to limit the number of visions received, through either of the two methods, to once or twice per *month.*

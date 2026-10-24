@@ -10,7 +10,7 @@ spellist:
   - Wizard
 ---
 
-> [!spell|enc] 3 | Suggestion Spell
+> [!spell|enc] 3 | Suggestion
 > | Range | AoE |
 > | :--- | :--- |
 > | 30 yds. | 1 creature |

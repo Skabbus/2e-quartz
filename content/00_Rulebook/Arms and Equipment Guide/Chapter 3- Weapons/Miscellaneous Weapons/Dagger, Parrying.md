@@ -1,6 +1,8 @@
 ---
-heading: "Dagger-- Parrying (Arms and Equipment Guide)"
+heading: Dagger-- Parrying (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00093.htm
+aliases:
+  - Parrying dagger
 ---
 
 **Dagger, Parrying**

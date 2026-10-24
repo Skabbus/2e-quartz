@@ -1,6 +1,9 @@
 ---
-heading: "Staff-Sling (Arms and Equipment Guide)"
+heading: Staff-Sling (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00142.htm
+aliases:
+  - Staff sling
+  - Stinkpot
 ---
 
 **Staff-Sling**

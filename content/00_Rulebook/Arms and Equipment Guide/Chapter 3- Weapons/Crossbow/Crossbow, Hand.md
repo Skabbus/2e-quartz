@@ -1,6 +1,8 @@
 ---
-heading: "Crossbow, Hand (Arms and Equipment Guide)"
+heading: Crossbow, Hand (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00089.htm
+aliases:
+  - Hand crossbow
 ---
 
 **Crossbow, Hand**

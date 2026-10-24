@@ -9,7 +9,8 @@ Gladiators are trained in a variety of weapons. In addition to the new weapons o
 
 The short sword used by gladiators, incidentally, is a short, straight-bladed weapon sharpened on both edges; it is called the *gladius,* and gladiators take their name from it. The gladius has the characteristics of an ordinary short sword.
 
-**Bolas**The bolas are three balls attached to ropes or cords about a yard in length; the other ends of the cords are tied together in a knot. The wielder of the bolas whirls them by the knot and throws them at a target; if they hit, they wrap around the target, with the balls smashing painfully into the target as they connect. Once they have wrapped themselves around a target, it takes the victim one full round and a successful ability check vs. Strength to get them free. (If the character fails his Strength check, he does not get the bolas free this round.)This weapon does only a little damage, but it is especially useful if you are using the Hit Locations rules from the *Combat Rules* chapter.
+**Bolas**
+The bolas are three balls attached to ropes or cords about a yard in length; the other ends of the cords are tied together in a knot. The wielder of the bolas whirls them by the knot and throws them at a target; if they hit, they wrap around the target, with the balls smashing painfully into the target as they connect. Once they have wrapped themselves around a target, it takes the victim one full round and a successful ability check vs. Strength to get them free. (If the character fails his Strength check, he does not get the bolas free this round.)This weapon does only a little damage, but it is especially useful if you are using the Hit Locations rules from the *Combat Rules* chapter.
 
 If the attacker makes a Called Shot to the target's Legs (he doesn't have to specify which; if the attack hits, it hits both), and successfully attacks, the bolas wrap themselves tightly around his legs. He can no longer run or walk until he gets them free. He must make a Dexterity check just to avoid falling down. In fact, if he was moving when the attack was made, he suffers a –3 penalty to his Dexterity check to avoid falling down.
 
@@ -21,7 +22,9 @@ Weapon proficiency with the Bolas is not related to any other weapon proficiency
 
 Any leatherworker or weaponsmith can make a set of bolas . . . but he must have exact measurements for the cords and exact weights for the balls to do it right. Simply hearing such a weapon described, the craftsman can make something like it . . . but unless he makes his craftsman ability check by 3 or better, the weapon he makes will be proportioned wrong and will be at a –4 to attack rolls.
 
-**Cestus**The cestus is a glovelike weapon, studded with sharp spikes and edges on the back of the glove and across the knuckles. Gladiators fighting with the cestus usually wear two, one on each hand (the plural is cesti); here, it pays for a gladiator to have Cestus Weapon Specialization, Two-Weapon Style Specialization, and/or Punching Specialization.
+**Cestus**
+
+The cestus is a glovelike weapon, studded with sharp spikes and edges on the back of the glove and across the knuckles. Gladiators fighting with the cestus usually wear two, one on each hand (the plural is cesti); here, it pays for a gladiator to have Cestus Weapon Specialization, Two-Weapon Style Specialization, and/or Punching Specialization.
 
 Cestus combat is very popular with arena crowds because it is extremely bloody and up-close. Also, because the weapons do comparatively little damage, the fighters tend to last a long time in combat.
 
@@ -31,7 +34,9 @@ Cestus, because it is simply a bonus to punching-type attacks, does not require 
 
 In a culture where there is gladiatorial combat, cesti are readily available from weaponsmiths, but they are not exported, as they're such a basic weapon the market is not very good. Any foreign weaponsmith who has cesti described to him can make perfectly functional cesti; the first two cesti he makes will be at twice the listed cost, and subsequent ones will be at the listed cost.
 
-**Drusus**The Drusus is a Gladius (short sword) of Exceptional quality (as per the types of weapon quality described in the *Character Creation* chapter of this rule book). It looks just like an ordinary gladius; only by testing the sharpness of the blade can someone tell the difference. The Drusus has been forged so that the metal is better-tempered and holds an edge better, and then sharpened until it has a razor-like edge.
+**Drusus**
+
+The Drusus is a Gladius (short sword) of Exceptional quality (as per the types of weapon quality described in the *Character Creation* chapter of this rule book). It looks just like an ordinary gladius; only by testing the sharpness of the blade can someone tell the difference. The Drusus has been forged so that the metal is better-tempered and holds an edge better, and then sharpened until it has a razor-like edge.
 
 Because of this, it does +1 damage and confers a non-magical +1 to attack rolls over the normal gladius. (This means the wielding character gets a +1 to attack rolls when using the weapon, but the weapon does not give him the ability to hit monsters which require magical weapons to affect.)The Drusus also has a disadvantage. In order to keep its keen edge, it must be regularly sharpened with a lot more attention and time than an ordinary weapon requires. After any day in which the Drusus has been fought with (even one attack!), someone with either the Armorer or Weaponsmith secondary skill, or the Blacksmithing, Armorer, or Weaponsmithing nonweapon proficiency, must sharpen the blade for half an hour . . . or, on the next day, it will act as an ordinary short sword (losing its to-hit and damage bonus) until it is so sharpened.
 
@@ -41,7 +46,9 @@ The Drusus uses the same weapon proficiency as the short sword. If a character c
 
 In cultures where there are gladiators, any weaponsmith with a weaponsmithing ability check of 14 or better can make a Drusus for the cost shown. These weapons are seldom exported, as local demand is high for the few made. A foreign weaponsmith could not make one merely if it were described to him; he would have to study with a local weaponsmith. Having done so, he could make the weapon.
 
-**Lasso**The lasso, or lariat, is a length of rope with a loop at the end; the wielder holds the slack in his off-hand, twirls the lasso in his other hand, and hurls the loop at his target. On a successful hit, the lariat settles over the target, giving the wielder the chance to dismount him, pull him to the ground, trip him, etc.
+**Lasso**
+
+The lasso, or lariat, is a length of rope with a loop at the end; the wielder holds the slack in his off-hand, twirls the lasso in his other hand, and hurls the loop at his target. On a successful hit, the lariat settles over the target, giving the wielder the chance to dismount him, pull him to the ground, trip him, etc.
 
 In other words, when you attack someone with a lasso, you must declare what you're trying to accomplish with the attack.
 

@@ -1,6 +1,8 @@
 ---
-heading: "Hook-Fauchard (Arms and Equipment Guide)"
+heading: Hook-Fauchard (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00128.htm
+aliases:
+  - Hook Fauchard
 ---
 
 **Hook-Fauchard**
