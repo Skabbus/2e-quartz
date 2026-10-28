@@ -1,6 +1,8 @@
 ---
 heading: "Fungus (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03892.htm
+type:
+  - monster_group
 ---
 
 Fungus

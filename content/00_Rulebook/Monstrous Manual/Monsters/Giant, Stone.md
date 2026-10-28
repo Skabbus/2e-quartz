@@ -1,6 +1,32 @@
 ---
-heading: "Giant-- Stone (Monstrous Manual)"
+heading: Giant-- Stone (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03912.htm
+monster_climate:
+  - temperate
+  - subtropical
+monster_terrain:
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 10
+monster_needs_review: false
+type:
+  - monster
+monster_hd_min: 14
+monster_hd_max: 14
 ---
 
 Giant, Stone

@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Air/Earth (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03876.htm
+type:
+  - monster_group
 ---
 
 Elemental, Air/Earth![[AIRERTH.gif]]

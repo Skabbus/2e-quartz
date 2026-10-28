@@ -19,7 +19,7 @@ source: https://regalgoblins.com/2erules/MM/DD04104.htm
 
 7 [[Crocodile#24b42b63|Crocodile, wild]]
 
-8 [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021|Dog, death]]
+8 [[Dog 1#b5ace021|Dog, death]]
 
 9 [[Ooze-Slime-Jelly II#5e28bc27|Gelatinous cube]]
 

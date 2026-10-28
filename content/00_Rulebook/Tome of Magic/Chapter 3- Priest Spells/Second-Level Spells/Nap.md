@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Time |
+
+```json
+{
+  "name": "Nap",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A scrap of pillow ticking, a feather, and a pebble that the caster has kept in his pocket for seven nights",
+  "range": "Touch",
+  "aoe": "One creature/level",
+  "castingTime": "2",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "Creatures affected by this spell are put to sleep for one hour. Upon awakening, the creature is as refreshed as if he had slept for eight hours. The affected person recovers lost hit points as if he rested for a full night. Wizards can memorize spells as if real time had passed.\n\nBecause the rest is so complete and rejuvenating, a character does not feel fatigued after waking. Attempts to use *nap* more than once in an 18-hour period are ineffective (the character simply is not sleepy). Only willing subjects can be affected by *nap*.The material components are a scrap of pillow ticking, a feather, and a pebble that the caster has kept in his pocket for seven nights."
+}
+```

@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Plant |
+
+```json
+{
+  "name": "Speak With Plants",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A drop of water, a pinch of dung, and a flame",
+  "range": "0",
+  "aoe": "30-ft. radius",
+  "castingTime": "1 turn",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When cast, a *speak with plants* spell enables the priest to converse, in very rudimentary terms, with all sorts of living vegetables (including fungi, molds, and plantlike monsters, such as shambling mounds) and to exercise limited control over normal plants (i.e., not monsters or plantlike creatures). Thus, the caster can question plants as to whether or not creatures have passed through them, cause thickets to part to enable easy passage, require vines to entangle pursuers, and command similar services. The spell does not enable plants to uproot themselves and move about, but any movements within the plants' normal capabilities are possible. Creatures entangled by the 1st-level spell of that name can be released. The power of the spell lasts for one round for each experience level of the casting priest. All vegetation within the area of effect is affected by the spell.\n\nThe material components for this spell are a drop of water, a pinch of dung, and a flame."
+}
+```

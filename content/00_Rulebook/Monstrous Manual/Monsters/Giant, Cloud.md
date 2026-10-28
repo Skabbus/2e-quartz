@@ -1,6 +1,36 @@
 ---
-heading: "Giant-- Cloud (Monstrous Manual)"
+heading: Giant-- Cloud (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03899.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - mountains
+  - sky
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 10
+monster_needs_review: false
+type:
+  - monster
+monster_hd_min: 16
+monster_hd_max: 16
 ---
 
 Giant, Cloud

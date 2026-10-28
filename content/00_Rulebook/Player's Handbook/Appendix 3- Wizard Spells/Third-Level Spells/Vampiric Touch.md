@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Vampiric Touch",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "3",
+  "duration": "One touch",
+  "save": "None",
+  "damage": "—",
+  "description": "When the caster touches an opponent in melee with a successful attack roll, the opponent loses 1d6 hit points for every two caster levels, to a maximum drain of 6d6 points for a 12th-level caster. The spell is expended when a successful touch is made or one turn passes. The hit points are added to the caster's total, with any hit points over the caster's normal total treated as temporary additional hit points. Any damage to the caster is subtracted from the temporary hit points first. After one hour, any extra hit points above the caster's normal total are lost. The creature originally losing hit points through this spell can regain them by magical or normal healing. Undead creatures are unaffected by this spell."
+}
+```

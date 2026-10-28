@@ -32,3 +32,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Necromantic |
+
+```json
+{
+  "name": "Plague Curse",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest’s unholy symbol and a small ball of myrrh",
+  "range": "Touch",
+  "aoe": "One creature or object",
+  "castingTime": "1 round",
+  "duration": "See below",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "By means of this spell, a necromancer bestows a powerful curse on a person or object which becomes a carrier for plague and contagion. Every person or animal that comes in direct physical contact with the cursed carrier must make a saving throw vs. death magic or contract a fatal disease (as described in the 3rd-level priest spell *cause disease* on pages 209–10 of the *PHB*), resulting in a victim’s slow, agonizing demise within 2–5 weeks. The living focus of a plague curse is completely immune from the effects of the disease he or she carries. In many cases, the carrier will be oblivious to his cursed condition—especially if the carrier is a frequent traveler and does not remain in a single location long enough for the plague symptoms to surface in those he or she contacts.\n\nThe carrier of a *plague curse* displays no outward signs of disease and radiates only a very faint aura of necromancy (only a 5% chance of detecting per level). The curse may only be removed from an individual by a priest of higher level than the caster (*dispel magic* has no effect); alternatively, a cursed object may be cleansed by destruction in fire.\n\nNormally, the curse only expires after it has claimed one life for each level of the original caster. As for the deadly affliction caused by a plague curse, it may be successfully treated with a paladin’s healing touch or with such spells as *cure disease, heal,* or *restoration*.The secrets of this malignant incantation are known only to the scant few priests who serve the cold gods of Pestilence and Decay. It is rumored that some Plague Priests must willingly accept this curse for their religion. Invoking a plague curse ages the caster by one year. The material component is the priest’s unholy symbol and a small ball of myrrh."
+}
+```

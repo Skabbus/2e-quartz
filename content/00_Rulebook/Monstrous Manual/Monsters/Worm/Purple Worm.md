@@ -2,6 +2,34 @@
 heading: Worm, Purple Worm (Monstrous Manual)
 source: "[[Worm]]"
 url: https://regalgoblins.com/2erules/MM/DD04090.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 15
+monster_hd_max: 15
+type:
+  - monster
 ---
 
 Worm, Purple Worm

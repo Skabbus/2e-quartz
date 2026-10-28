@@ -2,6 +2,32 @@
 heading: Troll, Freshwater (Monstrous Manual)
 source: "[[Troll]]"
 url: https://regalgoblins.com/2erules/MM/DD04079.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - freshwater
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Troll, Freshwater

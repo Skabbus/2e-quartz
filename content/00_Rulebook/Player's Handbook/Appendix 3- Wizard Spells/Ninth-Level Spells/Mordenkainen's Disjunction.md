@@ -29,3 +29,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Enchantment | — |
+
+```json
+{
+  "name": "Mordenkainen's Disjunction",
+  "school": "",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "30-ft. radius",
+  "castingTime": "9",
+  "duration": "Instantaneous",
+  "save": "Special",
+  "damage": "—",
+  "description": "When this spell is cast, all magic and magical items within the radius of the spell, except those on the person of or being touched by the spellcaster, are disjoined. That is, spells being cast are separated into their individual components (usually spoiling the effect as a *dispel magic* spell does), and permanent and enchanted magical items must successfully save (vs. spell if actually cast on a creature, or vs. a *dispel magic* spell otherwise) or be turned into normal items. Even artifacts and relics are subject to Mordenkainen's disjunction, though there is only a 1% chance per caster experience level of actually affecting such powerful items. Thus, all potions, scrolls, rings, rods, miscellaneous magical items, artifacts and relics, arms and armor, swords, and miscellaneous weapons within 30 feet of the spellcaster can possibly lose all their magical properties when the *Mordenkainen's disjunction* spell is cast. The caster also has a 1% chance per level of destroying an antimagic shell. If the shell survives the disjunction, no items within it are disjoined.\n\nNote: Destroying artifacts is a dangerous business, and 95% likely to attract the attention of some powerful being who has an interest or connection with the device. Additionally, if an artifact is destroyed, the casting wizard must roll a successful saving throw vs. spell with a -4 penalty or permanently lose all spellcasting abilities."
+}
+```

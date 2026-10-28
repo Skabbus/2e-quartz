@@ -32,3 +32,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration, Alteration | — |
+
+```json
+{
+  "name": "Lower Resistance",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A broken iron rod",
+  "range": "60 yards",
+  "aoe": "One creature",
+  "castingTime": "5",
+  "duration": "1 turn+1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "Using this spell, a wizard may attempt to reduce the magic resistance of a target creature. The magic resistance of the victim works against the *lower resistance* spell itself, but at only half its normal value. No saving throw is permitted in addition to magic resistance.\n\nIf the victim does not resist the effects of this spell, his magic resistance is reduced by a base 30% plus 1% per experience level of the wizard casting the spell.\n\nThis spell has no effect on creatures that have no magic resistance.\n\nThe material component is a broken iron rod."
+}
+```

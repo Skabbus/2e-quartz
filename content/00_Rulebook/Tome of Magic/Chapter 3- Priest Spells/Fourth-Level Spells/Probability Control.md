@@ -36,3 +36,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Numbers |
+
+```json
+{
+  "name": "Probability Control",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small cube of a thickened sugar-and-milk mixture and a cubic die of matching size",
+  "range": "30 yards",
+  "aoe": "One creature",
+  "castingTime": "4",
+  "duration": "Special",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell allows the priest to increase or decrease by a small margin the probability of success for one action. This action can be anything that requires a die roll--an attack, a saving throw, an attempt to use thieving skills, an ability check, or even an attempt to successfully *teleport* on target. The action must be something performed by a single creature.\n\nThe basic modification is 15% (15 on 1d100 or 3 on 1d20), plus an additional 5% per five levels of the caster. This modification can be either positive or negative, as deemed by the spellcaster. Thus, a 10th-level priest can modify a subject's saving throw or attack roll by +5 or -5, or a thief's \"climb walls\" roll by +25% or -25%. The priest may cast this spell on himself.\n\nFor a noncombat action such as an attempt to climb a wall, the priest simply casts the spell on the subject immediately before the action is attempted, informing the DM whether the modification is positive or negative. To use this spell in combat, the priest must specify the action to be affected (e.g., the target's next attack roll) and whether the modification will be positive or negative. The spell remains in effect until the subject attempts the specified action or until a number of rounds equal to the caster's level passes. If the latter occurs, the spell ends without effect.\n\nOnce the spell is cast, the priest does not need to maintain any level of concentration; the spell will function even if the casting priest is killed before the spell takes effect.\n\nThe subject of the spell has no way of knowing whether any modification made by this spell is positive or negative (or even whether he was the subject of the spell at all). Thus, a lying priest could claim to raise a thief's chance of climbing the wall, while actually lowering it. The thief would be none the wiser. However, an unwilling subject of this spell receives a normal saving throw to negate its effect.\n\nThe material components are a small cube of a thickened sugar-and-milk mixture and a cubic die of matching size. Both are consumed in the casting."
+}
+```

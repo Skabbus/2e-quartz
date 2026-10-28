@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Wards |
+
+```json
+{
+  "name": "Grounding",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest's holy symbol and a coil of silver wire",
+  "range": "30 yards",
+  "aoe": "10-yard square/priest",
+  "castingTime": "1 turn",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "*Grounding* offers protection against normal and magical electrical attacks within the area of effect. The protected area and creatures within it suffer no damage from normal electrical attacks (such as those caused by lightning bolts in a thunderstorm and nonmagical creatures such as electric eels). Magical electrical attacks (including lightning bolt breath weapons) cause only 50% of their normal damage. Additionally, creatures within the area of effect receive a +2 bonus to saving throws made against electrical attacks, regardless of whether the attacks originate inside or outside the warded area.\n\nThe material components are the priest's holy symbol and a coil of silver wire."
+}
+```

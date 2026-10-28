@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Change Self",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1",
+  "duration": "2d6 rds. + 2 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables the wizard to alter the appearance of his form--including clothing and equipment--to appear 1 foot shorter or taller; thin, fat, or in between; human, humanoid, or any other generally man-shaped bipedal creature. The caster cannot duplicate a specific individual. The spell does not provide the abilities or mannerisms of the chosen form. The duration of the spell is 2d6 rounds plus two additional rounds per level of experience of the spellcaster. The DM may allow a saving throw for disbelief under certain circumstances: for example, if the caster acts in a manner obviously inconsistent with his chosen role. The spell does not alter the perceived tactile (i.e., touch) properties of the caster or his equipment, and the ruse can be discovered in this way."
+}
+```

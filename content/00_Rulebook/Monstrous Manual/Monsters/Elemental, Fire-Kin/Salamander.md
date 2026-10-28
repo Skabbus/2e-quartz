@@ -2,6 +2,42 @@
 heading: Elemental Fire Kin![[FIREKIN.gif]], Salamander (Monstrous Manual)
 source: "[[Elemental, Fire-Kin]]"
 url: https://regalgoblins.com/2erules/MM/DD03880.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 5
+monster_hd_min: 7
+monster_hd_max: 7
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Elemental Fire Kin![[FIREKIN.gif]], Salamander

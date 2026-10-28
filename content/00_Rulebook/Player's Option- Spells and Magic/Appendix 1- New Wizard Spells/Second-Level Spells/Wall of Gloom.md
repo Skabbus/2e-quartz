@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning, Shadow | — |
+
+```json
+{
+  "name": "Wall of Gloom",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of fleece from a black sheep and the eyelash of a revenant",
+  "range": "30 yards",
+  "aoe": "Two 10-ft. cubes, + one 10-ft. cube/level (max. is 8 cubes)",
+  "castingTime": "2",
+  "duration": "2d4 rds. + 1 rd./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell creates a wall or barrier of ominous shadow in any area within the spell range. The *wall of gloom* does not obscure sight completely, but objects or creatures within the wall, or on its other side, are dim shadows that can barely be seen. Creatures attempting missile fire through the wall suffer a –2 penalty to their attack rolls. In addition, the supernatural cold and darkness of the *wall of gloom* may cause creatures moving through the wall to recoil in fear. Creatures of 4 Hit Dice or less who enter the wall must make a saving throw vs. spell or retreat for 1d3 rounds; creatures of 4+1 to 7 Hit Dice must save or hesitate for 1 round before entering the wall; and undead and creatures of 7+1 Hit Dice or more ignore the wall’s fear effects.\n\nThe wall can take any shape the caster desires, as long as it is at least 10 feet high and 10 feet thick. The material component is a bit of fleece from a black sheep and the eyelash of a revenant."
+}
+```

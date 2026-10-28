@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Otto's Irresistable Dance",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "5",
+  "duration": "1d4+1 rounds",
+  "save": "None",
+  "damage": "—",
+  "description": "When an *Otto's irresistible dance* spell is placed upon a creature, the spell causes the recipient to begin dancing, complete with feet shuffling and tapping. This dance makes it impossible for the victim to do anything other than caper and prance; this cavorting worsens the Armor Class of the creature by -4, makes saving throws impossible except on a roll of 20, and negates any consideration of a shield. Note that the creature must be touched, as if melee combat were taking place and the spellcaster were striking to do damage."
+}
+```

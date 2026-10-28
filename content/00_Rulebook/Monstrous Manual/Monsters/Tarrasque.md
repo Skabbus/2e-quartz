@@ -1,6 +1,41 @@
 ---
-heading: "Tarrasque (Monstrous Manual)"
+heading: Tarrasque (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD04070.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - unique
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_needs_review: false
+type:
+  - monster
+monster_hd_min: 70
+monster_hd_max: 70
 ---
 
 Tarrasque

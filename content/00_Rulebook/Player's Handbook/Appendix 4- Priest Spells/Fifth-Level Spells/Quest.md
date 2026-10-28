@@ -32,3 +32,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | Charm |
+
+```json
+{
+  "name": "Quest",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest's holy symbol",
+  "range": "60 yds.",
+  "aoe": "1 creature",
+  "castingTime": "8",
+  "duration": "Until fulfilled",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "The *quest* spell enables the priest to require the affected creature to perform a service and return to the priest with proof that the deed was accomplished. The quest can, for example, require that the creature locate and return some important or valuable object, rescue a notable person, release some creature, capture a stronghold, slay a person, deliver some item, and so forth. If the quest is not properly followed, due to disregard, delay, or perversion, the creature affected by the spell loses 1 from its saving throw rolls for each day of such action. This penalty is not removed until the quest is properly pursued or the priest cancels it. There are certain circumstances that will temporarily suspend a quest, and others that will discharge or cancel it. The DM will give you appropriate information as the need to know arises.\n\nIf cast upon an unwilling subject, the victim is allowed a saving throw. However, if the person quested agrees to a task--even if the agreement is gained by force or trickery--no saving throw is allowed. If a quest is just and deserved, a creature of the priest's religion cannot avoid it, and any creature of the priest's alignment saves with a -4 penalty to the saving throw. A quest cannot be dispelled, but it can be removed by a priest of the same religion or of higher level than the caster. Some artifacts and relics might negate the spell, as can direct intervention by a deity. Likewise, an unjust or undeserved quest grants bonuses to saving throws, or might even automatically fail.\n\nThe material component of this spell is the priest's holy symbol."
+}
+```

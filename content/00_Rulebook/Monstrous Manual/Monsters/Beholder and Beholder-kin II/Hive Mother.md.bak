@@ -1,0 +1,67 @@
+---
+heading: Beholder and Beholder-kin, Hive Mother (Monstrous Manual)
+source: "[[Beholder and Beholder-kin II]]"
+url: https://regalgoblins.com/2erules/MM/DD03809.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 20
+monster_hd_max: 20
+type:
+  - monster
+---
+
+Beholder and Beholder-kin, Hive Mother
+
+![[BEHOLD2.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any remote |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Omnivore |
+| **INTELLIGENCE:** | Genius  (17-18) |
+| **TREASURE:** | I, S, T |
+| **ALIGNMENT:** | Lawful evil |
+| **NO. APPEARING:** | 1 |
+| **ARMOR CLASS:** | 0 |
+| **MOVEMENT:** | Fl 6 (A) |
+| **HIT DICE:** | 20 |
+| **THAC0:** | 5 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACKS:** | 5-20 |
+| **SPECIAL ATTACKS:** | Magic |
+| **SPECIAL DEFENSES:** | Anti-magic |
+| **MAGIC RESISTANCE:** | 5% |
+| **SIZE:** | H (8' in diameter) |
+| **MORALE:** | Fanatic (18) |
+| **XP VALUE:** | 24,000 |

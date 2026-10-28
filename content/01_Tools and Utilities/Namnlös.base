@@ -1,0 +1,20 @@
+views:
+  - type: table
+    name: Vy
+    filters:
+      and:
+        - type == ["monster"]
+        - monster_needs_review == true
+    order:
+      - file.name
+      - monster_activity
+      - monster_climate
+      - monster_frequency
+      - monster_settlement
+      - monster_terrain
+      - type
+    sort: []
+    columnSize:
+      file.name: 254
+      note.monster_climate: 335
+      note.monster_frequency: 86

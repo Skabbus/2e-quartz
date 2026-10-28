@@ -1,6 +1,8 @@
 ---
 heading: "Gloomwing (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03922.htm
+type:
+  - monster_group
 ---
 
 Gloomwing

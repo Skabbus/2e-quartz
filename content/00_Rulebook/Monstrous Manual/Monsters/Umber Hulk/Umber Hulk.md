@@ -1,6 +1,8 @@
 ---
 heading: "Umber Hulk (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04080.htm
+type:
+  - monster_group
 ---
 
 Umber Hulk

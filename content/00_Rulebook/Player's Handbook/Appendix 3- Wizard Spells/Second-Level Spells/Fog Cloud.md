@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Fog Cloud",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10 yds.",
+  "aoe": "Special",
+  "castingTime": "2",
+  "duration": "4 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "The *fog cloud* spell can be cast in one of two ways, at the caster's option: as a large, stationary bank of normal fog, or as a harmless fog that resembles the 5th-level wizard spell *cloudkill*.As a fog bank, this spell creates a fog of any size and shape up to a maximum 20-foot cube per caster level. The fog obscures all sight, normal and infravision, beyond 2 feet.\n\nAs a cloudkill-like fog, this is a billowing mass of ghastly, yellowish-green vapors, measuring 40 feet x 20 feet x 20 feet. This moves away from the caster at 10 feet per round. The vapors are heavier than air and sink to the lowest level, even pouring down sinkholes and den openings. Very thick vegetation breaks up the fog after it has moved 20 feet into the vegetation.\n\nThe only effect of either version is to obscure vision. A strong breeze will disperse either effect in one round, while a moderate breeze will reduce the spell duration by 50%. The spell cannot be cast under water."
+}
+```

@@ -1,6 +1,8 @@
 ---
 heading: "Beetle-- Giant (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03806.htm
+type:
+  - monster_group
 ---
 
 Beetle, Giant

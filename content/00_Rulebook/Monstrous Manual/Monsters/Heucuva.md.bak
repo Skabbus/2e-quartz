@@ -1,0 +1,93 @@
+---
+heading: "Heucuva (Monstrous Manual)"
+source: https://regalgoblins.com/2erules/MM/DD03947.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 10
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
+---
+
+Heucuva
+
+![[HEUCUVA.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Semi- (2-4) |
+| **TREASURE:** | C |
+| **ALIGNMENT:** | Chaotic evil |
+| **NO. APPEARING:** | 1-10 |
+| **ARMOR CLASS:** | 3 |
+| **MOVEMENT:** | 9 |
+| **HIT DICE:** | 2 |
+| **THAC0:** | 19 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 1-6 |
+| **SPECIAL ATTACKS:** | Disease |
+| **SPECIAL DEFENSES:** | Hit only by silver or +1 weapons |
+| **MAGIC RESISTANCE:** | See below |
+| **SIZE:** | M (5'-7' tall) |
+| **MORALE:** | Steady (11) |
+| **XP VALUE:** | 270 |
+
+The heucuva is an undead spirit similar in appearance to a skeleton, but more dangerous and more difficult to dispel.
+
+The heucuva appears to be a humanoid skeleton of normal size. The bones are covered by a robe that is little more than tattered rags.
+
+**Combat:** The heucuva attacks by swiping with one of its hands; the sharp finger bones are capable of tearing into wood. A victim must roll a successful saving throw vs. poison or be afflicted with a disease. The victim suffers a daily loss of 1 point each of Strength and Constitution. A *cure disease* spell must be cast on the victim to prevent death and restore the lost points.
+
+Heucuva are treated as wights on the [Turning Undead table](..\PHB\DD01734.htm) . They are resistant to all mind-influencing spells. Heucuva bones soon crumble once the monsters are destroyed.
+
+Heucuva have a special hatred of priests. Once a priest uses his spells or tries to turn the heucuva, they will concentrate on attacking that priest. They may even ignore everyone else except for the priest and those defending him.
+
+Heucuva are able to polymorph themselves up to three times a day. They may use this power to assume a nonthreatening shape in order to get close to an unsuspecting victim or avoid an undesired encounter when pursuing a specific prey. Heucuva may assume the form of people they have met in the recent past, such as a past victim or a member of the party that encounters the monsters. If the heucuva are in their lairs, they may assume their old (living) appearances. Groups encountered on the surface may appear to be pilgrims in procession. Such disguises fool only those who view the world solely via visible light; heucuva appear the same as other skeletal undead if looked at with infravision. The heucuva are incapable of speech; they can only moan or wail.
+
+**Habitat/Society:** Heucuva roam the dark places of the world. They can be found in subterranean realms, as well as most temperate or tropical regions. Cold seems to prevent heucuvan activity, for they are not found in high, desolate mountains or in any cold regions.
+
+Legends tell that heucuva are the restless spirits of monastic priests who were less than faithful to their holy vows. In punishment for their heresies, they are forced to roam the dark. Their spirits, appearance, and holy powers have become perverted mockeries of their old selves. The tatters they wear are the unrecognizable remains of their monks' robes. Instead of healing, they can kill with a diseased touch. Instead of helping others, they seek to kill all who still live. Even their old power to turn undead is now used to help them resist the efforts of others to turn them.
+
+Heucuva retain dim memories of their old lives. Their lairs are decorated as grotesque mockeries of their old abbeys and temples. The corpses of past victims may be used to represent parishioners. These corpses may retain their original possessions, which may represent a large portion of the heucuvan treasure trove. Other accumulated treasures may be scattered around the mock altar as decorations or offerings. Such a mock temple is a chilling sight to most and an abomination that few good-aligned cleric can resist destroying.
+
+Some heucuva are nomadic and constantly wander on a pilgrimage to nowhere. Even these are mockeries of real pilgrimages.
+
+**Ecology:** Heucuva are malignant spirits that seek to destroy those who still live. They are used as examples to remind priests the fate that befalls those who stray from their devotion or use their religion as a mask to hide unpious deeds. Powdered heucuva bones may be used in the preparation of magical items intended to corrupt the spirits of living beings or to control undead.
+
+[[Monstrous Manual Index#6d2de9d5|Index]]

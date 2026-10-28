@@ -2,6 +2,28 @@
 heading: Sprite, Sea Sprite (Monstrous Manual)
 source: "[[Sprite]]"
 url: https://regalgoblins.com/2erules/MM/DD04061.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 5
+monster_appearing_max: 40
+monster_hd_min: 1
+monster_hd_max: 1
+type:
+  - monster
 ---
 
 Sprite, Sea Sprite

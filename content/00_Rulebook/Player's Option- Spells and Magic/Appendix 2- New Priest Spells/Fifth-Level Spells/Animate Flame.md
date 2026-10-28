@@ -51,3 +51,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Elemental |
+
+```json
+{
+  "name": "Animate Flame",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "120 yds.",
+  "aoe": "1-ft. diameter/level",
+  "castingTime": "8",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "While using this spell, the priest can command a flame to leave its source of fuel and move at his direction. The flame is magically preserved at the intensity it possessed when animated and does not weaken or fail even if it has nothing to burn. The priest can affect any natural fire within range, but magical fires (including breath weapons) can only be animated and controlled on a roll of 11 or higher on a d20, –1 per level or Hit Dice difference between the caster and the creature or spellcaster who created the flame in question. For example, a 9th-level priest can animate a *flaming sphere* cast by a 4th level wizard on a roll of 6 or better on 1d20. In order to animate instantaneous effects such as a red dragon’s breath or a *fireball*, the priest must beat his opponent’s initiative in the round he casts this spell and succeed in his attempt to take control of the flame.\n\nUnder the priest’s direction, an animated flame can move at a rate of 12, although it cannot cross water or wet or muddy ground. If the priest directs the flame to leave the spell’s range, the spell ends and the flame stops and burns whatever it may be resting on. *Animate flame* can be a very effective weapon; the fire attacks with a THAC0 of 10 and may be able to strike several creatures in the same round, depending on its size. It inflicts damage as shown below:\n\n| Size | Diameter | Number of Targets | Damage |\n| --- | --- | --- | --- |\n| Torch or lantern | less than 1 ft. | 1 | 1d3 |\n| Small campfire | 1–2 ft. | 1 | 1d4 |\n| Large campfire | 3–5 ft. | 2 | 1d6 |\n| Bonfire | 6–10 ft. | 4 | 2d6 |\n| Conflagration | 11–20 ft. | 8 | 3d6 |\n| Inferno | 21 ft. or more | 20 | 5d6 |\n\nCreatures actually caught within the fire’s diameter are automatically hit (without an attack roll) for the listed damage. Very hot or unusually cold fires may inflict damage (at the DM’s discretion) as if they were one category larger or smaller. In addition to attacking the caster’s enemies, the fire will naturally cause any combustibles it comes into contact with to burn, as well; an animated fire can easily torch a small town, given a few rounds to move from building to building.\n\nThe animated flame can be dispelled normally. It can also be defeated by contact with a significant volume of water, ice, cold, or earth or dirt, just as a normal fire can be drowned or smothered.\n\nThe priest can affect a single fire of up to 1 foot in diameter per level of experience; if a natural fire is too large for him to animate, he can animate a smaller portion of it and command the portion he controls. Magical fires cannot be divided in this way, so it requires a very high-level priest to deflect the breath weapon of a red dragon!"
+}
+```

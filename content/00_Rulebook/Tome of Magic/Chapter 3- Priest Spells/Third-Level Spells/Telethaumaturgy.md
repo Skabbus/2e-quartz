@@ -45,3 +45,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | Numbers |
+
+```json
+{
+  "name": "Telethaumaturgy",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small book of numerological formulae and notes",
+  "range": "0",
+  "aoe": "One creature",
+  "castingTime": "2 rounds",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell requires the priest to perform a numerological analysis of a subject's correct name. The result is that the priest may cast another spell that affects the subject individual at a range much greater than normal. In other words, by gaining deep knowledge of the individual, the priest creates a \"channel\" to that individual that makes a subsequent spell easier to cast on that subject.\n\nOnly certain spells can benefit from *telethaumaturgy*:bless\\*commandcharm person or mammaldetect charmhold personknow alignmentremove curse\\*probability controlquestconfusion (one creature only) exactionFor spells marked with an asterisk (\\*), *telethaumaturgy* also increases the range of the reversed spell. Unless indicated, *telethaumaturgy* does not increase the range of the reversed spells.\n\nThe increase in range depends on the level of the priest casting *telethaumaturgy*:\n\n| **Level Range** | **Multiplier** |\n| --- | --- |\n| 1-6 | x2 |\n| 7-11 | x3 |\n| 12-16 | x4 |\n| 17+ | x5 |\n\nThus, a 12th-level priest who has cast *telethaumaturgy* on an individual could subsequently cast charm person on that individual at a range of 320 yards, rather than the normal range of 80 yards.\n\nA spell to be enhanced by *telethaumaturgy* must be cast on the round immediately following the completion of *telethaumaturgy*. Spells that normally affect more than one individual (such as confusion ) will affect only the selected subject when cast following *telethaumaturgy*.When *telethaumaturgy* is cast by a priest of 11th level or higher, it has an additional effect. If the target is within the normal range of the subsequent spell (e.g., 80 yards for *charm person*), the subject's saving throw suffers a penalty of -2.\n\nLike the *personal reading* spell, *telethaumaturgy* functions only if the priest knows the correct name of his subject. If the priest casts the spell using an alias, he will not know that *telethaumaturgy* has not taken effect until the subsequent spell fails. The priest does not automatically know why the subsequent spell failed (the subject might simply have made a successful saving throw).\n\nThe material component is a small book of numerological formulae and notes. This book is different from the book used in *personal reading*. The book is not consumed in the casting."
+}
+```

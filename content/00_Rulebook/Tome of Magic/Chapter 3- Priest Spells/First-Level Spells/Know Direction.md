@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Travelers |
+
+```json
+{
+  "name": "Know Direction",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small scrap of a parchment map that is at least 100 years old",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "1",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "*Know direction* allows the caster to instantly know the direction of north. The spell is effective in any environment, whether underwater, underground, or in darkness (including magical darkness).\n\nThe material component is a small scrap of a parchment map that is at least 100 years old."
+}
+```

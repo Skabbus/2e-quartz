@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Glorious Tranmutation",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "Touch",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell turns iron into silver or lead into gold at the caster's option. The prime ingredient for this spell is a magical item called the *philosopher's stone*, which must be touched by the wizard and alchemically combined with the metal during casting. The formula for mixing the stone and the metal must be known by the caster; this information is not provided by this spell and the spell is useless without it. (The exact ingredients and formula are decided by the Dungeon Master and must be discovered by the wizard in the course of adventuring.)\n\n*Philosopher's stones* vary in quality so much that each is capable of transmuting either 1d10x50 pounds of iron into an equal quantity of silver or 1d10x10 pounds of lead into the same amount of gold. It is not possible to know how much metal can be transmuted until the process is complete. If the caster has more iron or lead prepared than the spell is capable of changing, any excess is unchanged.\n\nThe entire transmutation must be made at one time. Only one stone may be used per casting of the spell. The entire *philosopher's stone* is consumed in the process."
+}
+```

@@ -1,6 +1,8 @@
 ---
 heading: "Zombie (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04099.htm
+type:
+  - monster_group
 ---
 
 Zombie

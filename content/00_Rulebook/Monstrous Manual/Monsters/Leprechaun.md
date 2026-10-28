@@ -1,6 +1,29 @@
 ---
-heading: "Leprechaun (Monstrous Manual)"
+heading: Leprechaun (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03972.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 20
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Leprechaun

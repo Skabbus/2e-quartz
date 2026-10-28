@@ -2,6 +2,30 @@
 heading: Rakshasa, Greater (Monstrous Manual)
 source: "[[Rakshasa]]"
 url: https://regalgoblins.com/2erules/MM/DD04036.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+  - swamp
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Rakshasa, Greater

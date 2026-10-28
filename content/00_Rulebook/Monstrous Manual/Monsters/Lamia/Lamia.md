@@ -1,6 +1,8 @@
 ---
 heading: "Lamia (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03969.htm
+type:
+  - monster_group
 ---
 
 Lamia

@@ -2,6 +2,41 @@
 heading: Slaad, Red (Monstrous Manual)
 source: "[[Slaad]]"
 url: https://regalgoblins.com/2erules/MM/DD04054.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - limbo
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 3
+monster_appearing_max: 18
+monster_hd_min: 7
+monster_hd_max: 7
+type:
+  - monster
 ---
 
 Slaad, Red

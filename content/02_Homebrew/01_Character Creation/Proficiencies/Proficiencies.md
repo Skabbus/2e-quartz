@@ -189,6 +189,6 @@ Multiple Non-weapon proficiency slots may be invested in the same Non-weapon pro
 | Weaponsmithing     | Warrior                 | Player's Handbook/Chapter 5- Proficiencies (Optional)/Nonweapon Proficiencies II/Nonweapon Proficiency Descriptions | Intelligence            | -3       |
 | Weaving            | General                 | Player's Handbook/Chapter 5- Proficiencies (Optional)/Nonweapon Proficiencies II/Nonweapon Proficiency Descriptions | Intelligence            | -1       |
 | Trailing           | Rogue                   | The Complete Thief's Handbook/Chapter 2- Proficiencies/New Proficiencies                                            | Dexterity               |          |
-| Weaving            | General                 | Intelligence                                                                                                        | -1                      |          |
+| Weaving            | General                 |                                                                                                                     | Intelligence            | -1       |
 
 ![[Non-Weapon Proficiencies.base]]

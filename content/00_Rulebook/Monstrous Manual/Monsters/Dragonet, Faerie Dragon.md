@@ -1,6 +1,31 @@
 ---
-heading: "Dragonet-- Faerie Dragon (Monstrous Manual)"
+heading: Dragonet-- Faerie Dragon (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03868.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Dragonet, Faerie Dragon**

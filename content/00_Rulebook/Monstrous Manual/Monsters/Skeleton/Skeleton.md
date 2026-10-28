@@ -1,6 +1,8 @@
 ---
 heading: "Skeleton (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04051.htm
+type:
+  - monster_group
 ---
 
 Skeleton

@@ -1,0 +1,67 @@
+---
+heading: Imp, Mephit, Mist (Monstrous Manual)
+source: "[[Imp, Mephit]]"
+url: https://regalgoblins.com/2erules/MM/DD03957.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_hd_min: 3
+monster_hd_max: 3
+monster_needs_review: true
+type:
+  - monster
+---
+
+Imp, Mephit, Mist
+
+![[IMPMEPH.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | See below |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Special |
+| **INTELLIGENCE:** | Average (8-10) |
+| **TREASURE:** | N |
+| **ALIGNMENT:** | Any evil |
+| **NO. APPEARING:** | See below |
+| **ARMOR CLASS:** | 7 |
+| **MOVEMENT:** | 12, FL 24 (B) |
+| **HIT DICE:** | 3+2 |
+| **THAC0:** | 17 |
+| **NO. OF ATTACKS:** | 2 |
+| **DAMAGE/ATTACK:** | 1/1 |
+| **SPECIAL ATTACKS:** | See below |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | M (5' tall) |
+| **MORALE:** | Average (8-10) |
+| **XP VALUE:** | 420 |

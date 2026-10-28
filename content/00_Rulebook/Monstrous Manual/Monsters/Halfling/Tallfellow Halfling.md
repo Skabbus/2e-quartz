@@ -2,6 +2,32 @@
 heading: Halfling, Tallfellow (Monstrous Manual)
 source: "[[Halfling]]"
 url: https://regalgoblins.com/2erules/MM/DD03942.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - forest
+  - hills
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 12
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Halfling, Tallfellow

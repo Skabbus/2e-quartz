@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Monster Summoning V",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny bag and a small (not necessarily lit) candle",
+  "range": "Special",
+  "aoe": "70-yd. radius",
+  "castingTime": "6",
+  "duration": "6 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is much like the 3rd-level *monster summoning I* spell, except that this spell summons 1d3 5th-level monsters. These appear within the spell's area of effect and attack the caster's opponents until either he commands them to cease, the spell duration expires, or the monsters are slain. These creatures do not check morale, and they vanish when slain. If no opponent exists to fight, summoned monsters can, if the wizard can communicate with them, and if they are physically capable, perform other services for the summoning wizard.\n\nThe material components of this spell are a tiny bag and a small (not necessarily lit) candle."
+}
+```

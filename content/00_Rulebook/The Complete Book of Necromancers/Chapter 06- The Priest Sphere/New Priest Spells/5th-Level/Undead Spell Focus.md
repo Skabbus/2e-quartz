@@ -32,3 +32,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Necromantic |
+
+```json
+{
+  "name": "Undead Spell Focus",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "Touch",
+  "aoe": "One undead",
+  "castingTime": "8",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "For the duration of this spell, the recipient undead becomes a magical focus for the caster, who can now funnel any chosen, currently-carried “companion” spell through the undead. Any companion spell is emitted from the undead, but all casting activity (including component use) is performed by the priest. Distance does not matter, so long as priest and undead remain on the same plane.**\n\nHowever, unless other spells (such as *spectral senses, reflecting pool,* or *magic font*) are employed to “see” the undead’s current surroundings (or it is in a known location), companion spells will be hurled blindly. A priest can cast multiple spells, one per round, through the undead, until it is destroyed or a maximum of one spell per level of the priest has been cast or the spell expires (it lasts up to 10 turns per level).\n\nWith this spell, a hidden priest can avoid direct combat, employing an undead as a spell-casting fighting-focus. This spell can be cast on an undead affected by *spectral senses, undead alacrity,* or *resist turning*, and the spells will function simultaneously. Finally, the undead may be controlled by clerical ability, spell, or magical item, without hampering the *imbuement*."
+}
+```

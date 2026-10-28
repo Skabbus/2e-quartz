@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Earth Kin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03879.htm
+type:
+  - monster_group
 ---
 
 Elemental, Earth Kin

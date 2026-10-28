@@ -34,3 +34,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration, Evocation | — |
+
+```json
+{
+  "name": "Sound Bubble",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A blown egg shell or a soap bubble",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "1",
+  "duration": "10 rounds + 1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, an invisible bubble springs into existence. It can either be centered on and mobile with the caster or cast on an area. The mobile bubble has a radius of 10 feet, while the area bubble has a radius of 5 feet per caster level. The bubble has only one effect: sound can't pass through it. Thus sound generated within the bubble can't be heard by those on the outside and vice versa.\n\nBards often use this spell to enhance the quality and effect of their performances. It also functions nicely when a bard wishes to use one of his talents in a dungeon or other limited setting in which noise is sure to draw unwanted attention.\n\nBesides its entertainment functions, *sound bubble* is also useful in many of the same situations in which *silence* is used.\n\nThe material component of the spell is a blown egg shell or a soap bubble."
+}
+```

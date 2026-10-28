@@ -2,6 +2,32 @@
 heading: Gargantua, Insectoid Gargantua (Monstrous Manual)
 source: "[[Gargantua]]"
 url: https://regalgoblins.com/2erules/MM/DD03894.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 3
+monster_hd_min: 20
+monster_hd_max: 30
+type:
+  - monster
 ---
 
 Gargantua, Insectoid Gargantua

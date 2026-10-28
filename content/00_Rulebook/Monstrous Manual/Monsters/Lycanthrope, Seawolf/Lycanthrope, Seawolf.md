@@ -1,6 +1,8 @@
 ---
 heading: "Lycanthrope-- Seawolf (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03981.htm
+type:
+  - monster_group
 ---
 
 Lycanthrope, Seawolf

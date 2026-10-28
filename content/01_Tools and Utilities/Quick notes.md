@@ -1,7 +1,0 @@
-- [ ] The Complete Paladin's Handbook/Chapter 6- Equipment/New Magical Equipment
-- [ ] The Complete Paladin's Handbook/Chapter 6- Equipment/Additional Equipment
-- [ ] The Complete Fighter's Handbook/Equipment
-- [ ] The Complete Priest's Handbook/Equipment and Combat/New Weapons
-- [ ] The Complete Bard's Handbook/Chapter 6- Magic/Magical Items/New Magic Items
-- [ ] The Complete Book of Dwarves/Chapter 9- Equipment/New Weapons
-- [ ] Third Level Priest Spells (Player's Option)

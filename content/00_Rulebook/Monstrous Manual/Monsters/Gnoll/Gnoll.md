@@ -1,6 +1,36 @@
 ---
 heading: "Gnoll (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03923.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 12
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Gnoll

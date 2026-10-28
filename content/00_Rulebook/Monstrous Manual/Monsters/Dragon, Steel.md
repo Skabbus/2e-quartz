@@ -1,6 +1,30 @@
 ---
 heading: "Dragon-- Steel (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03864.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - plains
+  - forest
+  - hills
+monster_settlement:
+  - rural
+  - urban
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 11
+monster_hd_max: 11
+type:
+  - monster
 ---
 
 Steel Dragon![[STELDRAG.gif]]

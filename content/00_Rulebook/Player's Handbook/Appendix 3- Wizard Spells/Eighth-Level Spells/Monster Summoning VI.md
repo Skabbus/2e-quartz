@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Monster Summoning VI",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny bag and a small (not necessarily lit) candle",
+  "range": "Special",
+  "aoe": "80-yd. radius",
+  "castingTime": "8",
+  "duration": "7 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is much like the 3rd-level spell *monster summoning I*, except that it summons 1d3 6th-level monsters. These monsters appear in 1d3 rounds within the spell's area of effect and attack the caster's opponents, until either he commands them to cease, the spell duration expires, or the monsters are slain. These creatures do not check morale, and they vanish when slain. If no opponent exists to fight, summoned monsters can, if the wizard can communicate with them, and if they are physically capable, perform other services for the summoning wizard.\n\nThe material components of this spell are a tiny bag and a small (not necessarily lit) candle."
+}
+```

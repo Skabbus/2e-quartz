@@ -2,6 +2,38 @@
 heading: Imp, Mephit, Fire (Monstrous Manual)
 source: "[[Imp, Mephit]]"
 url: https://regalgoblins.com/2erules/MM/DD03957.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_hd_min: 3
+monster_hd_max: 3
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Imp, Mephit, Fire

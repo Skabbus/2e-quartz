@@ -1,6 +1,28 @@
 ---
 heading: "Roc (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04040.htm
+monster_climate:
+  - subtropical
+monster_terrain:
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 2
+monster_hd_min: 18
+monster_hd_max: 18
+type:
+  - monster
 ---
 
 Roc

@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Stun",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "5 yds./level",
+  "aoe": "1 creature",
+  "castingTime": "1",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "When a *power word, stun* spell is uttered, any creature of the wizard's choice is stunned--reeling and unable to think coherently or act--for a duration dependent on its current hit points. Of course, the wizard must be facing the creature, and the creature must be within the range of 5 yards per experience level of the caster. Creatures with 1 to 30 hit points are stunned for 4d4 rounds, those with 31 to 60 hit points are stunned for 2d4 rounds, those with 61 to 90 hit points are stunned for 1d4 rounds, and creatures with over 90 hit points are not affected. Note that if a creature is weakened so that its hit points are below its usual maximum, the current number of hit points is used."
+}
+```

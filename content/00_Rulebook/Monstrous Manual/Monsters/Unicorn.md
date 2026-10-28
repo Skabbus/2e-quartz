@@ -1,6 +1,28 @@
 ---
 heading: "Unicorn (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04081.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 4
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Unicorn

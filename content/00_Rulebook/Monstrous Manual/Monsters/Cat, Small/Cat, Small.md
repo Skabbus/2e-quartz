@@ -1,6 +1,8 @@
 ---
 heading: "Cat-- Small (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03819.htm
+type:
+  - monster_group
 ---
 
 Cat, Small

@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination, Dimension | — |
+
+```json
+{
+  "name": "Detect Phase",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "10 x 60 ft.",
+  "castingTime": "1",
+  "duration": "2 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "Creatures or objects that are *phased*—that is, in the Border Ehtereal Plane—can be detected by using this spell. The spell affects a path 60 feet long and 10 feet wide; any phased creatures or objects in this area are revealed as soft, blue-glowing outlines visible to anyone in the vicinity. Creatures or effects detected by this spell include: phase spiders, ghosts in their ethereal state, characters or creatures employing *oil of etherealness*, psionic etherealness or phasing, and all other similar effects. Doorways or portals to extradimensional spaces are also detected, although anything hidden within remains unseen.\n\n*Detect phase* does not reveal the location of creatures or objects concealed by magical invisibility or illusions. Note that detecting a phased monster doesn’t necessarily give the caster the ability to attack it, but creatures such as phase spiders lose any special surprise bonuses they may receive if they are detected by using this spell."
+}
+```

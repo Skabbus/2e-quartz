@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Fire-Kin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03880.htm
+type:
+  - monster_group
 ---
 
 Elemental Fire Kin![[FIREKIN.gif]]

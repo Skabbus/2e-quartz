@@ -2,6 +2,31 @@
 heading: Crocodile, Basic (Monstrous Manual)
 source: "[[Crocodile]]"
 url: https://regalgoblins.com/2erules/MM/DD03830.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - swamp
+  - freshwater
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 3
+monster_appearing_max: 24
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Crocodile, Basic

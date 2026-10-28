@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Slow",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A drop of molasses",
+  "range": "90 yds. + 10 yds./level",
+  "aoe": "40-ft. cube, (1 creature/level)",
+  "castingTime": "3",
+  "duration": "3 rds. + 1 rd./level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "A *slow* spell causes affected creatures to move and attack at half their normal rates. It negates a *haste* spell or equivalent, but does not otherwise affect magically speeded or slowed creatures. Slowed creatures have an Armor Class penalty of +4 AC, an attack penalty of -4, and all Dexterity combat bonuses are negated. The magic affects a number of creatures equal to the spellcaster's level, if they are within the area of effect chosen by the wizard (i.e., a 40-foot cubic volume centered as called for by the caster). The creatures are affected from the center of the spell outward. Saving throws against the spell suffer a -4 penalty.\n\nThe material component of this spell is a drop of molasses."
+}
+```

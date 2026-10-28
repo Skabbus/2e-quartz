@@ -39,3 +39,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Major Creation",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "10 yds.",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "Like the *minor creation* spell, the *major creation* spell enables the wizard to pull wisps of material from the Demiplane of Shadow to create an item of nonliving, vegetable nature--soft goods, rope, wood, etc. The wizard can also create mineral objects--stone, crystal, metal, etc. The item created cannot exceed 1 cubic foot per level of the spellcaster in volume. The duration of the created item varies with its relative hardness and rarity:\n\n|  |  |\n| --- | --- |\n| Vegetable matter | 2 hours/level |\n| Stone or crystal | 1 hour/level |\n| Precious metals | 2 turns/level |\n| Gems | 1 turn/level |\n| Mithral\\* | 2 rounds/level |\n| Adamantite | 1 round/level |\n\n\\* Includes similar rare metals.\n\nAttempting to use any of these as material components in a spell will cause the spell to fail. The spellcaster must have at least a tiny piece of matter of the same type as the item he plans to create--a bit of twisted hemp to create rope, a chip of stone to create a boulder, and so on."
+}
+```

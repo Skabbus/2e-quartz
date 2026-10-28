@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Necromantic, Thought |
+
+```json
+{
+  "name": "Cause Insanity *Reversible*",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "1 round",
+  "duration": "Permanent",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "**\n\nThis spell drives a victim insane. The DM may consult the madness table in Chapter Three or choose a form of insanity to suit the wicked caster. A death priest, for instance, might inflict a victim with an exaggerated fear of dying (requiring the character to make a saving throw vs. paralyzation to avoid the effects of a *fear* spell whenever he or she encounters a cadaver, human bones, a graveyard, or even an open coffin). Alternatively, the victim might become convinced that all corpses were undead, waiting to rip him or her to shreds. In a combat situation, a death priest will probably choose to quickly neutralize an opponent with an incapacitating form of insanity, such as *confusion* or *feeblemindedness*. The insanity is permanent and cannot be dispelled except by casting *cure insanity* (the reverse), *heal, restoration*, or *wish.\n\n*The reverse of this spell immediately cures insanity due to most causes (no saving throw). The spell must be administered while the patient is exhibiting insane symptoms. *Cure insanity* can heal a conscious victim of the effects of hallucinatory spores and repair psychic trauma (resulting from a mindwipe or other psionic assault). The spell also diminishes psychic exhaustion (restoring 5–40 PSPs). It cures madness resulting from spells (such as *confusion, chaos, contact other plane, feeblemind, symbol of insanity,* and *prismatic spray, wall,* or *sphere*) and also heals the insanity caused by certain magical items (such as an elixir of madness or a scarab of insanity). However, the spell will not control aberrant behaviors caused by lycanthropy, undeath, or powerful curses (such as a *geas* or *quest*). Finally, at the DM’s discretion, *cure insanity* may temporarily calm the demented behavior of certain extraplanar creatures (such as slaad)."
+}
+```

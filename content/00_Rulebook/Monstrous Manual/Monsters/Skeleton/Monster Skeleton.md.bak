@@ -1,0 +1,70 @@
+---
+heading: Skeleton, Monster (Monstrous Manual)
+source: "[[Skeleton]]"
+url: https://regalgoblins.com/2erules/MM/DD04051.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 6
+monster_hd_max: 6
+type:
+  - monster
+---
+
+Skeleton, Monster
+
+![[SKELETON.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Band |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1-6 |
+| **ARMOR CLASS:** | 6 |
+| **MOVEMENT:** | 12 |
+| **HIT DICE:** | 6 |
+| **THAC0:** | 15 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | Special |
+| **SPECIAL ATTACKS:** | Nil |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | See below |
+| **SIZE:** | L-H (7'-15') |
+| **MORALE:** | Special |
+| **XP VALUE:** | 650 |

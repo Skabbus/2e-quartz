@@ -54,3 +54,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Necromantic |
+
+```json
+{
+  "name": "Reincarnate",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "1 person",
+  "castingTime": "1 turn",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "With this spell, the priest can bring back a dead person in another body, if death occurred no more than one week before the casting of the spell. Reincarnation does not require any saving throw, system shock, or resurrection survival roll. The corpse is touched, and a new incarnation of the person appears in the area in 1d6 turns. The person reincarnated recalls the majority of his former life and form, but the character class, if any, of the new incarnation might be very different indeed. The new incarnation is determined on the following table or by DM choice. If a player character race is indicated, the character must be created. At the DM's option, certain special (expensive) incenses can be used that may increase the chance for a character to return as a specific race or species. A *wish* spell can restore a reincarnated character to its original form and status.\n\n| D100 Roll | Incarnation |\n| --- | --- |\n| 01-03 | Badger |\n| 04-08 | Bear, black |\n| 09-12 | Bear, brown |\n| 13-16 | Boar, wild |\n| 17-19 | Centaur |\n| 20-23 | Dryad |\n| 24-28 | Eagle |\n| 29-31 | Elf |\n| 32-34 | Faun/satyr |\n| 35-36 | Fox |\n| 37-40 | Gnome |\n| 41-44 | Hawk |\n| 45-58 | Human |\n| 59-61 | Lynx |\n| 62-64 | Owl |\n| 65-68 | Pixie |\n| 69-70 | Raccoon |\n| 71-75 | Stag |\n| 76-80 | Wolf |\n| 81-85 | Wolverine |\n| 86-00 | DM's choice |\n\nIf an unusual creature form is indicated, the DM can (at his option only) use the guidelines for new player character races to allow the character to earn experience and advance in levels, although this may not be in the same class as before. If the reincarnated character returns as a creature eligible to be the same class as he was previously (i.e., a human fighter returns as an elf), the reincarnated character has half his previous levels and hit points. If the character returns as a new character class, his hit points are half his previous total, but he must begin again at 1st level. If the character returns as a creature unable to have a class, he has half the hit points and saving throws of his previous incarnation."
+}
+```

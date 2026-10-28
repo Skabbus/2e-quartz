@@ -2,6 +2,37 @@
 heading: Orc, Basic (Monstrous Manual)
 source: "[[00_Rulebook/Monstrous Manual/Monsters/Orc/Orc]]"
 url: https://regalgoblins.com/2erules/MM/DD04023.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - common
+monster_hd_min: 1
+monster_hd_max: 1
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Orc, Basic

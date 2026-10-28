@@ -1,6 +1,8 @@
 ---
 heading: "Ogre, Half- (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04019.htm
+type:
+  - monster_group
 ---
 
 Ogre, Half-

@@ -2,6 +2,32 @@
 heading: Beetle, Giant, Bombardier (Monstrous Manual)
 source: "[[Beetle, Giant]]"
 url: https://regalgoblins.com/2erules/MM/DD03806.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 3
+monster_appearing_max: 12
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Beetle, Giant, Bombardier

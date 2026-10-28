@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Misdirection",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "30 yds.",
+  "aoe": "1 creature or object",
+  "castingTime": "2",
+  "duration": "8 hrs.",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "By means of this spell, the wizard misdirects the information from a detection spell (*detect charm, detect evil, detect invisibility, detect lie, detect magic, detect snares and pits,* etc.). While the detection spell functions, it indicates the wrong area, creature, or the opposite of the truth with respect to *detect evil* or *detect lie*. The wizard directs the spell effect upon the object of the detection spell. If the caster of the detection spell fails his saving throw vs. spell, the misdirection takes place. Note that this spell does not affect other types of divination (*know alignment, augury, ESP, clairvoyance,* etc.)."
+}
+```

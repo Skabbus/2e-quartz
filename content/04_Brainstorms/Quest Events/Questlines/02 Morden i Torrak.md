@@ -6,4 +6,5 @@
 	4. Kanske något nekromantiskt experiment rymmer? 
 	5. Madeleine är också mån om att vanhedra byn, speciellt om det kommer framgångar för att bygga ett tempel.
 	6. Madeleine försöker påverka och långsamt manipulera Vitterbäck. 
-3. 
+
+

@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Composite (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03882.htm
+type:
+  - monster_group
 ---
 
 Elemental, Composite

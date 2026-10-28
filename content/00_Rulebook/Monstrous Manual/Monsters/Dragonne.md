@@ -1,6 +1,33 @@
 ---
 heading: "Dragonne (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03871.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - hills
+  - desert
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 9
+monster_hd_max: 9
+type:
+  - monster
 ---
 
 Dragonne

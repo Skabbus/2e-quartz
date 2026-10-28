@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Far Reaching I",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "2",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell allows the wizard to extend the range of any one 1st- or 2nd-level spell by 50% or any one 3rd-level spell by 25%. The spell to be affected must be cast on the round immediately following the *far reaching I* spell. If a complete round or more elapses, the *far reaching I* is wasted.\n\n*Far reaching I* affects only a spell cast by the same wizard. *Far reaching I* does not affect spells that have range of 0 or touch."
+}
+```

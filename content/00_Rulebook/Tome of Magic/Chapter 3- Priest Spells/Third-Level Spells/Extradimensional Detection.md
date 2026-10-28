@@ -32,3 +32,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Numbers, Divination |
+
+```json
+{
+  "name": "Extradimensional Detection",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "One 10'-wide path, 60 feet long",
+  "castingTime": "3",
+  "duration": "1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "When *extradimensional detection* is cast, the priest detects the existence of any extradimensional spaces or pockets in a path 10 feet wide and 60 feet long in the direction he is facing. The priest may turn, scanning a 60 arc each round, or may move slowly while the spell is in effect to change the sweep of the detection.\n\nExtradimensional spaces include those created by spells such as *rope trick* and those contained within such items as *bags of holding* and *portable holes*. The priest does not automatically know the size of the space or its source.\n\nThis spell detects interplanar gates and the \"gate\" opened by the spell *extradimensional folding*. The spell can be blocked by a stone wall of one foot thickness or more, a one-inch thickness of solid metal, or one yard or more of solid wood."
+}
+```

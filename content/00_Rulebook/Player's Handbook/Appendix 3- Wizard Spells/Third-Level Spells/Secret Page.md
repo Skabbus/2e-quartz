@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Secret Page",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Powdered herring scales and either will o' wisp or boggart essence",
+  "range": "Touch",
+  "aoe": "1 page, (up to 2 ft. square)",
+  "castingTime": "1 turn",
+  "duration": "Until dispelled",
+  "save": "None",
+  "damage": "—",
+  "description": "When cast, a *secret page* spell alters the actual contents of a page so that they appear to be something entirely different. Thus, a map can be changed to become a treatise on burnishing ebony walking sticks. The text of a spell can be altered to show a ledger page or even another form of spell. *Confuse languages* and *explosive runes* spells may be cast upon the secret page, but a *comprehend languages* spell cannot reveal the secret page's contents. The caster is able to reveal the original contents by speaking a command word, perusing the actual page, and then returning it to its secret page form. The caster can also remove the spell by double repetition of the command word. Others noting the dim magic of a page within this spell cloaking its true contents can attempt to dispel magic, but if it fails, the page is destroyed. A *true seeing* spell does not reveal the contents unless cast in combination with a *comprehend languages* spell. An *erase* spell can destroy the writing.\n\nThe material components are powdered herring scales and either will o' wisp or boggart essence."
+}
+```

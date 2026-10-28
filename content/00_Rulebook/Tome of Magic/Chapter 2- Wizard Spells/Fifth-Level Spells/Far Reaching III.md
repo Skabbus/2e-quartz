@@ -26,3 +26,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Far Reaching III",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "5",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell operates exactly like the 3rd-level *far reaching I* spell except that the range of any spell of levels 1-3 is increased by 150% and the range of any 4th- or 5th-level spell is increased by 50%."
+}
+```

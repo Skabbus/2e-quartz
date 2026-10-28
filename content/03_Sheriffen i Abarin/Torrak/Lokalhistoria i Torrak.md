@@ -3,9 +3,9 @@ Torrak har tillhört Abarin i modernt mannaminne, på ett minimum två hundra å
 
 ![[Torrak handelsvägar.png]]
 
-Torrak har historiskt sett tillhört släkten Flodborg. Sommaren 547 4E drabbas landägarna i norra Abarin av panik då nyheten sprids om att Valdoria inlett en offensiv i regionen. Vestor Flodborg flyr med sin familj till Karnessa för att undkomma konflikten.
+Torrak har historiskt sett tillhört släkten Flodborg. Sommaren 547 4E drabbas landägarna i norra Abarin av panik då nyheten sprids om att Valdoria inlett en offensiv i regionen. Veltor Flodborg flyr med sin familj till Karnessa för att undkomma konflikten.
 
-Våren 549 4E intensifieras Valdorias anfall mot Torrak. Vestor Flodborg bedömer att Abarin inte kan hålla staden och avyttrar marken till en lågt pris till adelsmannen [[August Vitterbäck]]. Staden faller under valdoriansk ockupation under sommaren 549 4E. 
+Våren 549 4E intensifieras Valdorias anfall mot Torrak. Veltor Flodborg bedömer att Abarin inte kan hålla staden och avyttrar marken till en lågt pris till adelsmannen [[August Vitterbäck]]. Staden faller under valdoriansk ockupation under sommaren 549 4E. 
 
 När valdorierna väl drivits ut återtar Abarin staden som frontlinje. Militära befälhavare tar kontroll över borgen och koordinerar motattacker mot Valdoria. Dock har den temporära ockupationen lämnat djupa spår; infrastrukturen i Torrak är försvagad. Den lilla hamnen i Torrak som förser Velkassar med förnödenheter har brunnit ner och Abarins strategiska lager är tömda, vilket tvingar staden att vänta på leveranser från söder. Under denna tid faller Velkassar till Valdoria i september.
 

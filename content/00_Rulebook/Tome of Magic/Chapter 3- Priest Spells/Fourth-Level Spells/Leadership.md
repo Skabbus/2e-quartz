@@ -39,3 +39,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm, Alteration | War |
+
+```json
+{
+  "name": "Leadership *Reversible*",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of steel dust",
+  "range": "Special",
+  "aoe": "One creature",
+  "castingTime": "Special",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell can be cast in one of two variations. The first, appropriate for battlefield use, has a range of 240 yards, duration of 1d4+6 turns, and a casting time of 1 turn. The priest can cast the spell on any single individual (a commander or hero) within his line of sight.\n\nWhile under the influence of this spell, the subject's command radius is increased by 50% (round fractions up).\n\nThe reverse of this variation, *doubt*, requires the target to make a saving throw vs. spell. If failed, *doubt* halves the command radius (round fractions down) of the targeted individual for 1d3+4 turns.\n\nThe material component for this variation is a pinch of steel dust.\n\nThe second variation must take place in or within 100' of a place of worship officially dedicated to the casting priest's deity. Both the priest and the individual to be affected must be present. The casting time is 5 turns and involves an intricate ritual and many prayers. At the conclusion of the spell, the subject's command radius is doubled. This effect lasts 2d12 hours.\n\nThe priest can cast either aspect (but not both at once) on himself. No individual can be the subject of more than one casting of this spell at one time, whether different aspects or cast by different priests. If more than one spell is attempted on the individual, only the most recent casting takes effect.\n\nThe material component for the second variation is the priest's holy symbol."
+}
+```

@@ -1,6 +1,8 @@
 ---
 heading: "Hag (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03941.htm
+type:
+  - monster_group
 ---
 
 Hag

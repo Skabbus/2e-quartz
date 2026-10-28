@@ -33,3 +33,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | All |
+
+```json
+{
+  "name": "Camouflage",
+  "school": "Alteration",
+  "verbal": 0,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A mistletoe berry",
+  "range": "20' radius",
+  "aoe": "One person/level",
+  "castingTime": "2",
+  "duration": "1 turn/level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "The elves jealously guard this spell. It allows the mage to instantly and completely hide the number of people allowed by the spell, concealing them against even thorough searches. This spell functions only in the wilderness, however, for it changes the appearance of the affected characters into a facsimile of natural surroundings. It is effective even against infravision and is therefore perfect for use by spies and infiltrators. Characters in this form still have all their faculties and abilities, and they can emerge from this cover at any time they desire.\n\nIt is even possible for characters to move while within this form. Those affected may move up to 10 feet in a single round, creeping more closely to their targets. If they travel faster than this, the spell dissipates. As long as the movement is surreptitious and stealthy (\"Look, Thrag! That bush moving!\"), they should be safe. As with the invisibility spell, if the enspelled characters attack they gain the initiative and a +4 bonus to attack rolls because of total surprise, yet lose the benefits of the spell.\n\nThe characters cannot be detected except by magic or by moving stupidly. Until the spell wears off, the characters can enjoy near-total invisibility and gain much-needed information. The material component for the spell is a mistletoe berry."
+}
+```

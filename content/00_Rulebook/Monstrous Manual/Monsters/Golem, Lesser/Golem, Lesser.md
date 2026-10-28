@@ -1,6 +1,8 @@
 ---
 heading: "Golem-- Lesser (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03929.htm
+type:
+  - monster_group
 ---
 
 Golem, Lesser

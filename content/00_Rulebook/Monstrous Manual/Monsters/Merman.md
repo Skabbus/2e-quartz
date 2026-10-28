@@ -1,6 +1,30 @@
 ---
 heading: "Merman (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03997.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 20
+monster_appearing_max: 200
+monster_hd_min: 1
+monster_hd_max: 1
+type:
+  - monster
 ---
 
 Merman

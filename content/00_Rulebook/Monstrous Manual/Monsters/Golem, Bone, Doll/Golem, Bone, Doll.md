@@ -1,6 +1,8 @@
 ---
 heading: "Golem-- Bone-- Doll (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03930.htm
+type:
+  - monster_group
 ---
 
 Golem, Bone, Doll

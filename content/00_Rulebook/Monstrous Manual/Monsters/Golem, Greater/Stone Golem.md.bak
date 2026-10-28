@@ -1,0 +1,69 @@
+---
+heading: Golem, Greater, Stone (Monstrous Manual)
+source: "[[Golem, Greater]]"
+url: https://regalgoblins.com/2erules/MM/DD03928.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_needs_review: true
+type:
+  - monster
+---
+
+Golem, Greater, Stone
+
+![[GOLEMGRE.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1 |
+| **ARMOR CLASS:** | 5 |
+| **MOVEMENT:** | 6 |
+| **HIT DICE:** | 14 (60 hp) |
+| **THAC0:** | 7 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 3-24 (3d8) |
+| **SPECIAL ATTACKS:** | See below |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | L (9½' tall) |
+| **MORALE:** | Fearless (19-20) |
+| **XP VALUE:** | 8,000 |

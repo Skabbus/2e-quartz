@@ -1,7 +1,34 @@
 ---
 heading: Dog, Death Dog (Monstrous Manual)
-source: "[[00_Rulebook/Monstrous Manual/Monsters/Dog]]"
+source: "[[Dog 1]]"
 url: https://regalgoblins.com/2erules/MM/DD03837.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - desert
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 5
+monster_appearing_max: 50
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Dog, Death Dog

@@ -1,6 +1,8 @@
 ---
 heading: "Brownie (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03813.htm
+type:
+  - monster_group
 ---
 
 Brownie

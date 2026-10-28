@@ -1,6 +1,31 @@
 ---
 heading: "Giant-- Verbeeg (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03914.htm
+monster_climate:
+  - arctic
+  - temperate
+monster_terrain:
+  - hills
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 30
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Giant, Verbeeg

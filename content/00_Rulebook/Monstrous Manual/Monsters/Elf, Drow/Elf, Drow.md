@@ -1,6 +1,8 @@
 ---
 heading: "Elf-- Drow (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03886.htm
+type:
+  - monster_group
 ---
 
 Elf, Drow

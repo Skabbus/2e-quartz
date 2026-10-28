@@ -1,6 +1,37 @@
 ---
 heading: "Dragon-- Chromatic: White Dragon (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03847.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - hills
+  - mountains
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 5
+monster_hd_min: 11
+monster_hd_max: 11
+type:
+  - monster
 ---
 
 Dragon, Chromatic White Dragon![[WITEDRAG.gif]]

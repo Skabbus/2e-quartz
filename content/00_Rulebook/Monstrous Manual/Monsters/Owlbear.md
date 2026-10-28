@@ -1,6 +1,29 @@
 ---
 heading: "Owlbear (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04025.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Owlbear

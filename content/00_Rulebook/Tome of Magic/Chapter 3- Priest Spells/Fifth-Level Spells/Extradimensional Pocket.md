@@ -37,3 +37,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Numbers |
+
+```json
+{
+  "name": "Extradimensional Pocket",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "Touch",
+  "aoe": "Special",
+  "castingTime": "1 round",
+  "duration": "1d12 rounds+2 turns/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell allows the priest to create a single extradimensional space or pocket like the one inside a *bag of holding*. The spell must be cast on a container such as a sack, bag, or backpack. Once under the influence of the spell, the container opens into a nondimensional space and is much larger inside than its outside dimensions. The container always weighs a fixed amount, regardless of what is put inside. This weight and the capacity of the extradimensional space depend on the level of the caster:\n\n| **Level** | **Apparent Weight** | **Weight Cap.** | **Volume Cap.** |\n| --- | --- | --- | --- |\n| 9-13 | 15 lbs | 250 lbs | 30 cu.ft. |\n| 14-16 | 25 lbs | 500 lbs | 70 cu.ft. |\n| 17-19 | 35 lbs | 750 lbs | 100 cu.ft. |\n| 20+ | 60 lbs | 1,000 lbs | 150 cu.ft. |\n\nIf the container is overloaded or if it is pierced by a sharp object, the bag immediately ruptures and the contents are lost into the Astral plane. Any items within the bag when the spell duration ends are also lost in the Astral plane.\n\nThe material components, in addition to the container, are 200 gp worth of powdered diamond and a sheet of platinum worth 500 gp. The platinum sheet must be inscribed with a drawing of a Klein bottle (a paradoxical figure with only one surface--the three-dimensional analogue of the Moebius strip). The diamond dust is consumed during the casting--the platinum sheet is not."
+}
+```

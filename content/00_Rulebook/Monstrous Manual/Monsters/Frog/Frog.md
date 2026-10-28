@@ -1,6 +1,8 @@
 ---
 heading: "Frog (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03891.htm
+type:
+  - monster_group
 ---
 
 Frog

@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Clairvoyance",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of powdered pineal gland",
+  "range": "Unlimited",
+  "aoe": "Line of sight",
+  "castingTime": "3",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "Similar to the *[[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Third-Level Spells/Clairaudience|clairaudience]]* spell, the *clairvoyance* spell empowers the wizard to see in his mind whatever is within sight range from the spell locale chosen. Distance from the wizard is not a factor, but the locale must be known--familiar or obvious. Furthermore, light is a factor, as the spell does not enable the use of infravision or magical enhancements. If the area is magically dark, only darkness is seen; if naturally pitch dark, only a 10-foot radius from the center of the spell's area of effect can be seen. Otherwise, the seeing extends to the normal vision range according to the prevailing light. Lead sheeting or magical protection foils a *clairvoyance* spell, and the wizard has some indication that it is so blocked. The spell creates an invisible sensor, similar to that created by a *crystal ball* spell, that can be dispelled. The spell functions only on the wizard's current plane of existence.\n\nThe material component is a pinch of powdered pineal gland."
+}
+```

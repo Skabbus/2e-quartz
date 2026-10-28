@@ -38,3 +38,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Mount",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of hair from the type of animal to be conjured",
+  "range": "10 yds.",
+  "aoe": "1 mount",
+  "castingTime": "1 turn",
+  "duration": "2 hrs. + 1 hr./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the caster conjures a normal animal to serve him as a mount. The animal serves willingly and well, but at the expiration of the spell duration it disappears, returning to its own place. The type of mount gained by this spell depends on the level of the caster; of course, a caster can choose a lesser mount if desired. Available mounts include the following:\n\n| Caster Level | Mount |\n| --- | --- |\n| 1-3 | Mule or light horse |\n| 4-7 | Draft horse or war horse |\n| 8-12 | Camel |\n| 13-14 | Elephant (and howdah at 18th level) |\n| 15+ | Griffon (and saddle at 18th level) |\n\nThe mount does not come with any riding gear, unless it is of a class lower than the caster would normally be entitled to; thus, a 4th-level wizard can gain a war horse without saddle and harness, or a light horse with saddle and harness. The statistics of the animal gained are typical of all creatures of the same class. The mount disappears when slain.\n\nThe material component of the spell is a bit of hair from the type of animal to be conjured."
+}
+```

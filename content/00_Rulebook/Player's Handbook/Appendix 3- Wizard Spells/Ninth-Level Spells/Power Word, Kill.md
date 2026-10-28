@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Power Word",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "5 yds./2 levels",
+  "aoe": "10-ft. radius",
+  "castingTime": "1",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "When a *power word, kill* spell is uttered, one or more creatures of any type within the spell range and area of effect are slain. The power word kills either one creature with up to 60 hit points, or multiple creatures with 10 or fewer hit points each, to a maximum of 120 hit points total. The option to attack a single creature or multiple creatures must be stated along with the spell range and center of the area of effect. The current hit points of the creatures are used."
+}
+```

@@ -33,3 +33,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion | — |
+
+```json
+{
+  "name": "Lorloveim's Creeping Shadow",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small statuette of the caster sculpted from a piece of obsidian worth at least 1,000 gp",
+  "range": "0",
+  "aoe": "The caster's shadow",
+  "castingTime": "7",
+  "duration": "1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell causes the wizard's shadow to elongate, stretching away from his body at a rate of 15 yards per round. It can elongate a maximum distance of 10 yards per level of the caster.\n\nThe shadow moves as an ordinary shadow, along floors and up walls. The caster may maneuver in any manner feasible to place the shadow where he desires. A caster might position his shadow over a high window in a tower in order to spy on the tower's occupants. The shadow makes no sound and is 90% undetectable in all but the brightest surroundings.\n\nWhile the spell lasts, the illusionist can see, hear, and speak through his shadow. The shadow cannot physically touch, pick up, or attack creatures or objects. It can be struck only by spells, magical weapons of +1 or better, or other special attacks (such as a dragon's breath). The shadow has the same Armor Class as the caster. Hit points lost by the shadow are suffered by the caster.\n\nTo cast the spell, a light source of at least the brightness of a candle must be present.\n\nThe material component is a small statuette of the caster sculpted from a piece of obsidian worth at least 1,000 gp."
+}
+```

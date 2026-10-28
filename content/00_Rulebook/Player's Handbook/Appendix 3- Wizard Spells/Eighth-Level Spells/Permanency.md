@@ -62,3 +62,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Permanency",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Special",
+  "aoe": "Special",
+  "castingTime": "2 rds.",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell affects the duration of certain other spells, making the duration permanent. The personal spells upon which a *permanency* is known to be effective are as follows:\n\n|  |  |\n| --- | --- |\n| *comprehend languages* | *protection from evil* |\n| *detect evil* | *protection from normal missiles* |\n| *detect invisibility* | *read magic* |\n| *detect magic* | *tongues* |\n| *infravision* | *unseen servant* |\n| *protection from cantrips* |  |\n\nThe wizard casts the desired spell and then follows it with the *permanency* spell. Each *permanency* spell lowers the wizard's Constitution by 1 point. The wizard cannot cast these spells upon other creatures. This application of permanency can be dispelled only by a wizard of greater level than the spellcaster was when he cast the spell.\n\nIn addition to personal use, the *permanency* spell can be used to make the following object/creature or area-effect spells permanent:\n\n|  |  |\n| --- | --- |\n| *enlarge* | *prismatic sphere* |\n| *fear* | *stinking cloud* |\n| *gust of wind* | *wall of fire* |\n| *invisibility* | *wall of force* |\n| *magic mouth* | *web* |\n\nAdditionally, the following spells can be cast upon objects or areas only and rendered permanent:\n\n|  |  |\n| --- | --- |\n| *alarm* | *wall of fire* |\n| *audible glamer* | *distance distortion* |\n| *dancing lights* | *teleport* |\n| *solid fog* |  |\n\nThese applications to other spells allow it to be cast simultaneously with any of the latter when no living creature is the target, but the entire spell complex then can be dispelled normally, and thus negated.\n\nThe *permanency* spell is also used in the fabrication of magical items (see the 6th-level spell *[[Enchant an Item|enchant an item]]*). At the DM's option, permanency might become unstable or fail after a long period of at least 1,000 years. Unstable effects might operate intermittently or fail altogether.\n\nThe DM may allow other selected spells to be made permanent. Researching this possible application of a spell costs as much time and money as independently researching the selected spell. If the DM has already determined that the application is not possible, the research automatically fails. Note that the wizard never learns what is possible except by the success or failure of his research."
+}
+```

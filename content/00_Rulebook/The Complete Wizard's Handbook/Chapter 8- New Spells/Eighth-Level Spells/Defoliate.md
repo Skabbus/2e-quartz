@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Defoliate",
+  "school": "Necromancy",
+  "verbal": 0,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The petal from a withered flower and a sliver of charred wood",
+  "range": "30 yards",
+  "aoe": "50-foot square/level",
+  "castingTime": "1 round",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the caster causes all vegetation within the affected area to wither and die, crumbling into black ashes. All vegetation is affected, from the tallest tree to the tiniest blade of grass. Intelligent plant life, such as treants, are also destroyed. The power of a *wish* or its equivalent is required to restore the destroyed vegetation; otherwise, nothing can grow in the *defoliated* area for a full year. Note that since *defoliate* causes plants to crumble to ash, there is no danger of a creature being struck by a toppling tree; however, creatures hiding in trees will find themselves plummeting to the ground when this spell is cast.\n\nThe material components for this spell are the petal from a withered flower and a sliver of charred wood."
+}
+```

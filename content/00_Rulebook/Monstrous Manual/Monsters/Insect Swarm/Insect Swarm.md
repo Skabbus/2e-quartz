@@ -1,6 +1,8 @@
 ---
 heading: "Insect Swarm (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03959.htm
+type:
+  - monster_group
 ---
 
 Insect Swarm

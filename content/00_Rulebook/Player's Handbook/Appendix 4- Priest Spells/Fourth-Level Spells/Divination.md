@@ -34,3 +34,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Divination |
+
+```json
+{
+  "name": "Divination",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A sacrificial offering, incense, and the holy symbol of the priest",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "A *divination* spell is used to garner a useful piece of advice concerning a specific goal, event, or activity that will occur within a one-week period. This can be as simple as a short phrase, or it might take the form of a cryptic rhyme or omen. Unlike the *augury* spell, this gives a specific piece of advice.\n\nFor example, if the question is “Will we do well if we venture to the third level?” and a terrible troll guarding 10,000 gp and a *shield +1* lurks near the entrance to the level (the DM estimates the party could beat the troll after a hard fight), the divination response might be: “Ready oil and open flame light your way to wealth.” In all cases, the DM controls what information is received and whether additional divinations will supply additional information. Note that if the information is not acted upon, the conditions probably change so that the information is no longer useful (in the example, the troll might move away and take the treasure with it).\n\nThe base chance for a correct divination is 60%, plus 1% for each experience level of the priest casting the spell. The DM makes adjustments to this base chance considering the actions being divined (if, for example, unusual precautions against the spell have been taken). If the dice roll is failed, the caster knows the spell failed, unless specific magic yielding false information is at work.\n\nThe material components of the *divination* spell are a sacrificial offering, incense, and the holy symbol of the priest. If an unusually important *divination* is attempted, sacrifice of particularly valuable gems, jewelry, or magical items may be required."
+}
+```

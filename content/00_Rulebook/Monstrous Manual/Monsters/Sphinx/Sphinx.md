@@ -1,6 +1,8 @@
 ---
 heading: "Sphinx (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04059.htm
+type:
+  - monster_group
 ---
 
 Sphinx

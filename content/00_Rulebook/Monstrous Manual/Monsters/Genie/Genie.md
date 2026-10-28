@@ -1,6 +1,8 @@
 ---
 heading: "Genie (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03896.htm
+type:
+  - monster_group
 ---
 
 **Genie**

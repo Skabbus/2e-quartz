@@ -1,6 +1,8 @@
 ---
 heading: "Naga (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04012.htm
+type:
+  - monster_group
 ---
 
 Naga

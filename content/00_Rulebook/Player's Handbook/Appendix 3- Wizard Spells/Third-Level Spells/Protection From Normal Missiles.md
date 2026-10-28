@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | — |
+
+```json
+{
+  "name": "Protection From Normal Missiles",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A piece of tortoise or turtle shell",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "3",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the wizard bestows total invulnerability to hurled and projected missiles such as arrows, axes, bolts, javelins, small stones, and spears. Furthermore, it causes a reduction of 1 from each die of damage (but no die inflicts less than 1 point of damage) inflicted by large or magical missiles, such as ballista missiles, catapult stones, hurled boulders, and magical arrows, bolts, javelins, etc. Note, however, that this spell does not convey any protection from such magical attacks as fireballs, lightning bolts, or magic missiles.\n\nThe material component of this spell is a piece of tortoise or turtle shell."
+}
+```

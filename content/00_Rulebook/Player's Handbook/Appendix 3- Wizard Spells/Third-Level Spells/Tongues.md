@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Tongues *Reversible*",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "A small clay model of a ziggurat, which shatters when the spell is pronounced",
+  "range": "0",
+  "aoe": "30-ft. radius",
+  "castingTime": "3",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables the wizard to speak and understand additional languages, whether they are racial tongues or regional dialects. This does not enable the caster to speak with animals. The spell enables the caster to be understood by all creatures of that type within hearing distance, usually 60 feet. This spell does not predispose the subject toward the caster in any way.\n\nThe wizard can speak one additional tongue for every three levels of experience. The reverse of the spell cancels the effect of the *tongues* spell or confuses verbal communication of any sort within the area of effect.\n\nThe material component is a small clay model of a ziggurat, which shatters when the spell is pronounced."
+}
+```

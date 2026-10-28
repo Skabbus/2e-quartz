@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | — |
+
+```json
+{
+  "name": "Protection From Paralysis",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of cloth taken from a priest's robes",
+  "range": "Touch",
+  "aoe": "One creature",
+  "castingTime": "2",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "The recipient of this spell receives total immunity to magical paralysis. Spells such as *hold person* and *slow* have no effect on the individual. This spell also provides protection against the paralysis attacks of monsters (a ghoul's touch, for example). This spell offers no protection against physical damage.\n\nThe material component is a bit of cloth taken from a priest's robes."
+}
+```

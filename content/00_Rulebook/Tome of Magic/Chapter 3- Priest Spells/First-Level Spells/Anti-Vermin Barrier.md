@@ -32,3 +32,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Wards |
+
+```json
+{
+  "name": "Anti-Vermin Barrier",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The caster's holy symbol and a rodent's whisker",
+  "range": "30 yards",
+  "aoe": "10-foot cube/level",
+  "castingTime": "1",
+  "duration": "1 hour/level",
+  "save": "None",
+  "damage": "—",
+  "description": "With this spell, the caster creates an invisible force field that repels nonmagical insects, rodents, spiders, snakes, worms, and similar vermin of less than 1 Hit Die. The spell has no effect on giant-sized versions of these creatures unless they are less than 1 Hit Die. The barrier affects summoned creatures, such as those called by a summon insects spell.\n\nAny vermin within the area of effect when the spell is cast are not affected; however, when these creatures exit the area, they cannot return.\n\nThe spell affects a cubic area whose sides are 10 feet times the caster's level (for instance, a 2nd-level priest could affect a 20'x 20'x 20' cube.\n\nThe material components are the caster's holy symbol and a rodent's whisker."
+}
+```

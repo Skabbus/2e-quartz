@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration, Mentalism | — |
+
+```json
+{
+  "name": "Psychic Protection",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny figurine of the wizard, cast in iron",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "4",
+  "duration": "3 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell provides the caster with a +6 bonus to saving throws (or allows a saving throw in the case that one is not normally allowed) against spells or effects that control or destroy his mind, including *command, domination, feeblemind, hold magic jar, insanity, possession*, and the psionic powers of domination, mass domination, and switch personality. Any attempt to subvert or destroy the wizard’s mind automatically fails, but the wizard is still vulnerable to spells or effects that influence his actions without taking control of his psyche. In other words, attacks that simply encourage the victim to act in a certain way or influence his perceptions do not trigger the magical warding of the spell. A partial list of spells, powers, and effects that are not defended against includes *charm, suggestion, emotion, confusion, hypnotism, fear, antipathy, beguiling, Otto’s irresistible dance*, a mind flayer’s mental blast, and most psionic attacks.\n\nThe material component for this spell is a tiny figurine of the wizard, cast in iron."
+}
+```

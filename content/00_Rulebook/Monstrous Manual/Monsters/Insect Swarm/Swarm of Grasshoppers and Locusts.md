@@ -2,6 +2,28 @@
 heading: Insect Swarm, Grasshoppers and Locusts (Monstrous Manual)
 source: "[[Insect Swarm]]"
 url: https://regalgoblins.com/2erules/MM/DD03959.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+  - forest
+  - hills
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Insect Swarm, Grasshoppers and Locusts

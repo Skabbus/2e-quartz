@@ -1,6 +1,8 @@
 ---
 heading: "Dwarf-- Hill and Mountain (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03873.htm
+type:
+  - monster_group
 ---
 
 Dwarf

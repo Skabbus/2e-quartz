@@ -1,6 +1,8 @@
 ---
 heading: "Spider (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04060.htm
+type:
+  - monster_group
 ---
 
 Spider

@@ -1,6 +1,39 @@
 ---
 heading: "Lycanthrope-- Werewolf (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03989.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 3
+monster_appearing_max: 18
+monster_hd_min: 4
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Lycanthrope, Werewolf

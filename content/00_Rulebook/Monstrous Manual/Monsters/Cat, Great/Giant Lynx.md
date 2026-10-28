@@ -2,6 +2,28 @@
 heading: Cat, Great, Giant Lynx (Monstrous Manual)
 source: "[[Cat, Great]]"
 url: https://regalgoblins.com/2erules/MM/DD03818.htm
+monster_climate:
+  - arctic
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Cat, Great, Giant Lynx

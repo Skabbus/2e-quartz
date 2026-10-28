@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Protection |
+
+```json
+{
+  "name": "Sanctuary",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Holy symbol and a small silver mirror",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "4",
+  "duration": "2 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When the priest casts a *sanctuary* spell, any opponent attempting to strike or otherwise directly attack the protected creature must roll a saving throw vs. spell. If the saving throw is successful, the opponent can attack normally and is unaffected by that casting of the spell. If the saving throw is failed, the opponent loses track of and totally ignores the warded creature for the duration of the spell. Those not attempting to attack the subject remain unaffected. Note that this spell does not prevent the operation of area attacks (fireball, ice storm, etc.). While protected by this spell, the subject cannot take direct offensive action without breaking the spell, but may use nonattack spells or otherwise act in any way that does not violate the prohibition against offensive action. This allows a warded priest to heal wounds, for example, or to bless, perform an augury, chant, cast a light in the area (but not upon an opponent), and so on.\n\nThe components of the spell include the priest's holy symbol and a small silver mirror."
+}
+```

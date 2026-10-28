@@ -1,0 +1,58 @@
+---
+heading: Scorpion, Giant (Monstrous Manual)
+source: "[[Scorpion]]"
+url: https://regalgoblins.com/2erules/MM/DD04045.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
+---
+
+Scorpion, Giant
+
+![[SCORPION.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Warm wilderness and subterranean areas |
+| **FREQUENCY:** | Uncommon |
+| **ORGANIZATION:** | Swarm |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Carnivore |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | D |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1-4 |
+| **ARMOR CLASS:** | 3 |
+| **MOVEMENT:** | 15 |
+| **HIT DICE:** | 5+5 |
+| **THAC0:** | 15 |
+| **NO. OF ATTACKS:** | 3 |
+| **DAMAGE/ATTACK:** | 1- 10/1-10/1-4 |
+| **SPECIAL ATTACKS:** | Poison sting |
+| **SPECIAL DEFENSES:** | Nil |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | M (5'-6' long) |
+| **MORALE:** | Steady (11) |
+| **XP VALUE:** | 650 |

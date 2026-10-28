@@ -38,3 +38,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment | Charm |
+
+```json
+{
+  "name": "Meld",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A chalice worth no less than 1,000 gp",
+  "range": "10 yards",
+  "aoe": "One priest",
+  "castingTime": "1 turn",
+  "duration": "12 hours",
+  "save": "Special",
+  "damage": "—",
+  "description": "This cooperative spell requires only one priest to cast it, but can be cast only on another priest of the same faith. The recipient of the spell must voluntarily surrender himself to the spell. The recipient becomes a host for the caster. While the recipient does not lose his own persona or ability to act, the host can be dominated by the caster at any time. For the most part, this domination is complete.\n\nFor the duration of the spell, the caster is essentially detached from his own body. He can neither move nor act on his own. His mind is connected to the host's. He sees, hears, smells, tastes, and otherwise senses everything the host does. He can telepathically communicate with the host. Once the spell is completed, there is no limit to the range over which it can function. However, both the caster and host must remain on the same plane. Since the spell relies on telepathic communication, thin lead sheeting will effectively block the connection.\n\nWhen desired, the caster can dominate the host. When this happens, the host's own mind is pushed to the background and the caster's personality dominates. The host's personality, memories, proficiencies, and spells are temporarily replaced by those of the caster. While occupying the host, the caster can cast any spell he himself has memorized, provided that the necessary components are on hand. These spells function exactly as if the priest had cast them from his own body.\n\nThe caster can return control to the host at any time, restoring the character's abilities and personality without harm.\n\nThe spell is not without limitations and risks. The domination must be voluntary. If the host resists the casting of the spell, it automatically fails. Once the spell is in effect, the host can attempt to resist the domination. He is then allowed a saving throw. If successful, the spell immediately ends.\n\nWhenever the host suffers damage, the caster must make a saving throw vs. death to maintain the spell. If the save is failed, a wave of pain is transmitted to the priest, causing 1d6 points of damage and canceling the spell. If the host should die, the caster must make a system shock roll with the risk of suffering instant death.\n\nThe material component is a chalice worth no less than 1,000 gp. This chalice must be given as a gift to the host (who cannot return it to the donor for any reason)."
+}
+```

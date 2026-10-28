@@ -2,6 +2,30 @@
 heading: Cat, Great, Jaguar (Monstrous Manual)
 source: "[[Cat, Great]]"
 url: https://regalgoblins.com/2erules/MM/DD03818.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 2
+monster_hd_min: 4
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Cat, Great, Jaguar

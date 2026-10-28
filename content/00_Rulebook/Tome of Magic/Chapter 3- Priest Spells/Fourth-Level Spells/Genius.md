@@ -30,3 +30,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Thought |
+
+```json
+{
+  "name": "Genius",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A gem of at least 50 gp value",
+  "range": "0",
+  "aoe": "Caster",
+  "castingTime": "5",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is similar to *idea*, except that the priest's player can ask the DM one question about any event occurring at the moment. The question must be somehow related to evaluation of the current situation, such as \"What are these monsters?\" Speculation about the future, such as \"What's on the other side of the door?\" is not permitted.\n\nAs with *idea*, the DM must be careful in adjudicating this spell. The answer to the question should always be relevant and correct, although not necessarily complete, and should not be unbalancing to the situation. The answer can also be cryptic, in the form of a riddle or rhyme, depending on the DM's assessment of the situation. In general, the answer will be a single word or a short phrase of no more than five words.\n\nThe material component is a gem of at least 50 gp value. This spell can be cast only once in any 12-hour period. Subsequent attempts to cast the spell result in no answer."
+}
+```

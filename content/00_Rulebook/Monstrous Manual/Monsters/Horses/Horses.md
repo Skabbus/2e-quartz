@@ -1,6 +1,8 @@
 ---
 heading: "Horses (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03953.htm
+type:
+  - monster_group
 ---
 
 Horses

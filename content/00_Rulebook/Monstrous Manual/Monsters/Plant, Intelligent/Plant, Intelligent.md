@@ -1,6 +1,8 @@
 ---
 heading: "Plant-- Intelligent (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04032.htm
+type:
+  - monster_group
 ---
 
 Plant, Intelligent

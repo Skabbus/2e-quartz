@@ -35,3 +35,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Invocation, Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Dream *Reversible*",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "The *dream* spell enables the caster, or a messenger touched by the caster, to send messages to others in the form of dreams. At the beginning of the spell, the caster must name the recipient or identify him by some title that leaves no doubt as to his identity.\n\nAs the caster completes the spell, the person sending the spell falls into a deep trancelike sleep, and instantaneously projects his mind to the recipient. The sender then enters the recipient's dream and delivers the message unless the recipient is magically protected. If the recipient is awake, the message sender can choose to remain in the trancelike sleep. If the sender is disturbed during this time, the spell is immediately cancelled and the sender comes out of the trance. The whereabouts and current activities of the recipient cannot be learned through this spell.\n\nThe sender is unaware of his own surroundings or the activities around him while he is in his trance. He is totally defenseless, both physically and mentally (i.e., he always fails any saving throw) while in the trance.\n\nOnce the recipient's dreams are entered, the sender can deliver a message of any length, which the recipient remembers perfectly upon waking. The communication is one-way; the recipient cannot ask questions or offer information, nor can the sender gain any information by observing the dreams of the recipient. Once the message is delivered, the sender's mind returns instantly to his body. The duration of the spell is the time required for the sender to enter the recipient's dream and deliver the message.\n\nThe reverse of this spell, *nightmare,* enables the caster to send a hideous and unsettling vision to the recipient, who is allowed a saving throw vs. spell to avoid the effect. The nightmare prevents restful sleep and causes 1d10 points of damage. The nightmare leaves the recipient fatigued and unable to regain spells for the next day. A *dispel evil* spell cast upon the recipient stuns the caster of the nightmare for one turn per level of the cleric countering this evil sending."
+}
+```

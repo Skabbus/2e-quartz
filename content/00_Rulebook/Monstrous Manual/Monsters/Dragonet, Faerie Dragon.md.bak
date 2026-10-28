@@ -1,0 +1,92 @@
+---
+heading: Dragonet-- Faerie Dragon (Monstrous Manual)
+source: https://regalgoblins.com/2erules/MM/DD03868.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_needs_review: false
+type:
+  - monster
+---
+
+Dragonet, Faerie Dragon**
+
+![[FARYDRAG.gif]]**
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Temperate, tropical, and Subtropical forests |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary or clan |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Herbivore |
+| **INTELLIGENCE:** | Genius (17-18) |
+| **TREASURE:** | S, T, U |
+| **ALIGNMENT:** | Chaotic good |
+| **NO. APPEARING:** | 1-6 |
+| **ARMOR CLASS:** | 5 (1 when invisible) |
+| **MOVEMENT:** | 6, Fl 24 (A) |
+| **HIT DICE:** | See below |
+| **THAC0:** | 17 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 1-2 |
+| **SPECIAL ATTACKS:** | Breath weapon, spells |
+| **SPECIAL DEFENSES:** | Invisibility |
+| **MAGIC RESISTANCE:** | See below |
+| **SIZE:** | T (1'-1 ½' long) |
+| **MORALE:** | Steady (11) |
+| **XP VALUE:** | 3,000 |
+
+A chaotic offshoot of the pseudodragon, the faerie dragon lives in peaceful, tangled forests and thrives on pranks, mischief, and practical jokes.
+
+Faerie dragons resemble miniature dragons with thin bodies, long, prehensile tails, gossamer butterfly wings, and huge smiles. Their colors range through the spectrum, changing as they age, from the red of a hatchling to the black of a great wyrm (see chart). The hides of females have a golden tinge that sparkles in the sunlight; males have a silver tinge.
+
+All faerie dragons can communicate telepathically with one another at a distance of up to 2 miles. They speak their own language, along with the language of sprites, pixies, elves, and the birds and animals in their area.
+
+**Combat:** Faerie dragons can become invisible at will, and can attack, use spells, and employ breath weapons while invisible. They attack as 4-HD monsters, biting for 1-2 points of damage. Most (65%) faerie dragons employ wizard spells as a wizard of the level indicated on the accompanying chart; 35% employ priest spells of the following spheres: Animal, Plant, Elemental, and Weather. Almost all spells are chosen for mischief potential. The two most common spells of faerie dragons are *water breathing* and *legend lore;* other favorites include *ventriloquism, unseen servant, forget, suggestion, distance distortion, limited wish, obscurement, animal growth,* and *animate rock.* A faerie dragon usually begins its attacks by turning invisible and using its breath weapon, a 2-foot-diameter cloud of euphoria gas. A victim failing a saving throw vs. breath weapon will wander around aimlessly in a state of bliss for the next 3d4 minutes, during which time he is unable to attack and his Armor Class is decreased by 2. Even though he is unable to attack, the victim can keep his mind on the situation if he succeeds on an Intelligence check (by rolling his Intelligence score or less on 1d20) each round; if he fails an Intelligence check, he completely loses interest in the matters at hand for the duration of the breath weapon's effect.
+
+Faerie dragons avoid combat and never intentionally inflict damage unless cornered or defending their lairs. If attacked, however, they engage in spirited defense, ably supported by sprite and pixie friends, until the opponents are driven away.
+
+**Habitat/Society:** Faerie dragons make their lairs in the hollows of high trees, preferably near a pond or stream, because they are quite fond of swimming and diving. They often live in the company of a group of pixies or sprites.
+
+Faerie dragons take advantage of every opportunity to wreak mischief on passers-by, frequently using forest creatures to help them in their pranks. Though many of these pranks are spontaneous, months of preparation can go into a single, spectacular practical joke. A tell-tale giggle, which sounds like the tinkling of tiny silver bells, often alerts potential victims to the presence of invisible faerie dragons.
+
+**Ecology:** Faerie dragons eat fruit, vegetables, nuts, roots, honey, and grains. They are especially fond of fruit pastries and have been known to go to great lengths to get a fresh apple pie.
+
+|  |  |  |  |  |  |
+| --- | --- | --- | --- | --- | --- |
+| **Age** | **Hit** |  | **Magic** | **Wizard** | **Priest** |
+| **Category** | **Points** | **Color** | **Resist.** | **Level** | **Level** |
+| 1 Hatchling | 1-2 | Red | 10% | 1 | 1 |
+| 2 Very Young | 3-4 | Red-orange | 16% | 2 | 3 |
+| 3 Young | 5-6 | Orange | 24% | 3 | 4 |
+| 4 Juvenile | 7-8 | Orange-yellow | 32% | 4 | 6 |
+| 5 Young Adult | 9-10 | Yellow | 40% | 5 | 7 |
+| 6 Adult | 11-12 | Yellow-green | 48% | 6 | 8 |
+| 7 Mature Adult | 13-14 | Green | 56% | 7 | 9 |
+| 8 Old | 15-16 | Blue-green | 64% | 8 | 10 |
+| 9 Very Old | 17-18 | Blue | 72% | 10 | 11 |
+| 10 Venerable | 19-20 | Blue-violet | 80% | 12 | 12 |
+| 11 Wyrm | 21-22 | Violet | 88% | 14 | 13 |
+| 12 Great Wyrm | 23-24 | Black | 96% | 16 | 14 |
+
+[[Monstrous Manual Index#6d2de9d5|Index]]

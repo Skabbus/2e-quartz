@@ -1,6 +1,32 @@
 ---
 heading: "Galeb Duhr (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03893.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 8
+monster_hd_max: 10
+type:
+  - monster
 ---
 
 Galeb Duhr

@@ -2,6 +2,33 @@
 heading: Zombie, Sea (Monstrous Manual)
 source: "[[Zombie]]"
 url: https://regalgoblins.com/2erules/MM/DD04099.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - freshwater
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 24
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Zombie, Sea

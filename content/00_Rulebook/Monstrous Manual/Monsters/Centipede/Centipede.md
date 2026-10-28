@@ -1,6 +1,8 @@
 ---
 heading: "Centipede(Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03823.htm
+type:
+  - monster_group
 ---
 
 Centipede

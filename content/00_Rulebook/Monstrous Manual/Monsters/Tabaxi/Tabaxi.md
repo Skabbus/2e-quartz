@@ -1,6 +1,8 @@
 ---
 heading: "Tabaxi (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04067.htm
+type:
+  - monster_group
 ---
 
 Tabaxi

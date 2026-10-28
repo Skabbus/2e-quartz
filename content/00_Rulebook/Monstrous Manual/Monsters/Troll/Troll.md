@@ -1,6 +1,8 @@
 ---
 heading: "Troll (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04079.htm
+type:
+  - monster_group
 ---
 
 Troll

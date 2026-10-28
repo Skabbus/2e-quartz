@@ -1,6 +1,29 @@
 ---
 heading: "Ixitxachitl (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03962.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - freshwater
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 5
+monster_appearing_max: 12
+monster_hd_min: 1
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Ixitxachitl

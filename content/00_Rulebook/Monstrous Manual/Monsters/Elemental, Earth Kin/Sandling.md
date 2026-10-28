@@ -2,6 +2,35 @@
 heading: Elemental, Earth Kin, Sandling (Monstrous Manual)
 source: "[[Elemental, Earth Kin]]"
 url: https://regalgoblins.com/2erules/MM/DD03879.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - desert
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 4
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Elemental, Earth Kin, Sandling

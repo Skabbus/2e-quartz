@@ -30,3 +30,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | War |
+
+```json
+{
+  "name": "Illusory Artillery",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small, empty cylinder made of brass",
+  "range": "300 yards",
+  "aoe": "30 yard x 30 yard square",
+  "castingTime": "1 turn",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell creates a vivid illusion of incoming artillery fire (ballista bolts, catapult stones, etc.) at a target indicated by the caster. The illusion is complete, comprising both audial and visual elements. It is impossible for victims to determine where the missiles were fired from; creatures under attack notice the missiles only when they are about to strike.\n\nThe missiles never actually strike--they vanish inches above the victims' heads and do no damage. The illusion is so terrifying, however, that victims must immediately make a morale check. The first time a group or unit is the target of this spell, this morale check is made with no modifier. The second and subsequent times that the same unit is attacked with this spell, the unit receives a +1 bonus to its morale score (for checks against this effect only) *unless* the unit has been the target of *real* artillery fire in the interim. In this case, the bonus does not apply.\n\nThe material component is a small, empty cylinder made of brass."
+}
+```

@@ -1,0 +1,70 @@
+---
+heading: Baatezu, Pit Fiend (Monstrous Manual)
+source: "[[Baatezu]]"
+url: https://regalgoblins.com/2erules/MM/DD03801.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - nine_hells
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 13
+monster_hd_max: 13
+type:
+  - monster
+---
+
+Baatezu, Pit Fiend
+
+![[BAATEZU1.gif]]
+
+|                       |                                           |
+| --------------------- | ----------------------------------------- |
+| **CLIMATE/TERRAIN:**  | The Nine Hells                            |
+| **FREQUENCY:**        | Very rare                                 |
+| **ORGANIZATION:**     | Solitary                                  |
+| **ACTIVITY CYCLE:**   | Any                                       |
+| **DIET:**             | Carnivore                                 |
+| **INTELLIGENCE:**     | Genius (17-18)                            |
+| **TREASURE:**         | G, W                                      |
+| **ALIGNMENT:**        | Lawful evil                               |
+| **NO. APPEARING:**    | 1-4                                       |
+| **ARMOR CLASS:**      | -5                                        |
+| **MOVEMENT:**         | 15, Fl 24 (C)                             |
+| **HIT DICE:**         | 13                                        |
+| **THAC0:**            | 7                                         |
+| **NO. OF ATTACKS:**   | 6                                         |
+| **DAMAGE/ATTACK:**    | 1-4x2/1-6x2/2-12/2-8 or weapon            |
+| **SPECIAL ATTACKS:**  | Fear, poison, tail constriction           |
+| **SPECIAL DEFENSES:** | Regeneration, +3 or better weapons to hit |
+| **MAGIC RESISTANCE:** | 50%                                       |
+| **SIZE:**             | L (12' tall)                              |
+| **MORALE:**           | Fearless (19-20)                          |
+| **XP VALUE:**         | 57,500                                    |

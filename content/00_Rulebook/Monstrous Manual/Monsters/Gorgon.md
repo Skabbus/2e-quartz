@@ -1,6 +1,32 @@
 ---
 heading: "Gorgon (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03934.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Gorgon

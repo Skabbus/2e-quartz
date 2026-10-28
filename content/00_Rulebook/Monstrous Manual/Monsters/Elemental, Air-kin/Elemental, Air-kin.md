@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Air-kin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03878.htm
+type:
+  - monster_group
 ---
 
 Elemental, Air Kin![[ELEASSYL.gif]]

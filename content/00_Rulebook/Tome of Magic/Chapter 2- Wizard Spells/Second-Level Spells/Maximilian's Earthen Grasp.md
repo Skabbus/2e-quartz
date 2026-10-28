@@ -33,3 +33,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Maximilian's Earthen Grasp",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A miniature hand sculpted from clay, which crumbles to dust when the spell is cast",
+  "range": "10 yards+10 yards/level",
+  "aoe": "One creature",
+  "castingTime": "2",
+  "duration": "3 rounds+1 round/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell causes an arm made of compacted soil to rise from the ground. The spell must be cast on open turf, such as a grassy field or a dirt floor.\n\nThe earthen arm and hand (which are about the same size as a normal human limb) arise from the ground beneath one creature targeted by the caster. The hand attempts to grasp the creature's leg. The victim must attempt a saving throw; if successful, the hand sinks into the ground. Each round thereafter (until the spell ends or the target moves out of spell range), the hand has a 5% chance per level of the caster of reappearing beneath the targeted creature, at which time another saving throw is required.\n\nIf a saving throw is missed, the earthen limb firmly grasps and holds the creature in place. An individual held by the hand suffers a movement rate of 0, Armor Class penalty of -2, and attack penalty of -2. All Dexterity combat bonuses are negated. The hand causes no physical damage to the victim.\n\nThe arm may be attacked by any creature, including the arm's victim. The arm has AC 5 and hit points equal to double the caster's maximum hit points. For example, a caster who normally has 15 hit points can create an earthen hand with 30 hit points. The maximum number of hit points that an earthen hand may have is 40. When the arm's hit points are reduced to zero or when the spell duration ends, the hand crumbles.\n\nThe material component is a miniature hand sculpted from clay, which crumbles to dust when the spell is cast."
+}
+```

@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Fist of Stone",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster's hand",
+  "castingTime": "1",
+  "duration": "1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "Upon completion of this spell, one of the caster's hands (his choice) turns to stone. It is flexible and can be used to punch, smash, or crush objects and opponents as if the wizard had Strength of 18/00. Combat bonuses for Strength do not apply if the caster uses any weapon other than his fist.\n\nWhile the spell is in effect, the wizard cannot cast spells requiring somatic components."
+}
+```

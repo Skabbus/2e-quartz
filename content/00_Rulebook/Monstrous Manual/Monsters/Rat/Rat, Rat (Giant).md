@@ -2,6 +2,38 @@
 heading: Rat, Rat *(Giant)* (Monstrous Manual)
 source: "[[Rat]]"
 url: https://regalgoblins.com/2erules/MM/DD04037.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 1
+monster_appearing_max: 100
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Rat, Rat *(Giant)*

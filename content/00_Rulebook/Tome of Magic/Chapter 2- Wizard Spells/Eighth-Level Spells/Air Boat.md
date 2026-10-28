@@ -30,3 +30,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Enchantment | — |
+
+```json
+{
+  "name": "Air Boat",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "1 mile",
+  "aoe": "Special",
+  "castingTime": "1 round",
+  "duration": "1 hour/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell must be cast under a cloudy sky. The caster points at a cloud, which immediately descends toward him. As it comes closer, the cloud changes shape, becoming any sort of vessel imagined by the wizard (a dragon-shaped galley, a one-man dinghy, etc.).\n\nAlthough the airboat is made of cloud, it feels solid and can support the weight of the caster plus one passenger per level of the wizard. It can fly at any speed up to 5 miles per hour per level of the caster (to a maximum of 90 miles per hour).\n\nThe caster maintains total telepathic control over the airboat's speed and direction. While controlling the vessel, the wizard is able to perform other actions but may not cast other spells."
+}
+```

@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Vocalize",
+  "school": "Alteration",
+  "verbal": 0,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "Touch",
+  "aoe": "One spell-casting creature",
+  "castingTime": "1 round",
+  "duration": "5 rounds",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell allows the recipient to cast spells that normally require a verbal component without the caster needing to make a sound. Such spells must be cast within the duration of the *vocalize* spell. This spell is also useful in situations where quiet is desired, or when the recipient is under the influence of a silence spell.\n\n*Vocalize* does not negate a silence spell, but merely offsets it for the purpose of spell casting; if a spell caster under the effect of *vocalize* casts a spell that has some audible effect, that sound will be masked for as long as *silence* remains in force. *Vocalize* does not affect normal vocal communication.\n\nThe material component for this spell is a small golden bell without a clapper"
+}
+```

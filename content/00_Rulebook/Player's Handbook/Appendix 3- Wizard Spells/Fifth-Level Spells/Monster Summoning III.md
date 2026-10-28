@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Monster Summoning III",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny bag and a small candle",
+  "range": "Special",
+  "aoe": "50-yd. radius",
+  "castingTime": "5",
+  "duration": "4 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is much like the 3rd-level spell *monster summoning I*, except that this spell summons 1d4 3rd-level monsters. These appear within the spell's area of effect and attack the caster's opponents, until either he commands them to cease, the spell duration expires, or the monsters are slain. These creatures do not check morale and vanish when slain. If no opponent exists to fight, and the wizard can communicate with them, the summoned monsters can perform other services for the wizard.\n\nThe material components of this spell are a tiny bag and a small candle."
+}
+```

@@ -1,6 +1,8 @@
 ---
 heading: "Rat (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04037.htm
+type:
+  - monster_group
 ---
 
 Rat

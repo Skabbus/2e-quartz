@@ -1,6 +1,8 @@
 ---
 heading: "Sprite (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04061.htm
+type:
+  - monster_group
 ---
 
 Sprite

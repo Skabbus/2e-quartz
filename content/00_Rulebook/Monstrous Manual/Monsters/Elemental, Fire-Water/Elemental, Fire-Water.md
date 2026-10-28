@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Fire/Water (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03877.htm
+type:
+  - monster_group
 ---
 
 Elemental, Fire/Water![[FIREWATR.gif]]

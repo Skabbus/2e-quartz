@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment | — |
+
+```json
+{
+  "name": "Enchanted Weapon",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Powdered lime and carbon",
+  "range": "Touch",
+  "aoe": "Weapon(s) touched",
+  "castingTime": "1 turn",
+  "duration": "5 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell turns an ordinary weapon into a magical one. The weapon is the equivalent of a +1 weapon, with +1 to attack and damage rolls. Thus, arrows, axes, bolts, bows, daggers, hammers, maces, spears, swords, etc., can be made into temporarily enchanted weapons. Two small weapons (arrows, bolts, daggers, etc.) or one large weapon (axe, bow, hammer, mace, etc.) weapon can be affected by the spell. The spell functions on existing magical weapons as long as the total combined bonus is +3 or less.\n\nMissile weapons enchanted in this way lose their enchantment when they successfully hit a target, but otherwise the spell lasts its full duration. This spell is often used in combination with the *enchant an item* and *permanency* spells to create magical weapons, with this spell being cast once per desired plus of the bonus.\n\nThe material components of this spell are powdered lime and carbon."
+}
+```

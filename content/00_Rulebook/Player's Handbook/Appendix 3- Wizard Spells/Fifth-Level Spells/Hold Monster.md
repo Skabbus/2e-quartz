@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Hold Monster",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "One hard metal bar or rod for each monster to be held",
+  "range": "5 yds./level",
+  "aoe": "1-4 creatures in (a 40-ft. cube)",
+  "castingTime": "5",
+  "duration": "1 rd./level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell immobilizes from one to four creatures of any type within spell range and in sight of the spellcaster. He can opt to hold one, two, three, or four creatures. If three or four are attacked, each saving throw is normal; if two are attacked, each saving throw suffers a -1 penalty; if only one is attacked, the saving throw suffers a -3 penalty.\n\nThe material component for this spell is one hard metal bar or rod for each monster to be held. The bar or rod can be as small as a three-penny nail."
+}
+```

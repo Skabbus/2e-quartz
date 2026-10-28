@@ -1,6 +1,41 @@
 ---
 heading: "Gith-- Pirate (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03919.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - wildspace
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 20
+monster_appearing_max: 40
+monster_hd_min: 7
+monster_hd_max: 11
+type:
+  - monster
 ---
 
 Gith, Pirate

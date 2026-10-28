@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Throbbing Bones",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "See text",
+  "range": "10 yards",
+  "aoe": "One creature",
+  "castingTime": "3",
+  "duration": "1 round/level",
+  "save": "1/2",
+  "damage": "—",
+  "description": "This spell causes the bones of the affected creature to throb and pulsate inside his body. The spell can be cast upon any single living creature or person within the caster's range, providing the creature has a physical form and has bones inside its body; for instance, *throbbing bones* will not affect insects, ghosts, or worms.\n\nFor the duration of the spell, the affected creature's AC is worsened by 2, its movement rate is halved, and all its attacks are made with a -2 penalty. Additionally, it suffers 1-4 hit points of damage per round; this damage is halved if the creature makes a successful saving throw. However, a successful saving throw has no affect on the movement, attack, and AC penalties.\n\nThe material components for this spell are both pieces of a small bone that has been snapped in half"
+}
+```

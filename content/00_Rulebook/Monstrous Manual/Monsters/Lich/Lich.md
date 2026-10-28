@@ -1,6 +1,8 @@
 ---
 heading: "Lich (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03974.htm
+type:
+  - monster_group
 ---
 
 Lich
@@ -64,7 +66,8 @@ The lich can exist for centuries without change. Its will drives it onward to ma
 
 In order to become a lich, the wizard must prepare its phylactery by the use of the *enchant an item, magic jar, permanency* and *reincarnation* spells. The phylactery, which can be almost any manner of object, must be of the finest craftsmanship and materials with a value of not less than 1,500 gold pieces per level of the wizard. Once this object is created, the would-be lich must craft a potion of extreme toxicity, which is then enchanted with the following spells: *wraithform, permanency, cone of cold, feign death,* and *animate dead*. When next the moon is full, the potion is imbibed. Rather than death, the potion causes the wizard to undergo a transformation into its new state. A system shock survival throw is required, with failure indicating an error in the creation of the potion which kills the wizard and renders him forever dead.
 
-**Demilich**The demilich is not, as the name implies, a weaker form of the lich. Rather, it is the stage into which a lich will eventually evolve as the power which has sustained its physical form gradually begins to fail. In most cases, all that remains of a demilich's body are a skull, some bones, and a pile of dust.
+**Demilich**
+The demilich is not, as the name implies, a weaker form of the lich. Rather, it is the stage into which a lich will eventually evolve as the power which has sustained its physical form gradually begins to fail. In most cases, all that remains of a demilich's body are a skull, some bones, and a pile of dust.
 
 When it has learned all that it feels it can in its undead life, the lich will continue its quest for power in strange planes unknown to even the wisest of sages. Since it has no use for its physical body at this point, the lich leaves it to decay as it should have done centuries ago.
 

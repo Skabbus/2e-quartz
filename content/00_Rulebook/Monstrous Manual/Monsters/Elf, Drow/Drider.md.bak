@@ -1,0 +1,59 @@
+---
+heading: Elf, Drow, Drider (Monstrous Manual)
+source: "[[Elf, Drow]]"
+url: https://regalgoblins.com/2erules/MM/DD03886.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - urban
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_hd_min: 6
+monster_hd_max: 6
+monster_needs_review: false
+type:
+  - monster
+monster_appearing_min: 1
+monster_appearing_max: 4
+---
+
+Elf, Drow, Drider
+
+![[ELFDROW.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Subterranean caves & cities |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Bands |
+| **ACTIVITY CYCLE:** | Any underground, night aboveground |
+| **DIET:** | See below |
+| **INTELLIGENCE:** | High (14-20) |
+| **TREASURE:** | Nx2, Q |
+| **ALIGNMENT:** | Chaotic evil |
+| **NO.APPEARING:** | 1 or 1-4 |
+| **ARMOR CLASS:** | 3 |
+| **MOVEMENT:** | 12 |
+| **HIT DICE:** | 6+6 |
+| **THAC0:** | 13 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 1-4 or by weapon |
+| **SPECIAL ATTACKS:** | See below |
+| **SPECIAL DEFENSES:** | Nil |
+| **MAGIC RESISTANCE:** | 15% |
+| **SIZE:** | L (9' tall) |
+| **MORALE:** | Elite (14) |
+| **XP VALUE:** | Transformed mages: 3,000 |

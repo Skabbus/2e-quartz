@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Minor Malison",
+  "school": "Enchantment",
+  "verbal": 0,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "60 feet",
+  "aoe": "30-foot-radius sphere",
+  "castingTime": "2",
+  "duration": "2 rounds/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell allows a wizard to adversely affect all the saving throws of his enemies. Opponents under the influence of this spell make all saving throws at a penalty of -1.\n\nAlternatively, the wizard may select any one school of magic and cause his enemies to make all saving throws against magic from that school at -2. This penalty is not cumulative with a saving throw penalty derived from the wizard being a specialist; the penalty is not increased to -3."
+}
+```

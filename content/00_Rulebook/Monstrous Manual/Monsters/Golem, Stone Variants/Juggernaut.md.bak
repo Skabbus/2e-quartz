@@ -1,0 +1,68 @@
+---
+heading: Golem, Stone Variants, Juggernaut (Monstrous Manual)
+source: "[[Golem, Stone Variants]]"
+url: https://regalgoblins.com/2erules/MM/DD03933.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 10
+monster_hd_max: 13
+type:
+  - monster
+---
+
+Golem, Stone Variants, Juggernaut
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1 |
+| **ARMOR CLASS:** | 2 |
+| **MOVEMENT:** | 3-12 |
+| **HIT DICE:** | 10-13 |
+| **THAC0:** | 10 HD: 11<br>11-12 HD: 9<br>13 HD: 7 |
+| **NO. OF ATTACKS:** | Up to 6 |
+| **DAMAGE/ATTACK:** | 2-12 |
+| **SPECIAL ATTACKS:** | Crushing |
+| **SPECIAL DEFENSES:** | Immune to fire |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | L to H (8' to 20') |
+| **MORALE:** | Elite to champion  (13-16) |
+| **XP VALUE:** | 10 HD: 3,000 +1,000 per  additional Hit Die |

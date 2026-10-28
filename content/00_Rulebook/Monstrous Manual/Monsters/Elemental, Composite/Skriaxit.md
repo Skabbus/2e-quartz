@@ -2,6 +2,31 @@
 heading: Elemental, Composite, Skriaxit (Monstrous Manual)
 source: "[[Elemental, Composite]]"
 url: https://regalgoblins.com/2erules/MM/DD03882.htm
+monster_climate:
+  - subtropical
+  - arid
+monster_terrain:
+  - desert
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 3
+monster_appearing_max: 18
+monster_hd_min: 16
+monster_hd_max: 24
+type:
+  - monster
 ---
 
 Elemental, Composite, Skriaxit

@@ -36,3 +36,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration | Elemental |
+
+```json
+{
+  "name": "Fire Seeds",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Acorns or holly berries",
+  "range": "Touch",
+  "aoe": "Special",
+  "castingTime": "1 rd./seed",
+  "duration": "Special",
+  "save": "1/2",
+  "damage": "2d8x4, 1d8x8",
+  "description": "The *fire seeds* spell creates special missiles or timed incendiaries that burn with great heat. The spell can be cast to create either fire seed missiles or fire seed incendiaries, as chosen when the spell is cast.\n\nFire seed missiles: This casting turns up to four acorns into special grenadelike missiles that can be hurled up to 40 yards. An attack roll is required to strike the intended target, and proficiency penalties are considered. Each acorn bursts upon striking any hard surface, causing 2d8 points of damage and igniting any combustible materials within a 10-foot diameter of the point of impact. If a successful saving throw vs. spell is made, a creature within the burst area receives only one-half damage, but a creature struck directly suffers full damage (i.e., no saving throw).\n\nFire seed incendiaries: This casting turns up to eight holly berries into special incendiaries. The holly berries are most often placed, being too light to make effective missiles. They can be tossed only up to 6 feet away. They burst into flame if the caster is within 40 yards and speaks a word of command. The berries instantly ignite, causing 1d8 points of damage to any creature and igniting any combustible within a 5-foot-diameter burst area. Creatures within the area that successfully save vs. spell suffer half damage.\n\nAll fire seeds lose their power after a duration equal to one turn per experience level of the caster--e.g., the seeds of a 13th-level caster remain potent for a maximum of 13 turns after their creation.\n\nNo other material components beyond acorns or holly berries are needed for this spell."
+}
+```

@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Necromantic |
+
+```json
+{
+  "name": "Dispel Fatigue",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A sprinkle of fresh, *blessed* springwater",
+  "range": "30 yds.",
+  "aoe": "1 creature",
+  "castingTime": "4",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell removes physical fatigue or exhaustion from the subject by undoing the physiological effects of his exertions.\n\nThe subject is instantly restored to his normal, fully rested level of endurance or vigor. This spell can be used to negate the penalties of forced marching, long swims, jogging, running, or sprinting, or even accumulated fatigue points from either the Player’s Option: [Combat & Tactics](..\\CT\\DD02440.htm) rules or the magic fatigue rules in [[00_Rulebook/Player's Option- Spells and Magic/Chapter 6- Magic/Magic|Chapter 6]] . Once this spell has been cast, the subject may start to accumulate fatigue or fatigue-based penalties again, depending on how he continues to exert himself. The material component is a sprinkle of fresh,* *blessed* springwater.*"
+}
+```

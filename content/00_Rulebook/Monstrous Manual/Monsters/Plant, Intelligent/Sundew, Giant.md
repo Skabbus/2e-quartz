@@ -2,6 +2,29 @@
 heading: Plant, Intelligent, Sundew, Giant (Monstrous Manual)
 source: "[[Plant, Intelligent]]"
 url: https://regalgoblins.com/2erules/MM/DD04032.htm
+monster_climate:
+  - temperate
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Plant, Intelligent, Sundew, Giant

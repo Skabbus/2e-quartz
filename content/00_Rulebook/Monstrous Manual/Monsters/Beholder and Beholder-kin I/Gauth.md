@@ -2,6 +2,36 @@
 heading: Beholder and Beholder-kin, Gauth (Monstrous Manual)
 source: "[[Beholder and Beholder-kin I]]"
 url: https://regalgoblins.com/2erules/MM/DD03808.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 6
+monster_hd_max: 9
+type:
+  - monster
 ---
 
 Beholder and Beholder-kin, Gauth

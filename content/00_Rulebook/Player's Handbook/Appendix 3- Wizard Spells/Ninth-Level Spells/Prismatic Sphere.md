@@ -43,3 +43,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration, Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Prismatic Sphere",
+  "school": "",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "10-ft. radius",
+  "castingTime": "7",
+  "duration": "1 turn/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell enables the wizard to conjure up an immobile, opaque globe of shimmering, multicolored light to surround him, giving protection from all forms of attack. The sphere flashes in all colors of the visible spectrum, seven of which have distinct powers and purposes. Any creature with fewer than 8 Hit Dice is blinded for 2d4 turns by the colors of the sphere. Only the spellcaster can pass in and out of the prismatic sphere without harm, though he can cast it over others to protect them. The sphere can be destroyed, color by color, in consecutive order, by various magical effects; however, the first must be brought down before the second can be affected, and so on. Any creature passing through the barrier receives the effect of every color still remaining. The following table shows the colors and effects of the prismatic sphere, as well as what will negate each globe.\n\nNote that typically the upper hemisphere of the globe is visible, as the spellcaster is at the center of the sphere, so the lower half is usually hidden by the floor surface he is standing on.\n\nFurthermore, a *rod of cancellation* or a *Mordenkainen's disjunction* spell will destroy a prismatic sphere (but an antimagic shell will fail to penetrate it). Otherwise, anything short of an artifact or relic entering the sphere is destroyed, and any creature is subject to the effects of every color still active--i.e., 70-140 points of damage plus death, petrification, insanity, and instantaneous transportation to another plane.\n\n**Prismatic Sphere Effects**\n\n| Color | Order | Effect of Color | Spell Negated By |\n| --- | --- | --- | --- |\n| Red | 1st | Stops nonmagical missiles--inflicts 20 points of damage, save for half | *cone of cold*  |\n| Orange | 2nd | Stops magical missiles--inflicts 40 points of  damage, save for half | *gust of wind* |\n| Yellow | 3rd | Stops poisons, gases, and petrification--inflicts 80 points of damage, save for half | *disintegrate* |\n| Green | 4th | Stops breath weapons--save vs. poison or die; survivors suffer 20 points of damage | *passwall* |\n| Blue | 5th | Stops location/detection and mental attacks—save vs. petrification or turn to stone | *magic missile*  |\n| Indigo | 6th | Stops magical spells--save vs. wand or go insane | *continual light* |\n| Violet | 7th | Force field protection--save vs. spell or be sent to another plane | *dispel magic* |"
+}
+```

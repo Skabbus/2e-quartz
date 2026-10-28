@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Mass Charm",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "5 yds./level",
+  "aoe": "30-ft. cube",
+  "castingTime": "8",
+  "duration": "Special",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "A *mass charm* spell affects either persons or monsters just as a *charm person* or *charm monster* spell. The *mass charm* spell, however, affects a number of creatures whose combined levels of experience or Hit Dice does not exceed twice the level of experience of the spellcaster. All affected creatures must be within the spell range and within a 30-foot cube. Note that the creatures' saving throws are unaffected by the number of recipients (see the *[[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Charm Person|charm person]]* and *[[Charm Monster#d9b375ce|charm monster]]* spells), but all target creatures are subject to a penalty of -2 on their saving throws because of the efficiency and power of this spell. The Wisdom bonus against charm spells does apply."
+}
+```

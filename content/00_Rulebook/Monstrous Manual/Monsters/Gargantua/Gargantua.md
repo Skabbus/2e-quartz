@@ -1,6 +1,8 @@
 ---
 heading: "Gargantua (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03894.htm
+type:
+  - monster_group
 ---
 
 Gargantua

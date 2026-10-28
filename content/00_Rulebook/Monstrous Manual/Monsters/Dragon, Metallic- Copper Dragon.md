@@ -1,6 +1,32 @@
 ---
 heading: "Dragon-- Metallic:Copper Dragon (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03855.htm
+monster_climate:
+  - temperate
+  - arid
+monster_terrain:
+  - hills
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 5
+monster_hd_min: 13
+monster_hd_max: 13
+type:
+  - monster
 ---
 
 |  |  |

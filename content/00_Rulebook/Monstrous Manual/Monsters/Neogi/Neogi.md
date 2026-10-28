@@ -1,6 +1,8 @@
 ---
 heading: "Neogi (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04014.htm
+type:
+  - monster_group
 ---
 
 Neogi

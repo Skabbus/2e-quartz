@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | Weather |
+
+```json
+{
+  "name": "Weather Summoning",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "By this spell, the caster calls forth weather appropriate to the climate and season of the area he is in. Thus, in spring a tornado, thunderstorm, sleet storm, or hot weather could be summoned. In summer a torrential rain, heat wave, hail storm, etc., can be called for. In autumn, hot or cold weather, fog, sleet, etc., could be summoned. Winter enables great cold, blizzard, or thaw conditions to be summoned. Hurricane-force winds can be summoned near coastal regions in the later winter or early spring. The summoned weather is not under the control of the caster. It might last but a single turn, in the case of a tornado, or for hours or even days in other cases. The area of effect likewise varies from about 1 square mile to 100 square miles. Note that several casters can act in concert to greatly affect weather, controlling winds, and working jointly to summon very extreme weather conditions.\n\nWithin four turns after the spell is cast, the trend of the weather to come is apparent--e.g., clearing skies, gusts of warm or hot air, a chill breeze, overcast skies, etc. Summoned weather arrives 1d12+5 turns after the spell is cast. Note that the new weather condition cannot be changed by the caster once it has been summoned. Once the weather is fully summoned, it cannot be dispelled. If the summoning is successfully dispelled before it has been completed, the weather slowly reverts to its original condition."
+}
+```

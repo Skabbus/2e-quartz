@@ -1,6 +1,8 @@
 ---
 heading: "Leech (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03971.htm
+type:
+  - monster_group
 ---
 
 Leech

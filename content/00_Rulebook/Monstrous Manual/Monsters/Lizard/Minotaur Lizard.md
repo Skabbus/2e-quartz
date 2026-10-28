@@ -2,6 +2,29 @@
 heading: Lizard, Minotaur (Monstrous Manual)
 source: "[[Lizard]]"
 url: https://regalgoblins.com/2erules/MM/DD03976.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - hills
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Lizard, Minotaur

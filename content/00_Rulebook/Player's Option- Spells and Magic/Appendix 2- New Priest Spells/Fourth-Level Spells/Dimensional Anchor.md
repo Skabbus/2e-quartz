@@ -31,3 +31,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Guardian |
+
+```json
+{
+  "name": "Dimensional Anchor",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10 yds./level",
+  "aoe": "1 creature",
+  "castingTime": "1",
+  "duration": "1 turn + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When a priest casts this spell, a green ray springs from his outstretched hand and unerringly strikes a creature within line of sight and the range of the spell, covering the subject with a shimmering emerald field that completely blocks bodily extradimensional travel. Forms of movement barred by the *dimensional anchor* include *blinking, dimension door, etherealness, gate, phasing, plane shift, maze, shadow walk, teleportation,* and similar spell-like or psionic abilities. The field persists for one turn plus one round per caster level and has no effect other than blocking extradimensional travel. The *dimensional anchor* does not interfere with the movement of creatures in astral form, nor does it block extradimensional perception or attack forms such as a basilisk’s gaze."
+}
+```

@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Sun |
+
+```json
+{
+  "name": "Blessed Warmth",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "Special",
+  "castingTime": "4",
+  "duration": "1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, a narrow shaft of light shines down upon the priest, making him immune to the effects of natural cold (such as a blizzard) and granting him a +3 bonus to saving throws vs. magical cold (such as a white dragon's breath weapon).\n\nFor each level of the priest above 7th, an additional beam of light may be created to protect another creature, who must be standing within 3' of the priest. Thus, a 10th-level priest could protect four other creatures in a 3' radius."
+}
+```

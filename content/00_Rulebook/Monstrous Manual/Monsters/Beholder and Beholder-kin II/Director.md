@@ -2,6 +2,36 @@
 heading: Beholder and Beholder-kin, Director (Monstrous Manual)
 source: "[[Beholder and Beholder-kin II]]"
 url: https://regalgoblins.com/2erules/MM/DD03809.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 2
+monster_appearing_max: 5
+monster_hd_min: 12
+monster_hd_max: 12
+type:
+  - monster
 ---
 
 Beholder and Beholder-kin, Director

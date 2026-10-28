@@ -1,35 +1,60 @@
 ---
 heading: "Leucrotta (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03973.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - hills
+  - desert
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 6
+monster_hd_max: 6
+type:
+  - monster
 ---
 
 Leucrotta
 
 ![[LEUCROTT.gif]]
 
-|  |  |
-| --- | --- |
-| **CLIMATE/TERRAIN:** | Temperate/Wasteland, broken terrain |
-| **FREQUENCY:** | Rare |
-| **ORGANIZATION:** | Pack |
-| **ACTIVITY CYCLE:** | Any |
-| **DIET:** | Carnivore |
-| **INTELLIGENCE:** | Average (8-10) |
-| **TREASURE:** | D |
-| **ALIGNMENT:** | Chaotic evil |
-| **NO. APPEARING:** | 1-4 |
-| **ARMOR CLASS:** | 4 |
-| **MOVEMENT:** | 18 |
-| **HIT DICE:** | 6+1 |
-| **THAC0:** | 15 |
-| **NO. OF ATTACKS:** | 1 |
-| **DAMAGE/ATTACK:** | 3-18 |
-| **SPECIAL ATTACKS:** | See below |
-| **SPECIAL DEFENSES:** | Kick in retreat |
-| **MAGIC RESISTANCE:** | Nil |
-| **SIZE:** | L (7' at shoulder, 9' long) |
-| **MORALE:** | Elite (14) |
-| **XP VALUE:** | 975 |
+|                       |                                     |
+| --------------------- | ----------------------------------- |
+| **CLIMATE/TERRAIN:**  | Temperate/Wasteland, broken terrain |
+| **FREQUENCY:**        | Rare                                |
+| **ORGANIZATION:**     | Pack                                |
+| **ACTIVITY CYCLE:**   | Any                                 |
+| **DIET:**             | Carnivore                           |
+| **INTELLIGENCE:**     | Average (8-10)                      |
+| **TREASURE:**         | D                                   |
+| **ALIGNMENT:**        | Chaotic evil                        |
+| **NO. APPEARING:**    | 1-4                                 |
+| **ARMOR CLASS:**      | 4                                   |
+| **MOVEMENT:**         | 18                                  |
+| **HIT DICE:**         | 6+1                                 |
+| **THAC0:**            | 15                                  |
+| **NO. OF ATTACKS:**   | 1                                   |
+| **DAMAGE/ATTACK:**    | 3-18                                |
+| **SPECIAL ATTACKS:**  | See below                           |
+| **SPECIAL DEFENSES:** | Kick in retreat                     |
+| **MAGIC RESISTANCE:** | Nil                                 |
+| **SIZE:**             | L (7' at shoulder, 9' long)         |
+| **MORALE:**           | Elite (14)                          |
+| **XP VALUE:**         | 975                                 |
 
 The leucrotta is a creature of ugly appearance and temperament that haunts deserted places in search of prey.
 

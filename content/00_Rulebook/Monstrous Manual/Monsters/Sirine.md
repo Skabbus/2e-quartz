@@ -1,6 +1,30 @@
 ---
-heading: "Sirine (Monstrous Manual)"
+heading: Sirine (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD04050.htm
+monster_climate:
+  - temperate
+  - tropical
+monster_terrain:
+  - freshwater
+  - ocean
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_hd_min: 4
+monster_hd_max: 7
+type:
+  - monster
 ---
 
 Sirine

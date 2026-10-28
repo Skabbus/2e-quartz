@@ -1,6 +1,33 @@
 ---
 heading: "Gremlin, Jermlaine (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03937.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 12
+monster_appearing_max: 48
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Gremlin, Jermlaine

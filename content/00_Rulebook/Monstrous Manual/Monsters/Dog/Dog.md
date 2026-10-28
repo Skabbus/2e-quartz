@@ -1,6 +1,8 @@
 ---
-heading: "Dog (Monstrous Manual)"
+heading: Dog (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03837.htm
+type:
+  - monster_group
 ---
 
 Dog

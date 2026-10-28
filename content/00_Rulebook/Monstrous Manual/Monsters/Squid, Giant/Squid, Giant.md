@@ -1,6 +1,8 @@
 ---
 heading: "Squid-- Giant (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04063.htm
+type:
+  - monster_group
 ---
 
 **Squid, Giant**

@@ -2,6 +2,38 @@
 heading: Beholder and Beholder-kin, Hive Mother (Monstrous Manual)
 source: "[[Beholder and Beholder-kin II]]"
 url: https://regalgoblins.com/2erules/MM/DD03809.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 20
+monster_hd_max: 20
+type:
+  - monster
 ---
 
 Beholder and Beholder-kin, Hive Mother

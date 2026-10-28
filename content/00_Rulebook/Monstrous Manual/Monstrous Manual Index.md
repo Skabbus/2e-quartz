@@ -221,7 +221,7 @@ B
 
 [[Beholder and Beholder-kin I|Bleeder]]
 
-[[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021|Blink Dog]]
+[[Dog 1#b5ace021|Blink Dog]]
 
 [[Dragon, Chromatic- Blue Dragon#b265837e|Blue Dragon]]
 
@@ -414,14 +414,14 @@ D
 
 [[Genie|Djinn (Genie)]]
 
-[[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021|Dog]]
+[[Dog 1#b5ace021|Dog]]
 
 |  |  |
 | --- | --- |
-|  | [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021\|Blink]] |
-|  | [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021\|Death]] |
-|  | [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021\|War]] |
-|  | [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021\|Wild]] |
+|  | [[Dog 1#b5ace021\|Blink]] |
+|  | [[Dog 1#b5ace021\|Death]] |
+|  | [[Dog 1#b5ace021\|War]] |
+|  | [[Dog 1#b5ace021\|Wild]] |
 
 [[Dog, Moon#980c8e1b|Dog, Moon]]
 

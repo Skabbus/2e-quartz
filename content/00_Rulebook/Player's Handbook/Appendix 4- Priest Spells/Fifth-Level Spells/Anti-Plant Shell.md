@@ -29,3 +29,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Plant, Protection |
+
+```json
+{
+  "name": "Anti-Plant Shell",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "15-ft. diameter",
+  "castingTime": "8",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "The *anti-plant shell* spell creates an invisible, mobile barrier that keeps all creatures within the shell protected from attacking plants or vegetable creatures such as shambling mounds or treants. Any attempt to force the barrier against such creatures shatters the barrier immediately. The spell lasts for one turn for each experience level of the caster."
+}
+```

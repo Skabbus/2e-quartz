@@ -1,6 +1,32 @@
 ---
 heading: "Giant-- Desert (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03901.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - desert
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 2
+monster_appearing_max: 20
+monster_hd_min: 13
+monster_hd_max: 13
+type:
+  - monster
 ---
 
 Giant, Desert

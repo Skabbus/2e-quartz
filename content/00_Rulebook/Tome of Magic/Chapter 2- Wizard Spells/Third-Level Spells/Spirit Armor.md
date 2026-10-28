@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Spirit Armor",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "3",
+  "duration": "2 rounds/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell allows the wizard to surround himself with a portion of his own life essence, which takes the form of a shimmering aura. The *spirit armor* offers protection equivalent to splint mail (AC 4) and grants the wizard a +3 bonus to saving throws vs. magical attacks. The *spirit armor's* effects are not cumulative with other types of armor or magical protection, but Dexterity bonuses apply.\n\nThe *spirit armor* is effective against magical and nonmagical weapons and attacks. It does not hinder movement or add weight or encumbrance. It does not interfere with spellcasting.\n\nWhen the spell ends, the aura dissipates and the caster temporarily loses a bit of his life essence, suffering 2d3 points of damage unless he succeeds at a saving throw vs. spell. No damage is sustained if the save is successful. The hit points lost can be regained only through magical healing."
+}
+```

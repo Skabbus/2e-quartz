@@ -1,6 +1,28 @@
 ---
 heading: "Giant-- Jungle (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03909.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 11
+monster_hd_max: 11
+type:
+  - monster
 ---
 
 Giant, Jungle

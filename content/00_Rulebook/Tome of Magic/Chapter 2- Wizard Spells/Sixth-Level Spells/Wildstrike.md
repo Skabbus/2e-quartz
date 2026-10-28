@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Wildstrike",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small glass tube that is shattered in the casting",
+  "range": "30 yards",
+  "aoe": "One creature",
+  "castingTime": "6",
+  "duration": "2d4 rounds",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell is used primarily against hostile spellcasters. It distorts all attempts at spellcasting, converting spell energy into wild surges.\n\nThe victim of a *wildstrike* is allowed a saving throw; if successful, the spell has no effect. If the saving throw is failed, the target is enclosed within a field of wild magic. If the victim casts spells or uses a charge from a magical item, a wild surge is automatically created (refer to [[Table 2- Wild Surge Results|Table 2]]). When determining the effects of this surge, the true level of the wild mage who cast the *wildstrike* is subtracted from the die roll, making the effects of the wild surge more likely to affect the victim.\n\nThe material component is a small glass tube that is shattered in the casting."
+}
+```

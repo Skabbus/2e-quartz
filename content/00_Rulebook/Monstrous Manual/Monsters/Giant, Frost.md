@@ -1,6 +1,37 @@
 ---
-heading: "Giant-- Frost (Monstrous Manual)"
+heading: Giant-- Frost (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03907.htm
+monster_climate:
+  - arctic
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_needs_review: false
+type:
+  - monster
+monster_hd_min: 14
+monster_hd_max: 14
 ---
 
 Giant, Frost

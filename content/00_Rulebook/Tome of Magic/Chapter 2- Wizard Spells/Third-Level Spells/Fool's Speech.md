@@ -31,3 +31,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Fool's Speech",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small whistle made of bone",
+  "range": "Touch",
+  "aoe": "Caster+1 creature/level",
+  "castingTime": "1 turn",
+  "duration": "1 hour/level",
+  "save": "None",
+  "damage": "—",
+  "description": "With this spell, the wizard empowers himself and others of his choosing with the ability to speak a secret language incomprehensible to others. Creatures designated to speak the language must be touching each other when the spell is cast.\n\nOnce cast, the characters can choose to speak normally or in their secret tongue. They can speak and understand this mysterious language fluently.\n\n*Fool's speech* is not recognizable as any known language, nor does it remotely sound like any language. A *comprehend languages* or *tongues* spell will not translate it. It can be understood by a character wearing a *helm of comprehending languages and reading magic*, although the normal percentage chances apply.\n\nThe material component is a small whistle made of bone."
+}
+```

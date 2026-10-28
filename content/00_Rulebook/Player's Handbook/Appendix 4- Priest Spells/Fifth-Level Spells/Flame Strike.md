@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | Combat |
+
+```json
+{
+  "name": "Flame Strike",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of sulphur",
+  "range": "60 yds.",
+  "aoe": "5 ft. radius (x 30 ft. column)",
+  "castingTime": "8",
+  "duration": "Instantaneous",
+  "save": "½",
+  "damage": "6d8",
+  "description": "When the priest evokes a *flame strike* spell, a vertical column of fire roars downward in the location called for by the caster. Any creatures within the area of effect must roll a saving throw vs. spell. Failure means the creature sustains 6d8 points of damage; otherwise, the damage is halved.\n\nThe material component of this spell is a pinch of sulphur."
+}
+```

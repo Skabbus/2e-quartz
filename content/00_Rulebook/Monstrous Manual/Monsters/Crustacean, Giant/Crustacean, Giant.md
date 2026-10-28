@@ -1,6 +1,8 @@
 ---
 heading: "Crustacean-- Giant (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03831.htm
+type:
+  - monster_group
 ---
 
 Crustacean, Giant

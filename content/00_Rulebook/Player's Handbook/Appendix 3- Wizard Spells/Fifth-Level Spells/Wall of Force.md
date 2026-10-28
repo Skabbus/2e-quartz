@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Wall of Force",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of powdered diamond worth 5,000 gp",
+  "range": "30 yds.",
+  "aoe": "10-ft. square/level",
+  "castingTime": "5",
+  "duration": "1 turn + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "A *wall of force* spell creates an invisible barrier in the locale desired by the caster, up to the spell's range. The wall of force cannot move and is totally unaffected by most spells, including *dispel magic*. However, a *disintegrate* spell will immediately destroy it, as will a *rod of cancellation* or a *sphere of annihilation*. Likewise, the wall of force is not affected by blows, missiles, cold, heat, electricity, etc. Spells and breath weapons cannot pass through it in either direction, although *dimension door, teleport,* and similar effects can bypass the barrier.\n\nThe wizard can, if desired, form the wall into a spherical shape with a radius of up to 1 foot per level or an open hemispherical shape with a radius of 1.5 feet per caster level. The wall of force must be continuous and unbroken when formed; if its surface is broken by any object or creature, the spell fails. The caster can end the spell on command.\n\nThe material component for this spell is a pinch of powdered diamond worth 5,000 gp."
+}
+```

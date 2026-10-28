@@ -36,3 +36,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Feeblemind",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A handful of clay, crystal, glass, or mineral spheres, which disappears when the spell is cast",
+  "range": "10 yds./level",
+  "aoe": "1 creature",
+  "castingTime": "5",
+  "duration": "Permanent",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell is used solely against people or creatures who use magic spells. The *feeblemind* causes the subject's intellect to degenerate to that of a moronic child. The subject remains in this state until a *heal* or *wish* spell is used to cancel the effects. Magic-using beings are very vulnerable to this spell; thus, their saving throws are made with the following adjustments:\n\n| Spell Use of Target | Saving Throw Adjustment |\n| --- | --- |\n| Priest | +1 |\n| Wizard (human) | -4 |\n| Combination or nonhuman | -2 |\n\nWisdom adjustments apply to the saving throw.\n\nThe material component of this spell is a handful of clay, crystal, glass, or mineral spheres, which disappears when the spell is cast."
+}
+```

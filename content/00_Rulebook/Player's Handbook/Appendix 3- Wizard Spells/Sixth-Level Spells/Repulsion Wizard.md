@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | — |
+
+```json
+{
+  "name": "Repulsion",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pair of small magnetized iron bars attached to two small canine statuettes, one ivory and one ebony",
+  "range": "0",
+  "aoe": "10 ft./level x 10 ft.",
+  "castingTime": "6",
+  "duration": "1 round/2 levels",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, the wizard is able to cause all creatures in the path of the area of effect to move directly away from his person. Repulsion occurs at the speed of the creature attempting to move toward the spellcaster. The repelled creature continues to move away for a complete round even if this takes it beyond spell range. The caster can designate a new direction each round, but use of this power counts as the caster's principal action in the round. The caster can, of course, choose to do something else instead of using the repulsion attack.\n\nThe material component for this spell is a pair of small magnetized iron bars attached to two small canine statuettes, one ivory and one ebony."
+}
+```

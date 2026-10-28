@@ -32,3 +32,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Rary's Mnemonic Enhancer",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A piece of string, an ivory plaque of at least 100 gp value, and ink consisting of squid secretion with either black dragon's blood or giant slug digestive juice",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1 turn",
+  "duration": "1 day",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the wizard is able to memorize, or retain the memory of, three additional spell levels (three 1st-level spells, or one 1st and one 2nd, or one 3rd-level spell). The wizard has two options:\n\nA) Memorize additional spells. This option is taken at the time the spell is cast. The additional spells must be memorized normally and any material components must be acquired.\n\nB) Retain memory of any spell (within the level limits) cast the round prior to starting to cast this spell. The round after a spell is cast, the enhancer must be successfully cast. This restores the previously cast spell to memory. However, the caster still must acquire any needed material components.\n\nThe material components of the spell are a piece of string, an ivory plaque of at least 100 gp value, and ink consisting of squid secretion with either black dragon's blood or giant slug digestive juice. These disappear when the spell is cast."
+}
+```

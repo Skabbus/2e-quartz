@@ -34,3 +34,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Astral |
+
+```json
+{
+  "name": "Plane Shift",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small, forked metal rod",
+  "range": "Touch",
+  "aoe": "1 creature (special)",
+  "castingTime": "8",
+  "duration": "Permanent",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "When the plane shift spell is cast, the priest moves himself or some other creature to another plane of existence. The recipient of the spell remains in the new plane until sent forth by some like means. If several persons link hands in a circle, up to eight can be affected by the plane shift at the same time.\n\nThe material component of this spell is a small, forked metal rod. The size and metal type dictates to which plane of existence, including sub-planes and alternate dimensions, the spell sends the affected creatures. The DM will determine specifics regarding how and what planes are reached.\n\nAn unwilling victim must be touched (successful attack roll) to be sent. In addition, the creature is also allowed a saving throw. If the saving throw is successful, the effect of the spell is negated. Note that pinpoint accuracy is rarely achieved; arriving at a random distance from an intended destination is common.\n\nThe metal rod is not expended when the spell is cast. Forked rods keyed to certain planes may be difficult to come by, as decided by the DM."
+}
+```

@@ -29,3 +29,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Evocation | — |
+
+```json
+{
+  "name": "Otiliuke's Resilient Sphere",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A hemispherical piece of diamond (or similar hard, clear gem material) and a matching hemispherical piece of gum arabic",
+  "range": "20 yds.",
+  "aoe": "1-ft. diameter/level",
+  "castingTime": "4",
+  "duration": "1 rd./level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "When this spell is cast, the result is a globe of shimmering force that encloses the subject creature--if it is small enough to fit within the diameter of the sphere and it fails to successfully save vs. spell. The resilient sphere contains its subject for the spell's duration, and it is not subject to damage of any sort except from a *rod of cancellation*, a *wand of negation*, or a *disintegrate* or *dispel magic* spell. These cause it to be destroyed without harm to the subject. Nothing can pass through the sphere, inside or out, though the subject can breathe normally. The subject may struggle, but all that occurs is a movement of the sphere. The globe can be physically moved either by people outside the globe or by the struggles of those within.\n\nThe material components of the spell are a hemispherical piece of diamond (or similar hard, clear gem material) and a matching hemispherical piece of gum arabic."
+}
+```

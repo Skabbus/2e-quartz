@@ -34,3 +34,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Plant |
+
+```json
+{
+  "name": "Sticks to Snakes *Reversible*",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small piece of bark and several snake scales",
+  "range": "30 yds.",
+  "aoe": "1d4 sticks + (1 stick/level in a 10-ft. cube)",
+  "castingTime": "7",
+  "duration": "2 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the caster can change 1d4 sticks, plus one stick per experience level, into snakes; thus, a 9th-level priest can change 10-13 sticks into an equal number of snakes. These snakes attack as commanded by the priest. There must, of course, be sticks or similar pieces of wood (such as torches, spears, etc.) to turn into snakes. Such a stick cannot be larger than a staff. Sticks held by creatures are allowed a saving throw equal to that of the possessor (i.e., a spear held by an orc must roll the orc's saving throw vs. polymorph). Magical items, such as staves and enchanted spears, are not affected by the spell. Only sticks within the area of effect are changed.\n\nThe type of snake created varies, but a typical specimen has 2 Hit Dice, Armor Class 6, a movement rate of 9, and either constricts for 1d4+1 points of damage per round or bites for 1 point plus poison (if any). The chance of a snake thus changed being venomous is 5% per caster level, if the spellcaster desires. Thus, an 11th-level priest has a maximum 55% chance that any snake created by the spell is poisonous. The spell lasts for two rounds for each experience level of the spellcaster.\n\nThe material components of the spell are a small piece of bark and several snake scales.\n\nThe reverse spell changes normal-sized snakes to sticks for the same duration, or it negates the *sticks to snakes* spell according to the level of the priest countering the spell (for example, a 10th-level priest casting the reverse spell can turn 11-14 snakes back into sticks)."
+}
+```

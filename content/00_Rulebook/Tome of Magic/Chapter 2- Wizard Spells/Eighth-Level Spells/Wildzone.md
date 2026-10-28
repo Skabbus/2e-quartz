@@ -34,3 +34,21 @@ spellist: Wizard
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
 
+```json
+{
+  "name": "Wildzone",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Several pots of paint which must be spilled across a sheet of hammered silver worth no less than 2,000 gp",
+  "range": "0",
+  "aoe": "300'x300' square",
+  "castingTime": "1d6 rounds",
+  "duration": "2d6 turns",
+  "save": "None",
+  "damage": "—",
+  "description": "This powerful spell creates a disruption in magical forces similar to the conditions found in wild magic regions (areas where the effects of magic have been permanently altered). This spell has only a temporary effect, although the effects of *wildzone* could possibly be rendered permanent.\n\nThe spell creates a wild magic region centered on the caster. The area of effect cannot be shaped in any way; it is *always* a square 300 feet long on each side (90,000 square feet).\n\nWithin the *wildzone*, wild magic reigns. Any spell cast in the area of effect is automatically treated as a wild surge (see [[Table 2- Wild Surge Results|Table 2]]). Effects from magical items that expend charges are also treated as wild surges when used in the area. Other magical items function normally.\n\nSpells cast into the *wildzone* from outside the area of effect function normally, but spells cannot be cast out of the area of effect without triggering a wild surge.\n\nThe material components are several pots of paint which must be spilled across a sheet of hammered silver worth no less than 2,000 gp."
+}
+```
+

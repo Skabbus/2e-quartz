@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Wards |
+
+```json
+{
+  "name": "Weighty Chest",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A lead ball",
+  "range": "Touch",
+  "aoe": "5-foot cube",
+  "castingTime": "1",
+  "duration": "1 day/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables the caster to enchant a chest, book, package, or any other nonliving object no larger than a 5'x5'x5' cube. When the enchanted object is touched by anyone other than the caster, the apparent weight of the object increases, becoming 2-5 (1d4+1) times the weight of the person or persons touching it. This condition makes the object extremely difficult to move for anyone but the caster. The caster can move the object normally throughout the duration of the spell.\n\nThe material component is a lead ball."
+}
+```

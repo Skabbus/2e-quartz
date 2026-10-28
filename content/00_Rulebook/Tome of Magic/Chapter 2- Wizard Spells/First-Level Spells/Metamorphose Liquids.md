@@ -31,3 +31,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Metamorphose Liquids",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A drop of the liquid that the caster intends to create, which must be placed on the wizard's tongue and consumed",
+  "range": "Touch",
+  "aoe": "1-cube/level",
+  "castingTime": "1 round",
+  "duration": "Permanent",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell transmutes one type of liquid into an equal amount of a different, nonmagical fluid (water, wine, blood, oil, apple cider, etc.). The caster must touch the fluid itself (not simply its container) for the spell to take effect.\n\nMagical liquids (such as potions) receive a saving throw vs. disintegration with a +3 bonus to avoid the spell's effect. Fluids can be transmuted only into nonmagical liquids; it is not possible to change a magical liquid into another type of magical liquid. Poisons may be rendered harmless through use of this spell, but the spell has no effect on poisons already consumed.\n\nLiving creatures are unaffected by the spell, excluding those from the elemental plane of water. Such creatures are allowed a saving throw vs. spell. Failure results in 1d4 points of damage per level of the caster, while success indicates half damage. Only one creature can be affected by a single casting of this spell, regardless of the creature's size.\n\nThe material component is a drop of the liquid that the caster intends to create, which must be placed on the wizard's tongue and consumed. Creating poisons through use of this spell is especially dangerous."
+}
+```

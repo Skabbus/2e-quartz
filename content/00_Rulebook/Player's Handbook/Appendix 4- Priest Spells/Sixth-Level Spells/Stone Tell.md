@@ -29,3 +29,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Elemental, Divination |
+
+```json
+{
+  "name": "Stone Tell",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A drop of mercury and a bit of clay",
+  "range": "Touch",
+  "aoe": "1 cu. yd.",
+  "castingTime": "1 turn",
+  "duration": "1 turn",
+  "save": "None",
+  "damage": "—",
+  "description": "When the priest casts a *stone tell* spell upon an area, the very stones speak and relate to the caster who or what has touched them as well as revealing what is covered, concealed, or simply behind them. The stones relate complete descriptions, if asked. Note that a stone's perspective, perception, and knowledge may hinder this divination. Such details, if any, are decided by the DM.The material components for this spell are a drop of mercury and a bit of clay."
+}
+```

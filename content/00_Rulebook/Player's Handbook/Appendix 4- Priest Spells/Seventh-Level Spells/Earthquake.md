@@ -54,3 +54,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Elemental |
+
+```json
+{
+  "name": "Earthquake",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of dirt, a piece of rock, and a lump of clay",
+  "range": "120 yds.",
+  "aoe": "5-ft. diameter/level",
+  "castingTime": "1 turn",
+  "duration": "1 rd.",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast by a priest, a local tremor of fairly high strength rips the ground. The shock is over in one round. The earthquake affects all terrain, vegetation, structures, and creatures in its area of effect. The area of effect of the *earthquake* spell is circular, with a diameter of 5 feet for every experience level of the priest casting it. Thus a 20th-level priest casts an *earthquake* spell with a 100-foot-diameter area of effect.\n\nSolidly built structures with foundations reaching down to bedrock sustain one-half damage; one-quarter damage if they score above 50% on a saving throw. An earth elemental opposed to the caster in the area of effect can negate 10% to 100% (roll 1d10, 0 = 100%) of the effect. Other magical protections and wards allowed by the DM may also reduce or negate this effect. If cast undersea, this spell may, at the discretion of the DM, create a tsunami or tidal wave.\n\nThe material components for this spell are a pinch of dirt, a piece of rock, and a lump of clay.\n\n**Earthquake Effects** TERRAIN Cave or cavern--Collapses roof Cliffs--Crumble, causing landslide Ground--Cracks open, causing the following fractions of creatures to fall in and die: *Size S: 1 in 4* *Size M: 1 in 6* *Size L: 1 in 8*\n\nMarsh--Drains water to form muddy, rough ground. Tunnel--Caves in\n\nVEGETATION Small growth--No effect Trees--1 in 3 are uprooted and fall\n\nSTRUCTURES All structures--Sustain 5d12 points of structural damage; those suffering full damage are thrown down in rubble\n\nCREATURES (See TERRAIN entry)"
+}
+```

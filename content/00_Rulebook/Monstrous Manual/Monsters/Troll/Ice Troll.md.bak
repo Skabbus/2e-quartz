@@ -1,0 +1,66 @@
+---
+heading: Troll, Ice (Monstrous Manual)
+source: "[[Troll]]"
+url: https://regalgoblins.com/2erules/MM/DD04079.htm
+monster_climate:
+  - arctic
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 12
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
+---
+
+Troll, Ice
+
+![[TROLL.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Arctic |
+| **FREQUENCY:** | Rare |
+| **ORGANIZATION:** | Tribe |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Carnivore |
+| **INTELLIGENCE:** | Average (8-10) |
+| **TREASURE:** | Q (D) |
+| **ALIGNMENT:** | Chaotic evil |
+| **NO. APPEARING:** | 2-12 |
+| **ARMOR CLASS:** | 8 |
+| **MOVEMENT:** | 9 |
+| **HIT DICE:** | 2 |
+| **THAC0:** | 19 |
+| **NO. OF ATTACKS:** | 2 |
+| **DAMAGE/ATTACK:** | 1-8/1-8 |
+| **SPECIAL ATTACKS:** | Nil |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | L (8') |
+| **MORALE:** | Steady (11) |
+| **XP VALUE:** | 175 |

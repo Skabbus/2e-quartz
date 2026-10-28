@@ -1,6 +1,8 @@
 ---
 heading: "Imp-- Mephit (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03957.htm
+type:
+  - monster_group
 ---
 
 Imp, Mephit

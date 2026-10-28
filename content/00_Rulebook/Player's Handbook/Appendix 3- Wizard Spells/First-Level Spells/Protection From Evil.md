@@ -38,3 +38,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | — |
+
+```json
+{
+  "name": "Protection From Evil *Reversible*",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A circle of powdered silver",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "1",
+  "duration": "2 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, it creates a magical barrier around the recipient at a distance of 1 foot. The barrier moves with the recipient and has three major effects:\n\nFirst, all attacks made by evil (or evilly enchanted) creatures against the protected creature suffer -2 penalties to attack rolls; any saving throws caused by such attacks are made with +2 bonuses.\n\nSecond, any attempt to possess (as by a *magic jar* attack) or to exercise mental control over (as by a vampire's *charm* ability) the protected creature is blocked by this spell. Note that the protection does not prevent a vampire's *charm* itself, but it does prevent the exercise of mental control through the barrier. Likewise, a possessing life force is merely kept out. It would not be expelled if in place before the protection is cast.\n\nThird, the spell prevents bodily contact by creatures of an extraplanar or conjured nature (such as aerial servants, elementals, imps, invisible stalkers, salamanders, water weirds, xorn, and others). This causes the natural (body) weapon attacks of such creatures to fail and the creatures to recoil, if such attacks require touching the protected being. Animals or monsters summoned or conjured by spells or similar magic are likewise hedged from the character.\n\nThis protection ends if the protected character makes a melee attack against or tries to force the barrier against the blocked creature.\n\nTo complete this spell, the wizard must trace a 3-foot-diameter circle on the floor (or ground) with powdered silver.\n\nThis spell can be reversed to become *protection from good*; the second and third benefits remain unchanged. The material component for the reverse is a circle of powdered iron."
+}
+```

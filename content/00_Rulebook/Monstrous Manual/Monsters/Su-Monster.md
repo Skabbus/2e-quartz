@@ -1,6 +1,32 @@
 ---
 heading: "Su-Monster (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04065.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - twilight
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 12
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Su-Monster

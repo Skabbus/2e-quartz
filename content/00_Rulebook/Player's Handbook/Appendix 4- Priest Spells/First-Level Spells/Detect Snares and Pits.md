@@ -32,3 +32,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Divination |
+
+```json
+{
+  "name": "Detect Snares and Pits",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Holy symbol",
+  "range": "0",
+  "aoe": "10 x 40 ft.",
+  "castingTime": "4",
+  "duration": "4 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "Upon casting this spell, the caster is able to detect snares, pits, deadfalls and similar hazards along a path 10 feet wide and 40 feet long. Such hazards include simple pits, deadfalls, snares of wilderness creatures (for example, trapdoor spiders, giant sundews, ant lions, etc.), and primitive traps constructed of natural materials (mantraps, missile trips, hunting snares, etc.). The spell is directional--the caster must face the desired direction to determine if a pit exists or a trap is laid in that direction. The caster experiences a feeling of danger from the direction of a detected hazard, which increases as the danger is approached. The caster learns the general nature of the danger (pit, snare, or deadfall) but not its exact operation, nor how to disarm it. Close examination, however, enables the caster to sense what intended actions might trigger it.\n\nThe spell detects certain natural hazards--quicksand (snare), sinkholes (pit), or unsafe walls of natural rock (deadfall). Other hazards, such as a cavern that floods during rain, an unsafe construction, or a naturally poisonous plant, are not revealed. The spell does not detect magical traps (save those that ope[[Trip|trip]]endix 4- Priest Spells/Second-Level Spells/Trip Spell|trip]]* and the 3rd-level spell *[[Snare|snare]]*), nor those that are mechanically complex, nor those that have been rendered safe or inactive.\n\nThe caster must have his holy symbol to complete the spell."
+}
+```

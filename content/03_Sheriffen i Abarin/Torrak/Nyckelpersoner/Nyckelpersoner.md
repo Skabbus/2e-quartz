@@ -13,6 +13,10 @@
 
 ![[Silvius Tornving#Silvius Tornving]]
 
+![[Julia Sydvind#Julia Sydvind]]
+
+![[Mekut Merkal#Mekut Merkal]]
+
 ![[Regina Kaster#Regina Kaster]]
 
 ![[Narva Halvmark#Narva Halvmark]]

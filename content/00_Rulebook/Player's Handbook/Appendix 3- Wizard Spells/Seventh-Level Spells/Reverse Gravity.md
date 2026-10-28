@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Reverse Gravity",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A lodestone and iron filings",
+  "range": "5 yds./level",
+  "aoe": "30 ft. x 30 ft.",
+  "castingTime": "7",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell reverses gravity in the area of effect, causing all unattached objects and creatures within it to “fall” upward. The reverse gravity lasts as long as the caster desires or until the spell expires. If some solid object is encountered in this “fall,” the object strikes it in the same manner as it would during a normal downward fall. At the end of the spell duration, the affected objects and creatures fall downward. As the spell affects an area, objects tens, hundreds, or even thousands of feet in the air above the area can be affected.\n\nThe material components of this spell are a lodestone and iron filings."
+}
+```

@@ -1,6 +1,8 @@
 ---
 heading: "Snake (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04056.htm
+type:
+  - monster_group
 ---
 
 Snake

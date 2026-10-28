@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Minor Creation",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny piece of matter of the same type of item",
+  "range": "Touch",
+  "aoe": "1 cubic ft./level",
+  "castingTime": "1 turn",
+  "duration": "1 hr./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables the wizard to create an item of nonliving, vegetable nature--soft goods, rope, wood, etc. The caster actually pulls wisps of material of the plane of Shadow from the air and weaves them into the desired item. The volume of the item created cannot exceed 1 cubic foot per level of the spellcaster. The item remains in existence for only as long as the spell's duration.\n\nThe spellcaster must have at least a tiny piece of matter of the same type of item he plans to create by means of the *minor creation* spell--a bit of twisted hemp to create rope, a splinter of wood to create a door, and so forth."
+}
+```

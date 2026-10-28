@@ -33,3 +33,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Squaring the Circle",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small pendant of any precious metal with a circle fashioned inside a square",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "2",
+  "duration": "1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "*Squaring the circle* allows a wizard to alter the shape of the area of effect of one spell of 1st- through 5th-level spells. The spell to be affected must be cast within the duration of the *squaring the circle spell*.\n\nSquare or cubic areas of effect can be transformed into circular or spherical areas of effect. Circular or spherical areas of effect can likewise be transformed into square or cubic areas of effect. In both cases, the length of a side of a square area is equated to the diameter of a circular or spherical area.\n\nAlternatively, a square or cubic area can be transformed into a rectangle. The rectangle cannot cover more or less square footage than the standard square area of the spell.\n\nSimilarly, a circular or spherical area can be transformed into an oval or egg shape. The area covered by the oval or egg shape cannot cover more or less square footage than the original area of the spell.\n\nThe material component is a small pendant of any precious metal with a circle fashioned inside a square."
+}
+```

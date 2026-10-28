@@ -33,3 +33,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Dimension | — |
+
+```json
+{
+  "name": "Displace Self",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "A small strip of leather made from displacer beast hide that is twisted into a loop",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "2",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "Emulating the natural ability of the displacer beast, this spell causes the caster to appear to be about two feet away from his true location. Any creature making a melee or missile attack against the caster automatically misses with his first attempt and suffers a –2 penalty on all subsequent attack rolls. In addition, the wizard also gains a +2 bonus on saving throws for any spell or special attack aimed directly at him, not at any other characters or the area around him. The only spell that will reveal the caster’s true location is true seeing.\n\nThe material component for this spell is a small strip of leather made from displacer beast hide that is twisted into a loop."
+}
+```

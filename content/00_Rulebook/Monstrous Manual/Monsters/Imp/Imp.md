@@ -1,6 +1,8 @@
 ---
 heading: "Imp (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03956.htm
+type:
+  - monster_group
 ---
 
 Imp

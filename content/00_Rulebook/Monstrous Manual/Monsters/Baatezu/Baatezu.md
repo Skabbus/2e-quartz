@@ -1,6 +1,8 @@
 ---
 heading: "Baatezu (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03801.htm
+type:
+  - monster_group
 ---
 
 Baatezu

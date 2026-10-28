@@ -1,6 +1,8 @@
 ---
 heading: "Scorpion (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04045.htm
+type:
+  - monster_group
 ---
 
 Scorpion

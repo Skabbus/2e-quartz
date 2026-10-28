@@ -1,6 +1,32 @@
 ---
 heading: "Dragon-- Gem: Amethyst Dragon (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03848.htm
+monster_climate:
+  - arctic
+  - temperate
+monster_terrain:
+  - mountains
+  - freshwater
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 5
+monster_hd_min: 14
+monster_hd_max: 14
+type:
+  - monster
 ---
 
 |  |  |

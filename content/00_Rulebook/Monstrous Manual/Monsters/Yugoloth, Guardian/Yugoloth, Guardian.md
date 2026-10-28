@@ -1,6 +1,8 @@
 ---
 heading: "Yugoloth-- Guardian (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04097.htm
+type:
+  - monster_group
 ---
 
 Yugoloth, Guardian

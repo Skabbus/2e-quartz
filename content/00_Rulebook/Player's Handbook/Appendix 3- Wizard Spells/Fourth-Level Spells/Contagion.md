@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Contagion",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "30 yds.",
+  "aoe": "1 creature",
+  "castingTime": "4",
+  "duration": "Permanent",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell causes a major disease and weakness in a creature. The afflicted individual is immediately stricken with painful and distracting symptoms: boils, blotches, lesions, seeping abscesses, and so on. Strength, Dexterity, and Charisma are reduced by 2. Attack rolls are decreased by 2. The effect persists until the character receives a *cure disease* spell or spends 1d3 weeks taking a complete rest to recover. Characters ignoring the contagion for more than a day or so may be susceptible to worse diseases at the discretion of the DM."
+}
+```

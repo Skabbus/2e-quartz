@@ -31,3 +31,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Locate Creature",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of a bloodhound's fur",
+  "range": "50 yards/level",
+  "aoe": "One creature",
+  "castingTime": "5",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is similar to the 2nd-level *locate object* spell. Instead of finding an inanimate object, however, it allows the wizard to find a creature. The wizard casts the spell, slowly turns, and is able to sense the direction of the person or creature, provided the subject is within range. The wizard learns how far away the creature is and in what direction it is moving (if at all).**\n\nThis spell can locate a general species of creature (a horse or umber hulk, for instance) or can be used to find a specific individual. The wizard must have physically seen the individual or the type of creature at least once from a distance of no more than 10 yards.\n\nUnlike *locate object*, this spell is not blocked by lead. It is blocked, however, by running water (such as a river or stream). Objects cannot be found through use of this spell.\n\nThe material component is a bit of a bloodhound's fur."
+}
+```

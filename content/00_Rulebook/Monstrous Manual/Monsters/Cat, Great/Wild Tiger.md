@@ -2,6 +2,31 @@
 heading: Cat, Great, Wild Tiger (Monstrous Manual)
 source: "[[Cat, Great]]"
 url: https://regalgoblins.com/2erules/MM/DD03818.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Cat, Great, Wild Tiger

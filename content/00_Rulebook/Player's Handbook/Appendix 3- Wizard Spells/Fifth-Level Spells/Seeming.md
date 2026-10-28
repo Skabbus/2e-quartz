@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Seeming",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10-ft. radius",
+  "aoe": "1 person/2 levels",
+  "castingTime": "5",
+  "duration": "12 hrs.",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables the caster to alter the appearance of one person for every two levels of experience he has attained. The change includes clothing and equipment. The caster can make the recipients appear as any generally man-shaped bipedal creature, each up to 1 foot shorter or taller than his normal height, and thin or fat or in between. All those affected must resemble the same general type of creature: human, orc, ogre, etc. Each remains a recognizable individual. The effect fails for an individual if the illusion chosen by the caster cannot be accomplished within the spell parameters (for example, a halfling could not be made to look like a centaur, but he might be made to look like a short, young ogre). Unwilling persons receive saving throws vs. spell to avoid the effect. Affected persons resume their normal appearances if slain. The spell is not precise enough to duplicate the appearance of a specific individual."
+}
+```

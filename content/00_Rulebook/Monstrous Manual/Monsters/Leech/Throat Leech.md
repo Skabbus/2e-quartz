@@ -2,6 +2,29 @@
 heading: Leech, Throat (Monstrous Manual)
 source: "[[Leech]]"
 url: https://regalgoblins.com/2erules/MM/DD03971.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - swamp
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Leech, Throat

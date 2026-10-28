@@ -2,6 +2,40 @@
 heading: Lich, Demilich (Monstrous Manual)
 source: "[[Lich]]"
 url: https://regalgoblins.com/2erules/MM/DD03974.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Lich, Demilich
@@ -31,3 +65,22 @@ Lich, Demilich
 | **SIZE:** | M (6' tall) |
 | **MORALE:** | Fanatic (17-18) |
 | **XP VALUE:** | 10,000 |
+
+**Demilich**
+The demilich is not, as the name implies, a weaker form of the lich. Rather, it is the stage into which a lich will eventually evolve as the power which has sustained its physical form gradually begins to fail. In most cases, all that remains of a demilich's body are a skull, some bones, and a pile of dust.
+
+When it has learned all that it feels it can in its undead life, the lich will continue its quest for power in strange planes unknown to even the wisest of sages. Since it has no use for its physical body at this point, the lich leaves it to decay as it should have done centuries ago.
+
+If the final resting place of a demilich's remains are entered, the dust which was once its body will rise up and assume a man-like shape. In the case of the oldest demiliches (25%), the shape will advance and threaten, but dissipate without attacking in 3 rounds unless attacked. Younger demiliches (75%) still retain a link to their remains, however, and will form with the powers of a wraith. This dust form cannot be turned. In addition, it can store energy from attacks and use this power to engage its foes. If the dust form is attacked, each point of damage which is delivered to it is converted to an energy point. Since the demilich will fall back and seem to suffer injury from each attack (though none is actually inflicted), its attackers are likely to press on in their attempts to destroy it. Once the demilich has acquired 50 energy points, it will assume a manifestation which looks much like the lich's earlier undead form and has the powers and abilities of a ghost, but which cannot be turned.
+
+If anyone touches the skull it will rise into the air and turn to face the most powerful of the intruders (a spell user will be chosen over a non-spell user). Instantly, it unleashes a howl which acts as a *death ray*, affecting all creatures within a 20' radius of the skull. Those who fail to save vs. death are permanently dead.
+
+On the next round, the demilich will employ another manner of attack. In order to attain the status of a demilich, a lich must have replaced 5-8 (1d4+4) of its teeth with gems. Each of these gems now serves as a powerful magical device which can *trap the soul* of its adversaries. The physical body of someone hit with the demilich's spell collapses and rots away in a single round. Once it has drained the life essence from the most powerful member of the party, the skull sinks back to the floor. If it continues to be challenged, the demilich can repeat this attack until all of its gems are filled. An *amulet of life protection* will prevail over the gem, but the character's body will perish regardless.
+
+In addition to the attacks mentioned above, a demilich can also pronounce a powerful *curse* on those who disturb it. These can be so mighty as to include: always being hit by one's enemies, never making a saving throw, or the inability to acquire new experience points. Demilich *curses* can be overcome with a *remove curse*, but the victim loses one point of charisma permanently when the curse is removed.
+
+The skull of a demilich is Armor Class -6 and has 50 hit points. It can be affected by spells in only a few ways: a *forget* spell will cause it to sink down without attacking (either by howling or draining a soul), a *dispel evil* will do 5-8 (1d4+4) points of damage to it, a *shatter* spell will inflict 3-18 (3d6) points of damage to it, a *holy word* pronounced against it will deliver 5-30 (5d6) points of damage, and a *power word kill* spell cast by an ethereal or astral wizard will cause the skull to shatter (destroying it).
+
+Most weapons will be unable to harm the skull of a demilich, but there are exceptions. A fighter or ranger with a *vorpal sword*, *sword of sharpness*, *sword +5*, or vorpal weapon can inflict normal damage on the skull, as can a paladin with a vorpal or +4 weapon. Further, any character with a +4 or better weapon or a *mace of disruption* can inflict 1 point of damage to the skull each time he strikes it.
+
+Upon the destruction of the skull, those who have been trapped inside the gems must make a saving throw vs. spell. Those who fail are lost forever, having been consumed by the demilich to power its magical nature. If the character survives, the gem glows with a faint inner light, and *true seeing* will reveal a tiny figure trapped within. If the throw is made the soul can be freed by simply crushing the gem. A new body must be within 10 yards for the soul to enter or it will be lost. Such a body might be a [clone](..\PHB\DD02083.htm) or [simulacrum](..\PHB\DD02074.htm) . (See spells of those names.)If the fragments of the destroyed skull are not destroyed by immersion in holy water and the casting of a *dispel magic* the demilich will reform in 1-10 days.

@@ -50,3 +50,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Contact Other Plane",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, the wizard sends his mind to another plane of existence in order to receive advice and information from powers there. As these powers resent such contact, only brief answers are given. (The DM answers all questions with “yes,” “no,” “maybe,” “never,” “irrelevant,” etc.) Any questions asked are answered by the power during the spell's duration. The character can contact an elemental plane or some plane farther removed. For every two levels of experience of the wizard, one question may be asked. Contact with minds far removed from the plane of the wizard increases the probability of the spellcaster going insane or dying, but the chance of the power knowing the answer, as well as the probability of the being telling the correct answer, are likewise increased by moving to distant planes. Once the Outer Planes are reached, the Intelligence of the power contacted determines the effects.\n\nThe accompanying random table is subject to DM changes, development of extraplanar NPC beings, and so on.\n\nIf insanity occurs, it strikes as soon as the first question is asked. This condition lasts for one week for each removal of the plane contacted (see the [DMG](..\\DMG\\DD00660.htm) or the Planescape™ *Campaign Setting* boxed set), to a maximum of 10 weeks. There is a 1% chance per plane that the wizard dies before recovering, unless a *remove curse* spell is cast upon him. A surviving wizard can recall the answer to the question.\n\nOn rare occasions, this divination may be blocked by the action of certain lesser or greater powers.\n\n| Plane | Chance of Insanity \\* | Chance of Knowledge | Chance of Veracity\\*\\*|\n| --- | --- | --- | --- |\n| Elemental Plane | 20% | 55% (90%) | 62% (75%) |\n| Inner Plane | 25% | 60% | 65% |\n| Astral Plane | 30% | 65% | 67% |\n| Outer Plane, Int 19 | 35% | 70% | 70% |\n| Outer Plane, Int 20 | 40% | 75% | 73% |\n| Outer Plane, Int 21 | 45% | 80% | 75% |\n| Outer Plane, Int 22 | 50% | 85% | 78% |\n| Outer Plane, Int 23 | 55% | 90% | 81% |\n| Outer Plane, Int 24 | 60% | 95% | 85% |\n| Outer Plane, Int 25 | 65% | 98% | 90% |\n\n\\* For every point of Intelligence over 15, the wizard reduces the chance of insanity by 5%. \\*\\* If the being does not know an answer, and the chance of veracity is not made, the being will emphatically give an incorrect answer. If the chance of veracity is made, the being will answer “unknown.”Percentages in parentheses are for questions that pertain to the appropriate elemental plane.\n\nOptional Rule The DM may allow a specific Outer Plane to be contacted (see the Planescape *Campaign Setting* boxed set). In this case, the difference in alignment between the caster and the plane contacted alters the maximum Intelligence that can be contacted--each difference in moral or ethical alignment lowers the maximum Intelligence that can be contacted by 1. For example, an 18th-level lawful good caster could contact Mount Celestia (a lawful good plane) on the “Intelligence 20” line, or Elysium (a neutral good plane) on the “Intelligence 19” line."
+}
+```

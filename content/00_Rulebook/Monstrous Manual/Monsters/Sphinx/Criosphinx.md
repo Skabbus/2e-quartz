@@ -2,6 +2,29 @@
 heading: Sphinx, Criosphinx (Monstrous Manual)
 source: "[[Sphinx]]"
 url: https://regalgoblins.com/2erules/MM/DD04059.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 10
+monster_hd_max: 10
+type:
+  - monster
 ---
 
 Sphinx, Criosphinx

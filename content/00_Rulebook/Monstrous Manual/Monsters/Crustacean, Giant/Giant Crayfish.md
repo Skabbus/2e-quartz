@@ -2,6 +2,30 @@
 heading: Crustacean, Giant, Giant Crayfish (Monstrous Manual)
 source: "[[Crustacean, Giant]]"
 url: https://regalgoblins.com/2erules/MM/DD03831.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - freshwater
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 4
+monster_hd_max: 4
+type:
+  - monster
 ---
 
 Crustacean, Giant, Giant Crayfish

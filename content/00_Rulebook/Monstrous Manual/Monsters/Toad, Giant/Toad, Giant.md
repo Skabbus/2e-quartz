@@ -1,6 +1,8 @@
 ---
 heading: "Toad-- Giant (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04075.htm
+type:
+  - monster_group
 ---
 
 Toad, Giant

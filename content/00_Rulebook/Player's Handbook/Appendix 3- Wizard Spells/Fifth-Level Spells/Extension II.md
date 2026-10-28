@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Extension II",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "4",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is the same as the 4th-level *extension I* spell, except it extends the duration of 1st-through 4th-level spells by 50%."
+}
+```

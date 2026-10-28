@@ -1,6 +1,43 @@
 ---
 heading: "Gargoyle (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03895.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 16
+monster_hd_min: 4
+monster_hd_max: 6
+type:
+  - monster
 ---
 
 Gargoyle

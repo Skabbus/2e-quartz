@@ -1,6 +1,8 @@
 ---
 heading: "Medusa (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03995.htm
+type:
+  - monster_group
 ---
 
 Medusa

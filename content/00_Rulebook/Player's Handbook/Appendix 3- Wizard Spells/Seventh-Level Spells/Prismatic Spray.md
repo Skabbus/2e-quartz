@@ -46,3 +46,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Prismatic Spray",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "70 x 15 ft. spray",
+  "castingTime": "7",
+  "duration": "Instantaneous",
+  "save": "Special",
+  "damage": "—",
+  "description": "When this spell is cast, the wizard causes seven shimmering, multicolored rays of light to flash from his hand in a triangular spray. This spray is 70 feet long and spreads to 15 feet wide at the end. It includes all colors of the visible spectrum; each ray has a different power and purpose. Any creature with fewer than 8 Hit Dice struck by a ray is blinded for 2d4 rounds, regardless of any other effect.\n\nAny creature in the area of effect will be touched by one or more of the rays. To determine which ray strikes a creature, roll 1d8 and consult the following table: Prismatic Spray Results\n\n|  |  |\n| --- | --- |\n| 1 = red | 5 = blue |\n| 2 = orange | 6 = indigo |\n| 3 = yellow | 7 = violet |\n| 4 = green | 8 = struck by two rays, roll again twice (ignoring any 8s) |\n\n| Color of Ray | Order of Ray | Effect of Ray |\n| --- | --- | --- |\n| Red | 1st | Inflicts 20 points of damage, save vs. spell for half. |\n| Orange | 2nd | Inflicts 40 points of damage, save vs. spell for half. |\n| Yellow | 3rd | Inflicts 80 points of damage, save vs. spell for half. |\n| Green | 4th | Save vs. poison or die; survivors suffer 20 points of poison |\n|  |  | damage. |\n| Blue | 5th | Save vs. petrification or be turned to stone. |\n| Indigo | 6th | Save vs. wand or go insane. |\n| Violet | 7th | Save vs. spell or be sent to another plane. |"
+}
+```

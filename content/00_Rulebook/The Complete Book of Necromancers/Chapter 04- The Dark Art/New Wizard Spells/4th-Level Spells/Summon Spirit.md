@@ -27,6 +27,25 @@ spellist:
 > Summoning a dead spirit is far from a certain or trouble-free enterprise. The base chance that a spirit will answer the summons is 50% + 1% for each experience level of the wizard casting the spell. This chance of success also depends on the authority of the caster in the spirit world, the length of time the subject has been dead, and the specific time of day during the casting (see [[00_Rulebook/The Complete Book of Necromancers/List of Tables/Table 11- Spirit Summoning Modifiers|Table 11]]).
 > 
 > | **Modifier** | **Condition**                                    |
+
+```json
+{
+  "name": "Summon Spirit",
+  "school": "",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "See text",
+  "range": "10 yards",
+  "aoe": "1 dead human or demihuman",
+  "castingTime": "1 turn",
+  "duration": "1 round/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell allows the wizard to raise up the spirit of a dead human or demihuman, which may answer questions put to it by those present at the summoning. Of course, the questioners must speak the same language as the dead creature.\n\nSummoning a dead spirit is far from a certain or trouble-free enterprise. The base chance that a spirit will answer the summons is 50% + 1% for each experience level of the wizard casting the spell. This chance of success also depends on the authority of the caster in the spirit world, the length of time the subject has been dead, and the specific time of day during the casting (see [[00_Rulebook/The Complete Book of Necromancers/List of Tables/Table 11- Spirit Summoning Modifiers|Table 11]]).\n\n| **Modifier** | **Condition**                                    |"
+}
+```
+
 | ------------ | ------------------------------------------------ |
 | +5%          | Caster is a necromancer                          |
 | +5%          | Caster has spirit lore proficiency               |

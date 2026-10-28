@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | All |
+
+```json
+{
+  "name": "Purify Food & Drink *Reversible*",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "30 yds.",
+  "aoe": "1 cu. ft./level, (in 10 sq. ft.)",
+  "castingTime": "1 rd.",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "When cast, this spell makes spoiled, rotten, poisonous, or otherwise contaminated food and water pure and suitable for eating and drinking. Up to 1 cubic foot of food and drink per level can be thus made suitable for consumption. This spell does not prevent subsequent natural decay or spoilage. Unholy water and similar food and drink of significance is spoiled by *purify food and drink,* but the spell has no effect on creatures of any type nor upon magical potions.\n\nThe reverse of the spell is *putrefy food and drink*. This spoils even holy water; however, it likewise has no effect upon creatures or potions."
+}
+```

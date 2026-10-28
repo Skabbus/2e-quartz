@@ -2,6 +2,32 @@
 heading: Naga, Spirit (Monstrous Manual)
 source: "[[Naga]]"
 url: https://regalgoblins.com/2erules/MM/DD04012.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 3
+monster_hd_min: 9
+monster_hd_max: 10
+type:
+  - monster
 ---
 
 Naga, Spirit

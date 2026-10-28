@@ -1,6 +1,8 @@
 ---
 heading: "Plant-- Dangerous (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04031.htm
+type:
+  - monster_group
 ---
 
 Plant, Dangerous

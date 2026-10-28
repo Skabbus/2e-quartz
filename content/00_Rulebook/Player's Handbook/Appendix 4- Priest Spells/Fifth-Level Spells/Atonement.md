@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | All |
+
+```json
+{
+  "name": "Atonement",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Holy symbol, prayer beads or wheel or book, and burning incense.",
+  "range": "Touch",
+  "aoe": "1 person",
+  "castingTime": "1 turn",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is used by the priest to remove the burden of unwilling or unknown deeds from the person who is the subject of the atonement. The spell removes the effects of magical alignment changes as well. The person seeking the *atonement* spell must either be truly repentant or not have been in command of his own will when the acts to be atoned for were committed. The DM will judge this spell in this regard, noting any past instances of its use upon the person. Deliberate misdeeds and acts of knowing and willful nature cannot be atoned for with this spell. A character who refuses to accept an atonement is automatically considered to have committed a willful misdeed.\n\nThe priest needs his religious symbol, prayer beads or wheel or book, and burning incense."
+}
+```

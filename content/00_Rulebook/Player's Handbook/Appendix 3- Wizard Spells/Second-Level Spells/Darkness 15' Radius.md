@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Darkness 15' Radius",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of bat fur and either a drop of pitch or a piece of coal",
+  "range": "10 yds./level",
+  "aoe": "15-ft. radius",
+  "castingTime": "2",
+  "duration": "1 turn + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell causes total, impenetrable darkness in the area of effect. Infravision is useless. Neither normal nor magical light works unless a *light* or *continual light* spell is used. In the former event, the *darkness* spell is negated by the *light* spell, and vice versa.\n\nThe material components of this spell are a bit of bat fur and either a drop of pitch or a piece of coal."
+}
+```

@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Demishadow Monsters",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "30 yds.",
+  "aoe": "20-ft. cube",
+  "castingTime": "5",
+  "duration": "1 rd./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell is similar to the 4th-level spell *shadow monsters,* except that the monsters created are effectively 40% of normal hit points. If the saving throw is made, their damage potential is only 40% of normal and their Armor Class is 8. The monsters have none of the special abilities of the real creatures, although victims may be deluded into believing this to be so."
+}
+```

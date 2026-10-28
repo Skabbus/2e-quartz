@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Unluck",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A piece of a broken mirror",
+  "range": "10 yards",
+  "aoe": "One creature",
+  "castingTime": "4",
+  "duration": "2d10 rounds",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "With this spell, the wild mage creates a negative pattern in the random forces surrounding one creature. The creature is allowed a saving throw; if successful, the spell fails. If the saving throw is failed, random chance falls into an unlucky pattern. Any action involving random chance (i.e., any time a die roll affects the character) performed by the victim during the next 2-20 rounds requires two separate attempts; the worse result is always applied. (The victim rolls twice for attacks, damages, saving throws, etc., always using the worse die roll.)\n\nA *luckstone* or similar magical device will negate *unluck*. Doing so, however, prevents the magical item from functioning for 2d10 rounds.\n\nThe material component is a piece of a broken mirror."
+}
+```

@@ -1,6 +1,28 @@
 ---
 heading: "Sahuagin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04043.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 20
+monster_appearing_max: 80
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Sahuagin

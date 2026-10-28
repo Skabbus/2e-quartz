@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Domination",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10 yds./level",
+  "aoe": "1 person",
+  "castingTime": "5",
+  "duration": "Special",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "The *domination* spell enables the caster to control the actions of any person until the spell is ended by the subject's Intelligence (see the [[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/First-Level Spells/Charm Person|charm person]] spell). Elves and half-elves resist this enchantment as they do all *charm*-type spells. When the spell is cast, the subject must roll a saving throw vs. spell at a penalty of -2, but Wisdom adjustments apply. Failure means the wizard has established a telepathic link with the subject's mind. If a common language is shared, the wizard can generally force the subject to perform as the wizard desires, within the limits of the subject's body structure and Strength. Note that the caster does not receive direct sensory input from the subject.\n\nSubjects resist this control, and those forced to take actions against their natures receive a new saving throw with a bonus of +1 to +4, depending on the type of action required. Obviously self-destructive orders are not carried out. Once control is established, there is no limit to the range at which it can be exercised, as long as the caster and subject are on the same plane.\n\nA *protection from evil* spell can prevent the caster from exercising control or using the telepathic link while the subject is so warded, but it cannot prevent the establishment of domination."
+}
+```

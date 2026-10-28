@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Mending",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Two small magnets of any type (lodestone in all likelihood) or two burrs",
+  "range": "30 yds.",
+  "aoe": "1 object",
+  "castingTime": "1",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell repairs small breaks or tears in objects. It will weld a broken ring, chain link, medallion, or slender dagger, providing but one break exists. Ceramic or wooden objects with multiple breaks can be invisibly rejoined to be as strong as new. A hole in a leather sack or wineskin is completely healed over by a *mending* spell. This spell does not, by itself, repair magical items of any type. One turn after the spell is cast, the magic of the joining fades, and the effect cannot be magically dispelled. The maximum volume of material the caster can mend is 1 cubic foot per level.\n\nThe material components of this spell are two small magnets of any type (lodestone in all likelihood) or two burrs."
+}
+```

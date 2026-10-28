@@ -34,3 +34,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | Charm |
+
+```json
+{
+  "name": "Cloak of Bravery *Reversible*",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The feather of an eagle or hawk",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "6",
+  "duration": "Special",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "The *cloak of bravery* spell can be cast upon any willing creature. The protected individual gains a bonus to his saving throw against any form of fear encountered (but not awe--an ability of some lesser and greater powers). When cast, the spell can affect one to four creatures (caster's choice). If only one is affected, the saving throw bonus is +4. If two are affected, the bonus is +3, and so forth, until four creatures are protected by a +1 bonus. The magic of the *cloak of bravery* spell works only once and then the spell ends, whether or not the creature's saving throw is successful. The spell ends after eight hours if no saving throw is required before then.\n\nThe reverse of this spell, *cloak of fear,* empowers a single creature touched to radiate a personal aura of fear, at will, out to a 3-foot radius. All other characters and creatures within this aura must roll successful saving throws vs. spell or run away in panic for 2d8 rounds. Affected individuals may or may not drop items, at the DM's option.\n\nThe spell has no effect upon undead of any sort. The effect can be used only once, and the spell expires after eight hours if not brought down sooner. Members of the recipient's party are not immune to the effects of the spell.\n\nThe material component for the *cloak of bravery* spell is the feather of an eagle or hawk. The reverse requires the tail feathers of a vulture or chicken."
+}
+```

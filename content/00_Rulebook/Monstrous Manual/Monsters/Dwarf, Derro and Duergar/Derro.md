@@ -2,6 +2,32 @@
 heading: Dwarf![[DWARF2.gif]], Derro (Monstrous Manual)
 source: "[[Dwarf, Derro and Duergar]]"
 url: https://regalgoblins.com/2erules/MM/DD03874.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 3
+monster_appearing_max: 30
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Dwarf![[DWARF2.gif]], Derro

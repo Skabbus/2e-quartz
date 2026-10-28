@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Acid Storm",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A drop of acid",
+  "range": "10 yards/level",
+  "aoe": "40-foot-diameter circle",
+  "castingTime": "7",
+  "duration": "1 round/level",
+  "save": "½",
+  "damage": "—",
+  "description": "This deadly spell unleashes a downpour of magical, gelatinous acid droplets. All creatures within the area of effect are coated by globs of gooey acid. The acid can be washed off only with wine, vinegar, or by a successful *dispel magic* or similar spell. The acid remains present for 1 round per level of the caster, then vanishes.\n\nCreatures coated by the acid suffer 1d4 hit points of damage each round during rounds 1-3, 1d6 points in each of rounds 4-6, and 1d8 points on each round thereafter. Characters who successfully save vs. spells during the first round suffer only half damage from the acid for the remaining rounds. When the spell expires, no further damage is inflicted.\n\nAcid damage can be healed through any means except regeneration. The material component is a drop of acid."
+}
+```

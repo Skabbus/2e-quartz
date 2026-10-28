@@ -33,3 +33,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Wildshield",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small sponge",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1 round",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell cloaks the caster in a whirling band of scintillating colors, completely concealing him. The caster is able to see normally within and outside the shield.\n\nThe *wildshield* protects the caster from the effects of spells and magical items. The shield can completely absorb 2d6 spell levels (i.e., if the roll of 2d6 results in 10, the shield could absorb ten 1st-level spells, two 5th-level spells, or any similar combination), thereby negating their effects on the caster. Both area effect spells and those individually targeted at the wild mage can be absorbed. In the case of area spells, the *wildshield* protects only the mage. All others in the area of effect suffer normal effects from the spell.\n\n*Wildshield* also protects against wild surges, whether caused by the caster's magic or by an outside source. Each wild surge is considered equal to 1d6 spell levels.\n\nThe spell remains in effect until it is either canceled by the caster or it reaches its spell level capacity. If the capacity is met exactly, the *wildshield* simply ceases to function. However, if the *wildshield* is struck by more spell levels than it can absorb, it explodes in a wild surge. The spell that triggered the surge is completely negated, its energy instead transformed into a wild surge (see [[Table 2- Wild Surge Results|Table 2]] ). Since the shield no longer functions, the formerly protected wizard is subject to full effects of this wild surge.\n\nThe material component is a small sponge."
+}
+```

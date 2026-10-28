@@ -34,5 +34,23 @@ spellist: Wizard
 > | :--- | :--- |
 > | Alteration | — |
 
+```json
+{
+  "name": "Murdock's Feathery Flyer",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "an eagle's feather",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "Upon casting this spell, a feathery membrane grows under the wizard's arms, extending along his sides all the way to his feet. The membrane appears to merge with the caster's skin and clothing.\n\nIf the caster spreads his arms and jumps from a height, he may glide through the air. For each foot of elevation, the wizard can glide five feet horizontally. Thus, a wizard jumping from a 10-foot wall could glide up to 50 feet. Gliding characters have a movement rate of 12 and Maneuverability Class E. A wizard attempting to carry more than his normal weight allowance plummets to the earth upon takeoff.\n\nWhen the spell expires, the feathers instantly disappear. If the wizard is airborne, he immediately plummets toward the ground.\n\nThe material component is an eagle's feather.\n\nThe material component is an eagle's feather."
+}
+```
+
 
 [[00_Rulebook/Tome of Magic/Table of Contents|Table of Contents]]

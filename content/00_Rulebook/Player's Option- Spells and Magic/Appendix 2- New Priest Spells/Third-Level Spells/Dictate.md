@@ -39,3 +39,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | Charm, Law |
+
+```json
+{
+  "name": "Dictate",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "30 yds.",
+  "aoe": "Up to 6 creatures",
+  "castingTime": "6",
+  "duration": "1 rd./level",
+  "save": "Neg. in a 20-ft. cube",
+  "damage": "—",
+  "description": "Originally developed by the Harmonium faction of the Outer\n\nPlanes, this useful spell has come into more widespread use in recent years. While the spell is available as a 2nd-level enchantment for members of the Harmonium, the general version is not quite as efficient and is considered a 3rd-level spell.\n\nThe *dictate* spell is an improved version of command, affecting up to 6 creatures in a 20-foot cube. The caster is not limited to a single word and can issue an order of no more than a dozen words in length. All the specified targets who fail their saving throws must attempt to obey the caster’s instructions. For example, a priest could issue a dictate such as “Stay here until I return,” “Throw down your weapons,” or “Seize that elf!” The subjects will continue to obey nonimmediate orders for up to one round per experience level of the caster.\n\nSubjects who cannot understand the caster are not affected, so characters who do not understand the caster’s language are immune to this spell. In addition, the order must create an immediate and obvious course of action for the subject; a *dictate* to “Die!” or “Feel sorry for him!” would simply cause the subject to stand still in confusion for one round. Poorly worded or confusing commands grant the subjects a +1 to +4 bonus on their saving throws at the DM’s discretion. Similarly, if after the subject fails his saving throw he is given an obviously self-destructive *dictate*, the subject simply loses his next round as he fights off the compulsion."
+}
+```

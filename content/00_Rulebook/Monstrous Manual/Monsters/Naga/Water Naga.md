@@ -2,6 +2,34 @@
 heading: Naga, Water (Monstrous Manual)
 source: "[[Naga]]"
 url: https://regalgoblins.com/2erules/MM/DD04012.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - freshwater
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 7
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Naga, Water

@@ -29,7 +29,7 @@ source: https://regalgoblins.com/2erules/MM/DD04110.htm
 |        | 06-10    | [[Mammal#5839bd9a\|Boar, warthog]]           | 3         |
 |        | 11-15    | [[Mammal, Herd\|Cattle, wild]]                                         | 2½        |
 |        | 16-20    | [[Cat, Great\|Cheetah]]                                                | 3         |
-|        | 21-30    | [[00_Rulebook/Monstrous Manual/Monsters/Dog#b5ace021\|Dog, war]]                   | 2½        |
+|        | 21-30    | [[Dog 1#b5ace021\|Dog, war]]                   | 2½        |
 |        | 31-35    | [[Mammal#5839bd9a\|Hyena, wild]]             | 3         |
 |        | 36-45    | [[Cat, Great\|Lion, mountain]]                                         | 3¼        |
 |        | 46-50    | [[Cat, Great\|Lynx, giant]]                                            | 2½        |

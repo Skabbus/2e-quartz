@@ -1,6 +1,8 @@
 ---
 heading: "Ooze/Slime/Jelly (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04020.htm
+type:
+  - monster_group
 ---
 
 Ooze/Slime/Jelly![[OOZESLIM.gif]]

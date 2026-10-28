@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Invocation/Evocation | — |
+
+```json
+{
+  "name": "Nahal's Reckless Dweomer",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Special",
+  "aoe": "Special",
+  "castingTime": "5",
+  "duration": "Special",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell is the wild mage's ultimate last-resort spell. When cast, the mage releases a sudden flood of wild magical energy in the hope of seizing and shaping that energy into a desired spell effect. The attempt usually fails, but something almost always occurs in the process.\n\nBefore casting the spell, the mage announces the spell effect he is trying to create. The mage must be able to cast the spell (i.e., have it in his spell books), but need not have it memorized. After announcing the spell (along with the target and any other conditions required by the spell), the wild mage casts *Nahal's reckless dweomer*. A burst of magical energy is released, which the wild mage tries to manipulate into the desired form. The actual effect of the spell is rolled randomly on [[Table 2- Wild Surge Results|Table 2]]: Wild Surge Results.\n\nBecause the release of energy is planned by the mage, his level is added to the dice roll. If the result indicates success, the mage has shaped the magical energy into the desired effect. More often than not, the effect is completely unexpected. The result may be beneficial to the mage or it may be completely disastrous; this is the risk the mage takes in casting *Nahal's reckless dweomer*."
+}
+```

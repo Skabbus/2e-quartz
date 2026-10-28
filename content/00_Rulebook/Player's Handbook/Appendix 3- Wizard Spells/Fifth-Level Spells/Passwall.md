@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Passwall",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of sesame seeds",
+  "range": "30 yds.",
+  "aoe": "5 x 8 x 10 ft.",
+  "castingTime": "5",
+  "duration": "1 hr. + 1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "A *passwall* spell enables the spellcaster to open a passage through wooden, plaster, or stone walls, but not other materials. The spellcaster and any associates can simply walk through. The spell causes a 5-foot wide x 8-foot high x 10-foot deep opening. Several of these spells can form a continuing passage so that very thick walls can be pierced. If dispelled, the passwall closes away from the dispelling caster, ejecting those in the passage.\n\nThe material component of this spell is a pinch of sesame seeds."
+}
+```

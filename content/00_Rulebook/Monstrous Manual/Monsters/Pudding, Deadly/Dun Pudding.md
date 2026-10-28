@@ -2,6 +2,30 @@
 heading: Pudding, Deadly, Dun (Monstrous Manual)
 source: "[[Pudding, Deadly]]"
 url: https://regalgoblins.com/2erules/MM/DD04034.htm
+monster_climate:
+  - arid
+monster_terrain:
+  - desert
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Pudding, Deadly, Dun

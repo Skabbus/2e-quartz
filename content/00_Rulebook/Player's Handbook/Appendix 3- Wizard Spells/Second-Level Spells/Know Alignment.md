@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Know Alignment *Reversible*",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10 yds.",
+  "aoe": "1 creature or (object per 2 rds.)",
+  "castingTime": "1 rd.",
+  "duration": "1 rd./level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "A *know alignment* spell enables the wizard to read the aura of a creature or an aligned object (unaligned objects reveal nothing). The caster must remain stationary and concentrate on the subject for two full rounds. A creature is allowed a saving throw vs. spell and, if successful, the caster learns nothing about that particular creature from the casting. If the caster concentrates on a creature or object for only one round, he can learn only its alignment with respect to law and chaos. Certain magical devices negate the *know alignment* spell.\n\nThe reverse, *undetectable alignment*, conceals the alignment of an object or creature for 24 hours--even from a *know alignment* spell."
+}
+```

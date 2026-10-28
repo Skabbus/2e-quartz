@@ -1,6 +1,8 @@
 ---
 heading: "Tako (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04068.htm
+type:
+  - monster_group
 ---
 
 Tako

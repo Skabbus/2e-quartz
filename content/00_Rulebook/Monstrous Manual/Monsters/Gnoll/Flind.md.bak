@@ -1,0 +1,66 @@
+---
+heading: Gnoll, Flind (Monstrous Manual)
+source: "[[00_Rulebook/Monstrous Manual/Monsters/Gnoll/Gnoll]]"
+url: https://regalgoblins.com/2erules/MM/DD03923.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
+---
+
+Gnoll, Flind
+
+![[GNOLL.gif]]
+
+|                       |                                      |
+| --------------------- | ------------------------------------ |
+|                       | **Flind**                            |
+| **CLIMATE/TERRAIN:**  | Any tropical to temperate non-desert |
+| **FREQUENCY:**        | Rare                                 |
+| **ORGANIZATION:**     | Tribe                                |
+| **ACTIVITY CYCLE:**   | Night                                |
+| **DIET:**             | Carnivore                            |
+| **INTELLIGENCE:**     | Average (8-10)                       |
+| **TREASURE:**         | A                                    |
+| **ALIGNMENT:**        | Lawful evil                          |
+| **NO. APPEARING:**    | 1-4                                  |
+| **ARMOR CLASS:**      | 5 (10)                               |
+| **MOVEMENT:**         | 12                                   |
+| **HIT DICE:**         | 2+3                                  |
+| **THAC0:**            | 17                                   |
+| **NO. OF ATTACKS:**   | 1 or 2                               |
+| **DAMAGE/ATTACK:**    | 1-6 or 1-4 (weapons)                 |
+| **SPECIAL ATTACKS:**  | Disarm                               |
+| **SPECIAL DEFENSES:** | Nil                                  |
+| **MAGIC RESISTANCE:** | Nil                                  |
+| **SIZE:**             | M (6½' tall)                         |
+| **MORALE:**           | Steady (11-12)                       |
+| **XP VALUE:**         | 120                                  |

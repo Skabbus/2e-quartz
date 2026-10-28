@@ -28,3 +28,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Elemental |
+
+```json
+{
+  "name": "Transmute Metal to Wood",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "80 yds.",
+  "aoe": "1 metal object",
+  "castingTime": "1 rd.",
+  "duration": "Permanent",
+  "save": "Special",
+  "damage": "—",
+  "description": "The *transmute metal to wood* spell enables the caster to change an object from metal to wood. The volume of metal cannot exceed a maximum weight of 10 pounds per experience level of the priest. Magical objects made of metal are 90% resistant to the spell, and those on the person of a creature receive the creature's saving throw as well. Artifacts and relics cannot be transmuted. Note that only a *wish* spell or similar magic can restore a transmuted object to its metallic state. Otherwise, for example, a metal door changed to wood would be forevermore a wooden door."
+}
+```

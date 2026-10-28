@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Invocation | Summoning |
+
+```json
+{
+  "name": "Call Upon Faith",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest's holy symbol",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1",
+  "duration": "1 round",
+  "save": "None",
+  "damage": "—",
+  "description": "Before attempting a difficult task, the priest may cast *call upon faith* to aid his performance. If the priest has been true to his faith (as determined by the DM), the priest gains a +3 (or +15%) bonus to one die roll (his choice) needed to complete the task. The bonus may be used to affect a saving throw, attack roll, ability check, etc. For example, if a priest were about to cross a narrow log high above a chasm, he could cast this spell and gain a +3 bonus to his Dexterity ability check.\n\nThe material component is the priest's holy symbol."
+}
+```

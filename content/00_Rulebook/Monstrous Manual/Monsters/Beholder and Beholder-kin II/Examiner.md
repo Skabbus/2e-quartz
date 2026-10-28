@@ -2,6 +2,36 @@
 heading: Beholder and Beholder-kin, Examiner (Monstrous Manual)
 source: "[[Beholder and Beholder-kin II]]"
 url: https://regalgoblins.com/2erules/MM/DD03809.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Beholder and Beholder-kin, Examiner

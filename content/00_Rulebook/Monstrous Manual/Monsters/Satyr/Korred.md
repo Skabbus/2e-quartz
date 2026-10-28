@@ -2,6 +2,30 @@
 heading: Satyr, Korred (Monstrous Manual)
 source: "[[00_Rulebook/Monstrous Manual/Monsters/Satyr/Satyr]]"
 url: https://regalgoblins.com/2erules/MM/DD04044.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 6
+monster_hd_max: 6
+type:
+  - monster
 ---
 
 Satyr, Korred

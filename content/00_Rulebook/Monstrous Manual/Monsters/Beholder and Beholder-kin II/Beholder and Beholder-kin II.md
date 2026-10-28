@@ -1,6 +1,8 @@
 ---
 heading: "Beholder and Beholder-kin II (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03809.htm
+type:
+  - monster_group
 ---
 
 Beholder and Beholder-kin

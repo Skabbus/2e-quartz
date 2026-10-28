@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Improved Phantasmal Force",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of fleece",
+  "range": "60 yds. + 10 yds./level",
+  "aoe": "200 sq. ft. + (50 sq. ft./level)",
+  "castingTime": "2",
+  "duration": "Special",
+  "save": "Special",
+  "damage": "—",
+  "description": "Like the 1st-level *phantasmal force* spell, this spell creates the illusion of any object, creature, or force, as long as it is within the spell's area of effect. The spellcaster can maintain the illusion with minimal concentration; thus, he can move at half normal speed (but not cast other spells). Some minor sounds are included in the effects of the spell, but not understandable speech. Also, the improved phantasm continues for two rounds after the wizard ceases to concentrate upon it.\n\nThe material component is a bit of fleece."
+}
+```

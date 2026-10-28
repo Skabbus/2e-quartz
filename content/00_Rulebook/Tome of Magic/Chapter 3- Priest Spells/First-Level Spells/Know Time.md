@@ -26,3 +26,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Time |
+
+```json
+{
+  "name": "Know Time",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "*Know time* is particularly useful when the caster has been unconscious. This spell enables the caster to know the precise time of day to the nearest minute, including the current hour, day, month, and year."
+}
+```

@@ -1,6 +1,40 @@
 ---
-heading: "Giant-- Fire (Monstrous Manual)"
+heading: Giant-- Fire (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03904.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_needs_review: false
+type:
+  - monster
+monster_hd_min: 15
+monster_hd_max: 15
 ---
 
 Giant, Fire

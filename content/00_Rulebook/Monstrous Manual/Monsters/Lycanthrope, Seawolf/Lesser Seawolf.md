@@ -2,6 +2,34 @@
 heading: Lycanthrope, Seawolf, Lesser (Monstrous Manual)
 source: "[[Lycanthrope, Seawolf]]"
 url: https://regalgoblins.com/2erules/MM/DD03981.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 3
+monster_appearing_max: 18
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Lycanthrope, Seawolf, Lesser

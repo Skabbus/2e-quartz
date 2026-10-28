@@ -2,6 +2,29 @@
 heading: Cat, Great, Common Lion (Monstrous Manual)
 source: "[[Cat, Great]]"
 url: https://regalgoblins.com/2erules/MM/DD03818.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 2
+monster_appearing_max: 12
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Cat, Great, Common Lion

@@ -28,3 +28,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Astral |
+
+```json
+{
+  "name": "Join With Astral Traveler",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1 turn",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "When a priest casts the 7th-level *astral spell*, he leaves his physical body in suspended animation while his astral body travels. By touching the comatose body and casting *join with astral traveler*, a priest can cause his own astral body to leave his physical body in suspended animation. His astral body then travels along the silver cord of the originally projected priest. The caster joins the projected priest as if he were part of the original casting of the *astral spell*; i.e., his own silver cord is connected to the priest's silver cord, and he is dependent upon the originally projected priest.\n\nA priest who casts the 7th-level *astral spell* can project as many as seven other creatures along with himself. However, priests casting *join with astral traveler* are an exception to this limit. Any number of priests may join another priest in the Astral plane by use of this spell."
+}
+```

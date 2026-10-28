@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Necromantic |
+
+```json
+{
+  "name": "Invisibility to Undead",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest's holy symbol",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "4",
+  "duration": "6 rds.",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell causes affected undead to lose track of and ignore the warded creature for the duration of the spell. Undead of 4 or fewer Hit Dice are automatically affected, but those with more Hit Dice receive a saving throw vs. spell to avoid the effect. Note that a priest protected by this spell cannot turn affected undead. The spell ends immediately if the recipient makes any attack, although casting spells such as *cure light wounds, augury,* or *chant* does not end the ward.\n\nThe material component is the priest's holy symbol."
+}
+```

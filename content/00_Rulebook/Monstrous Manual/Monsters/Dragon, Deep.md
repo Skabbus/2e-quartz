@@ -1,6 +1,36 @@
 ---
 heading: "Dragon-- Deep (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03860.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - hills
+  - mountains
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 5
+monster_hd_min: 14
+monster_hd_max: 14
+type:
+  - monster
 ---
 
 Deep Dragon![[DEEPDRAG.gif]]

@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment | Protection |
+
+```json
+{
+  "name": "Magical Vestment",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The vestment to be enchanted and the priest's holy symbol, which are not expended",
+  "range": "0",
+  "aoe": "The caster",
+  "castingTime": "1 rd.",
+  "duration": "5 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enchants the caster's vestment, providing protection at least the equivalent of chain mail (AC 5). The vestment gains a +1 enchantment for each three levels of the priest beyond 5th level, to a maximum of AC 1 at 17th level. The magic lasts for five rounds per level of the caster, or until the caster loses consciousness. If the vestment is worn with other armors, only the best AC (either the armor or the vestment) is used; this protection is not cumulative with any other AC protection.\n\nThe material components are the vestment to be enchanted and the priest's holy symbol, which are not expended."
+}
+```

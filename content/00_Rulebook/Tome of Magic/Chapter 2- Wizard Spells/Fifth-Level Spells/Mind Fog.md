@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Mind Fog",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "80 yards",
+  "aoe": "20-foot cube",
+  "castingTime": "3",
+  "duration": "3 turns",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "A *mind fog* is a physical block of fog that enables the wizard to weaken the mental resistance of his victims. Victims are allowed a saving throw at a -2 penalty to avoid the effects.\n\nA creature who falls victim to the *mind fog* suffers -2 penalties to all saving throws against two categories of magic: all spells of the illusion/phantasm and enchantment/charm schools that affect the mind directly; and spells of 1st through 5th level which affect the mind directly. For example, *phantasmal force* is a mind-affecting spell; *phantom steed* is not.\n\nThe penalty to saving throws operates cumulatively with any penalties that operate for other reasons. Affected creatures suffer the penalty as long as they remain in the fog and for 2d6 rounds thereafter."
+}
+```

@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Spectral Force",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "60 yds. + 1 yd./level",
+  "aoe": "40-ft. cube + (10-ft. cube/level)",
+  "castingTime": "3",
+  "duration": "Special",
+  "save": "Special",
+  "damage": "—",
+  "description": "The *spectral force* spell creates an illusion in which sound, smell, and thermal illusions are included. It is otherwise similar to the *improved phantasmal force* spell. The spell lasts for three rounds after concentration ceases."
+}
+```

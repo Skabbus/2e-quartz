@@ -30,3 +30,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Wards |
+
+```json
+{
+  "name": "Barrier of Retention",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small cage made of silver wire",
+  "range": "Special",
+  "aoe": "10'-cube/level",
+  "castingTime": "1 turn",
+  "duration": "1 turn/level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell creates a one-way invisible force field around the area of effect. The spell creates one 10' x 10' x 10' cube for every level of the caster. These can be arranged into any rectangular shape the caster desires.\n\nIntruders entering the protected area suffer no ill effects, but the *barrier of retention* prevents them from leaving. The spell affects all creatures who fail a saving throw vs. spell. The caster can pass in and out of the barrier freely.\n\nIntruders trapped by the *barrier of retention* can cast spells out of the barrier and can use spells such as *teleport* to escape the protected area. Objects cannot be hurled out of the barrier but can be carried out by an escaping creature. *Dispel magic* and similar spells negate the *barrier*.The material component is a small cage made of silver wire. The caster must walk around the perimeter of the area of effect when casting."
+}
+```

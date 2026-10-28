@@ -1,6 +1,8 @@
 ---
 heading: "Otyugh (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04024.htm
+type:
+  - monster_group
 ---
 
 Otyugh

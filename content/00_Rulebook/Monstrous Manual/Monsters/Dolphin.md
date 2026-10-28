@@ -1,6 +1,34 @@
 ---
 heading: "Dolphin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03839.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 2
+monster_appearing_max: 20
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Dolphin

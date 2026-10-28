@@ -33,3 +33,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination, Alteration | Thought |
+
+```json
+{
+  "name": "Rapport",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "30 yards",
+  "aoe": "One creature",
+  "castingTime": "1 round",
+  "duration": "1 turn+1 round/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell is a deeper and more intense version of *telepathy*. It allows the priest to communicate silently and instantly with a single willing subject. Participants may share deeper thoughts than with *telepathy*, including emotions and memories. Each participant sees, hears, and otherwise senses everything experienced by the other, although such vicarious experiences feel diluted and cannot be mistaken for direct sensations.\n\nThe participants can quickly share such personal concepts as plans, hopes, and fears, but they *cannot* share skills or spells. Thus, it is impossible to communicate the procedure for casting a particular spell or for picking a lock.\n\nCommunication through *rapport* is approximately 15 times faster than verbal communication. As with *telepathy*, the priest can establish separate \"channels\" to multiple individuals; each such linkage costs one casting of the spell. There is no \"crosstalk\" between the channels, however.\n\n*Rapport* cannot be used on unwilling subjects."
+}
+```

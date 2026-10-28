@@ -1,0 +1,70 @@
+---
+heading: Golem, Necrophidius and Scarecrow, Necrophidius (Monstrous Manual)
+source: "[[Golem, Necrophidius and Scarecrow]]"
+url: https://regalgoblins.com/2erules/MM/DD03932.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
+---
+
+Golem, Necrophidius and Scarecrow, Necrophidius
+
+![[GOLEMNES.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Nil |
+| **INTELLIGENCE:** | Non- (0) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1 |
+| **ARMOR CLASS:** | 2 |
+| **MOVEMENT:** | 9 |
+| **HIT DICE:** | 2 |
+| **THAC0:** | 19 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACK:** | 1-8 |
+| **SPECIAL ATTACKS:** | See below |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | L (12' long) |
+| **MORALE:** | Fearless (19-20) |
+| **XP VALUE:** | 270 |

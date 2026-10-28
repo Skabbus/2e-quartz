@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Jump",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A grasshopper's hind leg, to be broken by the caster when the spell is cast",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "1",
+  "duration": "1d3 rds. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "The individual touched when this spell is cast is empowered to leap once per round for the duration of the spell. Leaps can be up to 30 feet forward or straight upward or 10 feet backward. Horizontal leaps forward or backward have only a slight arc--about 2 feet per 10 feet of distance traveled. The *jump* spell does not ensure safety in landing or grasping at the end of the leap.\n\nThe material component of this spell is a grasshopper's hind leg, to be broken by the caster when the spell is cast."
+}
+```

@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | — |
+
+```json
+{
+  "name": "Protection From Cantrips",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "Creature or (object touched)",
+  "castingTime": "1 rd.",
+  "duration": "5 hrs. + 1 hr./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By casting this spell, the wizard receives immunity to the effects of cantrips cast by other wizards, apprentices, or creatures that use the *cantrip* spell. The spell protects the caster, or one item or person that he touches (such as a spell book or a drawer containing spell components). Any cantrip cast against the protected person or item dissipates with an audible popping sound. This spell is often used by a wizard who has mischievous apprentices, or one who wishes apprentices to clean or shine an area using elbow grease rather than magic. Any unwilling target of this spell must be touched (via an attack roll) and is allowed a saving throw vs. spell to escape the effect."
+}
+```

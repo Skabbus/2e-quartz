@@ -1,6 +1,30 @@
 ---
 heading: "Giant-- Fog (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03905.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 14
+monster_hd_max: 14
+type:
+  - monster
 ---
 
 Giant, Fog

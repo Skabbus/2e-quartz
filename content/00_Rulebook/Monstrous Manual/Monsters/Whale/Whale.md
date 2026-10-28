@@ -1,6 +1,8 @@
 ---
 heading: "Whale (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04085.htm
+type:
+  - monster_group
 ---
 
 Whale

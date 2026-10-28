@@ -1,6 +1,8 @@
 ---
 heading: "Golem-- Necrophidius and Scarecrow (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03932.htm
+type:
+  - monster_group
 ---
 
 Golem, Necrophidius and Scarecrow

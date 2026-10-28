@@ -1,6 +1,8 @@
 ---
 heading: "Intellect Devourer (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03960.htm
+type:
+  - monster_group
 ---
 
 Intellect Devourer

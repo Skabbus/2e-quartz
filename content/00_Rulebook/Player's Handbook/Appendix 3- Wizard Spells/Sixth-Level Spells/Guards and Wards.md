@@ -42,3 +42,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation, Alteration, Enchantment/Charm | — |
+
+```json
+{
+  "name": "Guards and Wards",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Burning incense, a small measure of sulphur and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "3 turns",
+  "duration": "1 hr./level",
+  "save": "None",
+  "damage": "—",
+  "description": "This special and powerful spell is primarily used to defend the wizard's stronghold. The ward protects a one-story stronghold, with a base dimension of 400 feet x 400 feet. The wizard can ward a multistory area by reducing the base area proportionately. The following take place in the warded area upon casting the spell:1. All corridors become misty; visibility is reduced to 10 feet.2. All doors are wizard locked.3. Stairs are filled with webs from top to bottom. These act as the 2nd-level *web* spell, except that they regrow within one turn if destroyed.4. Where there are choices in direction--such as a cross or side passage--a minor confusion-type spell functions so as to make it 50% probable that intruders believe they are going in the exact opposite direction.5. The whole area radiates magic. The normal use of the *detect magic* spell becomes impossible for those of less than the caster's level and difficult for others.6. One door per level of experience of the wizard is covered by an illusion to appear as if it were a plain wall.7. The wizard can place one of the following additional magical effects:\n\nA. *Dancing lights* in four corridors.\n\nB. A *magic mouth* in two places.\n\nC. A *stinking cloud* in two places.\n\nD. A *gust of wind* in one corridor or room.\n\nE. A *suggestion* in one place.\n\nNote that items 6 and 7 function only when the wizard is totally familiar with the area of the spell's effect. *Dispel magic* can remove one effect, at random, per casting. A *remove curse* spell will not work.\n\nThe material components of the spell are burning incense, a small measure of sulphur and oil, a knotted string, a small amount of umber hulk blood, and a small silver rod."
+}
+```

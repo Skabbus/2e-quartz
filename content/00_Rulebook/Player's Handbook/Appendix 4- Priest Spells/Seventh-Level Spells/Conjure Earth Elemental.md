@@ -29,3 +29,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | Elemental, Summoning |
+
+```json
+{
+  "name": "Conjure Earth Elemental *Reversible*",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "40 yds.",
+  "aoe": "Special",
+  "castingTime": "1 turn",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "A caster who performs a *conjure earth elemental* spell summons an earth elemental to do his bidding. The elemental is 60% likely to have 12 Hit Dice, 35% likely to have 16 Hit Dice, and 5% likely have 21 to 24 Hit Dice (20 + 1d4). Further, the caster needs but to command it, and it does as desired. The elemental regards the caster as a friend to be obeyed. The elemental remains until destroyed, dispelled, sent away by dismissal or a *holy word* spell (see the *[[Conjure Fire Elemental|conjure fire elemental]]* spell), or the spell duration expires."
+}
+```

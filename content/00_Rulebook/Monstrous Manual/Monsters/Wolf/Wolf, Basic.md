@@ -2,6 +2,40 @@
 heading: Wolf, Basic (Monstrous Manual)
 source: "[[Wolf]]"
 url: https://regalgoblins.com/2erules/MM/DD04088.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 12
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Wolf, Basic

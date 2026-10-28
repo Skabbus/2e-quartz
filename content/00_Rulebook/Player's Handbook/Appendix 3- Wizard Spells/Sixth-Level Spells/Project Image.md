@@ -31,3 +31,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Project Image",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small replica (doll) of the wizard",
+  "range": "10 yds./level",
+  "aoe": "Special",
+  "castingTime": "6",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the wizard creates a nonmaterial duplicate of himself, projecting it to any spot within spell range. This image performs actions decided by the wizard--walking, speaking, spellcasting--conforming to the actual actions of the wizard unless he concentrates on making it act differently (in which case the wizard is limited to half movement and no attacks).\n\nThe image can be dispelled only by means of a successful *dispel magic* spell (or upon command from the spellcaster); attacks pass harmlessly through it. The image must be within view of the wizard projecting it at all times, and if his sight is obstructed, the spell is broken. Note that if the wizard is invisible at the time the spell is cast, the image is also invisible until the caster's invisibility ends, though the wizard must still be able to see the image (by means of a *[[Detect Invisibility|detect invisibility]]* spell or other method) to maintain the spell. If the wizard uses *[[Dimension Door|dimension door]],* *[[00_Rulebook/Player's Handbook/Appendix 3- Wizard Spells/Fifth-Level Spells/Teleport|teleport]],* *[[Plane Shift|plane shift]],* or a similar spell that breaks his line of vision, the *project image* spell ends.\n\nThe material component of this spell is a small replica (doll) of the wizard."
+}
+```

@@ -1,6 +1,40 @@
 ---
 heading: "Lycanthrope-- Wereboar (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03984.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 8
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Lycanthrope, Wereboar

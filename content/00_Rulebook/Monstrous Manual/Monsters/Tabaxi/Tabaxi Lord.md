@@ -2,6 +2,29 @@
 heading: Tabaxi, Tabaxi Lord (Monstrous Manual)
 source: "[[Tabaxi]]"
 url: https://regalgoblins.com/2erules/MM/DD04067.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 1
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
 ---
 
 Tabaxi, Tabaxi Lord

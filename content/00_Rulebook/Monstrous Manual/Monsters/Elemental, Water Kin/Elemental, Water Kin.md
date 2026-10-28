@@ -1,6 +1,8 @@
 ---
 heading: "Elemental-- Water-Kin (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03881.htm
+type:
+  - monster_group
 ---
 
 Elemental, Water Kin

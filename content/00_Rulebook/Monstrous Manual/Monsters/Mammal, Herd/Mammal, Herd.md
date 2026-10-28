@@ -1,6 +1,8 @@
 ---
 heading: "Mammal-- Herd (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03991.htm
+type:
+  - monster_group
 ---
 
 Mammal, Herd

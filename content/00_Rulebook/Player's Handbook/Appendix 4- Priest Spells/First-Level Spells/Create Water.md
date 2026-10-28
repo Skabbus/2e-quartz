@@ -32,3 +32,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | Elemental |
+
+```json
+{
+  "name": "Create Water *Reversible*",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "30 yds.",
+  "aoe": "Up to 27 cu. ft.",
+  "castingTime": "1 rd.",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "When the priest casts a *create water* spell, up to four gallons of water are generated for every experience level of the caster (for example, a 2nd-level priest creates up to 8 gallons of water, a 3rd-level priest up to 12 gallons, etc.). The water is clean and drinkable (it is just like rain water). The created water can be dispelled within a round of its creation; otherwise, its magic fades, leaving normal water that can be used, spilled, evaporated, etc. The reverse of the spell, *destroy water,* obliterates without trace (no vapor, mist, fog, or steam) a like quantity of water. Water can be created or destroyed in an area as small as will actually contain the liquid, or in an area as large as 27 cubic feet (1 cubic yard).\n\nNote that water can neither be created nor destroyed within a creature. For reference purposes, water weighs about 8 ½ pounds per gallon, and a cubic foot of water weighs approximately 64 pounds.\n\nThe *create water* spell requires at least a drop of water; the *destroy water* spell, at least a pinch of dust."
+}
+```

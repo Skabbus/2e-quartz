@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | — |
+
+```json
+{
+  "name": "Ghoul Touch",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small scrap of cloth taken from the clothing of a ghoul or a pinch of earth from a ghoul's lair",
+  "range": "0",
+  "aoe": "One person",
+  "castingTime": "2",
+  "duration": "1 round/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "When this spell is in effect, the caster's touch causes any single human, dwarf, gnome, half-elf, or halfling to become rigid for 3-8 (1d6 +2) rounds unless the victim makes a successful saving throw vs. paralyzation. Additionally, the paralyzed victim exudes a carrion stench in a 10-foot radius that causes retching and nausea. Those within this area who fail to save vs. poison will make their attacks with a -2 penalty until the spell reaches the end of its duration.\n\nThe material component for this spell is a small scrap of cloth taken from the clothing of a ghoul or a pinch of earth from a ghoul's lair."
+}
+```

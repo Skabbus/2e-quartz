@@ -28,3 +28,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | Combat |
+
+```json
+{
+  "name": "Chant",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "30-ft. radius",
+  "castingTime": "2 rds.",
+  "duration": "Time of chanting",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of the *chant* spell, the priest brings special favor upon himself and his party, and causes harm to his enemies. When the *chant* spell is completed, all attack and damage rolls and saving throws made by those in the area of effect who are friendly to the priest gain +1 bonuses, while those of the priest's enemies suffer -1 penalties. This bonus/penalty continues as long as the caster continues to chant the mystic syllables and is stationary. However, an interruption (such as an attack that succeeds and causes damage, grappling with the chanter, or a *silence* spell) breaks the spell. Multiple chants are not cumulative; however, if the 3rd-level *prayer* spell is spoken while a priest of the same religious persuasion (not merely alignment) is chanting, the effect is increased to +2 and -2."
+}
+```

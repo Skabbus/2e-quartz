@@ -42,3 +42,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Enchantment/Charm | — |
+
+```json
+{
+  "name": "Charm Monster",
+  "school": "Enchantment",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "60 yds.",
+  "aoe": "1 or more creatures (in 20-ft. radius)",
+  "castingTime": "4",
+  "duration": "Special",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell is similar to a *charm person* spell, but it can affect any living creature--or several low-level creatures. The spell affects 2d4 Hit Dice or levels of creatures, although it only affects one creature of 4 or more Hit Dice or levels, regardless of the number rolled.\n\nAll possible subjects receive saving throws vs. spell, adjusted for Wisdom. Any damage inflicted by the caster or his allies in the round of casting grants the wounded creature another saving throw at a bonus of +1 per point of damage received. Any affected creature regards the spellcaster as friendly, an ally or companion to be treated well or guarded from harm. If communication is possible, the charmed creature follows reasonable requests, instructions, or orders most faithfully (see the *[[Suggestion|suggestion]]* spell). If communication is not possible, the creature does not harm the caster, but others in the vicinity may be subject to its intentions, hostile or otherwise. Any overtly hostile act by the caster breaks the spell, or at the very least allows a new saving throw against the charm. Affected creatures eventually come out from under the influence of the spell. This is a function of the creature's level (i.e., its Hit Dice).\n\n| Monster Level or Hit Dice | % Chance Per Week of Breaking Spell |\n| --- | --- |\n| 1st or up to 2 | 5% |\n| 2nd or up to 3+2 | 10% |\n| 3rd or up to 4+4 | 15% |\n| 4th or up to 6 | 25% |\n| 5th or up to 7+2 | 35% |\n| 6th or up to 8+4 | 45% |\n| 7th or up to 10 | 60% |\n| 8th or up to 12 | 75% |\n| 9th or over 12 | 90% |\n\nThe exact day of the week and time of day is secretly determined by the DM."
+}
+```

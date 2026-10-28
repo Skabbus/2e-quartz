@@ -2,6 +2,29 @@
 heading: Sphinx, Hieracosphinx (Monstrous Manual)
 source: "[[Sphinx]]"
 url: https://regalgoblins.com/2erules/MM/DD04059.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - hills
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 9
+monster_hd_max: 9
+type:
+  - monster
 ---
 
 Sphinx, Hieracosphinx

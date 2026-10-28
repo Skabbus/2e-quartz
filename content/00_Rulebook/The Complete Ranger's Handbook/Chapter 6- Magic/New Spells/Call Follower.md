@@ -31,3 +31,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration, Summoning | Animal |
+
+```json
+{
+  "name": "Call Follower",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "10 mile radius/level",
+  "castingTime": "6",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "A ranger who has not yet received his full allotment of followers can use this spell in an attempt to summon one. After the spell is cast, the DM secretly consults the list of followers he's chosen for the ranger, or rolls an appropriate table. If the DM decides that a potential follower exists within the area of effect, the follower appears within the next 24 hours. If the DM decides that a follower isn't available within the area of effect, nothing happens (no follower appears). Note that the ranger can't request a specific type of follower; as always, the type of follower is up to the DM. The spell can be attempted no more than once per month.**\n\n*DM Note:* Notes on staging the arrival of the follower are also given in Chapter 3."
+}
+```

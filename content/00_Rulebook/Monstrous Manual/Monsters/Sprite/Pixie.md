@@ -2,6 +2,27 @@
 heading: Sprite, Pixie (Monstrous Manual)
 source: "[[Sprite]]"
 url: https://regalgoblins.com/2erules/MM/DD04061.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 5
+monster_appearing_max: 20
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Sprite, Pixie

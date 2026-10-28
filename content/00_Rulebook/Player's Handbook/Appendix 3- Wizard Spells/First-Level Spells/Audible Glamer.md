@@ -30,3 +30,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Audible Glamer",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of wool or a small lump of wax",
+  "range": "60 yds. + 10 yds./level",
+  "aoe": "Hearing range",
+  "castingTime": "1",
+  "duration": "3 rds./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "When the *audible glamer* spell is cast, the wizard causes a volume of sound to arise, at whatever distance he desires (within range), and seem to recede, approach, or remain at a fixed place as desired. The volume of sound created, however, is directly related to the level of the spellcaster. The volume is based upon the lowest level at which the spell can be cast, 1st level. The noise of the *audible glamer* at this level is that of four men, maximum. Each additional experience level of the wizard adds a like volume, so that at 2nd level the wizard can have the spell cause sound equal to that of eight men. Thus, talking, singing, shouting, walking, marching, or running sounds can be created. The auditory illusion created by an *audible glamer* spell can be virtually any type of sound, but the relative volume must be commensurate with the level of the wizard casting the spell. A horde of rats running and squeaking is about the same volume as eight men running and shouting. A roaring lion is equal to the noise volume of 16 men, while a roaring dragon is equal to the noise volume of no fewer than 24 men.\n\nA character stating that he does not believe the sound receives a saving throw, and if it succeeds, the character then hears a faint and obviously false sound, emanating from the caster's direction. Note that this spell can enhance the effectiveness of the *phantasmal force* spell.\n\nThe material component of the spell is a bit of wool or a small lump of wax."
+}
+```

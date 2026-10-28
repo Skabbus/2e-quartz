@@ -43,3 +43,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | Thought |
+
+```json
+{
+  "name": "Memory Read",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small piece of linen cloth with threads of gold interspersed throughout its weave",
+  "range": "5 yards",
+  "aoe": "One creature",
+  "castingTime": "1 round",
+  "duration": "1 round/level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell allows the priest to read the memory of a single subject. The priest experiences the memory with the same intensity as the subject. The time required to view a memory is one-fiftieth of the time that the actual event lasted. Thus, a priest can view the memory of an event that lasted for one hour in a little more than one round. The subject experiences the memory at the same time the caster reads it.\n\nThe subject must have an Intelligence score of 5 or more and must remain within range of the priest throughout the time it takes to read the desired memory. Priests can cast this spell on unconscious, sleeping, *held*, or *paralyzed* creatures.\n\nThe subject receives a saving throw when the priest casts the spell (this saving throw is allowed even if the subject is asleep or otherwise unaware of the attempt). In addition, if the memory that the priest wants to view concerns something the subject wants to keep secret, or is something that the subject is trying to suppress, the subject receives a +5 bonus to the saving throw. If the memory the priest wishes to view is more than six months old, the subject receives a second saving throw, with bonuses depending on the age of the memory as follows:\n\n|  |  |\n| --- | --- |\n| **Age of Memory** | **Bonus** |\n| 6-12 months | 0 |\n| 1 to 4 years | +1 |\n| 5 years or more | +3 |\n\nIf the subject succeeds either of these saving throws, the spell fails.\n\nThis spell creates a mental drain on the priest, causing him to temporarily lose 1-3 points of Constitution. These can be regained only after eight hours of rest. The spell cannot be cast again until the priest's constitution is restored.\n\nThe material component is a small piece of linen cloth with threads of gold interspersed throughout its weave. This is consumed during the casting."
+}
+```

@@ -2,6 +2,35 @@
 heading: Urchin, Silver (Monstrous Manual)
 source: "[[00_Rulebook/Monstrous Manual/Monsters/Urchin/Urchin]]"
 url: https://regalgoblins.com/2erules/MM/DD04082.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - coast
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 2
+monster_hd_min: 5
+monster_hd_max: 5
+type:
+  - monster
 ---
 
 Urchin, Silver

@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Delayed Blast Fireball",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "100 yds. + 10 yds./level",
+  "aoe": "20-ft. radius",
+  "castingTime": "7",
+  "duration": "Special",
+  "save": "½",
+  "damage": "—",
+  "description": "This spell creates a fireball, with a +1 bonus to each of its dice of damage, which releases its blast anytime from instantly to five rounds later, according to the command given by the wizard. In other respects, the spell is the same as the 3rd-level spell *fireball*."
+}
+```

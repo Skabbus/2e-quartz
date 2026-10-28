@@ -1,6 +1,8 @@
 ---
 heading: "Xorn (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04093.htm
+type:
+  - monster_group
 ---
 
 Xorn

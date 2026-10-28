@@ -1,6 +1,8 @@
 ---
 heading: "Ooze/Slime/Jelly II (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04021.htm
+type:
+  - monster_group
 ---
 
 Ooze/Slime/Jelly![[OOZEGELC.gif]]

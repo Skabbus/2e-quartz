@@ -1,0 +1,69 @@
+---
+heading: Cat, Small, Wild (Monstrous Manual)
+source: "[[Cat, Small]]"
+url: https://regalgoblins.com/2erules/MM/DD03819.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 1
+monster_appearing_max: 5
+monster_hd_min: 1
+monster_hd_max: 1
+type:
+  - monster
+---
+
+Cat, Small, Wild
+
+![[CATSMALL.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN** | Any non-arctic |
+| **FREQUENCY:** | Uncommon |
+| **ORGANIZATION:** | Solitary |
+| **ACTIVITY CYCLE:** | Any |
+| **DIET:** | Carnivore |
+| **INTELLIGENCE:** | Animal (1) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Neutral |
+| **NO. APPEARING:** | 1 (2-5) |
+| **ARMOR CLASS:** | 5 |
+| **MOVEMENT:** | 18 |
+| **HIT DICE:** | 1 |
+| **THAC0:** | 19 |
+| **NO. OF ATTACKS:** | 3 |
+| **DAMAGE/ATTACK:** | 1-2/1-2/1-2 |
+| **SPECIAL ATTACKS:** | Rear claw rake, 1-2/1-2 |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | Nil |
+| **SIZE:** | T (1'-2' tall) |
+| **MORALE:** | Average (8-10) |
+| **XP VALUE:** | 35 |

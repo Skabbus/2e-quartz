@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Infravision",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Either a pinch of dried carrot or an agate",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "1 rd.",
+  "duration": "2 hrs. + 1 hr./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By means of this spell, the wizard enables the recipient to see in normal darkness up to 60 feet without light. Note that strong sources of light (fire, lanterns, torches, etc.) tend to blind this vision, so infravision does not function efficiently in the presence of such light sources. Invisible creatures are not detectable by infravision.\n\nThe material component of this spell is either a pinch of dried carrot or an agate."
+}
+```

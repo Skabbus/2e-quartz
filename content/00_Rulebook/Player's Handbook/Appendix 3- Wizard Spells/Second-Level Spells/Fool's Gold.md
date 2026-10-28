@@ -27,3 +27,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Illusion | — |
+
+```json
+{
+  "name": "Fool's Gold",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "See text",
+  "range": "10 yds.",
+  "aoe": "10 cu. in./level",
+  "castingTime": "1 rd.",
+  "duration": "1 hr./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "Copper coins can temporarily be changed to gold pieces, or brass items turned to solid gold, for the spell duration by means of this magic. The area of effect is 10 cubic inches per level--i.e., a 1-inch x 1-inch x 10-inch volume or equivalent, equal to about 150 gold coins. Any creature viewing the “gold” is entitled to a saving throw vs. spell, which can be modified by the creature's Wisdom; for every level of the wizard, the creature must subtract 1 from his dice roll. Thus, it is unlikely that fools' gold will be detected if created by a high-level caster. If the “gold” is struck hard by an object of cold-wrought iron, there is a slight chance it will revert to its natural state, depending on the material component used to create the “gold.” If a 25-gp citrine is powdered and sprinkled over the metal as this spell is cast, the chance that cold iron will return it to its true nature is 30%; if a 50-gp amber stone is powdered and used, the chance drops to 25%; if a 250-gp topaz is powdered and used, the chance drops to 10%; and if a 500-gp oriental (corundum) topaz is powdered and used, there is only a 1% chance that the cold iron will reveal that it is fools' gold."
+}
+```

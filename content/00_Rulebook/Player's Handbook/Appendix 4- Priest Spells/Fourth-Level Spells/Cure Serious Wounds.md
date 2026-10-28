@@ -30,3 +30,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy | Healing |
+
+```json
+{
+  "name": "Cure Serious Wounds *Reversible*",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "7",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "2d8+1 healing/damage",
+  "description": "This spell is a more potent version of the *cure light wounds* spell. When laying his hand upon a creature, the priest heals 2d8+1 points of wound or other injury damage to the creature's body. This healing cannot affect noncorporeal, nonliving, or extraplanar creatures.\n\n*Cause serious wounds,* the reverse of the spell, operates similarly to the *cause light wounds* spell, the victim having to be touched first. If the touch is successful, 2d8+1 points of damage are inflicted."
+}
+```

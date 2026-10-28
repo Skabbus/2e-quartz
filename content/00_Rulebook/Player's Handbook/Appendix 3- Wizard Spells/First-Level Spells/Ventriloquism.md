@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Ventriloquism",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "A parchment rolled up into a small cone",
+  "range": "10 yds./level, max. 90 yds.",
+  "aoe": "1 creature or object",
+  "castingTime": "1",
+  "duration": "4 rds. + 1 rd./level",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell enables the wizard to make his voice--or someone else's voice--or a similar sound seem to issue from someplace else, such as from another creature, a statue, from behind a door, down a passage, etc. The spellcaster can speak in any language that he knows, or make any sound that he can normally make. With respect to such voices and sounds, anyone rolling a successful saving throw vs. spell with a -2 penalty detects the ruse. If cast in conjunction with other illusions, the DM may rule greater penalties or disallow an independent saving throw against this spell in consideration of its contribution to the total effect of the combined illusion.\n\nThe material component of this spell is a parchment rolled up into a small cone."
+}
+```

@@ -2,6 +2,30 @@
 heading: Brownie, Basic (Monstrous Manual)
 source: "[[Brownie]]"
 url: https://regalgoblins.com/2erules/MM/DD03813.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - rural
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 4
+monster_appearing_max: 16
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Brownie, Basic

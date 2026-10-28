@@ -1,6 +1,32 @@
 ---
 heading: "Minotaur (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04000.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_hd_min: 6
+monster_hd_max: 6
+type:
+  - monster
 ---
 
 Minotaur

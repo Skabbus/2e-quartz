@@ -40,3 +40,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | War |
+
+```json
+{
+  "name": "Illusory Fortification",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "The priest's holy symbol, a handful of stones, powdered mortar, and a gem worth at least 3,000 gp",
+  "range": "240 yards",
+  "aoe": "Special",
+  "castingTime": "10 turns",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "The ritual required to cast this spell is time-consuming and extremely complex. As its name implies, *illusory fortification* creates an illusion of a wall of heavy stonework up to 30 feet tall and 160 yards long, topped with crenellations. The illusory wall can be of any color and apparent age, potentially allowing the caster to match the false wall with the real walls of an existing castle. The illusory wall must be continuous (it cannot form two or more shorter walls), but it can follow any corners or bends that the caster desires.\n\nIn addition to the wall, the spell creates the illusion of constant movement among the crenellations, as if defending troops were moving atop the wall. The formation of the crenellations makes it impossible for a distant observer to determine exactly how many and what types of defenders are present on the *illusory fortification*.The illusory wall remains in existence for 2d12 hours unless the spell is terminated earlier.\n\nThe spell has one very significant limitation: it is strictly two-dimensional and is visible from only one side (the side that the caster deems to be the \"outside\"). When viewed from the outside, the wall appears real; when viewed from the end, from above, or from the \"inside,\" the wall is totally invisible except for a faint outline of the shape of the wall. This means that friendly troops, concealed from enemy view by the illusory wall, can see their opponents clearly. The wall is most effective if friendly troops are informed of the wall's presence and are careful not to walk through the illusion. Such an occurrence does not end the spell, but it will probably advise the enemy of the nature of the wall.\n\nSpells cast at the wall and shots fired at the *illusory fortification* by siege engines appear to strike the wall and inflict normal damage. In reality, the missiles or spells pass through the illusion, possibly striking troops or real fortifications beyond. Such \"hits\" do not disturb the illusion.\n\nAs soon as an enemy unit moves within 10 yards of the *illusory fortification*, the spell terminates and the wall vanishes.\n\nThere are two ways in which the spell can be terminated before it expires. First, the priest can terminate the spell at any time. Second, if a friendly unit makes an attack, whether melee or missile combat, through the illusory wall from the \"inside\" to the \"outside,\" the spell terminates instantly.\n\nOnce the *illusory fortification* has been created, the priest does not need to concentrate on the wall. The spell remains in effect even if the casting priest is killed in the interim.\n\nThe material components are the priest's holy symbol, a handful of stones, powdered mortar, and a gem worth at least 3,000 gp. All components except the holy symbol are consumed in the casting."
+}
+```

@@ -5,7 +5,7 @@ source: https://regalgoblins.com/2erules/CT/DD02746.htm
 
 Armor Descriptions
 
-The armorerís craft evolved over the course of thousands of years, much as weapons evolved. The marvelous works of the German and Italian master armorers of the 15th century simply cannot be duplicated by craftsmen with more primitive technology. Therefore, armor is limited by time period just as weapons are.
+The armorer's craft evolved over the course of thousands of years, much as weapons evolved. The marvelous works of the German and Italian master armorers of the 15th century simply cannot be duplicated by craftsmen with more primitive technology. Therefore, armor is limited by time period just as weapons are.
 
 The following descriptions note the adjusted base AC for a full suit of each armor type, and also a generic encumbrance value for typical humans in that armor. Player characters may accept these encumbrance values or use the more advanced encumbrance rules to total up their equipment weight.
 
@@ -95,39 +95,39 @@ Last but not least, armors are loosely grouped into three basic typesóplate arm
 
 **Wood or bone armor.** (AC 7; enc. none; type leather) In primitive or savage settings, metal may be unavailable for armor. Wood or bone lamellars and reinforced coats are not uncommon among people with little access to metal. Usually, armor of this type concentrates on protecting the torso while leaving the arms and legs free for mobility.
 
-|  |  |  |
-| --- | --- | --- |
-| **Armor Type** | **Common in...** | **Rare in...** |
-| Banded mail | HY | CR, RM |
-| Brigandine | HY, RE, OR | ME, CR |
-| Bronze plate | BR | RM |
-| Chain mail | CR, HY | DA, RM, RE, OR |
-| Cord armor | SA, SV | ME, OR, BR |
-| Field plate armor | RE | HY |
-| Full plate armor | RE | HY |
-| Hide armor | SA, SV | BR, OR |
-| Improved mail | ME, CR | HY |
-| Leather armor | All | ó |
-| Light scale mail | SV, BR, RM, DA, OR | CR, HY, ME |
-| Metal lamellar | DA, ME | BR, RM, OR, CR |
-| Padded armor | All | ó |
-| Plate mail | HY | CR |
-| Ring mail | DA, CR, HY | RE, ME, OR, BR, RM |
-| Scale mail | BR, RM | DA, CR |
-| Splint mail | ME, OR | CR, HY, RE |
-| Studded leather armor | All except SA | ó |
-| Wood/bone armor | SA, SV | ó |
-| Back-and-breast | RE | HY |
-| Chain hauberk | DA | CR |
-| Chain-lamellar | ME | CR, DA |
-| Gallic armor | RM | ó |
-| Half-plate armor | RE | HY |
-| Hoplite armor | BR | RM |
-| Lamellar shirt | BR | ó |
-| Lorica hamata | RM | ó |
-| Lorica segmenta | RM | ó |
-| Mail and plate armor | CR | HY |
-| Three-quarter plate | RE | HY |
+|                       |                    |                    |
+| --------------------- | ------------------ | ------------------ |
+| **Armor Type**        | **Common in...**   | **Rare in...**     |
+| Banded mail           | HY                 | CR, RM             |
+| Brigandine            | HY, RE, OR         | ME, CR             |
+| Bronze plate          | BR                 | RM                 |
+| Chain mail            | CR, HY             | DA, RM, RE, OR     |
+| Cord armor            | SA, SV             | ME, OR, BR         |
+| Field plate armor     | RE                 | HY                 |
+| Full plate armor      | RE                 | HY                 |
+| Hide armor            | SA, SV             | BR, OR             |
+| Improved mail         | ME, CR             | HY                 |
+| Leather armor         | All                | ó                  |
+| Light scale mail      | SV, BR, RM, DA, OR | CR, HY, ME         |
+| Metal lamellar        | DA, ME             | BR, RM, OR, CR     |
+| Padded armor          | All                | ó                  |
+| Plate mail            | HY                 | CR                 |
+| Ring mail             | DA, CR, HY         | RE, ME, OR, BR, RM |
+| Scale mail            | BR, RM             | DA, CR             |
+| Splint mail           | ME, OR             | CR, HY, RE         |
+| Studded leather armor | All except SA      | ó                  |
+| Wood/bone armor       | SA, SV             | ó                  |
+| Back-and-breast       | RE                 | HY                 |
+| Chain hauberk         | DA                 | CR                 |
+| Chain-lamellar        | ME                 | CR, DA             |
+| Gallic armor          | RM                 | ó                  |
+| Half-plate armor      | RE                 | HY                 |
+| Hoplite armor         | BR                 | RM                 |
+| Lamellar shirt        | BR                 | ó                  |
+| Lorica hamata         | RM                 | ó                  |
+| Lorica segmenta       | RM                 | ó                  |
+| Mail and plate armor  | CR                 | HY                 |
+| Three-quarter plate   | RE                 | HY                 |
 
 SA=Stone Age; SV=Savage; BR=Bronze Age; RM=Roman; DA=Dark Ages; CR=Crusades; HY=Hundred Yearsí War; RE=Renaissance; ME=Middle Eastern; OR=Oriental.
 

@@ -1,6 +1,32 @@
 ---
 heading: "Locathah (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03978.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - coast
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 20
+monster_appearing_max: 200
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Locathah

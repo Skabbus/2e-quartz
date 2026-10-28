@@ -2,6 +2,36 @@
 heading: Horses, Riding (Monstrous Manual)
 source: "[[Horses]]"
 url: https://regalgoblins.com/2erules/MM/DD03953.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_appearing_min: 5
+monster_appearing_max: 50
+monster_hd_min: 3
+monster_hd_max: 3
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Horses, Riding

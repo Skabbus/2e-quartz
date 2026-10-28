@@ -1,6 +1,8 @@
 ---
 heading: "Ghoul (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03898.htm
+type:
+  - monster_group
 ---
 
 Ghoul

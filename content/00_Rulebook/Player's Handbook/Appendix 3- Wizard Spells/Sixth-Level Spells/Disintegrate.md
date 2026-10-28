@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Disintegrate",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A lodestone and a pinch of dust",
+  "range": "5 yds./level",
+  "aoe": "1 creature or (10 x 10 x 10 ft. cube)",
+  "castingTime": "6",
+  "duration": "Instantaneous",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "This spell causes matter to vanish. It affects even matter (or energy) of a magical nature, such as Bigby's forceful hand, but not a globe of invulnerability or an antimagic shell. Disintegration is instantaneous, and its effects are permanent. Any single creature can be affected, even undead. Nonliving matter, up to a 10-foot x 10-foot x 10-foot cube, can be obliterated by the spell. The spell creates a thin, green ray that causes physical material touched to glow and vanish, leaving traces of fine dust. Creatures that successfully save vs. spell have avoided the ray (material items have resisted the magic) and are not affected. Only the first creature or object struck can be affected.\n\nThe material components are a lodestone and a pinch of dust."
+}
+```

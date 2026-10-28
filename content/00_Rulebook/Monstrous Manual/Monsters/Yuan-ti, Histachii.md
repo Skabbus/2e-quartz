@@ -1,6 +1,30 @@
 ---
 heading: "Yaun-ti-- Histachii (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04096.htm
+monster_climate:
+  - tropical
+monster_terrain:
+  - forest
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 2
+monster_appearing_max: 20
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Yuan-ti, Histachii

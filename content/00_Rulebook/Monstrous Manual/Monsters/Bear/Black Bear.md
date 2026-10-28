@@ -2,6 +2,34 @@
 heading: Bear, Black (Monstrous Manual)
 source: "[[Bear]]"
 url: https://regalgoblins.com/2erules/MM/DD03805.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - common
+monster_appearing_min: 1
+monster_appearing_max: 3
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Bear, Black

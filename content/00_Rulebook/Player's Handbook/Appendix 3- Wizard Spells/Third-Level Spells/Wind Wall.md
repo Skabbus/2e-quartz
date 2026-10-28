@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Wind Wall",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A tiny fan and a feather of exotic origin",
+  "range": "10 yds./level",
+  "aoe": "wall, 10 x (5 ft./level, 2 ft. wide)",
+  "castingTime": "3",
+  "duration": "1 rd./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell brings forth an invisible vertical curtain of wind 2 feet thick and of considerable strength--a strong breeze sufficient to blow away any bird smaller than an eagle or tear papers and like materials from unsuspecting hands. (If in doubt, a saving throw vs. spell determines whether the subject maintains its grasp.) Normal insects cannot pass such a barrier. Loose materials, even cloth garments, fly upward when caught in a wind wall. Arrows and bolts are deflected upward and miss, while sling stones and other missiles under two pounds in weight receive a -4 penalty to a first shot and -2 penalties thereafter. Gases, most breath weapons, and creatures in gaseous form cannot pass this wall, although it is no barrier to noncorporeal creatures.\n\nThe material components are a tiny fan and a feather of exotic origin."
+}
+```

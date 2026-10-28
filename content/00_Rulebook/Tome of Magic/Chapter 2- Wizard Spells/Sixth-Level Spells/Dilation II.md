@@ -25,3 +25,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration | — |
+
+```json
+{
+  "name": "Dilation II",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "Special",
+  "castingTime": "5",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell functions exactly like the 4th-level *dilation I* spell, except that the area of effect of a 1st-, 2nd-, or 3rd- level spell is extended by 50%. Alternatively, the wizard may extend the area of effect of one 4th- or 5th-level spell by 25%."
+}
+```

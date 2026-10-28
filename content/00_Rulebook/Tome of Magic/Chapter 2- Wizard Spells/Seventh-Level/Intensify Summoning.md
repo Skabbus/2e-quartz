@@ -30,3 +30,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning, Necromancy | — |
+
+```json
+{
+  "name": "Intensify Summoning",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small leather pouch and a miniature silver candelabra",
+  "range": "Special",
+  "aoe": "Special",
+  "castingTime": "6",
+  "duration": "1 turn",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enhances the strength of creatures summoned by the caster via 1st through 6th level conjuration/summoning spells. Only spells which bring summoned creatures to the wizard are affected.**\n\nThe first two conjuration/summoning spells cast by the wizard within one turn following the intensify summoning spell are affected. Summoned creatures gain 2 hit points per hit die. The affected creatures retain their bonus hit points until the normal expiration of the spell that summoned them.\n\nThe material components are a small leather pouch and a miniature silver candelabra."
+}
+```

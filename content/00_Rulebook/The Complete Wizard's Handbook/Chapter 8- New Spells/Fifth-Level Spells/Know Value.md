@@ -31,3 +31,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Know Value",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 0,
+  "material": 1,
+  "materials": "See text",
+  "range": "10 yards",
+  "aoe": "10-foot cube",
+  "castingTime": "3",
+  "duration": "Instantaneous",
+  "save": "None",
+  "damage": "—",
+  "description": "*Know value* enables the caster to know the total value of all coins, gems, and jewelry within the area of effect, within the limits that follow.\n\nThe items must be clearly visible. They cannot be concealed on people, hidden in a chest, or buried in the ground. The items must also be contained within an area no larger than a 10-foot cube, and this area can be no farther than 10 yards from the caster.\n\nFurther, *know value* will only reveal the value of 75% of the total number of objects in a treasure pile, up to a maximum of 10 pieces; the DM determines which pieces the spell affects, and the caster does not know which particular pieces have been appraised. The spell does not detect the presence or value of magical items, and it ignores the value of personal property, such as clothing, weapons, and other equipment. *Know value* does not reveal the number or nature of any type of hidden objects.\n\nThe material components for this spell are a copper piece and a phony gem"
+}
+```

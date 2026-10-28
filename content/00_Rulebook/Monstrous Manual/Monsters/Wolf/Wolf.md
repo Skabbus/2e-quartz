@@ -1,6 +1,8 @@
 ---
 heading: "Wolf (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04088.htm
+type:
+  - monster_group
 ---
 
 Wolf

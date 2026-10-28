@@ -28,6 +28,25 @@ spellist:
 > 
 > By using this spell, the priest can create a shimmering aura of whirling light that surrounds the chosen creature. This protective aura makes the spell recipient more difficult to hit in hand-to-hand combat by providing a –1 bonus to the subject’s Armor Class. Against missile attacks or ranged spells aimed directly at the recipient, the *chaos ward* is even more effective since it provides a –2 bonus to Armor Class and a +2 bonus to any saving throws required. In addition, there is a chance that missile attacks or directed spells may be deflected or reflected by the chaotic energy of the shield, as shown below:
 > 
+
+```json
+{
+  "name": "Chaos Ward",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A playing card used by a rogue of chaotic alignment",
+  "range": "Touch",
+  "aoe": "Creature touched",
+  "castingTime": "5",
+  "duration": "2 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "By using this spell, the priest can create a shimmering aura of whirling light that surrounds the chosen creature. This protective aura makes the spell recipient more difficult to hit in hand-to-hand combat by providing a –1 bonus to the subject’s Armor Class. Against missile attacks or ranged spells aimed directly at the recipient, the *chaos ward* is even more effective since it provides a –2 bonus to Armor Class and a +2 bonus to any saving throws required. In addition, there is a chance that missile attacks or directed spells may be deflected or reflected by the chaotic energy of the shield, as shown below:"
+}
+```
+
 | d%1   | Effect                                                                                                                                                             |
 | ----- | ------------------------------------------------------------------------------------------------------------------------------------------------------------------ |
 | 01–85 | No unusual effect, subject gains normal benefits of chaos ward                                                                                                     |

@@ -1,35 +1,59 @@
 ---
 heading: "Elf-- Aquatic (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03885.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 20
+monster_appearing_max: 120
+monster_hd_min: 1
+monster_hd_max: 1
+type:
+  - monster
 ---
 
 Elf, Aquatic
 
 ![[AQUAELF.gif]]
 
-|  |  |
-| --- | --- |
-| **CLIMATE/TERRAIN:** | Temperate/Shallow salt water |
-| **FREQUENCY:** | Very rare |
-| **ORGANIZATION:** | Bands |
-| **ACTIVITY CYCLE:** | Any |
-| **DIET:** | Omnivore |
-| **INTELLIGENCE:** | High to genius (14-18) |
-| **TREASURE:** | K, Q, (I, O, X, Y) |
-| **ALIGNMENT:** | Chaotic good |
-| **NO. APPEARING:** | 20-120 |
-| **ARMOR CLASS:** | 6 (9) |
-| **MOVEMENT:** | 9, Sw 15 |
-| **HIT DICE:** | 1+1 |
-| **THAC0:** | 19 |
-| **NO. OF ATTACKS:** | 1 or 2 |
-| **DAMAGE/ATTACK:** | 1-8 (weapon) |
-| **SPECIAL ATTACKS:** | +1 with spears and tridents |
-| **SPECIAL DEFENSES:** | See below |
+|                       |                                   |
+| --------------------- | --------------------------------- |
+| **CLIMATE/TERRAIN:**  | Temperate/Shallow salt water      |
+| **FREQUENCY:**        | Very rare                         |
+| **ORGANIZATION:**     | Bands                             |
+| **ACTIVITY CYCLE:**   | Any                               |
+| **DIET:**             | Omnivore                          |
+| **INTELLIGENCE:**     | High to genius (14-18)            |
+| **TREASURE:**         | K, Q, (I, O, X, Y)                |
+| **ALIGNMENT:**        | Chaotic good                      |
+| **NO. APPEARING:**    | 20-120                            |
+| **ARMOR CLASS:**      | 6 (9)                             |
+| **MOVEMENT:**         | 9, Sw 15                          |
+| **HIT DICE:**         | 1+1                               |
+| **THAC0:**            | 19                                |
+| **NO. OF ATTACKS:**   | 1 or 2                            |
+| **DAMAGE/ATTACK:**    | 1-8 (weapon)                      |
+| **SPECIAL ATTACKS:**  | +1 with spears and tridents       |
+| **SPECIAL DEFENSES:** | See below                         |
 | **MAGIC RESISTANCE:** | 90% to *sleep* and *charm* spells |
-| **SIZE:** | M (6'+tall) |
-| **MORALE:** | Elite (13) |
-| **XP VALUE:** | 420 |
+| **SIZE:**             | M (6'+tall)                       |
+| **MORALE:**           | Elite (13)                        |
+| **XP VALUE:**         | 420                               |
 
 Beneath the crashing waves of wild coastlines lives the sea-elf, aquatic cousin of the woodland elves in conduct and outlook.
 

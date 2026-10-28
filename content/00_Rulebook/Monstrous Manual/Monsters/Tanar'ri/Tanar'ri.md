@@ -1,6 +1,8 @@
 ---
 heading: "Tanar'ri (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04069.htm
+type:
+  - monster_group
 ---
 
 Tanar'ri

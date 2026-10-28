@@ -31,3 +31,21 @@ sphere:
 > | :--- | :--- |
 > | Necromancy | Healing |
 
+```json
+{
+  "name": "Heal *Reversible*",
+  "school": "Necromancy",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "Touch",
+  "aoe": "1 creature",
+  "castingTime": "1 rd.",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "The very potent *heal* spell enables the priest to wipe away disease and injury in the creature who receives the benefits of the spell. It completely cures all diseases or blindness of the recipient and heals all points of damage suffered due to wounds or injury. It dispels a *feeblemind* spell. It cures those mental disorders caused by spells or injury to the brain. Naturally, the effects can be negated by later wounds, injuries, and diseases.\n\nThe reverse, *harm*, infects the victim with a disease and causes loss of all but 1d4 hit points, if a successful touch is inflicted. For creatures that are not affected by the *heal* or *harm* spell, see the *[[Cure Light Wounds|cure light wounds]]* spell."
+}
+```
+

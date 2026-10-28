@@ -1,6 +1,8 @@
 ---
 heading: "Pudding-- Deadly (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04034.htm
+type:
+  - monster_group
 ---
 
 Pudding, Deadly

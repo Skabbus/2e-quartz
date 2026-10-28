@@ -1,0 +1,70 @@
+---
+heading: Lammasu, Greater (Monstrous Manual)
+source: "[[Lammasu]]"
+url: https://regalgoblins.com/2erules/MM/DD03970.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+  - subtropical
+  - tropical
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 2
+monster_hd_min: 12
+monster_hd_max: 12
+type:
+  - monster
+---
+
+Lammasu, Greater
+
+![[LAMMASU.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Warm, with visits to other climes |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Solitary (Pride) |
+| **ACTIVITY CYCLE:** | Day |
+| **DIET:** | Herbivore |
+| **INTELLIGENCE:** | Supra-genius (19-20) |
+| **TREASURE:** | Nil |
+| **ALIGNMENT:** | Lawful good |
+| **NO. APPEARING:** | 1-2 |
+| **ARMOR CLASS:** | 3 |
+| **MOVEMENT:** | 15, Fl 30 (B) |
+| **HIT DICE:** | 12+7 |
+| **THAC0:** | 7 |
+| **NO. OF ATTACKS:** | 2 |
+| **DAMAGE/ATTACK:** | 2-12/2-12 |
+| **SPECIAL ATTACKS:** | See below |
+| **SPECIAL DEFENSES:** | See below |
+| **MAGIC RESISTANCE:** | 40% |
+| **SIZE:** | L (5' high at shoulder) |
+| **MORALE:** | Champion (16) |
+| **XP VALUE:** | 8,000 |

@@ -1,6 +1,29 @@
 ---
 heading: "Giant-- Reef (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03911.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 18
+monster_hd_max: 18
+type:
+  - monster
 ---
 
 Giant, Reef

@@ -32,3 +32,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Necromancy, Alteration | — |
+
+```json
+{
+  "name": "False Face",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small ball of natural rubber and a small mirror, both of which are consumed in the casting",
+  "range": "10 yards/level",
+  "aoe": "Caster",
+  "castingTime": "3",
+  "duration": "1 turn/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell enables a necromancer to copy the face of another human, demihuman, or humanoid, either living or dead. It has no effect on undead. The wizard gains the facial features of the chosen individual of either sex, providing the subject lies within range and the caster can clearly see the face he or she is trying to emulate.\n\nThe caster does not gain any sensory abilities (or disabilities) associated with the new face. For example, if the caster copies a blind man’s face, the wizard still retains his or her normal sight. The caster retains his or her normal voice, too, as well as height, bodily appearance, spells, and spell-like abilities.\n\nThe *false face* serves as an effective disguise, though it radiates a magical aura of necromancy. Spells that detect or banish illusions have no effect on this disguise; the *false face* is not illusionary. It may be reversed with *dispel magic*.The material components are a small ball of natural rubber and a small mirror, both of which are consumed in the casting."
+}
+```

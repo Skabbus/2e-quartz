@@ -1,6 +1,39 @@
 ---
 heading: "Nymph (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD04016.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - underground
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 4
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Nymph

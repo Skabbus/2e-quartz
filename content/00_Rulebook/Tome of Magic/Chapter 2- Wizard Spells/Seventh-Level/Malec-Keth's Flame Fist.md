@@ -29,3 +29,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Evocation | — |
+
+```json
+{
+  "name": "Malec-Keth's Flame Fist",
+  "school": "Evocation",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "One creature or object",
+  "castingTime": "1",
+  "duration": "1 round/level",
+  "save": "Special",
+  "damage": "—",
+  "description": "When this spell is completed, one of the caster's hands (his choice) bursts into light and is surrounded by an aura of flame. The caster suffers no damage from this effect. Illumination is equal to that of a torch.\n\nIf the wizard successfully touches an opponent, the subject must attempt a saving throw. If the roll is successful, the flame remains on the caster's hand (and he may use it to make further attacks until the spell's duration expires) and the touched creature suffers 1d4+2 points of fire damage. If the save is failed, the flame leaves the caster's hand to surround the victim's body in an aura of searing fire. The superheated aura burns for 1 round, inflicting 1d4 points of damage per level of the caster.\n\nInstead of attacking a creature, the caster may choose to touch any single object, which is automatically surrounded by the searing aura for 1 round and must succeed at an item saving throw vs. magical fire or be destroyed. The aura can surround an object up to 5 cubic feet in volume per level of the caster."
+}
+```

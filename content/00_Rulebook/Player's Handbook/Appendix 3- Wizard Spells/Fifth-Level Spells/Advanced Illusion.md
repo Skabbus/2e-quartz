@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Advanced Illusion",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of fleece and several grains of sand",
+  "range": "60 yds. + 10 yds./level",
+  "aoe": "One 40-ft. cube + (one 10-ft. cube/level)",
+  "castingTime": "1 rd.",
+  "duration": "1 rd./level",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell is essentially a *spectral forces* spell that operates through a program (similar to a *programmed illusion* spell) determined by the caster. It is thus unnecessary for the wizard to concentrate on the spell for longer than the round of casting it, as the program has then started and will continue without supervision. The illusion has visual, audio, olfactory, and thermal components. If any viewer actively attempts to disbelieve the spell, he gains a saving throw vs. spell. If any viewer successfully disbelieves and communicates this fact to other viewers, each such viewer gains a saving throw vs. spell with a +4 bonus.\n\nThe material components are a bit of fleece and several grains of sand."
+}
+```

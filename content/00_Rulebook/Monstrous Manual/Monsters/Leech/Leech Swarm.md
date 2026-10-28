@@ -2,6 +2,29 @@
 heading: Leech, Swarm (Monstrous Manual)
 source: "[[Leech]]"
 url: https://regalgoblins.com/2erules/MM/DD03971.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - swamp
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - uncommon
+monster_appearing_min: 200
+monster_appearing_max: 500
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Leech, Swarm
@@ -31,3 +54,7 @@ Leech, Swarm
 | **SIZE:**             | L (10' wide)                 |
 | **MORALE:**           | Unsteady (5)                 |
 | **XP VALUE:**         | 15                           |
+
+**Leech swarm**
+
+This is merely a massive swarm of small leeches, found only in the water. They move in a cloud 10 feet in diameter. Anyone caught in the swarm receives 1d10 points of damage per round from blood drain. Area-effect attacks that inflict 10 or more points of damage will disperse the swarm.

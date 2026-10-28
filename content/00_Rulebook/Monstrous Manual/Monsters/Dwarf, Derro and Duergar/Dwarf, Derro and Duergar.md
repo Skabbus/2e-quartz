@@ -1,6 +1,8 @@
 ---
 heading: "Dwarf-- Derro and Duergar (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03874.htm
+type:
+  - monster_group
 ---
 
 Dwarf![[DWARF2.gif]]

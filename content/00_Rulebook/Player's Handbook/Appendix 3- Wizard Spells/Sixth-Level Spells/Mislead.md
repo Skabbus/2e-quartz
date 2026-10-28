@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Mislead",
+  "school": "Illusion",
+  "verbal": 0,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "10 yds.",
+  "aoe": "Special",
+  "castingTime": "1",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When a *mislead* spell is cast by the wizard, he actually creates an illusory double at the same time that he is cloaked by *improved invisibility* magic (see the [[Improved Invisibility|4th-level spell]]). The wizard is then free to go elsewhere while his double seemingly moves away. The spell enables the illusion of the wizard to speak and gesture as if it were real, and there are full olfactory and touch components as well. A *true seeing* spell or a *gem of seeing* will reveal the illusion for what it is. A *detect invisibility* or *true seeing* spell or items such as a *gem of seeing* or *robe of eyes* can detect the invisible wizard (see the 5th-level wizard spell *[[Shadow Door|shadow door]]*)."
+}
+```

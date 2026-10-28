@@ -50,3 +50,21 @@ sphere:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Abjuration | Protection |
+
+```json
+{
+  "name": "Dispel Magic",
+  "school": "Abjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "60 yds",
+  "aoe": "30-ft. cube or 1 item",
+  "castingTime": "6",
+  "duration": "Special",
+  "save": "None",
+  "damage": "—",
+  "description": "When a priest casts this spell, it has a chance to neutralize or negate the magic it comes in contact with as follows:\n\nFirst, it has a chance to remove spells and spell-like effects (including device effects and innate abilities) from creatures or objects. Second, it may disrupt the casting or use of these in the area of effect at the instant the dispel is cast. Third, it may destroy magical potions (which are treated as 12th level for purposes of this spell).\n\nEach effect or potion in the spell's area is checked to determine if it is dispelled. The caster can always dispel his own magic; otherwise, the chance depends on the difference in level between the magical effect and the caster. The base chance of successfully dispelling is 11 or higher on 1d20. If the caster is of higher level than the creator of the effect to be dispelled, the difference is *subtracted* from this base number needed. If the caster is of lower level, the difference is *added* to the base. A die roll of 20 always succeeds and a die roll of 1 always fails. Thus, if a caster is 10 levels higher than the magic he is trying to dispel, only a roll of 1 prevents the effect from being dispelled.\n\nA *dispel magic* can affect only a specially enchanted item (such as a magical scroll, ring, wand, rod, staff, miscellaneous item, weapon, shield, or armor) if it is cast directly upon the item. This renders the item nonoperational for 1d4 rounds. An item possessed or carried by a creature has the creature's saving throw against this effect; otherwise, it is automatically rendered nonoperational. An interdimensional interface (such as a *bag of holding*) rendered nonoperational is temporarily closed. Note that an item's physical properties are unchanged: A nonoperational magical sword is still a sword.\n\nArtifacts and relics are not subject to this spell, but some of their spell-like effects may be, at the DM's option.\n\nNote that this spell, if successful, will release charmed and similarly beguiled creatures. Certain spells or effects cannot be dispelled; these are listed in the spell descriptions. Summary of Dispel Effects\n\n| Source of Effect | Resists As | Result of Dispel |\n| --- | --- | --- |\n| Caster | None | Dispel automatic |\n| Other caster/innate ability | Level/HD of other caster | Effect negated |\n| Wand | 6th level | Effect negated |\n| Staff | 8th level | Effect negated |\n| Potion | 12th level | Potion destroyed |\n| Other magical item | 12th, unless special | \\* |\n| Artifact | DM discretion | DM discretion |\n\n\\* Effect negated; if cast directly on item, item becomes nonoperational for 1d4 rounds."
+}
+```

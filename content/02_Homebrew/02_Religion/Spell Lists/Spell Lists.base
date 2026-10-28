@@ -51,7 +51,7 @@ views:
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Wards", "Time", "Elemental")
+            - sphere.containsAny("Wards", "Time", "War")
             - level != 0
             - level <= 3
     order:
@@ -67,7 +67,7 @@ views:
       or:
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("All", "Time", "Divination", "Numbers", "Astral")
+            - sphere.containsAny("All", "Time", "Divination", "Astral")
             - level != 0
         - and:
             - spellist.contains("Priest")
@@ -87,11 +87,11 @@ views:
       or:
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("All", "Charm", "Sun", "Healing", "Thought")
+            - sphere.containsAny("All", "Charm", "Healing", "Thought")
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Protection", "Creation", "Astral")
+            - sphere.containsAny("Protection", "Creation", "Astral", "Sun")
             - level != 0
             - level <= 3
     order:
@@ -127,11 +127,11 @@ views:
       or:
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("All", "Combat", "War")
+            - sphere.containsAny("All", "Combat", "War", "Guardian")
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Protection", "Guardian", "Healing")
+            - sphere.containsAny("Protection", "Healing")
             - level != 0
             - level <= 3
     order:
@@ -198,6 +198,7 @@ views:
       - file.name
       - level
       - school
+      - sphere
     sort:
       - property: level
         direction: ASC
@@ -231,7 +232,7 @@ views:
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Wards", "Protection", "Combat")
+            - sphere.containsAny("Wards", "Protection")
             - level != 0
             - level <= 3
     order:
@@ -271,7 +272,7 @@ views:
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Thought", "Combat", "Necromantic", "Chaos", "Charm")
+            - sphere.containsAny("Thought", "Necromantic", "Chaos", "Charm")
             - level != 0
             - level <= 3
     order:
@@ -351,7 +352,7 @@ views:
             - level != 0
         - and:
             - spellist.contains("Priest")
-            - sphere.containsAny("Numbers", "Summoning", "Creation")
+            - sphere.containsAny("Numbers", "Creation", "Astral", "Time")
             - level != 0
             - level <= 3
     order:

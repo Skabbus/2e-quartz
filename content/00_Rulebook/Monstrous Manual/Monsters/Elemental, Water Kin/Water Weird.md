@@ -2,6 +2,35 @@
 heading: Elemental, Water Kin, Water Weird (Monstrous Manual)
 source: "[[Elemental, Water Kin]]"
 url: https://regalgoblins.com/2erules/MM/DD03881.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - freshwater
+  - ocean
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 3
+monster_hd_min: 3
+monster_hd_max: 3
+type:
+  - monster
 ---
 
 Elemental, Water Kin, Water Weird

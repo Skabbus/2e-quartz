@@ -29,3 +29,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning, Necromancy | — |
+
+```json
+{
+  "name": "Summon Shadow",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A bit of smoky quartz",
+  "range": "10 yds.",
+  "aoe": "10-ft. cube",
+  "castingTime": "5",
+  "duration": "1 rd. + 1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When this spell is cast, the wizard conjures up one shadow (see the [Monstrous Manual](..\\MM\\DD04048.htm#a09806d5)) for every three levels of experience he has attained. These monsters are under the control of the spellcaster and attack his enemies on command. The shadows remain until slain, turned, or the spell duration expires.\n\nThe material component for this spell is a bit of smoky quartz."
+}
+```

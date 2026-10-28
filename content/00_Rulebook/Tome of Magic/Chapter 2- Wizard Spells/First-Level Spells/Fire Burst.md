@@ -26,3 +26,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Alteration, Evocation | — |
+
+```json
+{
+  "name": "Fire Burst",
+  "school": "",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "5 yards/level",
+  "aoe": "One 10'-radius circle",
+  "castingTime": "1",
+  "duration": "Instantaneous",
+  "save": "Neg.",
+  "damage": "—",
+  "description": "When this spell is cast upon a nonmagical fire (such as a campfire, lantern, or candle), it causes the fire to flash and shoot arrows of flame. All creatures within 10 feet of the fire source suffer 1 point of damage per level of the caster (maximum of 10 points). Victims who roll a saving throw successfully suffer no damage."
+}
+```

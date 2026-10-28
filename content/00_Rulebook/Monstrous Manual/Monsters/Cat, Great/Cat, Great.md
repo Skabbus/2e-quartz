@@ -1,6 +1,8 @@
 ---
 heading: "Cat-- Great (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03818.htm
+type:
+  - monster_group
 ---
 
 Cat, Great

@@ -26,3 +26,21 @@ spellist: Priest
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration | Creation |
+
+```json
+{
+  "name": "Create Holy Symbol",
+  "school": "Conjuration",
+  "verbal": 0,
+  "somatic": 0,
+  "material": 0,
+  "materials": "",
+  "range": "0Component: V",
+  "aoe": "The caster",
+  "castingTime": "2",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "When the words of this spell are uttered, a holy symbol appropriate to the priest's deity appears out of thin air. The item appears in the priest's hands. It may be used as a component for spells or for any other purpose for which the priest would normally use his holy symbol (such as turning undead). He may also opt to give it to a lower level priest of the same deity. The holy symbol is a permanent object."
+}
+```

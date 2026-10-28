@@ -26,3 +26,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Mirror Image",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 0,
+  "materials": "",
+  "range": "0",
+  "aoe": "6-ft. radius",
+  "castingTime": "2",
+  "duration": "3 rds./level",
+  "save": "None",
+  "damage": "—",
+  "description": "When a *mirror image* spell is invoked, the spellcaster causes from two to eight exact duplicates of himself to come into being around him. These images do exactly what the wizard does. Since the spell causes a blurring and slight distortion when it is cast, it is impossible for opponents to be certain which are the illusions and which is the actual wizard. When an image is struck by a melee or missile attack, magical or otherwise, it disappears, but any other existing images remain intact until struck. The images seem to shift from round to round, so that if the actual wizard is struck during one round, he cannot be picked out from among his images the next. To determine the number of images that appear, roll 1d4 and add 1 for every three levels of experience the wizard has achieved, to a maximum of eight images. At the end of the spell duration, all surviving images wink out."
+}
+```

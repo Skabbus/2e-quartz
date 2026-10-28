@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Divination | — |
+
+```json
+{
+  "name": "Clairaudience",
+  "school": "Divination",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A small horn of at least 100 gp value",
+  "range": "Unlimited",
+  "aoe": "60-ft. radius",
+  "castingTime": "3",
+  "duration": "1 rd./level",
+  "save": "None",
+  "damage": "—",
+  "description": "The *clairaudience* spell enables the wizard to concentrate upon some locale and hear in his mind any noise within a 60-foot radius of that point. Distance is not a factor, but the locale must be known--a place familiar to the spellcaster or an obvious one (such as behind a door, around a corner, in a copse of trees, etc.). Only sounds that are normally detectable by the wizard can be heard by use of this spell. Lead sheeting or magical protections prevent the operation of the spell, and the wizard has some indication that the spell is so blocked. The spell creates an invisible sensor, similar to that created by a *crystal ball* spell, that can be dispelled. The spell functions only on the wizard's current plane of existence.\n\nThe material component of the spell is a small horn of at least 100 gp value."
+}
+```

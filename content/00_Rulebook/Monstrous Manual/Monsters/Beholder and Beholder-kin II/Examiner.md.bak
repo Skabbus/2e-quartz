@@ -1,0 +1,65 @@
+---
+heading: Beholder and Beholder-kin, Examiner (Monstrous Manual)
+source: "[[Beholder and Beholder-kin II]]"
+url: https://regalgoblins.com/2erules/MM/DD03809.htm
+monster_climate:
+  - arctic
+  - temperate
+  - subtropical
+  - tropical
+  - arid
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+  - freshwater
+  - ocean
+  - underground
+monster_settlement:
+  - wilderness
+monster_plane:
+  - material
+monster_activity:
+  - night
+monster_primary:
+monster_frequency:
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 6
+monster_hd_min: 8
+monster_hd_max: 8
+type:
+  - monster
+---
+
+Beholder and Beholder-kin, Examiner
+
+![[BEHOLD2.gif]]
+
+|  |  |
+| --- | --- |
+| **CLIMATE/TERRAIN:** | Any remote |
+| **FREQUENCY:** | Very rare |
+| **ORGANIZATION:** | Squad |
+| **ACTIVITY CYCLE:** | Night |
+| **DIET:** | Omnivore |
+| **INTELLIGENCE:** | Genius  (17-18) |
+| **TREASURE:** | Vx4 |
+| **ALIGNMENT:** | Lawful neutral |
+| **NO. APPEARING:** | 1-6 |
+| **ARMOR CLASS:** | 5 |
+| **MOVEMENT:** | Fl 6 (C) |
+| **HIT DICE:** | 8 |
+| **THAC0:** | 13 |
+| **NO. OF ATTACKS:** | 1 |
+| **DAMAGE/ATTACKS:** | 1-6 or weapon |
+| **SPECIAL ATTACKS:** | Magic |
+| **SPECIAL DEFENSES:** | Magic |
+| **MAGIC RESISTANCE:** | 25% |
+| **SIZE:** | M (4' in diameter) |
+| **MORALE:** | Steady (11) |
+| **XP VALUE:** | 6,000 |

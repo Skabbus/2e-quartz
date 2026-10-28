@@ -1,6 +1,32 @@
 ---
 heading: "Giant-- Cyclcops (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03900.htm
+monster_climate:
+  - temperate
+monster_terrain:
+  - hills
+  - mountains
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+  - very_rare
+monster_appearing_min: 1
+monster_appearing_max: 8
+monster_hd_min: 5
+monster_hd_max: 13
+type:
+  - monster
 ---
 
 Giant, Cyclops![[CYCLOPSG.gif]]

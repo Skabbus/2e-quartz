@@ -1,6 +1,8 @@
 ---
 heading: "Golem-- Stone Variants (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03933.htm
+type:
+  - monster_group
 ---
 
 Golem, Stone Variants

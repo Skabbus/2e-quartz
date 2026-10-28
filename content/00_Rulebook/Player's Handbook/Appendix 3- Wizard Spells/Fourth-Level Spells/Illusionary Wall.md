@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Illusion/Phantasm | — |
+
+```json
+{
+  "name": "Illusionary Wall",
+  "school": "Illusion",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A rare dust that costs at least 400 gp and requires four days to prepare.",
+  "range": "30 yds.",
+  "aoe": "1 x 10 x 10 ft.",
+  "castingTime": "4",
+  "duration": "Permanent",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell creates the illusion of a wall, floor, ceiling, or similar surface, which is permanent until dispelled. It appears absolutely real when viewed (even magically, as with the priest spell *true seeing* or its equivalent), but physical objects can pass through it without difficulty. When the spell is used to hide pits, traps, or normal doors, normal demihuman and magical detection abilities work normally, and touch or probing searches reveal the true nature of the surface, though they do not cause the illusion to disappear.\n\nThe material component is a rare dust that costs at least 400 gp and requires four days to prepare."
+}
+```

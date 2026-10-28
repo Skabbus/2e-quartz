@@ -1,6 +1,8 @@
 ---
 heading: "Crocodile (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03830.htm
+type:
+  - monster_group
 ---
 
 Crocodile

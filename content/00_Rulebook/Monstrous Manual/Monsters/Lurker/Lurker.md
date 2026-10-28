@@ -1,6 +1,8 @@
 ---
 heading: "Lurker (Monstrous Manual)"
 source: https://regalgoblins.com/2erules/MM/DD03979.htm
+type:
+  - monster_group
 ---
 
 Lurker

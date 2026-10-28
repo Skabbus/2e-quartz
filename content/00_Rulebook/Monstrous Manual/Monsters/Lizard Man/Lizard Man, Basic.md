@@ -2,6 +2,32 @@
 heading: Lizard Man, Basic (Monstrous Manual)
 source: "[[00_Rulebook/Monstrous Manual/Monsters/Lizard Man/Lizard Man]]"
 url: https://regalgoblins.com/2erules/MM/DD03977.htm
+monster_climate:
+  - temperate
+  - subtropical
+  - tropical
+monster_terrain:
+  - swamp
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 8
+monster_appearing_max: 15
+monster_hd_min: 2
+monster_hd_max: 2
+type:
+  - monster
 ---
 
 Lizard Man, Basic

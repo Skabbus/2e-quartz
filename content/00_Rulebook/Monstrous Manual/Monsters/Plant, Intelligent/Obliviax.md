@@ -2,6 +2,36 @@
 heading: Plant, Intelligent, Obliviax (Monstrous Manual)
 source: "[[Plant, Intelligent]]"
 url: https://regalgoblins.com/2erules/MM/DD04032.htm
+monster_climate:
+  - subtropical
+  - tropical
+monster_terrain:
+  - plains
+  - forest
+  - hills
+  - mountains
+  - desert
+  - swamp
+  - coast
+monster_settlement:
+  - wilderness
+  - rural
+  - urban
+  - ruins
+monster_plane:
+  - material
+monster_activity:
+  - day
+  - twilight
+  - night
+monster_primary:
+monster_frequency:
+  - rare
+monster_appearing_min: 2
+monster_appearing_max: 12
+monster_needs_review: true
+type:
+  - monster
 ---
 
 Plant, Intelligent, Obliviax

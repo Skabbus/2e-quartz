@@ -27,3 +27,21 @@ spellist: Wizard
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration | — |
+
+```json
+{
+  "name": "Duplicate",
+  "school": "Conjuration",
+  "verbal": 0,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A pinch of coal dust",
+  "range": "Touch",
+  "aoe": "One object",
+  "castingTime": "1 round",
+  "duration": "1 hour/level",
+  "save": "None",
+  "damage": "—",
+  "description": "This spell creates an exact copy of any single item the caster touches. The item to be copied must fit inside a 20-foot cube. The spell has no effect on living creatures, including undead, nor will it copy magical items. The *duplicated* item is identical to the original in every way--for instance, a duplicated sword can be wielded to inflict damage as a normal sword--but detect magic can reveal its true nature and *dispel magic* can cause it to disappear. The *duplicated* object exists for 1 hour/level of the caster, at which time it vanishes; *permanency* does not affect duplicated items.\n\nThe material component for this spell is a pinch of coal dust."
+}
+```

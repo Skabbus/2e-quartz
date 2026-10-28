@@ -28,3 +28,21 @@ spellist:
 > | **School** | **Sphere** |
 > | :--- | :--- |
 > | Conjuration/Summoning | — |
+
+```json
+{
+  "name": "Glitterdust",
+  "school": "Conjuration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "Ground mica",
+  "range": "10 yds./level",
+  "aoe": "20 ft. cube",
+  "castingTime": "2",
+  "duration": "Special",
+  "save": "Special",
+  "damage": "—",
+  "description": "This spell creates a cloud of glittering golden particles within the area of effect. Those in the area must roll a successful saving throw vs. spell or be blinded (-4 penalties to attack rolls, saving throws, and Armor Class) for 1d4+1 rounds. In addition, all within the area are covered by the dust, which cannot be removed and continues to sparkle until it fades. Note that this reveals invisible creatures. The dust fades in 1d4 rounds plus one round per caster level. Thus, glitterdust cast by a 3rd-level wizard lasts for four to seven rounds.\n\nThe material component is ground mica."
+}
+```
