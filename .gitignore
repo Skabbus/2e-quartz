@@ -12,3 +12,9 @@ replit.nix
 .quartz/
 quartz/cli/tui/dist/
 .turbo/
+content/.copilot
+content/.opencode
+content/.smart-env
+content/00_Rulebook/Monstrous Manual/Appendix- Tokens/
+content/04_Brainstorms/
+content/copilot
