@@ -12,6 +12,7 @@ sphere:
   - Summoning
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|con] 6 | Summon Undead

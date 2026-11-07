@@ -38,6 +38,7 @@ monster_hd_max: 16
 monster_needs_review: false
 type:
   - monster
+no_token: true
 ---
 
 Elemental, Air Kin![[ELEASSYL.gif]], Aerial Servant

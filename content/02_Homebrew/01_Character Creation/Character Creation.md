@@ -312,9 +312,9 @@ Your character needs scores for Strength, Dexterity, Constitution, Intelligence,
 | Half-elf | 62 years                     | 83 years                    | 125 years                 |
 | Halfling | 50 years                     | 67 years                    | 100 years                 |
 | Human    | 45 years                     | 60 years                    | 90 years                  |
-Middle Age: -2 penalties to physical stats (Str/Dex/Con); +1 to mental stat (Int/Wis)
-Old Age: Additional -5 penalties to physical stats (Str/Dex/Con); +1 to mental stat (Int/Wis)
-Venerable: Additional -3 penalties to physical stats (Str/Dex/Con); +2 to mental stat (Int/Wis)
+- 1st level of aging (Middle): Players take a total penalty of 2 to their physical stats, and gain a bonus of 1 to their mental stats.
+- 2nd level of aging (Old): Players take 5 more penalties to physical stats, and gain another 1 bonus to mental.
+- 3rd level of aging (Venerable): Players take another 3 penalties to physical stats, and gain another bonus of 2 to mental stats.
 
 
 

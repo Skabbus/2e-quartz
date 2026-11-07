@@ -9,6 +9,7 @@ school:
 spellist:
   - Wizard
   - Necromancer
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Graft Flesh

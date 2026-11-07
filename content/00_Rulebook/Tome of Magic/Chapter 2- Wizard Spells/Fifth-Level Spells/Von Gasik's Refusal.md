@@ -7,6 +7,7 @@ level: 5
 school:
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Von Gasik's Refusal

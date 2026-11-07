@@ -9,6 +9,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Otiliuke's Resilient Sphere

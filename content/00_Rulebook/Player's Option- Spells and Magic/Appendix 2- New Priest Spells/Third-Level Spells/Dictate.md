@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Charm
   - Law
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Dictate

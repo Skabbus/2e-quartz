@@ -7,6 +7,7 @@ level: 8
 school:
   - Invocation/Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 8 | Gunther's Kaleidoscopic Strike

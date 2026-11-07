@@ -7,6 +7,7 @@ level: 1
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Lasting Breath

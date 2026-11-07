@@ -34,7 +34,7 @@ type:
 
 Fungus, Violet
 
-![[FUNGUS.gif]]
+![[FUNGUS.gif]]![[Violet_Fungus_Medium_Plant_01_C.png]]
 
 |  |  |
 | --- | --- |

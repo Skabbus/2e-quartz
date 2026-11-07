@@ -9,6 +9,7 @@ school:
   - Conjuration/Summoning
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Leomund's Secret Chest

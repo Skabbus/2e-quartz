@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Law
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Strength of One

@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Sun
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Blessed Warmth

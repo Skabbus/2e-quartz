@@ -8,6 +8,7 @@ school:
   - Divination
   - Enchantment
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Divining Rod

@@ -31,7 +31,7 @@ type:
 
 Elephant, Mastodon
 
-![[ELEPHANT.gif]]
+![[ELEPHANT.gif]]![[Elephant_Huge_Beast_01.png]]
 
 |  |  |
 | --- | --- |

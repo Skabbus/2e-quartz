@@ -7,6 +7,7 @@ level: 6
 school:
   - Evocation
 spellist: Wizard
+spell_damage: "+1 per die of damage (max 5 spells)"
 ---
 
 > [!spell|inv] 6 | Augmentation II
@@ -16,7 +17,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 6 | 3 turns |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | +1 per die of damage (max 5 spells) |
 > | **Components** | **Material** |
 > | S V M | A pair of concentric circles of gold or platinum |
 > 
@@ -43,7 +44,7 @@ spellist: Wizard
   "castingTime": "6",
   "duration": "3 turns",
   "save": "None",
-  "damage": "—",
+  "damage": "+1 per die of damage (max 5 spells)",
   "description": "This spell functions exactly like the 3rd-level *augmentation I* spell except that five spells of levels 1-3 may be affected. For each die of damage caused by augmented spells, one hit point is added to the damage total.\n\n*Augmentation II* affects the first five spells which cause direct damage that are cast within the duration of the *augmentation II* spell. Only spells that cause direct physical damage are affected by this spell.\n\nThe material component is a pair of concentric circles of gold or platinum."
 }
 ```

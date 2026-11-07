@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 2d8x4, 1d8x8
 ---
 
 > [!spell|con] 6 | Fire Seeds

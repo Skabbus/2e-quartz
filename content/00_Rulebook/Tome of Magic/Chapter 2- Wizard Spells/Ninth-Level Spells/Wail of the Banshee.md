@@ -7,6 +7,7 @@ level: 9
 school:
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|nec] 9 | Wail of the Banshee

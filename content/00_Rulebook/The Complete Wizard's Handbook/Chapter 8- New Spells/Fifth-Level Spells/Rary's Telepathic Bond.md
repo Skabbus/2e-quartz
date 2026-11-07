@@ -8,6 +8,7 @@ school:
   - Divination
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Rary's Telepathic Bond

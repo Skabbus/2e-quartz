@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Divination
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 5 | Thoughtwave

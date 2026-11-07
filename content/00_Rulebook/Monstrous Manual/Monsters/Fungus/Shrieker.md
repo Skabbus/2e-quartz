@@ -34,7 +34,7 @@ type:
 
 Fungus, Shrieker
 
-![[FUNGUS.gif]]
+![[FUNGUS.gif]]![[Shrieker [CR0,Medium,Plant].png]]
 
 |  |  |
 | --- | --- |

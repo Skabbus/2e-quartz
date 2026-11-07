@@ -10,6 +10,7 @@ school:
 level: 4
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 4 | Conjure Elemental-kin

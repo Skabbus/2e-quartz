@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Astral
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Plane Shift

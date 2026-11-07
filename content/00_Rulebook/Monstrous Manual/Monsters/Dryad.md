@@ -33,7 +33,7 @@ type:
 
 Dryad
 
-![[DRYAD.gif]]
+![[DRYAD.gif]]![[Dryad_Medium_Fey_01.png]]
 
 |  |  |
 | --- | --- |

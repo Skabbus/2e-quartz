@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Numbers
   - Charm
+spell_damage:
 ---
 
 > [!spell|enc] 2 | Music of the Spheres

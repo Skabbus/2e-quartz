@@ -33,7 +33,7 @@ type:
 
 Bugbear
 
-![[BUGBEAR.gif]]
+![[BUGBEAR.gif]]![[Bugbear_Medium_Humanoid_04.png]]
 
 |  |  |
 | --- | --- |

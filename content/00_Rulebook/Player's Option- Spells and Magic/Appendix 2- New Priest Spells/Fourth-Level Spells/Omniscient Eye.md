@@ -9,6 +9,7 @@ school:
 sphere: Divination
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 4 | Omniscient Eye

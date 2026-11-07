@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Numbers
   - Creation
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Addition

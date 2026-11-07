@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Weather
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Obscurement

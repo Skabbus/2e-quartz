@@ -39,7 +39,7 @@ type:
 
 Crawling Claw
 
-![[CRAWLCLW.gif]]
+![[CRAWLCLW.gif]]![[Crawling_Claw_Tiny_Undead_02.png]]
 
 |                       |                                            |
 | --------------------- | ------------------------------------------ |

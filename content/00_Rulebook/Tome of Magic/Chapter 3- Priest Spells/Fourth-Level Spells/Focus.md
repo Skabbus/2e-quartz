@@ -8,6 +8,7 @@ school:
   - Invocation
 sphere: All
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 4 | Focus

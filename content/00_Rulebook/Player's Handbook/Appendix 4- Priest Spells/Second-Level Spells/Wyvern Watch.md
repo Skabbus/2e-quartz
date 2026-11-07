@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Guardian
+spell_damage:
 ---
 
 > [!spell|inv] 2 | Wyvern Watch

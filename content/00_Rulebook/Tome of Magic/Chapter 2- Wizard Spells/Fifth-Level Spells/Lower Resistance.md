@@ -8,6 +8,7 @@ school:
   - Abjuration
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Lower Resistance

@@ -10,6 +10,7 @@ school:
   - Alchemy
 spellist:
   - Wizard
+spell_damage: 1d4/level (max 12d4) + 1d4/5 levels (splash)
 ---
 
 > [!spell|con] 4 | Vitriolic Sphere
@@ -19,7 +20,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 4 | Special |
 > | **Save** | **Damage** |
-> | 1/2 | — |
+> | 1/2 | 1d4/level (max 12d4) + 1d4/5 levels (splash) |
 > | **Components** | **Material** |
 > | S V M | A drop of giant slug bile |
 > | **Subtlety** | **Knockdown** |
@@ -48,7 +49,7 @@ spellist:
   "castingTime": "4",
   "duration": "Special",
   "save": "1/2",
-  "damage": "—",
+  "damage": "1d4/level (max 12d4) + 1d4/5 levels (splash)",
   "description": "This spell conjures a one-foot sphere of glowing emerald acid that the caster can direct to strike any target within range. When it reaches its target, the sphere explodes and drenches the victim in potent acid. The victim suffers 1d4 points of damage per caster level (to a maximum damage of 12d4) and may attempt a saving throw vs. spell for half damage. If the victim fails his saving throw, he continues to suffer acid damage in the following rounds, sustaining two less dice of damage each round. For example, an 8th-level wizard inflicts 8d4 damage with this spell on the first round, 6d4 on the second round, 4d4 on the third round, 2d4 on the fourth round, and the spell ends in the fifth round. Each round, the subject is entitled to a saving throw—the spell ends when he succeeds, or when the acid damage runs its course. The acid can also be neutralized with soda, ash, lye, charcoal, or removed with a large quantity of water.\n\nThe *vitriolic sphere* also splashes acid in a 5-foot radius around the primary target. Any creatures within the splash radius must save vs. paralyzation or suffer a splash hit that inflicts 1d4 points of damage per every five caster levels. Splash hits do not cause continuing damage. The material component for this spell is a drop of giant slug bile."
 }
 ```

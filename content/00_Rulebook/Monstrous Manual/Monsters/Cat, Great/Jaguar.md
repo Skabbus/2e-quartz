@@ -30,7 +30,7 @@ type:
 
 Cat, Great, Jaguar
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Jaguar_large_beast_03.png]]
 
 |  |  |
 | --- | --- |

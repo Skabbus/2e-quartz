@@ -1,6 +1,6 @@
 ---
 heading: Dog, Wild Dog (Monstrous Manual)
-source: "[[Dog 1]]"
+source: "[[Dog]]"
 url: https://regalgoblins.com/2erules/MM/DD03837.htm
 monster_climate:
   - arctic
@@ -41,7 +41,7 @@ type:
 
 Dog, Wild Dog
 
-![[DOG.gif]]
+![[DOG.gif]]![[Sled_Dog_Medium_Beast_A_02.png]]
 
 |  |  |
 | --- | --- |

@@ -9,6 +9,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Avoidance *Reversible*

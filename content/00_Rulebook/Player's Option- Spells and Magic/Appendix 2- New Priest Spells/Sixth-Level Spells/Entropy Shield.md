@@ -9,6 +9,7 @@ school:
 sphere: Chaos
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 6 | Entropy Shield

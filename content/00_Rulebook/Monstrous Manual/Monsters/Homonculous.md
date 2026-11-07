@@ -1,5 +1,5 @@
 ---
-heading: "Homonculus (Monstrous Manual)"
+heading: Homonculus (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03951.htm
 monster_climate:
   - arctic
@@ -36,6 +36,7 @@ monster_hd_min: 2
 monster_hd_max: 2
 type:
   - monster
+no_token: true
 ---
 
 Homonculous

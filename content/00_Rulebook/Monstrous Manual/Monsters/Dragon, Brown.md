@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Brown (Monstrous Manual)"
+heading: Dragon-- Brown (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03858.htm
 monster_climate:
   - arid
@@ -25,6 +25,7 @@ monster_hd_min: 14
 monster_hd_max: 14
 type:
   - monster
+no_token: true
 ---
 
 Brown Dragon![[BRNDRAGN.gif]]

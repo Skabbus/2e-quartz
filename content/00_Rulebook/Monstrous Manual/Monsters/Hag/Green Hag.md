@@ -39,7 +39,7 @@ type:
 
 Hag, Green
 
-![[HAG.gif]]
+![[HAG.gif]]![[Green_Hag_Medium_Fey_A_02.png]]
 
 |  |  |
 | --- | --- |

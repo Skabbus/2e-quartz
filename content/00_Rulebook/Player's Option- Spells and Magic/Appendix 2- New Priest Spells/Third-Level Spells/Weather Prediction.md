@@ -9,6 +9,7 @@ school:
 sphere: Weather
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Weather Prediction

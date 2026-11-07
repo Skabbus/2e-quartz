@@ -1,5 +1,5 @@
 ---
-heading: "Gith-- Pirate (Monstrous Manual)"
+heading: Gith-- Pirate (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03919.htm
 monster_climate:
   - arctic
@@ -36,6 +36,7 @@ monster_hd_min: 7
 monster_hd_max: 11
 type:
   - monster
+no_token: true
 ---
 
 Gith, Pirate

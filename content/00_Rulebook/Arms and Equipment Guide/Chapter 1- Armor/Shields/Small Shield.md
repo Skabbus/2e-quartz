@@ -1,6 +1,8 @@
 ---
-heading: "Small Shield (Arms and Equipment Guide)"
+heading: Small Shield (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00029.htm
+type:
+  - WP
 ---
 
 **Small Shield**

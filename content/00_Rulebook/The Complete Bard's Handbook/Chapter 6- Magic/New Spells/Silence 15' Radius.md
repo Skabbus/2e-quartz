@@ -9,6 +9,7 @@ school:
 spellist:
   - Bard
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Silence 15' Radius

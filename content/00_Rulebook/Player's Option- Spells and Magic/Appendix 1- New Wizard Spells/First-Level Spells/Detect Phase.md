@@ -9,6 +9,7 @@ school:
 level: 1
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Detect Phase

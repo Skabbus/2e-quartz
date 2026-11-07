@@ -9,6 +9,7 @@ school:
 sphere: Animal
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Control Animal

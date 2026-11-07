@@ -1,5 +1,5 @@
 ---
-heading: "Grippli (Monstrous Manual)"
+heading: Grippli (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03940.htm
 monster_climate:
   - tropical
@@ -24,6 +24,7 @@ monster_hd_min: 1
 monster_hd_max: 1
 type:
   - monster
+no_token: true
 ---
 
 Grippli

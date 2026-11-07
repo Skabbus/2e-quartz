@@ -10,6 +10,7 @@ school:
   - Enchantment/Charm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Guards and Wards

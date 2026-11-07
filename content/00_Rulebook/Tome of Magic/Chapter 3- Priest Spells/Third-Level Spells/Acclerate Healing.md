@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Time
 spellist: Priest
+spell_damage: 2 hp/day (normal rest) or 6 hp/day (bed)
 ---
 
 > [!spell|alt] 3 | Acclerate Healing
@@ -17,7 +18,7 @@ spellist: Priest
 > | **Casting Time** | **Duration** |
 > | 1 turn | 1-4 days |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 2 hp/day (normal rest) or 6 hp/day (bed) |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -40,7 +41,7 @@ spellist: Priest
   "castingTime": "1 turn",
   "duration": "1-4 days",
   "save": "None",
-  "damage": "—",
+  "damage": "2 hp/day (normal rest) or 6 hp/day (bed)",
   "description": "This spell enables the affected creature to experience natural healing at twice the normal rate for 1-4 days. In other words, a person affected by *accelerate healing* regains 2 hit points per day of normal rest or 6 hit points per day spent resting in bed. The spell has no effect on *potions of healing* or other magical forms of healing."
 }
 ```

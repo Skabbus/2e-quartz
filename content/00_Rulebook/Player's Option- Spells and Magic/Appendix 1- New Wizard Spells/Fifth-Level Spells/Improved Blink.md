@@ -9,6 +9,7 @@ school:
 level: 5
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Improved Blink

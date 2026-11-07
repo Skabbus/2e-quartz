@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Fumble

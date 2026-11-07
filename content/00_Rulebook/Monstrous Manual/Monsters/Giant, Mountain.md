@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Mountain (Monstrous Manual)"
+heading: Giant-- Mountain (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03910.htm
 monster_climate:
   - arctic
@@ -29,6 +29,7 @@ monster_hd_min: 15
 monster_hd_max: 15
 type:
   - monster
+no_token: true
 ---
 
 Giant, Mountain**

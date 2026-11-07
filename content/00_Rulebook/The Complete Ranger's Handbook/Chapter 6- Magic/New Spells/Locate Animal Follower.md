@@ -10,6 +10,7 @@ sphere: Animal
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 2 | Call Follower *Reversible*

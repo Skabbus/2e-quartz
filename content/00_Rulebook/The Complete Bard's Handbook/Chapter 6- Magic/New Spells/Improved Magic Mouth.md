@@ -9,6 +9,7 @@ school:
 spellist:
   - Bard
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Improved Magic Mouth

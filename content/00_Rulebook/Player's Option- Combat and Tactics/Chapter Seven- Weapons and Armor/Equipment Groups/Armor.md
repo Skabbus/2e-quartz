@@ -9,7 +9,7 @@ This list sums up the types of armor available by each time period. There are tw
 
 The [[00_Rulebook/Player's Option- Combat and Tactics/Chapter Seven- Weapons and Armor/Equipment Groups/Armor#9e53bbbc|armor table]] also provides information on pieces of armor used together. It was quite common for armor to be “mismatched;” the hoplite of ancient Greece wore a bronze breastplate, greaves, and helmet with a leather skirt, while the Moghul Indians used an iron breastplate sewn into a complete suit of chainmail.
 
-**Armor Table**Full Suits****
+**Armor Table** **Full Suits**
 
 |                  |            |          |           |            |         |            |         |            |          |            |
 | ---------------- | ---------- | -------- | --------- | ---------- | ------- | ---------- | ------- | ---------- | -------- | ---------- |

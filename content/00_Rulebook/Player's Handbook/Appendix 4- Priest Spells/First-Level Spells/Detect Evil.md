@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - All
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Detect Evil *Reversible*

@@ -8,6 +8,7 @@ school:
 level: 5
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 5 | Advanced Illusion

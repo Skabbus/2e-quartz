@@ -1,5 +1,5 @@
 ---
-heading: "Githyanki (Monstrous Manual)"
+heading: Githyanki (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03920.htm
 monster_climate:
   - arctic
@@ -36,6 +36,7 @@ monster_appearing_max: 8
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Githyanki

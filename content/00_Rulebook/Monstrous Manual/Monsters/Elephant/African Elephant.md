@@ -30,7 +30,7 @@ type:
 
 Elephant, Elephant (African)
 
-![[ELEPHANT.gif]]
+![[ELEPHANT.gif]]![[Elephant_Huge_Beast_01.png]]
 
 |                       |                                              |
 | --------------------- | -------------------------------------------- |

@@ -6,7 +6,7 @@ url: https://regalgoblins.com/2erules/MM/DD03835.htm
 
 Dinosaur, Ankylosaurus
 
-![[DINOS.gif]]
+![[DINOS.gif]]![[Ankylosaurus_Huge_Scale166_Beast_A_01.png]]
 
 |  |  |
 | --- | --- |

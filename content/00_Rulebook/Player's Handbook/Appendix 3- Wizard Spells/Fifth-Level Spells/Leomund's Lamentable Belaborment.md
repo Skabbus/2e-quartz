@@ -9,6 +9,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 5 | Leomund's Lamentable Belaborment

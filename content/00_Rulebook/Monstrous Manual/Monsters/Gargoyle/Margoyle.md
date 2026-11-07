@@ -42,7 +42,7 @@ type:
 
 Gargoyle, Margoyle
 
-![[GARGOYL.gif]]
+![[GARGOYL.gif]]![[Gargoyle_Medium_Elemental_B_05.png]]
 
 |  |  |
 | --- | --- |

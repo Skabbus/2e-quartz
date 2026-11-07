@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Time
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Modify Memory

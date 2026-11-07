@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Astral
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Astral Spell

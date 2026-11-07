@@ -10,6 +10,7 @@ sphere: Plant
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Allergy Field

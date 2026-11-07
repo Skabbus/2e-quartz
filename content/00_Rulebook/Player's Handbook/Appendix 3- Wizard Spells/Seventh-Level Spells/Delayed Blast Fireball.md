@@ -8,6 +8,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage: 1d6+1/die (max 10d6)
 ---
 
 > [!spell|inv] 7 | Delayed Blast Fireball
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 7 | Special |
 > | **Save** | **Damage** |
-> | ½ | — |
+> | ½ | 1d6+1/die (max 10d6) |
 > | **Components** | **Material** |
 > | S V M | See text |
 > 
@@ -40,7 +41,7 @@ spellist:
   "castingTime": "7",
   "duration": "Special",
   "save": "½",
-  "damage": "—",
+  "damage": "1d6+1/die (max 10d6)",
   "description": "This spell creates a fireball, with a +1 bonus to each of its dice of damage, which releases its blast anytime from instantly to five rounds later, according to the command given by the wizard. In other respects, the spell is the same as the 3rd-level spell *fireball*."
 }
 ```

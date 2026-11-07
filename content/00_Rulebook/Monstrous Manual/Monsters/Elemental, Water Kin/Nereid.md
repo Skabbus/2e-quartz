@@ -28,6 +28,7 @@ monster_hd_min: 4
 monster_hd_max: 4
 type:
   - monster
+no_token: true
 ---
 
 Elemental, Water Kin, Nereid

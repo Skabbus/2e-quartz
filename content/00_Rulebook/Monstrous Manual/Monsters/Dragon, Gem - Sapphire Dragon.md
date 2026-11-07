@@ -29,6 +29,7 @@ monster_hd_min: 13
 monster_hd_max: 13
 type:
   - monster
+no_token: true
 ---
 
 |  |  |

@@ -34,7 +34,7 @@ type:
 | --- | --- |
 | Red Dragon | Dragon, Chromatic |
 
-![[REDDRAG.gif]]
+![[REDDRAG.gif]]![[Ancient_Red_Dragon_Gargantuan_Dragon_38x33_01.png]]
 
 |  |  |
 | --- | --- |

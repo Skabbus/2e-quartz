@@ -9,6 +9,7 @@ school:
   - Invocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 6 | Enchant an Item

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 2d8 +1/level
 ---
 
 > [!spell|inv] 7 | Fire Storm *Reversible*

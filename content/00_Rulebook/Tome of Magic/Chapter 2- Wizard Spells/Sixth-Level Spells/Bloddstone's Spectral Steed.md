@@ -7,6 +7,7 @@ level: 6
 school:
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|nec] 6 | Bloddstone's Spectral Steed

@@ -9,6 +9,7 @@ school:
   - Dimension
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Displace Self

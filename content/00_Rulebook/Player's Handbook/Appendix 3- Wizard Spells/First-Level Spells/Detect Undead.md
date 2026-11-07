@@ -9,6 +9,7 @@ school:
   - Necromancy
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Detect Undead

@@ -34,7 +34,7 @@ type:
 
 Harpy
 
-![[HARPY.gif]]
+![[HARPY.gif]]![[Harpy_Medium_Monstrosity_06.png]]
 
 |  |  |
 | --- | --- |

@@ -29,7 +29,7 @@ type:
 
 Giant, Ettin
 
-![[GIANTETT.gif]]
+![[GIANTETT.gif]]![[Ettin_Large_Giant_02.png]]
 
 |  |  |
 | --- | --- |

@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Thought
   - Divination
+spell_damage:
 ---
 
 > [!spell|gdiv] 7 | Divine Inspiration

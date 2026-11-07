@@ -38,7 +38,7 @@ type:
 
 Ghost
 
-![[GHOST.gif]]
+![[GHOST.gif]]![[Ghost Spirit White [Ghost,Medium,Undead].png]]
 
 |  |  |
 | --- | --- |

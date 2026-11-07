@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Thought
+spell_damage:
 ---
 
 > [!spell|abj] 7 | Impervious Sanctity of Mind

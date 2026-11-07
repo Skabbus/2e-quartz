@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Combat
+spell_damage: 6d8
 ---
 
 > [!spell|inv] 5 | Flame Strike

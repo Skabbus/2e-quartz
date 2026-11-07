@@ -7,6 +7,7 @@ level: 9
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 9 | Estate Transference

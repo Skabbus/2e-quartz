@@ -7,6 +7,7 @@ level: 1
 school:
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Detect Disease

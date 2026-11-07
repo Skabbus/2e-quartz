@@ -8,6 +8,7 @@ school:
   - Conjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 1 | Armor

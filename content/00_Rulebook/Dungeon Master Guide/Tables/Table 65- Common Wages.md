@@ -7,18 +7,18 @@ source: https://regalgoblins.com/2erules/DMG/DD00588.htm
 
 **Common Wages**
 
-|  |  |  |
-| --- | --- | --- |
-|  | **Weekly** | **Monthly** |
-| **Profession** | **Wage** | **Wage** |
-| Clerk | 2 gp | 8 gp |
-| Stonemason | 1 gp | 4 gp |
-| Laborer | 1 sp | 1 gp |
-| Carpenter | 1 gp | 5 gp |
-| Groom | 2 sp | 1 gp |
-| Huntsman | 2 gp | 10 gp |
-| Ambassador or official | 50-150 gp | 200-600 gp |
-| Architect | 50 gp | 200 gp |
+|                        |            |             |
+| ---------------------- | ---------- | ----------- |
+|                        | **Weekly** | **Monthly** |
+| **Profession**         | **Wage**   | **Wage**    |
+| Clerk                  | 2 gp       | 8 gp        |
+| Stonemason             | 1 gp       | 4 gp        |
+| Laborer                | 1 sp       | 1 gp        |
+| Carpenter              | 1 gp       | 5 gp        |
+| Groom                  | 2 sp       | 1 gp        |
+| Huntsman               | 2 gp       | 10 gp       |
+| Ambassador or official | 50-150 gp  | 200-600 gp  |
+| Architect              | 50 gp      | 200 gp      |
 
 These amounts may seem low, but most employers provide other benefits to their hirelings. Appropriate room and board is expected for all but common laborers and higher officials. Those falling in the middle range expect this to be taken care of. Traveling expenses must come out of the PC's pocket, as must any exceptional items of equipment or dress.
 

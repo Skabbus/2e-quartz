@@ -7,6 +7,7 @@ level: 8
 school:
   - Conjuration/Summoning
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|con] 8 | Wildzone

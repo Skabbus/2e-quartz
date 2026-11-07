@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Numbers
   - Divination
+spell_damage:
 ---
 
 > [!spell|gdiv] 5 | Consequence

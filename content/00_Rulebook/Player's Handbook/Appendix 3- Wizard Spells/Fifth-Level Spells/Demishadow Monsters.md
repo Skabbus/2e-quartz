@@ -8,6 +8,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|ill] 5 | Demishadow Monsters
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 5 | 1 rd./level |
 > | **Save** | **Damage** |
-> | Special | — |
+> | Special | Variable |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -40,7 +41,7 @@ spellist:
   "castingTime": "5",
   "duration": "1 rd./level",
   "save": "Special",
-  "damage": "—",
+  "damage": "Variable",
   "description": "This spell is similar to the 4th-level spell *shadow monsters,* except that the monsters created are effectively 40% of normal hit points. If the saving throw is made, their damage potential is only 40% of normal and their Armor Class is 8. The monsters have none of the special abilities of the real creatures, although victims may be deluded into believing this to be so."
 }
 ```

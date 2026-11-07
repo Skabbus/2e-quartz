@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Plant
+spell_damage:
 ---
 
 > [!spell|ill] 4 | Hallucinatory Forest *Reversible*

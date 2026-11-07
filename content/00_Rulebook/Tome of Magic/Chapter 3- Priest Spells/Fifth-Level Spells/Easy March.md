@@ -8,6 +8,7 @@ school:
   - Invocation
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 5 | Easy March

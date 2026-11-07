@@ -8,6 +8,7 @@ school:
   - Divination
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Clairvoyance

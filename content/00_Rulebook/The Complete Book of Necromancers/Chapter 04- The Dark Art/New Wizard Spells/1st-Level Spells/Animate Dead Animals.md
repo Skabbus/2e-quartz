@@ -9,6 +9,7 @@ school:
 spellist:
   - Wizard
   - Necromancer
+spell_damage:
 ---
 
 > [!spell|nec] 1 | Animate Dead Animals

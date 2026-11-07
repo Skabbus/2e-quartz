@@ -28,7 +28,7 @@ type:
 
 Cat, Great, Giant Lynx
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Lynx_Small_Beast_05.png]]
 
 |                       |                     |
 | --------------------- | ------------------- |

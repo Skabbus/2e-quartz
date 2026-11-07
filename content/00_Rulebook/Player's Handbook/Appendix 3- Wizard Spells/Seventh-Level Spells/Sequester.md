@@ -9,6 +9,7 @@ school:
   - Abjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 7 | Sequester

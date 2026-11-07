@@ -33,7 +33,7 @@ type:
 
 Dolphin
 
-![[DOLPHIN.gif]]
+![[DOLPHIN.gif]]![[Dolphin [CR1⁄8,Medium,Beast].png]]
 
 |  |  |
 | --- | --- |

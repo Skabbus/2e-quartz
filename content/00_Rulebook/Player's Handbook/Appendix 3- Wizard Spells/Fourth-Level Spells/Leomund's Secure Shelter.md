@@ -9,6 +9,7 @@ school:
   - Enchantment
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Leomund's Secure Shelter

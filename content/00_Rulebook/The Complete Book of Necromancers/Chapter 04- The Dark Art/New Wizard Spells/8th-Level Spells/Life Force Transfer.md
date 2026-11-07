@@ -9,6 +9,7 @@ school:
 spellist:
   - Wizard
   - Necromancer
+spell_damage:
 ---
 
 > [!spell|nec] 8 | Life Force Transfer *Reversible*

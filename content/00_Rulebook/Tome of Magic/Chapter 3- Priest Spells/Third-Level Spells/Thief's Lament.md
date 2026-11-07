@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Thief's Lament

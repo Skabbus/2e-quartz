@@ -38,6 +38,7 @@ monster_hd_min: 9
 monster_hd_max: 12
 type:
   - monster
+no_token: true
 ---
 
 Elemental, Composite, Tempest

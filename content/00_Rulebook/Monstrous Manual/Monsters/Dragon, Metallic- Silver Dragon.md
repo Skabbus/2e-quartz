@@ -34,7 +34,7 @@ type:
 | --- | --- |
 | Dragon, Metallic | Silver Dragon |
 
-![[SILVDRAG.gif]]
+![[SILVDRAG.gif]]![[Adult_Silver_Dragon_Huge_Scale233_Dragon_11.png]]
 
 |  |  |
 | --- | --- |

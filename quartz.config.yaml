@@ -13,6 +13,9 @@ configuration:
     - templates
     - .obsidian
     - 04_Brainstorms
+    - 00_Rulebook/Monstrous Manual/Appendix- Tokens
+    - copilot
+    - 01_Tools and Utilities/Scripting
   theme:
     fontOrigin: googleFonts
     cdnCaching: true

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 1d4+4
 ---
 
 > [!spell|inv] 2 | Flame Blade

@@ -8,6 +8,7 @@ school:
 level: 6
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 6 | Antimagic Shell

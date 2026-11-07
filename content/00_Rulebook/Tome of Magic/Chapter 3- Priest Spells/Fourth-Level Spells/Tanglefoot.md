@@ -9,6 +9,7 @@ school:
   - Abjuration
 sphere: War
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Tanglefoot *Reversible*

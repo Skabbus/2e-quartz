@@ -32,7 +32,7 @@ type:
 
 Crocodile, Giant Crocodile
 
-![[CROCODIL.gif]]
+![[CROCODIL.gif]]![[Giant_Crocodile_Huge_Beast_10.png]]
 
 |  |  |
 | --- | --- |

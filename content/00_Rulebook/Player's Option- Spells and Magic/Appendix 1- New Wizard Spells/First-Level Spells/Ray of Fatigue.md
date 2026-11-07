@@ -8,6 +8,7 @@ school:
   - Necromancy
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|nec] 1 | Ray of Fatigue

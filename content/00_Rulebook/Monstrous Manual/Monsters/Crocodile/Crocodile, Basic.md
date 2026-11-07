@@ -31,7 +31,7 @@ type:
 
 Crocodile, Basic
 
-![[CROCODIL.gif]]
+![[CROCODIL.gif]]![[Crocodile_Large_Beast_01.png]]
 
 |  |  |
 | --- | --- |

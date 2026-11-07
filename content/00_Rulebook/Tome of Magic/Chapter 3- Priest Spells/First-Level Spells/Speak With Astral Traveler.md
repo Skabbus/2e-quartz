@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Astral
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Speak With Astral Traveler

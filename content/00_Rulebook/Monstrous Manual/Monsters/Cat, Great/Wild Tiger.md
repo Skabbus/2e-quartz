@@ -31,7 +31,7 @@ type:
 
 Cat, Great, Wild Tiger
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Tiger_Large_Beast_01.png]]
 
 |                       |                              |
 | --------------------- | ---------------------------- |

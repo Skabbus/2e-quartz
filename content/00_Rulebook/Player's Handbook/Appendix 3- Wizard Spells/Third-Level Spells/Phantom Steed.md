@@ -9,6 +9,7 @@ school:
   - Phantasm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 3 | Phantom Steed

@@ -42,7 +42,7 @@ monster_hd_max: 14
 
 Golem, Greater, Stone
 
-![[GOLEMGRE.gif]]
+![[GOLEMGRE.gif]]![[Stone_Golem_Large_Construct_01.png]]
 
 |  |  |
 | --- | --- |

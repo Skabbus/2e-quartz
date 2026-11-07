@@ -31,7 +31,7 @@ type:
 
 Gorgon
 
-![[GORGON.gif]]
+![[GORGON.gif]]![[Gorgon_Large_Monstrosity_B_04.png]]
 
 |  |  |
 | --- | --- |

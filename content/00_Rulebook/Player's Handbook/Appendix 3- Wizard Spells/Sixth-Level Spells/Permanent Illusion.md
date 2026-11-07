@@ -8,6 +8,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|ill] 6 | Permanent Illusion
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 6 | Permanent |
 > | **Save** | **Damage** |
-> | Special | — |
+> | Special | Variable |
 > | **Components** | **Material** |
 > | S V M | A bit of fleece |
 > 
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "6",
   "duration": "Permanent",
   "save": "Special",
-  "damage": "—",
+  "damage": "Variable",
   "description": "When this spell is cast, the wizard creates an illusion with visual, auditory, olfactory, and thermal elements. The spell can create the illusion of any object, creature, or force, as long as it is within the boundaries of the spell's area of effect. It affects all creatures that view the illusion, even to the extent of them suffering damage from falling into an illusory pit full of sharp spikes.\n\nCreatures that attempt to disbelieve the illusion gain a saving throw vs. spell and, if successful, they see it for what it is and add +4 bonuses to associates' saving throws, if this knowledge can be communicated effectively. Creatures not sensing the spell effect are immune until they become aware of it. The permanent illusion is subject to a *dispel magic* spell, of course.\n\nThe material component of the spell is a bit of fleece."
 }
 ```

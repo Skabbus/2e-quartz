@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Wood-- Voadkyn (Monstrous Manual)"
+heading: Giant-- Wood-- Voadkyn (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03915.htm
 monster_climate:
   - temperate
@@ -24,6 +24,7 @@ monster_hd_min: 7
 monster_hd_max: 7
 type:
   - monster
+no_token: true
 ---
 
 Giant, Wood (Voadkyn)

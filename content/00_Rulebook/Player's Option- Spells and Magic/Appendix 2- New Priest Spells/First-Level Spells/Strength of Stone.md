@@ -10,6 +10,7 @@ sphere:
   - Elemental
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|inv] 1 | Strength of Stone

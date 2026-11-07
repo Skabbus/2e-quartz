@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 1d4+1
 ---
 
 > [!spell|alt] 2 | Produce Flame

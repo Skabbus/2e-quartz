@@ -1,6 +1,8 @@
 ---
-heading: "Battle Axe (Arms and Equipment Guide)"
+heading: Battle Axe (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00072.htm
+type:
+  - WP
 ---
 
 **Battle Axe**

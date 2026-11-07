@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Plant
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Barkskin

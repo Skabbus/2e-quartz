@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Reef (Monstrous Manual)"
+heading: Giant-- Reef (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03911.htm
 monster_climate:
   - subtropical
@@ -24,6 +24,7 @@ monster_hd_min: 18
 monster_hd_max: 18
 type:
   - monster
+no_token: true
 ---
 
 Giant, Reef

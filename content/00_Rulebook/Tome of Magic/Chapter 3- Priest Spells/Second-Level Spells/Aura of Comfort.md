@@ -8,6 +8,7 @@ school:
   - Evocation
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 2 | Aura of Comfort

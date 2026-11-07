@@ -8,6 +8,7 @@ school:
   - Evocation
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 8 | Homunculus Shield

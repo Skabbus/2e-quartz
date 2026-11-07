@@ -8,6 +8,7 @@ school:
   - Enchantment
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Delay Death

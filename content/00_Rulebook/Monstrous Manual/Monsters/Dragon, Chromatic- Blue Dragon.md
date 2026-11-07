@@ -31,7 +31,7 @@ type:
 | --- | --- |
 | Dragon, Chromatic | Blue Dragon |
 
-![[BLUDRAGN.gif]]
+![[BLUDRAGN.gif]]![[Adult_Blue_Dragon_Huge_Scale233_Dragon_02.png]]
 
 |  |  |
 | --- | --- |

@@ -8,6 +8,7 @@ school:
   - Abjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 9 | Imprisonment *Reversible*

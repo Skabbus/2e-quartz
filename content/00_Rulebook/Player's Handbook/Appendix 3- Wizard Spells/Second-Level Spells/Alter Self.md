@@ -8,6 +8,7 @@ school:
 level: 2
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Alter Self

@@ -35,7 +35,7 @@ type:
 
 Hippogriff
 
-![[HIPPOGRF.gif]]
+![[HIPPOGRF.gif]]![[Hippogriff_Large_Scale200_Monstrosity_B_04.png]]
 
 |  |  |
 | --- | --- |

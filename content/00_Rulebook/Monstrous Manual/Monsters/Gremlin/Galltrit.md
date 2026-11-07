@@ -33,6 +33,7 @@ monster_appearing_max: 4
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Gremlin, Galltrit

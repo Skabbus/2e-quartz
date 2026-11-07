@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 3 | Sepia Snake Sigil

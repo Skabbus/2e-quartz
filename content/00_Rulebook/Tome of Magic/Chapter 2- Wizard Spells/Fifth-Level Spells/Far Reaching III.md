@@ -7,6 +7,7 @@ level: 5
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 

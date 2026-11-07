@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Summoning
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Dispel Evil *Reversible*

@@ -31,7 +31,7 @@ type:
 
 Ankheg
 
-![[ANKHEG.gif]]
+![[ANKHEG.gif]]![[Ankheg_Large_Monstrosity_06.png]]
 
 |  |  |
 | --- | --- |

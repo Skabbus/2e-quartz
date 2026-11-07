@@ -42,7 +42,7 @@ type:
 | --- | --- |
 | Gold Dragon | Dragon, Metallic |
 
-![[GOLDDRAG.gif]]
+![[GOLDDRAG.gif]]![[Adult_Gold_Dragon_Huge_Scale233_Dragon_01.png]]
 
 |  |  |
 | --- | --- |

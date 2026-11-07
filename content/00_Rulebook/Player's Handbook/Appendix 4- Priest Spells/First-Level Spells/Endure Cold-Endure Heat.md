@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Protection
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Endure Cold/Endure Heat

@@ -8,6 +8,7 @@ school:
   - Invocation
 sphere: Summoning
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 2 | Draw Upon Holy Might

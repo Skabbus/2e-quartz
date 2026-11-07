@@ -8,6 +8,7 @@ school:
   - Enchantment
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 5 | Shrieking Walls

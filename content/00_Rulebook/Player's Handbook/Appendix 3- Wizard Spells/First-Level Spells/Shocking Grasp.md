@@ -8,6 +8,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage: 1d8+lvl
 ---
 
 > [!spell|alt] 1 | Shocking Grasp

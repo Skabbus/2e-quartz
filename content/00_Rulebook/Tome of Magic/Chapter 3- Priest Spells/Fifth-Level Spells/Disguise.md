@@ -8,6 +8,7 @@ school:
   - Illusion/Phantasm
 sphere: War
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|ill] 5 | Disguise

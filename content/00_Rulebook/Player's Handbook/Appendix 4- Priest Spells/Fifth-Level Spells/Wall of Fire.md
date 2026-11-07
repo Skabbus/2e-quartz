@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 4d4+level, 2d4, 1d4
 ---
 
 > [!spell|con] 5 | Wall of Fire

@@ -27,7 +27,7 @@ type:
 
 Aurumvorax
 
-![[AURUMVRX.gif]]
+![[AURUMVRX.gif]]![[Aurumvorax_Medium_Monstrosity_01.png]]
 
 |  |  |
 | --- | --- |

@@ -6,7 +6,7 @@ url: https://regalgoblins.com/2erules/MM/DD03835.htm
 
 Dinosaur, Deinonychus
 
-![[DINOS.gif]]
+![[DINOS.gif]]![[Deinonychus_Medium_Scale300_Beast_02.png]]
 
 |  |  |
 | --- | --- |

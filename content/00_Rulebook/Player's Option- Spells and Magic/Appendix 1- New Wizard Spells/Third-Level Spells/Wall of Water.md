@@ -9,6 +9,7 @@ school:
   - Elemental Water
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 3 | Wall of Water

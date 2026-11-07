@@ -8,6 +8,7 @@ school:
   - Invocation/Evocation
 sphere: Chaos
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 4 | Chaotic Combat

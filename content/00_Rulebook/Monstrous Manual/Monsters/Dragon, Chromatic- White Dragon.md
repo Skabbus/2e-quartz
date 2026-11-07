@@ -34,7 +34,7 @@ type:
   - monster
 ---
 
-Dragon, Chromatic White Dragon![[WITEDRAG.gif]]
+Dragon, Chromatic White Dragon![[WITEDRAG.gif]]![[Adult_White_Dragon_Huge_Scale233_Dragon_11.png]]
 
 |  |  |
 | --- | --- |

@@ -8,6 +8,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Feather Fall

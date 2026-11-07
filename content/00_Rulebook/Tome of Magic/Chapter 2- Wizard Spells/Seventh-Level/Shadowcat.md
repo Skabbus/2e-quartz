@@ -7,6 +7,7 @@ level: 7
 school:
   - Illusion
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 7 | Shadowcat

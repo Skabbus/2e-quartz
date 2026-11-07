@@ -30,6 +30,7 @@ monster_hd_min: 1
 monster_hd_max: 5
 type:
   - monster
+no_token: true
 ---
 
 Hatori, Lesser

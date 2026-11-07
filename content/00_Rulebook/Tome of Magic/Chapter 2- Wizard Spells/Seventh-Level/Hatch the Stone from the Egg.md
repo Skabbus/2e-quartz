@@ -9,6 +9,7 @@ school:
   - Enchantment
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Hatch the Stone from the Egg

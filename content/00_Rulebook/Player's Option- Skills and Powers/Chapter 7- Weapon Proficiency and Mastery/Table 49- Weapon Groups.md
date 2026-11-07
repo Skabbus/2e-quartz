@@ -1,6 +1,10 @@
 ---
-heading: "Weapon Groups-- Table 49 (Skills and Powers)"
+heading: Weapon Groups-- Table 49 (Skills and Powers)
 source: https://regalgoblins.com/2erules/SP/DD03147.htm
+type:
+  - WP
+aliases:
+  - tg_axes
 ---
 
 **Table 49: Weapon Groups** 
@@ -8,12 +12,13 @@ source: https://regalgoblins.com/2erules/SP/DD03147.htm
 As noted in previous chapters, weapons can be classified into *tight* and *broad* groups. All weapons in a tight group are considered to be related to one another; a character proficient in one automatically has familiarity with the rest. Note that a weapon proficiency includes stone or bone versions of the same weapon.
 
 In the listing below, broad groups are noted in bold type, and tight groups are in italics.
-
 **Axes, Picks, and Hammers**
 *Axes:* [[battle axe]], [[Hand or Throwing Axe|hand axe]]/[[Hand or Throwing Axe|throwing axe]], [[Hand or Throwing Axe|hatchet]], two-handed axe, sword-axe, mace-axe
 *Picks:* [[Horseman's Pick]], [[Footman's Pick]], pick
 *Hammers:* [[war hammer]], maul, sledge
 *Unrelated:* adze
+
+
 
 **Bows** 
 [[Short bow]], [[Composite Bows|composite short bow]], [[long bow]], [[Composite Bows|composite long bow]]

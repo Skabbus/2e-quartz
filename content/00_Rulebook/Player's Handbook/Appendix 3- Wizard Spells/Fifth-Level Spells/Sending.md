@@ -8,6 +8,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 5 | Sending

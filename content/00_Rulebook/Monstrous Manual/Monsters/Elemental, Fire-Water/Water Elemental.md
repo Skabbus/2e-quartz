@@ -33,7 +33,7 @@ type:
   - monster
 ---
 
-Elemental, Fire/Water![[FIREWATR.gif]], Water
+Elemental, Fire/Water![[FIREWATR.gif]]![[Water_Large_Elemental_B_02.png]], Water
 
 |  |  |
 | --- | --- |

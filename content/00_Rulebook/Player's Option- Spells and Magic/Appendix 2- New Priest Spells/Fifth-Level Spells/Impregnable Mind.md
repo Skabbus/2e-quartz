@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Thought
+spell_damage:
 ---
 
 > [!spell|enc] 5 | Impregnable Mind

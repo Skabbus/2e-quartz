@@ -9,6 +9,7 @@ school:
 sphere: Time
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Unfailing Premonition

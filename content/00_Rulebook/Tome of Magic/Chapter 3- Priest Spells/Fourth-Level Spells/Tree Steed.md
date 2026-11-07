@@ -9,6 +9,7 @@ school:
   - Enchantment/Charm
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Tree Steed

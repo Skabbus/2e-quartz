@@ -8,6 +8,7 @@ school:
   - Evocation
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 3 | Squeaking Floors

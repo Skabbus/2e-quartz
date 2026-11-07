@@ -37,7 +37,7 @@ type:
 
 Cat, Great, Mountain Lion
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Lioness_Large_Beast_04.png]]
 
 |  |  |
 | --- | --- |

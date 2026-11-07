@@ -11,6 +11,7 @@ sphere:
   - Necromantic
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|inv] 1 | Ebony Hand

@@ -30,6 +30,7 @@ monster_hd_min: 10
 monster_hd_max: 10
 type:
   - monster
+no_token: true
 ---
 
 Gloomwing, Tenebrous Worm

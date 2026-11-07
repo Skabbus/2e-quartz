@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Weighty Chest

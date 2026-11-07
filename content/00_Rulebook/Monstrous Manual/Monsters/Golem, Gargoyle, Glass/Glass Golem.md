@@ -38,6 +38,7 @@ type:
   - monster
 monster_hd_min: 9
 monster_hd_max: 9
+no_token: true
 ---
 
 Golem, Gargoyle, Glass, Glass

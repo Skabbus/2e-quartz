@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Healing
+spell_damage:
 ---
 
 > [!spell|nec] 4 | Neutralize Poison *Reversible*

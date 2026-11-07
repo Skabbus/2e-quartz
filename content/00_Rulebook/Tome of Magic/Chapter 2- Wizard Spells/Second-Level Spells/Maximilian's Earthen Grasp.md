@@ -7,6 +7,7 @@ level: 2
 school:
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 2 | Maximilian's Earthen Grasp

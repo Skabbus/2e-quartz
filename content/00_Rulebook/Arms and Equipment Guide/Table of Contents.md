@@ -391,4 +391,4 @@ Table of Contents
 
 [[Table 5- Additional Barding Types (Combined Table )#5fa48a46|Table 5: Additional Barding Types (Combined Table)]]
 
-[[Table 6- Master Weapons Chart|Table 6: Master Weapons Chart]]
+[[00_Rulebook/Arms and Equipment Guide/Chapter 3- Weapons/Table 6- Master Weapons Chart|Table 6: Master Weapons Chart]]

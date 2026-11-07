@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Numbers
   - Summoning
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Dimensional Translocation

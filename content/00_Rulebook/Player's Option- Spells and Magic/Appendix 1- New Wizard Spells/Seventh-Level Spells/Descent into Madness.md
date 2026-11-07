@@ -9,6 +9,7 @@ school:
 level: 7
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 7 | Descent into Madness

@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 1d4 per round (2 attacks if charging/running)
 ---
 
 > [!spell|alt] 5 | Spike Stones
@@ -20,7 +21,7 @@ sphere:
 > | **Casting Time** | **Duration** |
 > | 6 | 3d4 turns +1/level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 1d4 per round (2 attacks if charging/running) |
 > | **Components** | **Material** |
 > | S V M | Four tiny stalactites |
 > 
@@ -47,7 +48,7 @@ sphere:
   "castingTime": "6",
   "duration": "3d4 turns +1/level",
   "save": "None",
-  "damage": "—",
+  "damage": "1d4 per round (2 attacks if charging/running)",
   "description": "The *spike stones* spell causes rock to shape itself into long, sharp points that tend to blend into the background. It is effective on both natural rock and worked stone. The spike stones serve to impede progress through an area and to inflict damage. If an area is carefully observed, each observer is 25% likely to notice the sharp points of rock. Otherwise, those entering the spell's area of effect suffer 1d4 points of damage per round. The success of each attack is determined as if the caster of the spell were actually engaging in combat. Those entering the area are subject to attack immediately upon setting foot in the area and for each round spent in the area thereafter. The initial step enables the individual to become aware of some problem only if the initial attack succeeds; otherwise movement continues and the spike stones remain unnoticed until damage occurs. Charging or running victims suffer two attacks per round.\n\nThose falling into pits affected by spike stones suffer six such attacks for every 10 feet fallen, each attack having a +2 bonus to the attack roll. In addition, the damage inflicted by each attack increases by +2 for every 10 feet fallen. Finally, the creatures also suffer normal falling damage.\n\nThe material component of this spell is four tiny stalactites."
 }
 ```

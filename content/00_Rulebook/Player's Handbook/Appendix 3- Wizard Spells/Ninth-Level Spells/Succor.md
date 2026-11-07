@@ -9,6 +9,7 @@ school:
   - Enchantment
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 9 | Succor *Reversible*

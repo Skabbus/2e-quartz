@@ -12,6 +12,7 @@ spellist:
 sphere:
   - Charm
   - Summoning
+spell_damage:
 ---
 
 > [!spell|inv] 7 | Exaction

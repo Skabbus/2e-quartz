@@ -7,6 +7,7 @@ level: 9
 school:
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 9 | Chain Contingency

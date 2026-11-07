@@ -8,6 +8,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage: 1d4+1/level
 ---
 
 > [!spell|inv] 5 | Cone of Cold

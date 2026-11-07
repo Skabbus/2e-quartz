@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|con] 7 | Monster Summoning V
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 6 | 6 rds. + 1 rd./level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | Variable |
 > | **Components** | **Material** |
 > | S V M | A tiny bag and a small (not necessarily lit) candle |
 > 
@@ -42,7 +43,7 @@ spellist:
   "castingTime": "6",
   "duration": "6 rds. + 1 rd./level",
   "save": "None",
-  "damage": "—",
+  "damage": "Variable",
   "description": "This spell is much like the 3rd-level *monster summoning I* spell, except that this spell summons 1d3 5th-level monsters. These appear within the spell's area of effect and attack the caster's opponents until either he commands them to cease, the spell duration expires, or the monsters are slain. These creatures do not check morale, and they vanish when slain. If no opponent exists to fight, summoned monsters can, if the wizard can communicate with them, and if they are physically capable, perform other services for the summoning wizard.\n\nThe material components of this spell are a tiny bag and a small (not necessarily lit) candle."
 }
 ```

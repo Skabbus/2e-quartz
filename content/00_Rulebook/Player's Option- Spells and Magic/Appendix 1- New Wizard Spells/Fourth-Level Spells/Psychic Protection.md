@@ -9,6 +9,7 @@ school:
   - Mentalism
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Psychic Protection

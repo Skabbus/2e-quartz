@@ -11,6 +11,7 @@ school:
   - Alteration
 sphere:
   - Wards
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Camouflage

@@ -30,7 +30,7 @@ type:
 
 Cat, Great, Leopard
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Leopard_Medium_Beast_01.png]]
 
 |  |  |
 | --- | --- |

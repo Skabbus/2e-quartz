@@ -41,7 +41,7 @@ type:
 
 Baatezu, Pit Fiend
 
-![[BAATEZU1.gif]]
+![[BAATEZU1.gif]]![[Pit_Fiend_Large_Scale200_Fiend_05.png]]
 
 |                       |                                           |
 | --------------------- | ----------------------------------------- |

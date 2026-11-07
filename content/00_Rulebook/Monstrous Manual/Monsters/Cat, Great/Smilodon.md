@@ -31,7 +31,7 @@ type:
 
 Cat, Great, Smilodon
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Saber_Toothed_Tiger_Large_Beast_01.png]]
 
 |                       |                                    |
 | --------------------- | ---------------------------------- |

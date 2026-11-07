@@ -7,6 +7,7 @@ level: 4
 school:
   - Conjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|con] 4 | Duplicate

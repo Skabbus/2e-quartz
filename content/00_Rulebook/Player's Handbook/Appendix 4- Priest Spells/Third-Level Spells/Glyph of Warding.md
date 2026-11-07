@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Guardian
+spell_damage: 1d4/level
 ---
 
 > [!spell|abj] 3 | Glyph of Warding

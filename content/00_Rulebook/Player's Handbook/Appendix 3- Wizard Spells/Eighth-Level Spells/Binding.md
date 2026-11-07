@@ -9,6 +9,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 8 | Binding

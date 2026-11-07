@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - All
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Purify Food & Drink *Reversible*

@@ -27,6 +27,7 @@ monster_hd_min: 16
 monster_hd_max: 24
 type:
   - monster
+no_token: true
 ---
 
 Elemental, Composite, Skriaxit

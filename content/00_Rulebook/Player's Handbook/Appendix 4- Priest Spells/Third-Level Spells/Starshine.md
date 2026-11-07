@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Sun
+spell_damage:
 ---
 
 > [!spell|inv] 3 | Starshine

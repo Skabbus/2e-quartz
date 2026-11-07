@@ -35,7 +35,7 @@ type:
 
 Gnoll, Basic
 
-![[GNOLL.gif]]
+![[GNOLL.gif]]![[Gnoll_Medium_Humanoid_03.png]]
 
 |                       |                                      |
 | --------------------- | ------------------------------------ |

@@ -39,7 +39,7 @@ type:
 
 Chimera, Basic
 
-![[CHIMERA.gif]]
+![[CHIMERA.gif]]![[Chimera_Large_Scale200_Monstrosity_06.png]]
 
 |  |  |
 | --- | --- |

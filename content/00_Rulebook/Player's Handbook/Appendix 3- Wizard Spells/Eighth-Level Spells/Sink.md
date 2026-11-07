@@ -9,6 +9,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 8 | Sink

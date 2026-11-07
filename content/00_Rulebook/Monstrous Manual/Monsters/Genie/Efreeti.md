@@ -39,7 +39,7 @@ type:
 
 **Genie**, Efreeti
 
-![[GENIE1.gif]]
+![[GENIE1.gif]]![[Efreeti_Large_Elemental_08.png]]
 
 |  |  |
 | --- | --- |

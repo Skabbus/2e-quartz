@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: War
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Morale

@@ -10,6 +10,7 @@ school:
 spellist:
   - Wizard
   - Necromancer
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Transmute Bone to Steel *Reversible*

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Summoning
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Fourth-Level Spells

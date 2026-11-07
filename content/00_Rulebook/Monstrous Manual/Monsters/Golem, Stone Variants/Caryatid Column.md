@@ -36,6 +36,7 @@ monster_appearing_max: 12
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Golem, Stone Variants, Caryatid Column

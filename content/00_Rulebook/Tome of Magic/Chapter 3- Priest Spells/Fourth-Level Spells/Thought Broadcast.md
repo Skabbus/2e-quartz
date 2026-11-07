@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Thought
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Thought Broadcast

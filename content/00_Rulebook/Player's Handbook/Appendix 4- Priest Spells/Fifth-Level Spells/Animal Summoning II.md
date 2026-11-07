@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Animal
   - Summoning
+spell_damage:
 ---
 
 > [!spell|con] 5 | Animal Summoning II

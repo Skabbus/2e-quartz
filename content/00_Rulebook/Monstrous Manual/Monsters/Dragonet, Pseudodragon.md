@@ -32,7 +32,7 @@ type:
 
 Dragonet, Pseudodragon
 
-![[DRAGPSED.gif]]
+![[DRAGPSED.gif]]![[Pseudodragon_Tiny_Dragon_01.png]]
 
 |  |  |
 | --- | --- |

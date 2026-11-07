@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Plant
+spell_damage: 2d4
 ---
 
 > [!spell|alt] 3 | Spike Growth

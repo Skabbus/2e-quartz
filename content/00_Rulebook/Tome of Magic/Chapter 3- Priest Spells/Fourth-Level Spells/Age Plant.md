@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Time
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Age Plant

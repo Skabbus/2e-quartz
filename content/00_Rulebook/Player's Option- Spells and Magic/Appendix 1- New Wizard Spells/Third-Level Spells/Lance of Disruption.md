@@ -10,6 +10,7 @@ school:
   - Force
 spellist:
   - Wizard
+spell_damage: 5d4+2/level (max 5d4+30)
 ---
 
 > [!spell|inv] 3 | Lance of Disruption
@@ -19,7 +20,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 3 | Instantaneous |
 > | **Save** | **Damage** |
-> | 1/2 | — |
+> | 1/2 | 5d4+2/level (max 5d4+30) |
 > | **Components** | **Material** |
 > | S V | — |
 > | **Subtlety** | **Knockdown** |
@@ -48,7 +49,7 @@ spellist:
   "castingTime": "3",
   "duration": "Instantaneous",
   "save": "1/2",
-  "damage": "—",
+  "damage": "5d4+2/level (max 5d4+30)",
   "description": "This spell creates a beam of concussive, disrupting force that lashes out from the wizard’s hand in a path 5 feet wide and 60 feet long. Any creatures caught in the beam’s path suffer 5d4 points of damage, plus 2 points of damage per caster level (maximum damage is 5d4+30); for example, a 6th-level wizard would inflict 5d4+12 damage with the *lance of disruption*. Victims are allowed a saving throw vs. spell for half damage. The lance’s energy delivers a powerful blow against inanimate objects and can easily blast light furniture, thin wooden walls, or fragile stonework to flinders. Barred wooden doors can be blasted of their hinges and even sturdy iron-bound doors or heavy stonework can be seriously damaged by the *lance of disruption*.\n\nCreatures with amorphous or nonsolid bodies, such as fire or air elementals and some oozes and slimes, are resistant to the lance’s effects and only sustain half damage, or one-quarter damage with a successful save."
 }
 ```

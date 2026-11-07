@@ -1,5 +1,5 @@
 ---
-heading: "Dracolich (Monstrous Manual)"
+heading: Dracolich (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03841.htm
 monster_climate:
   - arctic
@@ -33,6 +33,7 @@ monster_appearing_max: 1
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Dracolich

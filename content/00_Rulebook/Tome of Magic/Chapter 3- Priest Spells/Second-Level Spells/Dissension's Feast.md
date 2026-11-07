@@ -9,6 +9,7 @@ school:
   - Alteration
 sphere: Chaos
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Dissension's Feast

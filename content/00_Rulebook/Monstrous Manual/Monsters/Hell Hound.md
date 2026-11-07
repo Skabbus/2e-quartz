@@ -39,7 +39,7 @@ type:
 
 Hell Hound
 
-![[HELLHOND.gif]]
+![[HELLHOND.gif]]![[Hell_Hound_Medium_Fiend_03.png]]
 
 |                       |                                    |
 | --------------------- | ---------------------------------- |

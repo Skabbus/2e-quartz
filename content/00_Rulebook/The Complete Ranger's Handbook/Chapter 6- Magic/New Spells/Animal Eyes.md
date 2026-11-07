@@ -10,6 +10,7 @@ sphere: Animal
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|nec] 2 | Animal Eyes

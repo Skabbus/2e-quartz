@@ -8,6 +8,7 @@ school:
   - Abjuration
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 9 | Elemental Aura

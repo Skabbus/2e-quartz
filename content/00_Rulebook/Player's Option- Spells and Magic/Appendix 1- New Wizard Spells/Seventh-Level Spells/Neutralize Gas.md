@@ -10,6 +10,7 @@ school:
   - Alchemy
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 7 | Neutralize Gas

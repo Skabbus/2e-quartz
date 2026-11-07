@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Numbers
   - Divination
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Analyze Balance

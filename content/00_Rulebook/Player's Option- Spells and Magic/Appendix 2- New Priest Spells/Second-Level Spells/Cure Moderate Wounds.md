@@ -9,6 +9,7 @@ school:
 sphere: Healing
 spellist:
   - Priest
+spell_damage: 1d10+1 healing
 ---
 
 > [!spell|nec] 2 | Cure Moderate Wounds *Reversible*
@@ -18,7 +19,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 5 | Instantaneous |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 1d10+1 healing |
 > | **Components** | **Material** |
 > | S V | — |
 > | **Subtlety** | **Knockdown** |
@@ -45,7 +46,7 @@ spellist:
   "castingTime": "5",
   "duration": "Instantaneous",
   "save": "None",
-  "damage": "—",
+  "damage": "1d10+1 healing",
   "description": "Somewhat less common than the well-known *cure light wounds* and *cure serious wounds*, this healing spell was created by a priest who found that his heroic companions required his skill at doctoring more than his advice and wisdom. By laying his hand on the subject’s body, the priest can heal 1d10+1 points of damage. Noncorporeal, nonliving, or extraplanar creatures cannot be healed by this spell. The reverse of this spell, *cause moderate wounds*, requires the priest to successfully touch the victim and inflicts 1d10+1 points of damage. (The knockdown and critical strike entries above are for spell’s reverse.)"
 }
 ```

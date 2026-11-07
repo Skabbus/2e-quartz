@@ -3,9 +3,7 @@ heading: "How Many Pages in a Spell Book? (Dungeon Master Guide)"
 source: https://regalgoblins.com/2erules/DMG/DD00348.htm
 ---
 
-How Many Pages in a Spell Book
-
-?
+How Many Pages in a Spell Book?
 
 Each spell requires a number of pages equal to its level plus 0-5 (1d6-1) additional pages. The actual number of pages a spell takes differs for each wizard. Even if two or more wizards are recording the same spell, the number of pages varies, since there are differences in handwriting and notations.
 

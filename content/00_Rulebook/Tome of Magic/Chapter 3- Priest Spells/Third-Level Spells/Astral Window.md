@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Astral
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Astral Window

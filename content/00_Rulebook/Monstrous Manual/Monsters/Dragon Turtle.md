@@ -1,5 +1,5 @@
 ---
-heading: "Dragon Turtle (Monstrous Manual)"
+heading: Dragon Turtle (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03867.htm
 monster_climate:
   - temperate
@@ -27,6 +27,7 @@ monster_hd_min: 12
 monster_hd_max: 14
 type:
   - monster
+no_token: true
 ---
 
 **Dragon Turtle**

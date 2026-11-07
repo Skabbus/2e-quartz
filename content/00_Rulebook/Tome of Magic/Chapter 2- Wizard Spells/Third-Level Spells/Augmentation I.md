@@ -7,6 +7,7 @@ level: 3
 school:
   - Invocation/Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 3 | Augmentation I

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Divination
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Locate Object *Reversible*

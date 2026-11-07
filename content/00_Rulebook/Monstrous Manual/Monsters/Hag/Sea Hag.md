@@ -33,7 +33,7 @@ type:
 
 Hag, Sea
 
-![[HAG.gif]]
+![[HAG.gif]]![[Sea_Hag_Medium_Fey_10.png]]
 
 |  |  |
 | --- | --- |

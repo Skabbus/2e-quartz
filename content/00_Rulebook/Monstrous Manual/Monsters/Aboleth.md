@@ -31,7 +31,7 @@ type:
 
 Aboleth
 
-![[ABOLETH.gif]]
+![[ABOLETH.gif]]![[Aboleth_Underwater_Large_Scale200_Aberration_08.png]]
 
 |  |  |
 | --- | --- |

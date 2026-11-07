@@ -38,7 +38,7 @@ type:
 
 Bear, Cave
 
-![[BEAR.gif]]
+![[BEAR.gif]]![[Cave_Bear_Large_Beast_03.png]]
 
 |  |  |
 | --- | --- |

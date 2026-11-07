@@ -9,6 +9,7 @@ school:
   - Elemental Fire
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Proofing versus Combustion

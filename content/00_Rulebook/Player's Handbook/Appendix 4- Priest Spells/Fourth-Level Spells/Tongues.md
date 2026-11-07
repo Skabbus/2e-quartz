@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Divination
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Tongues *Reversible*

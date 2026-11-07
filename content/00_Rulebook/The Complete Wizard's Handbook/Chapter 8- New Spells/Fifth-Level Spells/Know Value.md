@@ -7,6 +7,7 @@ level: 5
 school:
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 5 | Know Value

@@ -2,6 +2,7 @@
 heading: Dinosaur, Lambeosaurus (Monstrous Manual)
 source: "[[Dinosaur]]"
 url: https://regalgoblins.com/2erules/MM/DD03835.htm
+no_token: true
 ---
 
 Dinosaur, Lambeosaurus

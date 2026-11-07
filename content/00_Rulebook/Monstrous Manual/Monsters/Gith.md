@@ -1,5 +1,5 @@
 ---
-heading: "Gith (Monstrous Manual)"
+heading: Gith (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03918.htm
 monster_climate:
   - arid
@@ -26,6 +26,7 @@ monster_hd_min: 3
 monster_hd_max: 3
 type:
   - monster
+no_token: true
 ---
 
 Gith

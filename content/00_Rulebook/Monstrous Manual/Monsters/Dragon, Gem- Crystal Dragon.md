@@ -32,7 +32,7 @@ type:
 | --- | --- |
 | Dragon, Gem | Crystal Dragon |
 
-![[CRYSDRAG.gif]]
+![[CRYSDRAG.gif]]![[Ancient_Crystal_Dragon_Gargantuan_Dragon_38x33_09.png]]
 
 |  |  |
 | --- | --- |

@@ -8,6 +8,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|ill] 9 | Weird
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 9 | Concentration |
 > | **Save** | **Damage** |
-> | Special | — |
+> | Special | Variable |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "9",
   "duration": "Concentration",
   "save": "Special",
-  "damage": "—",
+  "damage": "Variable",
   "description": "This spell confronts those affected by it with phantasmal images of their most feared enemies, forcing an imaginary combat that seems real, but actually occurs in the blink of an eye. When this spell is cast, the wizard must be able to converse with the victims to bring the spell into being. During the casting, the wizard must call out to the creatures to be affected, informing one or all that their final fate, indeed their doom, is now upon them.\n\nThe force of the magic is such that even if the creatures make their saving throws vs. spell, fear will paralyze them for a full round, and they will lose 1d4 Strength points from this fear (the lost Strength will return in one turn). Failure to save vs. spell causes the creature or creatures to face their nemeses, the opponents most feared and inimical to them. Actual combat must then take place, for no magical means of escape is possible. The foe fought is real for all intents and purposes; affected creatures that lose will die. If a creature's phantasmal nemesis from the *weird* spell is slain, the creature emerges with no damage, no loss of items seemingly used in the combat, and no loss of spells likewise seemingly expended. The creature also gains any experience for defeating the weird, if applicable.\n\nAlthough each round of combat seems normal, it takes only one-tenth of a round. During the course of the spell, the caster must concentrate fully upon maintaining it. If the combat goes beyond 10 rounds, those who saved against the spell can take action. If the caster is disturbed, the *weird* spell ends immediately. Creatures attacked while paralyzed with fear are free of the paralysis immediately."
 }
 ```

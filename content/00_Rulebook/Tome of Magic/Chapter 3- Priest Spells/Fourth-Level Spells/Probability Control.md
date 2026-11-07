@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Numbers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Probability Control

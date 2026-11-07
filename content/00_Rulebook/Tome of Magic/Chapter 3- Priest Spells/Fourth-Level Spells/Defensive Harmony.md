@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Law
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Defensive Harmony

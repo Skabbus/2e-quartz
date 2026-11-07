@@ -33,7 +33,7 @@ type:
 
 **Genie**, Marid
 
-![[GENIE1.gif]]
+![[GENIE1.gif]]![[Marid_Large_Elemental_06.png]]
 
 |  |  |
 | --- | --- |

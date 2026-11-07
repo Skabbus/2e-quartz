@@ -15,7 +15,7 @@ Proficiencies are divided into two groups: *Weapon proficiencies* and *Non-weapo
 > 
 > *\#Levels means one additional slot is available per number of levels.* 
 >
-> | **Ability Score** | **# of Additional Non-weapon Proficiencies.** |
+> | **Intelligence Score** | **# of Additional Non-weapon Proficiencies.** |
 > | ----------------- | --------------------------------------------- |
 > | 1                 | **0\***                                       |
 > | 2-8               | **1**                                         |
@@ -42,7 +42,7 @@ Weapon competency stretches across 7 levels:
 
 *Specialization* is only available to Warrior classes and *Mastery* are only accessible for single-classed fighters. The highest level of proficiency for other classes is *Proficient*. Each level of proficiency costs one Weapon Proficiency slot. 
 
-An individual weapon proficiency slot can be assigned to a particular weapon (see [[Table 6- Master Weapons Chart|Master Weapons Chart]]). A weapon may however be part of a *weapon tight group*, which in turn is part of a *weapon broad group.* 
+An individual weapon proficiency slot can be assigned to a particular weapon (see [[00_Rulebook/Arms and Equipment Guide/Chapter 3- Weapons/Table 6- Master Weapons Chart|Master Weapons Chart]]). A weapon may however be part of a *weapon tight group*, which in turn is part of a *weapon broad group.* 
 
 The player may elect to invest one weapon proficiency point to a specific weapon, which will grant *familiarity* with the other weapons within the *tight group.* A player may also invest two weapon proficiency points into a *tight group*, which grants proficiency with all weapons within said tight group. Finally, a player may also invest three weapon proficiency slots into a weapon *broad group*, gaining proficiency with all weapons within said broad group. See [[Table 49- Weapon Groups]]. These also apply retroactively, so spending two proficiency slots on different individual weapons within a tight group will grant tight group proficiency, and spending three total weapon proficiency slots within a broad group will grant broad group proficiency. 
 

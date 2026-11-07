@@ -9,6 +9,7 @@ school:
 spellist:
   - Bard
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 3 | Instant Audience

@@ -9,6 +9,7 @@ school:
   - Illusion
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Fool's Gold

@@ -7,6 +7,7 @@ level: 1
 school:
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Protection from Hunger and Thirst

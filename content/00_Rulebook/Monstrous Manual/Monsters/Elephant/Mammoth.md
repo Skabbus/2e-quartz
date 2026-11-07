@@ -29,7 +29,7 @@ type:
 
 Elephant, Mammoth
 
-![[ELEPHANT.gif]]
+![[ELEPHANT.gif]]![[Mammoth_Huge_Beast_04.png]]
 
 |                       |                          |
 | --------------------- | ------------------------ |

@@ -9,6 +9,7 @@ school:
 sphere: Protection
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 2 | Resist Acid and Corrosion

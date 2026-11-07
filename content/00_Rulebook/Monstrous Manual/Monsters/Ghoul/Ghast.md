@@ -38,7 +38,7 @@ type:
 
 Ghoul, Ghast
 
-![[GHOUL.gif]]
+![[GHOUL.gif]]![[Ghast_Medium_Undead_12.png]]
 
 |  |  |
 | --- | --- |

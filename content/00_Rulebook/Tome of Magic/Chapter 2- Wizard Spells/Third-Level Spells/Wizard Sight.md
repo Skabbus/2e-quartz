@@ -7,6 +7,7 @@ level: 3
 school:
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Wizard Sight

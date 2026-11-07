@@ -8,6 +8,7 @@ school:
   - Alteration
   - Evocation
 spellist: Wizard
+spell_damage: 1d1/level (max 10)
 ---
 
 > [!spell|alt] 1 | Fire Burst
@@ -17,7 +18,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 1 | Instantaneous |
 > | **Save** | **Damage** |
-> | Neg. | — |
+> | Neg. | 1d1/level (max 10) |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -40,7 +41,7 @@ spellist: Wizard
   "castingTime": "1",
   "duration": "Instantaneous",
   "save": "Neg.",
-  "damage": "—",
+  "damage": "1d1/level (max 10)",
   "description": "When this spell is cast upon a nonmagical fire (such as a campfire, lantern, or candle), it causes the fire to flash and shoot arrows of flame. All creatures within 10 feet of the fire source suffer 1 point of damage per level of the caster (maximum of 10 points). Victims who roll a saving throw successfully suffer no damage."
 }
 ```

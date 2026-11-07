@@ -7,6 +7,7 @@ level: 1
 school:
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 1 | Copy

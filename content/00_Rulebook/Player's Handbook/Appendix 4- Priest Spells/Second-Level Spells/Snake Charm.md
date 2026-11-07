@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Animal
+spell_damage:
 ---
 
 > [!spell|enc] 2 | Snake Charm

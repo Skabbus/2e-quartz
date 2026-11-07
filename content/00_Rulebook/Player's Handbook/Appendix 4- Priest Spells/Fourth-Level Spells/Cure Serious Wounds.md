@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Healing
+spell_damage: 2d8+1 healing/damage
 ---
 
 > [!spell|nec] 4 | Cure Serious Wounds *Reversible*

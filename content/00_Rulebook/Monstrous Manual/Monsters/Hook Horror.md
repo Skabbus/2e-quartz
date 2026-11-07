@@ -33,7 +33,7 @@ type:
 
 Hook Horror
 
-![[HOOKHORR.gif]]
+![[HOOKHORR.gif]]![[Hook_Monster_Large_Scale200_Monstrosity_06.png]]
 
 |  |  |
 | --- | --- |

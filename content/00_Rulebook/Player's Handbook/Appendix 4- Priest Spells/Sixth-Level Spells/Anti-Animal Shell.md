@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Animal
   - Protection
+spell_damage:
 ---
 
 > [!spell|abj] 6 | Anti-Animal Shell

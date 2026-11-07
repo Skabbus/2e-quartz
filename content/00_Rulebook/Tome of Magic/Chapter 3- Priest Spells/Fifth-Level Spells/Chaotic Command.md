@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Chaos
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 5 | Chaotic Commands

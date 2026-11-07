@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|con] 9 | Power Word
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 1 | Permanent |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | Variable |
 > | **Components** | **Material** |
 > | V | — |
 > 
@@ -40,7 +41,7 @@ spellist:
   "castingTime": "1",
   "duration": "Permanent",
   "save": "None",
-  "damage": "—",
+  "damage": "Variable",
   "description": "When a *power word, kill* spell is uttered, one or more creatures of any type within the spell range and area of effect are slain. The power word kills either one creature with up to 60 hit points, or multiple creatures with 10 or fewer hit points each, to a maximum of 120 hit points total. The option to attack a single creature or multiple creatures must be stated along with the spell range and center of the area of effect. The current hit points of the creatures are used."
 }
 ```

@@ -7,6 +7,7 @@ level: 7
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Spell Shape

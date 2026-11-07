@@ -40,7 +40,7 @@ type:
 
 Golem, Lesser, Clay
 
-![[GOLEMLES.gif]]
+![[GOLEMLES.gif]]![[Clay_Golem_Large_Construct_02.png]]
 
 |  |  |
 | --- | --- |

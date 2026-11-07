@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Weather
+spell_damage: 2d8+1d8/level
 ---
 
 > [!spell|alt] 3 | Call Lightning

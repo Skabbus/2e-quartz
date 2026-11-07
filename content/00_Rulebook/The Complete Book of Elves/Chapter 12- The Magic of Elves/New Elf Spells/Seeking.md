@@ -12,6 +12,7 @@ school:
   - Invocation
 sphere:
   - All
+spell_damage:
 ---
 
 > [!spell|enc] 2 | Seeking

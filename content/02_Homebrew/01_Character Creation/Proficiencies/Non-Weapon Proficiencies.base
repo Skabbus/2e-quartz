@@ -10,10 +10,13 @@ views:
     order:
       - file.name
       - class_group
-      - file.folder
       - ability
       - check_modifier
-    sort: []
+    sort:
+      - property: file.name
+        direction: ASC
+      - property: class_group
+        direction: DESC
     columnSize:
       note.check_modifier: 131
   - type: table

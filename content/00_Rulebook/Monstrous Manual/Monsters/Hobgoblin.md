@@ -39,7 +39,7 @@ type:
 
 Hobgoblin
 
-![[HOBGOBLN.gif]]
+![[HOBGOBLN.gif]]![[Hobgoblin_Medium_Humanoid_06.png]]
 
 |  |  |
 | --- | --- |

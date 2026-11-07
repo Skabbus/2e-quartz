@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Numbers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Extradimensional Manipulation

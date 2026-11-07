@@ -35,7 +35,7 @@ type:
 
 Bear, Polar
 
-![[BEAR.gif]]
+![[BEAR.gif]]![[Polar_Bear_Large_Beast_01.png]]
 
 |  |  |
 | --- | --- |

@@ -1,0 +1,33 @@
+views:
+  - type: table
+    name: Stats
+    filters:
+      and:
+        - type == ["Player Character"]
+    order:
+      - file.name
+      - stat.str
+      - stat.dex
+      - stat.con
+      - stat.int
+      - stat.wis
+      - stat.chr
+      - stat.pcp
+      - level
+      - class
+    sort: []
+    columnSize:
+      note.stat.pcp: 67
+  - type: table
+    name: Proficiencies
+    filters:
+      and:
+        - type == ["Player Character"]
+    order:
+      - file.name
+      - wps
+      - nwps
+      - languages
+    sort: []
+    columnSize:
+      note.nwps: 656

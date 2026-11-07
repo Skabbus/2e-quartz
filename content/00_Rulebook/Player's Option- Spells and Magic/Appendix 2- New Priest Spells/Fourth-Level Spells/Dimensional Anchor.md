@@ -9,6 +9,7 @@ school:
 sphere: Guardian
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Dimensional Anchor

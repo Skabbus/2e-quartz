@@ -7,6 +7,7 @@ level: 1
 school:
   - Conjuration/Summoning
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|con] 1 | Conjure Spell Component

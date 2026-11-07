@@ -10,6 +10,7 @@ sphere:
   - Elemental
 spellist:
   - Priest
+spell_damage: 1d2/caster level
 ---
 
 > [!spell|alt] 1 | Firelight
@@ -19,7 +20,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 4 | 4 hrs. + 1 hr./2 levels |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 1d2/caster level |
 > | **Components** | **Material** |
 > | S V M | A mix of resins and incense, thrown into the flame to be affected |
 > | **Subtlety** | **Knockdown** |
@@ -48,7 +49,7 @@ spellist:
   "castingTime": "4",
   "duration": "4 hrs. + 1 hr./2 levels",
   "save": "None",
-  "damage": "—",
+  "damage": "1d2/caster level",
   "description": "This variant of the spell *log of everburning* changes one small fire no larger than a campfire into *firelight*. The flame ceases to produce smoke and becomes much cooler; within 1 turn of the spell’s casting, the fire cools enough to be handled or touched barehanded without causing harm. The *firelight* is resistant to gusts of wind or poor burning conditions (pouring rain, lack of air, and so on), but complete immersion in water, vacuum, or magical darkness extinguishes the flame immediately. *Firelight* burns brighter and steadier than a normal flame, and a torch enchanted with this spell sheds light in a 30-foot radius instead of the normal 15-foot radius. The fuel source lasts throughout the duration of the spell. Unlike *log of everburning*, this spell is not at all useful for staying warm since *firelight* produces very little heat.\n\n*Firelight* inflicts 1d2 points of damage per caster level if cast on creatures of living or elemental fire, but has no other effect on these monsters. The material component is a mix of resins and incense, thrown into the flame to be affected."
 }
 ```

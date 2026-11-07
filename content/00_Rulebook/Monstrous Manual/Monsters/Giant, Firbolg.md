@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Firbolg (Monstrous Manual)"
+heading: Giant-- Firbolg (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03903.htm
 monster_climate:
   - temperate
@@ -26,6 +26,7 @@ monster_hd_min: 13
 monster_hd_max: 13
 type:
   - monster
+no_token: true
 ---
 
 Giant, Firbolg

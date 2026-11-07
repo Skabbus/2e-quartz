@@ -7,6 +7,7 @@ level: 4
 school:
   - Enchantment/Charm
 spellist: Wizard
+spell_damage: 1d4+1/level (max 10d4)
 ---
 
 > [!spell|enc] 4 | Greater Malison
@@ -16,7 +17,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 4 | 2 rounds/level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 1d4+1/level (max 10d4) |
 > | **Components** | **Material** |
 > | — | — |
 > 
@@ -39,7 +40,7 @@ spellist: Wizard
   "castingTime": "4",
   "duration": "2 rounds/level",
   "save": "None",
-  "damage": "—",
+  "damage": "1d4+1/level (max 10d4)",
   "description": "This spell operates exactly like the 3rd-level *minor malison* spell except that the wizard places a -2 penalty on all saving throws of all hostile creatures within the area of effect. Optionally, the wizard may create a -3 penalty to saving throws against spells from one school of magic. This penalty is not cumulative with a saving throw penalty which derived from the wizard being a specialist; the penalty is not increased to -4."
 }
 ```

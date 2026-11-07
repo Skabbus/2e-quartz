@@ -41,5 +41,3 @@ Detta samfund fokuserar på kärleken som det ultimata vapnet för att skapa fre
 #### Sorgeföljet
 
 En melankolisk sekt som fokuserar på den smärta och tragedi som oundvikligen följer med djupa känslomässiga band (särskilt efter Catuns svek). De tillber Valentyia genom att dela och bära andras sorg. Medlemmarna fungerar som professionella gråterskor vid begravningar eller som själasörjare för personer som har förlorat sina livskamrater, i övertygelsen om att smärtan efter en förlorad kärlek är det starkaste beviset på dess äkthet.
-
-Vilken gud vill du ta dig an härnäst?

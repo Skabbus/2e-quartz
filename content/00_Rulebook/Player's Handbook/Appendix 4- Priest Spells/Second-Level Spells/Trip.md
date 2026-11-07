@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Plant
+spell_damage: "1"
 ---
 
 > [!spell|enc] 2 | Trip

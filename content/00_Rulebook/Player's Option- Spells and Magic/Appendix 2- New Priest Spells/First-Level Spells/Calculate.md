@@ -9,6 +9,7 @@ school:
 sphere: Numbers
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Calculate

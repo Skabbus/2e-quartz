@@ -8,6 +8,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage: 1d6/caster level (save for half)
 ---
 
 > [!spell|alt] 6 | Transmute Water to Dust *Reversible*
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 5 | Permanent |
 > | **Save** | **Damage** |
-> | None (special) | — |
+> | None (special) | 1d6/caster level (save for half) |
 > | **Components** | **Material** |
 > | S V M | See text |
 > 
@@ -46,7 +47,7 @@ spellist:
   "castingTime": "5",
   "duration": "Permanent",
   "save": "None (special)",
-  "damage": "—",
+  "damage": "1d6/caster level (save for half)",
   "description": "When this spell is cast, the subject area instantly undergoes a change from liquid to powdery dust. Note that if the water is already muddy, the area of effect is doubled, while if wet mud is being transmuted, the area of effect is quadrupled. If water remains in contact with the transmuted dust, the former quickly soaks the latter, turning the dust into silty mud (if a sufficient quantity of water exists to do so), otherwise soaking or dampening the dust accordingly.\n\nOnly liquid actually in the area of effect at the moment of spellcasting is affected. Liquids that are only partially water are affected only insofar as the actual water content is concerned; however, potions containing water are rendered useless. Living creatures are unaffected, except for those native to the Elemental Plane of Water. Such creatures receive saving throws vs. spell. Failure inflicts 1d6 points of damage per caster level upon the subject, while success means the creature receives half damage. Only one such creature can be affected by any single casting of this spell, regardless of the creature's size or the size of the spell's area of effect.\n\nThe reverse of the spell is simply a very high-powered *create water* spell that requires a pinch of normal dust as an additional material component.\n\nFor either usage of the spell, other components required are diamond dust of at least 500 gp value and a bit of seashell."
 }
 ```

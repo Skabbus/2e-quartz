@@ -8,6 +8,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage: 2d4 (contact) or 1d4 (within 5ft)
 ---
 
 > [!spell|inv] 2 | Flaming Sphere
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 2 | 1 rd./level |
 > | **Save** | **Damage** |
-> | Neg. | — |
+> | Neg. | 2d4 (contact) or 1d4 (within 5ft) |
 > | **Components** | **Material** |
 > | S V M | A bit of tallow, a pinch of sulphur, and a dusting of powdered iron |
 > 
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "2",
   "duration": "1 rd./level",
   "save": "Neg.",
-  "damage": "—",
+  "damage": "2d4 (contact) or 1d4 (within 5ft)",
   "description": "A *flaming sphere* spell creates a burning globe of fire within 10 yards of the caster. This sphere rolls in whichever direction the wizard points, at a rate of 30 feet per round. It rolls over barriers less than 4 feet tall, such as furniture, low walls, etc. Flammable substances are set afire by contact with the sphere. Creatures in contact with the globe must successfully save vs. spell or suffer 2d4 points of fire damage. Those within 5 feet of the sphere's surface must also save or suffer 1d4 points of heat damage. A successful saving throw means no damage is suffered. The DM may adjust the saving throws if there is little or no room to dodge the sphere.\n\nThe sphere moves as long as the spellcaster actively directs it; otherwise, it merely stays at rest and burns. It can be extinguished by the same means as any normal fire of its size. The surface of the sphere has a spongy, yielding consistency and so does not cause damage except by its flame. It cannot push unwilling creatures aside or batter down large obstacles.\n\nThe material components are a bit of tallow, a pinch of sulphur, and a dusting of powdered iron."
 }
 ```

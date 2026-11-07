@@ -9,6 +9,7 @@ school:
 level: 9
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 9 | Programmed Amnesia

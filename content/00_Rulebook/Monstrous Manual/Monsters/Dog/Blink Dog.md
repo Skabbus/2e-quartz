@@ -1,6 +1,6 @@
 ---
 heading: Dog, Blink Dog (Monstrous Manual)
-source: "[[Dog 1]]"
+source: "[[Dog]]"
 url: https://regalgoblins.com/2erules/MM/DD03837.htm
 monster_climate:
   - temperate
@@ -30,7 +30,7 @@ type:
 
 Dog, Blink Dog
 
-![[DOG.gif]]
+![[DOG.gif]]![[Blink_Dog_Medium_Fey_06.png]]
 
 |  |  |
 | --- | --- |

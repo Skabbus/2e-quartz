@@ -8,6 +8,7 @@ school:
   - Abjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 3 | Nondetection

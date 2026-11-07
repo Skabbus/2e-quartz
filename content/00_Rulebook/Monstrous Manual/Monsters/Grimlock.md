@@ -31,7 +31,7 @@ type:
 
 Grimlock**
 
-![[GRIMLOCK.gif]]**
+![[GRIMLOCK.gif]]![[Grimlock_Medium_Humanoid_09.png]]**
 
 |  |  |
 | --- | --- |

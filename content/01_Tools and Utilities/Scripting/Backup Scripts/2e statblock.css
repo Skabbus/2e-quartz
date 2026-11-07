@@ -1,0 +1,122 @@
+/* Grundinställning för alla 2e-statblocks */
+.callout.callout[data-callout^=statblock-2e] {
+  --callout-color: var(--accent);
+  --callout-icon: user;
+  --callout-padding: 12px 15px;
+  --callout-margin: 10px auto;
+  --callout-border-color: var(--hr, var(--hr-color));
+  border-width: 5px 0 5px 0;
+  border-style: solid;
+  margin: var(--callout-margin);
+  min-width: 100%;
+  max-width: 100%;
+  background: transparent;
+  box-shadow: var(--shadow-l), 0 0 20px var(--outline, var(--hr-color));
+}
+.callout.callout[data-callout^=statblock-2e] > .callout-content {
+  --heading-spacing-top: 0;
+  --heading-spacing-bottom: 0;
+  --p-spacing: 5px;
+  --bold-color: var(--headers, var(--h1-color));
+  --hr-icon-symbol: "";
+}
+.callout.callout[data-callout^=statblock-2e] h1 {
+  width: auto;
+  font-size: 1.3em;
+  text-align: center;
+  border-bottom: 2px solid var(--hr-color);
+  padding-bottom: 4px;
+  margin-bottom: 8px;
+}
+.callout.callout[data-callout^=statblock-2e] h1::after, .callout.callout[data-callout^=statblock-2e] h1::before, .callout.callout[data-callout^=statblock-2e] > .callout-title {
+  display: none;
+}
+.callout.callout[data-callout^=statblock-2e] blockquote {
+  --blockquote-border-thickness: 0;
+  --blockquote-padding: 2px 0;
+  --blockquote-color: var(--soft-text, var(--text-faint));
+  --blockquote-background-color: transparent;
+  margin-block-start: 0;
+  margin-block-end: 0;
+}
+.callout.callout[data-callout^=statblock-2e] hr {
+  margin: 8px auto;
+  border-color: var(--hr-color);
+}
+.callout.callout[data-callout^=statblock-2e] table {
+  margin: 6px auto;
+  width: 100%;
+  table-layout: fixed;
+  font-size: 0.85em;
+  border: none;
+}
+
+/* Dölj tjuv- och magisektioner som standard */
+.callout.callout[data-callout^=statblock-2e] .thief-section,
+.callout.callout[data-callout^=statblock-2e] .spell-section {
+  display: none;
+}
+
+/* Visa tjuvförmågor endast för tjuv-callouten */
+.callout.callout[data-callout=statblock-2e-thief] .thief-section {
+  display: block;
+}
+
+/* Visa besvärjelser endast för magiker-callouten */
+.callout.callout[data-callout=statblock-2e-wizard] .spell-section {
+  display: block;
+}
+
+/* Gemensam bas och utseende för alla karaktärssektioner */
+.callout[data-callout^=saves],
+.callout[data-callout^=stats],
+.callout[data-callout^=abilities],
+.callout[data-callout^=spells],
+.callout[data-callout^=thief],
+.callout[data-callout^=bio] {
+  --callout-padding: 8px 12px;
+  --callout-margin: 4px auto;
+  --callout-border-color: var(--hr, var(--hr-color));
+  border-width: 0 0 2px 0;
+  border-style: solid;
+  background: transparent;
+  max-width: 65ch;
+  box-shadow: none;
+}
+
+/* Anpassade ikoner och färger för respektive sektion */
+.callout[data-callout^=saves] { --callout-icon: shield; }
+.callout[data-callout^=stats] { --callout-icon: bar-chart-2; }
+.callout[data-callout^=abilities] { --callout-icon: zap; }
+.callout[data-callout^=spells] { --callout-icon: wand; }
+.callout[data-callout^=thief] { --callout-icon: footprints; }
+.callout[data-callout^=bio] { --callout-icon: user-check; }
+
+/* Kompakt och snygg tabell/text-stil inuti sektionerna */
+.callout[data-callout^=saves] > .callout-content,
+.callout[data-callout^=stats] > .callout-content,
+.callout[data-callout^=abilities] > .callout-content,
+.callout[data-callout^=spells] > .callout-content,
+.callout[data-callout^=thief] > .callout-content,
+.callout[data-callout^=bio] > .callout-content {
+  font-size: 0.85em;
+  --p-spacing: 3px;
+}
+
+.callout[data-callout^=saves] table,
+.callout[data-callout^=stats] table,
+.callout[data-callout^=abilities] table,
+.callout[data-callout^=thief] table {
+  width: 100%;
+  table-layout: fixed;
+  margin: 3px auto;
+  font-size: 0.8em;
+  text-align: center;
+  border: none;
+}
+
+/* Tar bort linjerna mellan cellerna i tabellerna */
+.callout table th,
+.callout table td {
+  border: none !important;
+}

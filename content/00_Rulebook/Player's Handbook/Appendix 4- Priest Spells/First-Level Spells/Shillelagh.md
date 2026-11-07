@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Combat
   - Plant
+spell_damage: 2d4 (up to man size), 1d4+1 (larger)
 ---
 
 > [!spell|alt] 1 | Shillelagh
@@ -20,7 +21,7 @@ sphere:
 > | **Casting Time** | **Duration** |
 > | 2 | 4 rds. + 1 rd./level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 2d4 (up to man size), 1d4+1 (larger) |
 > | **Components** | **Material** |
 > | S V M | A shamrock leaf and the caster's holy symbol |
 > 
@@ -45,7 +46,7 @@ sphere:
   "castingTime": "2",
   "duration": "4 rds. + 1 rd./level",
   "save": "None",
-  "damage": "—",
+  "damage": "2d4 (up to man size), 1d4+1 (larger)",
   "description": "This spell enables the caster to change his own oak cudgel or unshod staff into a magical weapon that gains a +1 bonus to its attack roll and inflicts 2d4 points of damage on opponents up to man size, and 1d4+1 points of damage on larger opponents. The spell inflicts no damage to the staff or cudgel. The caster must wield the shillelagh, of course.\n\nThe material components of this spell are a shamrock leaf and the caster's holy symbol."
 }
 ```

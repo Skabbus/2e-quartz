@@ -9,6 +9,7 @@ school:
   - Enchantment
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 7 | Shadow Walk

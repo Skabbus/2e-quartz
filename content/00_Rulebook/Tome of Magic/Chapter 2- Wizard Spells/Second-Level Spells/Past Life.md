@@ -7,6 +7,7 @@ level: 2
 school:
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 2 | Past Life

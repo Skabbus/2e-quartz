@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Protection
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Protection From Evil 10' Radius *Reversible*

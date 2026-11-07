@@ -5,7 +5,7 @@ source: https://regalgoblins.com/2erules/CT/DD02743.htm
 
 Weapon Descriptions**
 
-Adze.** Resembling an axe with a sideways blade, the adze is a common tool. Some savage tribes use a short-handled war adze as a close-combat weapon. Common adzes can be found in most woodworkers’ shops.
+**Adze.** Resembling an axe with a sideways blade, the adze is a common tool. Some savage tribes use a short-handled war adze as a close-combat weapon. Common adzes can be found in most woodworkers’ shops.
 
 **Ankus.** The ankus is an elephant goad. It is a three- to four-foot staff with a metal hook and point at one end. The ankus was intended to be both a tool and a weapon, and some were used as elaborate ceremonial pieces.
 

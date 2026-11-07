@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Sun
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Light *Reversible*

@@ -42,7 +42,7 @@ monster_hd_max: 18
 
 Golem, Greater, Iron
 
-![[GOLEMGRE.gif]]
+![[GOLEMGRE.gif]]![[Iron_Golem_Large_Construct_B_01.png]]
 
 |  |  |
 | --- | --- |

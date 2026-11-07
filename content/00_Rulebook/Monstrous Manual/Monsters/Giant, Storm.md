@@ -41,7 +41,7 @@ monster_hd_max: 19
 
 Giant, Storm**
 
-![[GIANTSTR.gif]]**
+![[GIANTSTR.gif]]![[Storm_Giant_Huge_Scale166_Giant_06.png]]
 
 |  |  |
 | --- | --- |

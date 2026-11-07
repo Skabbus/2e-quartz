@@ -30,7 +30,7 @@ type:
 
 Dragonet, Faerie Dragon**
 
-![[FARYDRAG.gif]]**
+![[FARYDRAG.gif]]![[Faerie_Dragon_Tiny_Dragon_04.png]]**
 
 |  |  |
 | --- | --- |

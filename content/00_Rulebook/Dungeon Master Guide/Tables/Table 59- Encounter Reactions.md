@@ -7,9 +7,9 @@ source: https://regalgoblins.com/2erules/DMG/DD00564.htm
 
 **ENCOUNTER REACTIONS**
 
-|  |  |
-| --- | --- |
-| **Modified** | **Player Characters are:** |
+|              |                            |     |
+| ------------ | -------------------------- | --- |
+| **Modified** | **Player Characters are:** |     |
 
 | **Die Roll** | **Friendly** | **Indifferent** | **Threatening** | **Hostile** |
 | ------------ | ------------ | --------------- | --------------- | ----------- |

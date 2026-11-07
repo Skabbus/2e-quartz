@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage:
 ---
 
 > [!spell|con] 7 | Conjure Air or Water Elemental *Reversible*

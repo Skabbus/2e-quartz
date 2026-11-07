@@ -1,5 +1,5 @@
 ---
-heading: "Galeb Duhr (Monstrous Manual)"
+heading: Galeb Duhr (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03893.htm
 monster_climate:
   - arctic
@@ -27,6 +27,7 @@ monster_hd_min: 8
 monster_hd_max: 10
 type:
   - monster
+no_token: true
 ---
 
 Galeb Duhr

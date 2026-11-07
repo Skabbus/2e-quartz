@@ -9,6 +9,7 @@ school:
 sphere: Guardian
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Blessed Watchfulness

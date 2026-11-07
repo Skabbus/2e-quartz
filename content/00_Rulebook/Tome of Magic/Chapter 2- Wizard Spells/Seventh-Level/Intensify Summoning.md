@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
   - Necromancy
 spellist: Wizard
+spell_damage: "+2 HP per hit die to summoned creatures"
 ---
 
 > [!spell|con] 7 | Intensify Summoning
@@ -17,7 +18,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 6 | 1 turn |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | +2 HP per hit die to summoned creatures |
 > | **Components** | **Material** |
 > | S V M | A small leather pouch and a miniature silver candelabra |
 > 
@@ -44,7 +45,7 @@ spellist: Wizard
   "castingTime": "6",
   "duration": "1 turn",
   "save": "None",
-  "damage": "—",
+  "damage": "+2 HP per hit die to summoned creatures",
   "description": "This spell enhances the strength of creatures summoned by the caster via 1st through 6th level conjuration/summoning spells. Only spells which bring summoned creatures to the wizard are affected.**\n\nThe first two conjuration/summoning spells cast by the wizard within one turn following the intensify summoning spell are affected. Summoned creatures gain 2 hit points per hit die. The affected creatures retain their bonus hit points until the normal expiration of the spell that summoned them.\n\nThe material components are a small leather pouch and a miniature silver candelabra."
 }
 ```

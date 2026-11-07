@@ -8,6 +8,7 @@ school:
   - Necromancy
 sphere: Healing
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|nec] 4 | Fortify

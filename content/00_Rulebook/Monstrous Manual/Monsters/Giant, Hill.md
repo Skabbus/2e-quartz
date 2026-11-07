@@ -35,7 +35,7 @@ monster_hd_max: 12
 
 Giant, Hill
 
-![[GIANTHIL.gif]]
+![[GIANTHIL.gif]]![[Hill_Giant_Huge_Scale166_Giant_01.png]]
 
 |  |  |
 | --- | --- |

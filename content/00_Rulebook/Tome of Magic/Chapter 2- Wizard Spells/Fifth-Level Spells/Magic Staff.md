@@ -7,6 +7,7 @@ level: 5
 school:
   - Enchantment/Charm
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 5 | Magic Staff

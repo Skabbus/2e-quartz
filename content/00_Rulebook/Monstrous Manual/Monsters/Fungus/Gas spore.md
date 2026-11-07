@@ -33,7 +33,7 @@ type:
 
 Fungus, Gas spore
 
-![[FUNGUS.gif]]
+![[FUNGUS.gif]]![[Gas_Spore_Large_Plant_03.png]]
 
 |  |  |
 | --- | --- |

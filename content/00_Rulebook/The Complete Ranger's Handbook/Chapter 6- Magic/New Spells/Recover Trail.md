@@ -10,6 +10,7 @@ sphere: Plant
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Recover Trail

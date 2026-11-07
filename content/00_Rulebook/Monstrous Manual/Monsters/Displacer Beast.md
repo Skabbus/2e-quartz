@@ -1,5 +1,5 @@
 ---
-heading: "Displacer Beast (Monstrous Manual)"
+heading: Displacer Beast (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03836.htm
 monster_climate:
   - temperate
@@ -25,6 +25,7 @@ monster_hd_min: 6
 monster_hd_max: 6
 type:
   - monster
+no_token: true
 ---
 
 Displacer Beast

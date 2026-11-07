@@ -7,6 +7,7 @@ level: 5
 school:
   - Necromancy
 spellist: Wizard
+spell_damage: 1d4 (half on save)
 ---
 
 > [!spell|nec] 5 | Throbbing Bones
@@ -16,7 +17,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 3 | 1 round/level |
 > | **Save** | **Damage** |
-> | 1/2 | — |
+> | 1/2 | 1d4 (half on save) |
 > | **Components** | **Material** |
 > | V M | See text |
 > 
@@ -43,7 +44,7 @@ spellist: Wizard
   "castingTime": "3",
   "duration": "1 round/level",
   "save": "1/2",
-  "damage": "—",
+  "damage": "1d4 (half on save)",
   "description": "This spell causes the bones of the affected creature to throb and pulsate inside his body. The spell can be cast upon any single living creature or person within the caster's range, providing the creature has a physical form and has bones inside its body; for instance, *throbbing bones* will not affect insects, ghosts, or worms.\n\nFor the duration of the spell, the affected creature's AC is worsened by 2, its movement rate is halved, and all its attacks are made with a -2 penalty. Additionally, it suffers 1-4 hit points of damage per round; this damage is halved if the creature makes a successful saving throw. However, a successful saving throw has no affect on the movement, attack, and AC penalties.\n\nThe material components for this spell are both pieces of a small bone that has been snapped in half"
 }
 ```

@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Jungle (Monstrous Manual)"
+heading: Giant-- Jungle (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03909.htm
 monster_climate:
   - tropical
@@ -23,6 +23,7 @@ monster_hd_min: 11
 monster_hd_max: 11
 type:
   - monster
+no_token: true
 ---
 
 Giant, Jungle

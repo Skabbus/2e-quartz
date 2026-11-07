@@ -40,7 +40,7 @@ type:
 
 Golem, Gargoyle, Glass, Gargoyle
 
-![[GOLEMGLS.gif]]
+![[GOLEMGLS.gif]]![[Gargoyle_MediumPLUS_Elemental_A_02.png]]
 
 |  |  |
 | --- | --- |

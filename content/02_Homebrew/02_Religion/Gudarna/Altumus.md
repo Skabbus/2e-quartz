@@ -47,4 +47,3 @@ De mer hedonistiska följarna som ser livet som en konstant festival. De bygger 
 
 Denna sekt fokuserar på den naturliga ordningen. De är djupt insatta i lagar om arv, ägande och hur samhällen ska struktureras för att minimera lidande. De är mindre "mjuka" än de andra samfunden och fungerar mer som byråkrater och stadsplanerare som vill säkerställa att Altumus livsflöde aldrig hindras av mänsklig korruption eller kaos.
 
-Vilken gud vill du ta dig an härnäst?

@@ -33,7 +33,7 @@ type:
 
 Carrion Crawler
 
-![[CARIONCR.gif]]
+![[CARIONCR.gif]]![[Carrion_Crawler_Large_Monstrosity_03.png]]
 
 |  |  |
 | --- | --- |

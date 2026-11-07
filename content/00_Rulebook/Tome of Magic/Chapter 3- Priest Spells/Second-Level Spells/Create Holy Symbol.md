@@ -8,6 +8,7 @@ school:
   - Conjuration
 sphere: Creation
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|con] 2 | Create Holy Symbol

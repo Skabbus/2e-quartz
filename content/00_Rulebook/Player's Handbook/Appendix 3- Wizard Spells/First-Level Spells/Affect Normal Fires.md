@@ -8,6 +8,7 @@ school:
 level: 1
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Affect Normal Fires

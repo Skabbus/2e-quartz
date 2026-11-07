@@ -7,6 +7,7 @@ level: 8
 school:
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|nec] 8 | Defoliate

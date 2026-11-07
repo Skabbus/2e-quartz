@@ -37,7 +37,7 @@ type:
 | --- | --- |
 | Dragon, Chromatic | Black Dragon |
 
-![[BLAKDRAG.gif]]
+![[BLAKDRAG.gif]]![[Adult_Black_Dragon_Scale233_Huge_Dragon_04.png]]
 
 |  |  |
 | --- | --- |

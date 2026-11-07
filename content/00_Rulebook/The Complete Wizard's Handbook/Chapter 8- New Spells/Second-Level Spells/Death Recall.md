@@ -8,6 +8,7 @@ school:
   - Necromancy
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 2 | Death Recall

@@ -37,7 +37,7 @@ type:
 
 Behir
 
-![[BEHIR.gif]]
+![[BEHIR.gif]]![[Behir_Huge_Monstrosity_11.png]]
 
 |  |  |
 | --- | --- |

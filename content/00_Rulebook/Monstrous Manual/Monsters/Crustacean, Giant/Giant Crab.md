@@ -34,7 +34,7 @@ type:
 
 Crustacean, Giant, Giant Crab
 
-![[CRUSTACN.gif]]
+![[CRUSTACN.gif]]![[Giant_Crab_Medium_Beast_03.png]]
 
 |  |  |
 | --- | --- |

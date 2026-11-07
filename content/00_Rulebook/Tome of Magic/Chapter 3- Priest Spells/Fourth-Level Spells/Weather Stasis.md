@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Wards
   - Weather
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Weather Stasis

@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Guardian
   - Creation
+spell_damage: 8d8
 ---
 
 > [!spell|inv] 6 | Blade Barrier

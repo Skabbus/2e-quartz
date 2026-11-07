@@ -46,5 +46,3 @@ En sekt som ser till att smärtan aldrig tar slut i förtid. Genom sin kunskap o
 #### Minnesbevararna
 
 En isolerad grupp som samlar på sig världens mest fruktade trauman. De vandrar från plats till plats för att "bevittna" lidande. De tror att om ett lidande glöms bort, förlorar världen en del av sin sanning. De skriver ner berättelser om smärta i stora krönikor, som de sedan rituellt bränner för att låta smärtan "stiga upp" till Confana.
-
-Vilken gud vill du ta dig an härnäst?

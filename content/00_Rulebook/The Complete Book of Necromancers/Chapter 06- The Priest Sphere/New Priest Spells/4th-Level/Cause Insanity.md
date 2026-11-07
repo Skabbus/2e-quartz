@@ -11,6 +11,7 @@ sphere:
   - Thought
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|nec] 4 | Cause Insanity *Reversible*

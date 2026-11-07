@@ -9,6 +9,7 @@ school:
 spellist:
   - Bard
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Alter Instrument

@@ -1,5 +1,5 @@
 ---
-heading: "Giant-- Verbeeg (Monstrous Manual)"
+heading: Giant-- Verbeeg (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03914.htm
 monster_climate:
   - arctic
@@ -26,6 +26,7 @@ monster_hd_min: 5
 monster_hd_max: 5
 type:
   - monster
+no_token: true
 ---
 
 Giant, Verbeeg

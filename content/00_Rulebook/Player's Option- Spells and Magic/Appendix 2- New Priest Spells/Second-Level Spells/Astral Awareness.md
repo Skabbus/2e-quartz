@@ -9,6 +9,7 @@ school:
 sphere: Astral
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 2 | Astral Awareness

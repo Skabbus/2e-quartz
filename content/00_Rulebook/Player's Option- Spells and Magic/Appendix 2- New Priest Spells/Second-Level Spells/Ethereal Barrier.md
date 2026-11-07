@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Astral
   - Wards
+spell_damage:
 ---
 
 > [!spell|abj] 2 | Ethereal Barrier

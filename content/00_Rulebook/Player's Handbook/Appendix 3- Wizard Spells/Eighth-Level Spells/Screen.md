@@ -8,6 +8,7 @@ school:
   - Divination/Illusion
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 8 | Screen

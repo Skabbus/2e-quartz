@@ -1,6 +1,8 @@
 ---
-heading: "Awl Pike (Arms and Equipment Guide)"
+heading: Awl Pike (Arms and Equipment Guide)
 source: https://regalgoblins.com/2erules/AEG/DD00117.htm
+type:
+  - WP
 ---
 
 **Awl Pike**

@@ -7,6 +7,7 @@ level: 3
 school:
   - Enchantment/Charm
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Minor Malison

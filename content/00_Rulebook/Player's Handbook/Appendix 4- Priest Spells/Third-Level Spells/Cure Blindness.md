@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Necromantic
+spell_damage:
 ---
 
 > [!spell|abj] 3 | Cure Blindness or Deafness *Reversible*

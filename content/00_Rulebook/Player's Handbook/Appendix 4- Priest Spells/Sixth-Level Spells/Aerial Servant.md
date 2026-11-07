@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Summoning
+spell_damage:
 ---
 
 > [!spell|con] 6 | Aerial Servant

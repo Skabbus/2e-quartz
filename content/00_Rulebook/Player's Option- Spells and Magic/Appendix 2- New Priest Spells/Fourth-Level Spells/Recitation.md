@@ -10,6 +10,7 @@ sphere: Combat
 level: 4
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Recitation

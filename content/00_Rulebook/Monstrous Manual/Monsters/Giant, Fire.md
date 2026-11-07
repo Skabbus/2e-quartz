@@ -39,7 +39,7 @@ monster_hd_max: 15
 
 Giant, Fire
 
-![[GIANTFRE.gif]]
+![[GIANTFRE.gif]]![[Fire_Giant_Huge_Scale166_Giant_04.png]]
 
 |                                       |                                      |
 | ------------------------------------- | ------------------------------------ |

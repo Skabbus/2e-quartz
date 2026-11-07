@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Summoning
+spell_damage:
 ---
 
 > [!spell|con] 4 | Call Woodland Beings

@@ -8,6 +8,7 @@ school:
   - Alteration
   - Enchantment
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 8 | Air Boat

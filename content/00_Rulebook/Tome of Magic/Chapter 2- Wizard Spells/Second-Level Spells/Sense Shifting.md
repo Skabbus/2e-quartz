@@ -7,6 +7,7 @@ level: 2
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Sense Shifting

@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Mist (Monstrous Manual)"
+heading: Dragon-- Mist (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03862.htm
 monster_climate:
   - subtropical
@@ -29,6 +29,7 @@ monster_hd_min: 11
 monster_hd_max: 11
 type:
   - monster
+no_token: true
 ---
 
 Mist Dragon![[MISTDRAG.gif]]

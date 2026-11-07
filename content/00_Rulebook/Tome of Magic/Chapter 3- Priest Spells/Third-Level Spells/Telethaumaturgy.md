@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Numbers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Telethaumaturgy

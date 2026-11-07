@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Protection
+spell_damage:
 ---
 
 > [!spell|enc] 3 | Magical Vestment

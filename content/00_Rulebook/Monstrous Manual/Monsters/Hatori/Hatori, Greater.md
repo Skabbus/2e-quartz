@@ -30,6 +30,7 @@ monster_hd_min: 6
 monster_hd_max: 20
 type:
   - monster
+no_token: true
 ---
 
 Hatori, Greater

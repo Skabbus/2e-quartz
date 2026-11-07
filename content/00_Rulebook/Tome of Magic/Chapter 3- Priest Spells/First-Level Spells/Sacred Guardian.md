@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Guardian
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Sacred Guardian

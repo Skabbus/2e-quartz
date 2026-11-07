@@ -32,7 +32,7 @@ type:
   - monster
 ---
 
-Elemental, Air/Earth![[AIRERTH.gif]], Air
+Elemental, Air/Earth![[AIRERTH.gif]]![[Air_Large_Elemental_03.png]], Air
 
 |  |  |
 | --- | --- |

@@ -221,7 +221,7 @@ B
 
 [[Beholder and Beholder-kin I|Bleeder]]
 
-[[Dog 1#b5ace021|Blink Dog]]
+[[Dog|Blink Dog]]
 
 [[Dragon, Chromatic- Blue Dragon#b265837e|Blue Dragon]]
 
@@ -353,12 +353,12 @@ C
 
 [[Dragon, Gem- Crystal Dragon#3a452ddb|Crystal Dragon]]
 
-[[Giant, Cyclcops#07280dcf|Cyclcops, (Giant)]]
+[[Giant, Cyclops#07280dcf|Cyclcops, (Giant)]]
 
 |  |  |
 | --- | --- |
-|  | [[Giant, Cyclcops#07280dcf\|Cyclcops]] |
-|  | [[Giant, Cyclcops#07280dcf\|Cyclcopskin]] |
+|  | [[Giant, Cyclops#07280dcf\|Cyclcops]] |
+|  | [[Giant, Cyclops#07280dcf\|Cyclcopskin]] |
 
 D
 
@@ -414,14 +414,14 @@ D
 
 [[Genie|Djinn (Genie)]]
 
-[[Dog 1#b5ace021|Dog]]
+[[Dog|Dog]]
 
-|  |  |
-| --- | --- |
-|  | [[Dog 1#b5ace021\|Blink]] |
-|  | [[Dog 1#b5ace021\|Death]] |
-|  | [[Dog 1#b5ace021\|War]] |
-|  | [[Dog 1#b5ace021\|Wild]] |
+|     |                |
+| --- | -------------- |
+|     | [[Dog\|Blink]] |
+|     | [[Dog\|Death]] |
+|     | [[Dog\|War]]   |
+|     | [[Dog\|Wild]]  |
 
 [[Dog, Moon#980c8e1b|Dog, Moon]]
 
@@ -727,7 +727,7 @@ G
 |  |  |
 | --- | --- |
 |  | [[Giant, Cloud#4d9b23cc\|Cloud]] |
-|  | [[Giant, Cyclcops#07280dcf\|Cyclops]] |
+|  | [[Giant, Cyclops#07280dcf\|Cyclops]] |
 |  | [[Giant, Desert#be6a0d94\|Desert]] |
 |  | [[Giant, Ettin#d0959673\|Ettin]] |
 |  | [[Giant, Firbolg#943f48aa\|Firbolg]] |

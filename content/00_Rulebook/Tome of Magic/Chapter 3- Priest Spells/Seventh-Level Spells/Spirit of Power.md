@@ -9,6 +9,7 @@ school:
   - Invocation
 sphere: Summoning
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|con] 7 | Spirit of Power

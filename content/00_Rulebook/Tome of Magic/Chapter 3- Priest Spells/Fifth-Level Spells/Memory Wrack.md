@@ -9,6 +9,7 @@ school:
   - Enchantment/Charm
 sphere: Thought
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Memory Wrack

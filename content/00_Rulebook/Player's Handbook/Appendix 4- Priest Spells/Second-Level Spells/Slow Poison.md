@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Healing
+spell_damage:
 ---
 
 > [!spell|nec] 2 | Slow Poison

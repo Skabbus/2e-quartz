@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Plant
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Pass Plant

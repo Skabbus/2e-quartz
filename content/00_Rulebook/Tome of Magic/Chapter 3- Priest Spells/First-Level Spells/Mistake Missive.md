@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Chaos
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Mistake Missive

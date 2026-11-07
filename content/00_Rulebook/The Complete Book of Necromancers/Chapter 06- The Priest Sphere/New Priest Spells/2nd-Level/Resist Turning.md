@@ -10,6 +10,7 @@ sphere:
   - Necromantic
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 2 | Resist Turning

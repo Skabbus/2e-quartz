@@ -9,6 +9,7 @@ school:
 sphere: Astral
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Astral Celerity

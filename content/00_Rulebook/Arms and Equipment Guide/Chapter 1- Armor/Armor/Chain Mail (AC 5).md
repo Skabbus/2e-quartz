@@ -4,6 +4,7 @@ source: https://regalgoblins.com/2erules/AEG/DD00013.htm
 type:
   - Item
   - " Armor"
+  - WP
 armor class: 15
 ---
 

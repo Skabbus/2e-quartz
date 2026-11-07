@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Creation
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Create Food & Drink

@@ -38,6 +38,7 @@ type:
   - monster
 monster_hd_min: 14
 monster_hd_max: 14
+no_token: true
 ---
 
 Golem, Bone, Doll, Bone

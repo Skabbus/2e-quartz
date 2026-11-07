@@ -9,6 +9,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Fabricate

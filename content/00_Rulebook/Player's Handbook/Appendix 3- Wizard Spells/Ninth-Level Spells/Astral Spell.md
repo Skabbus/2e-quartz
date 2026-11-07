@@ -8,6 +8,7 @@ school:
 level: 9
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 9 | Astral Spell

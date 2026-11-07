@@ -8,6 +8,7 @@ school:
   - Abjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 8 | Serten's Spell Immunity

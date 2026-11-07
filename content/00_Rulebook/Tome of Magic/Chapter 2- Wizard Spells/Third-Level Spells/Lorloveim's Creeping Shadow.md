@@ -7,6 +7,7 @@ level: 3
 school:
   - Illusion
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 3 | Lorloveim's Creeping Shadow

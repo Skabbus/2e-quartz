@@ -10,6 +10,7 @@ sphere:
   - Necromantic
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|nec] 1 | Undead Alacrity

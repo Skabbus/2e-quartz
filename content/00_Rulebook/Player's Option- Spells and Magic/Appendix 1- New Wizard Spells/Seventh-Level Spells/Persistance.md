@@ -8,6 +8,7 @@ school:
   - Invocation/Evocation
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 7 | Persistance

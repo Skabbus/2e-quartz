@@ -38,7 +38,7 @@ type:
 
 Beetle, Giant, Fire
 
-![[BEETLE.gif]]
+![[BEETLE.gif]]![[Giant Fire Beetle [CR0,Small,Beast].png]]
 
 |  |  |
 | --- | --- |

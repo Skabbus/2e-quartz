@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Combat
+spell_damage:
 ---
 
 > [!spell|con] 7 | Holy Word *Reversible*

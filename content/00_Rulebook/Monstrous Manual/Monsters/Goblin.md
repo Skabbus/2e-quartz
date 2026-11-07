@@ -36,7 +36,7 @@ type:
 
 Goblin
 
-![[GOBLIN.gif]]
+![[GOBLIN.gif]]![[Goblin_Ranger_Shortsword_07.png]]
 
 |  |  |
 | --- | --- |

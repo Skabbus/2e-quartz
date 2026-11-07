@@ -10,6 +10,7 @@ sphere:
   - Elemental
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Soften Earth and Stone

@@ -29,7 +29,7 @@ type:
 
 Griffon
 
-![[GRIFFON.gif]]
+![[GRIFFON.gif]]![[Griffon_Large_Scale200_Monstrosity_B_02.png]]
 
 |  |  |
 | --- | --- |

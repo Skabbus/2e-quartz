@@ -9,6 +9,7 @@ school:
   - Conjuration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Mordenkainen's Magnificent Mansion

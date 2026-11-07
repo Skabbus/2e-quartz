@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage: 1d4+level
 ---
 
 > [!spell|alt] 4 | Produce Fire *Reversible*

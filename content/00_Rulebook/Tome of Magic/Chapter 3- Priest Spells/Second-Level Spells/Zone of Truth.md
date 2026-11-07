@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 2 | Zone of Truth

@@ -39,7 +39,7 @@ type:
 
 **Genie**, Dao
 
-![[GENIE1.gif]]
+![[GENIE1.gif]]![[Dao_Large_Elemental_08.png]]
 
 |  |  |
 | --- | --- |

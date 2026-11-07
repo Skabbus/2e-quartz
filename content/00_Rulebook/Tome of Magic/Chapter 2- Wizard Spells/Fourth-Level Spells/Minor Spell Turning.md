@@ -7,6 +7,7 @@ level: 4
 school:
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Minor Spell Turning

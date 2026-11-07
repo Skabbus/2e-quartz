@@ -8,6 +8,7 @@ school:
   - Abjuration
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 6 | Land of Stability

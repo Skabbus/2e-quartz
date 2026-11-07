@@ -10,6 +10,7 @@ school:
 spellist:
   - Bard
   - Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Sound Bubble

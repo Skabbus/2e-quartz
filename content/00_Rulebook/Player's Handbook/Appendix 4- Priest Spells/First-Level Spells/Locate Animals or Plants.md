@@ -12,6 +12,7 @@ sphere:
   - Divination
   - Animal
   - Plant
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Locate Animals or Plants

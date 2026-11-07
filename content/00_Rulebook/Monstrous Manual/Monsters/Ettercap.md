@@ -33,7 +33,7 @@ type:
 
 Ettercap
 
-![[ETTERCAP.gif]]
+![[ETTERCAP.gif]]![[Ettercap_Medium_Monstrosity_07.png]]
 
 |  |  |
 | --- | --- |

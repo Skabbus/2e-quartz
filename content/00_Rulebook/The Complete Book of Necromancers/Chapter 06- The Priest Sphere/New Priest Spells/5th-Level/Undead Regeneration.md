@@ -10,6 +10,7 @@ sphere:
   - Necromantic
 spellist:
   - Priest
+spell_damage: 2d4+1/level (healing) or 2d4+1/level (damage)
 ---
 
 > [!spell|nec] 5 | Undead Regeneration *Reversible*
@@ -19,7 +20,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 8 | Instantaneous |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 2d4+1/level (healing) or 2d4+1/level (damage) |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "8",
   "duration": "Instantaneous",
   "save": "None",
-  "damage": "—",
+  "damage": "2d4+1/level (healing) or 2d4+1/level (damage)",
   "description": "With this spell, the priest can “heal” an undead, restoring to its unlife 2d4 hit points plus one point per level of the caster’s experience. As with most spells that restore hit points, *undead regeneration* cannot raise a creature above its normal maximum. Noncorporeal undead can also be affected by reaching into the space they occupy. During the “healing” process, the spell temporarily shields the priest from dangerous contact with the undead, such as aging or paralysis.\n\nThe reverse of this spell, drain undead, inflicts a like amount of damage. Note that the damage “drained” from the undead creature is lost. It is not gained as healing or extra hit points for the caster. The same protections against undead powers are conferred on the caster as with *undead regeneration*.Only one undead can be affected by either version of this spell."
 }
 ```

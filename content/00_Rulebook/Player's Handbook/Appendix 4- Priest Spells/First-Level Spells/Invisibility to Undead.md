@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Necromantic
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Invisibility to Undead

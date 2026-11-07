@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Animal
+spell_damage:
 ---
 > [!spell|enc] 2 | Charm Person or Mammal
 > | Range | AoE |

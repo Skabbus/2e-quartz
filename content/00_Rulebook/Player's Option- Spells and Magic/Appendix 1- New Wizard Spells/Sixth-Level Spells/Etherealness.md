@@ -8,6 +8,7 @@ school:
   - Dimension
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|grey] 6 | Etherealness

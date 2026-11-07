@@ -37,11 +37,12 @@ monster_hd_min: 7
 monster_hd_max: 7
 type:
   - monster
+no_token: true
 ---
 
 Grell, Philosopher
 
-![[GRELL.gif]]
+![[GRELL.gif]]![[Grell.png]]
 
 |  |  |
 | --- | --- |

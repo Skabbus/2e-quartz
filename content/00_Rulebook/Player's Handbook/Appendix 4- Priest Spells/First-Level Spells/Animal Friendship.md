@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Animal
+spell_damage:
 ---
 
 > [!spell|enc] 1 | First-Level Spells

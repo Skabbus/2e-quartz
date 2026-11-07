@@ -34,7 +34,7 @@ type:
 
 Bear, Black
 
-![[BEAR.gif]]
+![[BEAR.gif]]![[Black_Bear_Medium_Beast_01.png]]
 
 |  |  |
 | --- | --- |

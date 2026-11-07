@@ -8,6 +8,7 @@ school:
   - Abjuration
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Anti-Vermin Barrier

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Combat
+spell_damage: 1d4/pebble (2d4 against undead)
 ---
 
 > [!spell|enc] 1 | Magical Stone

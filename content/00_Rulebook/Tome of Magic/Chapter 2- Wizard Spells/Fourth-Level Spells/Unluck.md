@@ -7,6 +7,7 @@ level: 4
 school:
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 4 | Unluck

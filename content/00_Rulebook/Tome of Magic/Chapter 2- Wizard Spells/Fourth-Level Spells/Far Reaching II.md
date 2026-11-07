@@ -7,6 +7,7 @@ level: 4
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Far Reaching II

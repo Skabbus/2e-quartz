@@ -11,6 +11,7 @@ sphere:
   - Divination
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Spectral Senses

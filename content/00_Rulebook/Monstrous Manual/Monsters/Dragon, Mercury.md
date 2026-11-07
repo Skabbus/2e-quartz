@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Mercury (Monstrous Manual)"
+heading: Dragon-- Mercury (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03861.htm
 monster_climate:
   - temperate
@@ -26,6 +26,7 @@ monster_hd_min: 11
 monster_hd_max: 11
 type:
   - monster
+no_token: true
 ---
 
 Mercury Dragon![[MERCDRAG.gif]]

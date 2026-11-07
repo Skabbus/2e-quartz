@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Elemental
+spell_damage:
 ---
 
 > [!spell|abj] 7 | Antimineral Shell

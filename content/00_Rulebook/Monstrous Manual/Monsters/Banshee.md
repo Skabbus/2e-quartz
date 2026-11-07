@@ -38,7 +38,7 @@ type:
 
 Banshee
 
-![[BANSHEE.gif]]
+![[BANSHEE.gif]]![[Banshee Spirit [Ghost,Medium,Undead].png]]
 
 |  |  |
 | --- | --- |

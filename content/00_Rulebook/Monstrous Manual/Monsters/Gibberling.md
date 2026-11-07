@@ -29,6 +29,7 @@ monster_hd_max: 1
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Gibberling

@@ -30,6 +30,7 @@ monster_hd_min: 5
 monster_hd_max: 5
 type:
   - monster
+no_token: true
 ---
 
 Fungus, Phycomid

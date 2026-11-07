@@ -7,6 +7,7 @@ level: 3
 school:
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 3 | Iron Mind

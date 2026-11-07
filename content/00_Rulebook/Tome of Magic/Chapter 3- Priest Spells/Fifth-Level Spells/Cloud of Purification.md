@@ -9,6 +9,7 @@ school:
 spellist: Priest
 sphere:
   - Elemental
+spell_damage:
 ---
 
 > [!spell|inv] 5 | Cloud of Purification

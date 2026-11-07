@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - All
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Atonement

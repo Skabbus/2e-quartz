@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Necromantic
+spell_damage: 2d6
 ---
 
 > [!spell|abj] 3 | Negative Plane Protection

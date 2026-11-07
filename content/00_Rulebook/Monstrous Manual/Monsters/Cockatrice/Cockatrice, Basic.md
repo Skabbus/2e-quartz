@@ -39,7 +39,7 @@ type:
 
 Cockatrice, Basic
 
-![[COCKATRC.gif]]
+![[COCKATRC.gif]]![[Cockatrice_Small_Monstrosity_01.png]]
 
 |  |  |
 | --- | --- |

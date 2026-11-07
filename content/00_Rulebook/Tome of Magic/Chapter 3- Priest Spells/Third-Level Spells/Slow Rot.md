@@ -8,6 +8,7 @@ school:
   - Abjuration
 sphere: Plant
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 3 | Slow Rot

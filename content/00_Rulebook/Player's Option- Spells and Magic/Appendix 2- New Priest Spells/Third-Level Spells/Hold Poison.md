@@ -9,6 +9,7 @@ school:
 sphere: Healing
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|nec] 3 | Hold Poison

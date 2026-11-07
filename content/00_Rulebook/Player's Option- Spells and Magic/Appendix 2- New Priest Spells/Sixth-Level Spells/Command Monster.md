@@ -9,6 +9,7 @@ school:
 sphere: Charm
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|enc] 6 | Command Monster

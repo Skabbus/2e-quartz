@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage:
 ---
 
 > [!spell|con] 6 | Conjure Fire Elemental *Reversible*

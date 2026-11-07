@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Know Direction

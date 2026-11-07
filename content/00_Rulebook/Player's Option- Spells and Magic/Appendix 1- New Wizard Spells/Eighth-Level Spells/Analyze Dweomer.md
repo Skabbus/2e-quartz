@@ -9,6 +9,7 @@ school:
 level: 8
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 8 | Analyze Dweomer

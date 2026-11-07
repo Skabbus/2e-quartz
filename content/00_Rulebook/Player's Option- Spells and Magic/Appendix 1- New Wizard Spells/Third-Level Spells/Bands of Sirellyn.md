@@ -8,6 +8,7 @@ school:
 level: 3
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 3 | Third-Level Spells

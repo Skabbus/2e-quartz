@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Elemental
   - Summoning
+spell_damage:
 ---
 
 > [!spell|con] 7 | Conjure Earth Elemental *Reversible*

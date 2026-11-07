@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Clear Path *Reversible*

@@ -8,6 +8,7 @@ school:
 level: 4
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Charm Monster

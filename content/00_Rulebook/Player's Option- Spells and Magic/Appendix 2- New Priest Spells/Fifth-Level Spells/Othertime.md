@@ -9,6 +9,7 @@ school:
 sphere: Time
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Othertime

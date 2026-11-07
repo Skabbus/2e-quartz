@@ -7,6 +7,7 @@ level: 6
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Dilation II

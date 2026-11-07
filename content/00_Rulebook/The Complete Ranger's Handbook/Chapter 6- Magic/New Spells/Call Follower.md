@@ -11,6 +11,7 @@ sphere: Animal
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|con] 3 | Call Follower

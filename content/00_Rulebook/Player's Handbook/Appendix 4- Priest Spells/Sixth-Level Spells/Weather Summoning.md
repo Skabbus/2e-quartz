@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Weather
+spell_damage:
 ---
 
 > [!spell|con] 6 | Weather Summoning

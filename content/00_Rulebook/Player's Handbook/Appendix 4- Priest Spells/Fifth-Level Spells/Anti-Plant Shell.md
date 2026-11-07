@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Plant
   - Protection
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Anti-Plant Shell

@@ -8,6 +8,7 @@ school:
   - Conjuration
 sphere: Creation
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|con] 5 | Blessed Abundance

@@ -38,7 +38,7 @@ type:
 | --- | --- |
 | Bronze Dragon | Dragon, Metallic |
 
-![[BRNZDRAG.gif]]
+![[BRNZDRAG.gif]]![[Adult_Bronze_Dragon_Scale233_Huge_Dragon_06.png]]
 
 |                       |                                                                               |
 | --------------------- | ----------------------------------------------------------------------------- |

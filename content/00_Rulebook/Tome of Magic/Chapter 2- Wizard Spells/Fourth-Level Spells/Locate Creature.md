@@ -7,6 +7,7 @@ level: 4
 school:
   - Divination
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|gdiv] 4 | Locate Creature

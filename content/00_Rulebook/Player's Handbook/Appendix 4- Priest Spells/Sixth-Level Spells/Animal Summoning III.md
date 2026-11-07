@@ -12,6 +12,7 @@ spellist:
 sphere:
   - Animal
   - Summoning
+spell_damage:
 ---
 
 > [!spell|con] 6 | Animal Summoning III

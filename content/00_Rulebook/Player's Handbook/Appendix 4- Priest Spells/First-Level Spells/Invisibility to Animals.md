@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Animal
+spell_damage:
 ---
 
 > [!spell|alt] 1 | Invisibility to Animals

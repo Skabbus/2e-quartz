@@ -40,7 +40,7 @@ type:
 
 Death Knight
 
-![[DETHNITE.gif]]
+![[DETHNITE.gif]]![[Death_Knight_Medium_Undead_08.png]]
 
 |  |  |
 | --- | --- |

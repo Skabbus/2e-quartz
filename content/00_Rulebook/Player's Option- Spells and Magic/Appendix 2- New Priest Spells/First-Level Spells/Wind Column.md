@@ -10,6 +10,7 @@ sphere:
   - Elemental
 spellist:
   - Priest
+spell_damage: Variable
 ---
 
 > [!spell|inv] 1 | Wind Column
@@ -19,7 +20,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 1 | 2 rds./level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | Variable |
 > | **Components** | **Material** |
 > | S | — |
 > | **Subtlety** | **Knockdown** |
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "1",
   "duration": "2 rds./level",
   "save": "None",
-  "damage": "—",
+  "damage": "Variable",
   "description": "A priest with access to this spell need not fear most routine falls, since the casting of the *wind column* creates a pillar of strong winds to slow his descent. The spell is most effective in areas or regions where a strong breeze is available, such as the heights of a mountain or the mast of a ship at sea. In areas of dead, calm air, it is much more difficult to muster the windpower necessary to arrest the caster’s fall. The caster’s rate of descent (and risk of damage) varies with the strength of the prevailing winds, as shown below.\n\n| Wind Strength | Falling Rate               | Damage Sustained |"
 }
 ```

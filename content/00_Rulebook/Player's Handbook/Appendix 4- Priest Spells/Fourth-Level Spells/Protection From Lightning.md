@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Protection
   - Weather
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Protection From Lightning

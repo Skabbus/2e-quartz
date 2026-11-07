@@ -29,7 +29,7 @@ type:
 
 Cat, Great, Common Lion
 
-![[CATTIGER.gif]]
+![[CATTIGER.gif]]![[Lion_Large_Beast_01.png]]
 
 |  |  |
 | --- | --- |

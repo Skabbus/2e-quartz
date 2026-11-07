@@ -40,7 +40,7 @@ type:
   - monster
 ---
 
-Elemental Fire Kin![[FIREKIN.gif]], Salamander
+Elemental Fire Kin![[FIREKIN.gif]]![[Salamander_Large_Scale150_Elemental_02.png]], Salamander
 
 |  |  |
 | --- | --- |

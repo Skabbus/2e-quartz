@@ -36,7 +36,7 @@ type:
 | --- | --- |
 | Dragon, Chromatic | Green Dragon |
 
-![[GRENDRAG.gif]]
+![[GRENDRAG.gif]]![[Ancient_Green_Dragon_Gargantuan_Dragon_38x33_02.png]]
 
 |  |  |
 | --- | --- |

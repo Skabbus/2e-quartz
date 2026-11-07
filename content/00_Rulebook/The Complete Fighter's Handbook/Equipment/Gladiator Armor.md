@@ -16,31 +16,31 @@ There are three normal types of gladiator armor: Thracian, Gallic, and Samnite.
 
 They're all made up from several smaller pieces of armor, which include:
 
-|  |  |  |
-| --- | --- | --- |
-|  |  | **Wgt** |
-| **Armor Piece** | **Cost** | **(lbs)** |
-| Belt: |  |  |
-| Protective metal |  |  |
-| belt at waist | 2 gp | 5 |
-| Cuirass: |  |  |
-| Leather or metal |  |  |
-| chest plate | 50 gp | 20 |
-| Fasciae: |  |  |
-| Leather bands |  |  |
-| on legs | 10 gp | 5 |
-| Galea: |  |  |
-| Visored Helm | 10 gp | 5 |
-| Galerus: |  |  |
-| Shoulder piece |  |  |
-| on weapon |  |  |
-| shoulder | 5 gp | 3 |
-| Manicae: |  |  |
-| Leather sleeve | 10 gp | 5 |
-| Myrrmillo: |  |  |
-| Visored helm |  |  |
-| resembling |  |  |
-| sea fish | 10 gp | 5 |
+|                  |          |           |
+| ---------------- | -------- | --------- |
+|                  |          | **Wgt**   |
+| **Armor Piece**  | **Cost** | **(lbs)** |
+| Belt:            |          |           |
+| Protective metal |          |           |
+| belt at waist    | 2 gp     | 5         |
+| Cuirass:         |          |           |
+| Leather or metal |          |           |
+| chest plate      | 50 gp    | 20        |
+| Fasciae:         |          |           |
+| Leather bands    |          |           |
+| on legs          | 10 gp    | 5         |
+| Galea:           |          |           |
+| Visored Helm     | 10 gp    | 5         |
+| Galerus:         |          |           |
+| Shoulder piece   |          |           |
+| on weapon        |          |           |
+| shoulder         | 5 gp     | 3         |
+| Manicae:         |          |           |
+| Leather sleeve   | 10 gp    | 5         |
+| Myrrmillo:       |          |           |
+| Visored helm     |          |           |
+| resembling       |          |           |
+| sea fish         | 10 gp    | 5         |
 
 Also used by the gladiators are the *parma* (a small shield, either square or round) and *scutum* (an oblong medium shield).
 

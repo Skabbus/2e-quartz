@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Transmute Metal to Wood

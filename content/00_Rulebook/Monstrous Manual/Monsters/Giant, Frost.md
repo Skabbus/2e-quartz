@@ -36,7 +36,7 @@ monster_hd_max: 14
 
 Giant, Frost
 
-![[GIANTFRO.gif]]
+![[GIANTFRO.gif]]![[Frost_Giant_Huge_Scale166_Giant_04.png]]
 
 |  |  |
 | --- | --- |

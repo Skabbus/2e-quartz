@@ -34,7 +34,7 @@ type:
 
 Frog, Killer
 
-![[FROG.gif]]
+![[FROG.gif]]![[Giant_Frog_Medium_Beast_06.png]]
 
 |  |  |
 | --- | --- |

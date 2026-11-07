@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Time
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 5 | Time Pool

@@ -9,6 +9,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage: 1, 2, 4, 8 points per round (starting at 4th round)
 ---
 
 > [!spell|alt] 6 | Death Fog
@@ -18,7 +19,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 6 | 1d4 rds. + 1/level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 1, 2, 4, 8 points per round (starting at 4th round) |
 > | **Components** | **Material** |
 > | S V M | A pinch of dried and powdered peas, powdered animal hoof, and strong acid of any sort (including highly distilled vinegar or acid crystals), which must be obtained from an alchemist |
 > 
@@ -52,7 +53,7 @@ spellist:
   "castingTime": "6",
   "duration": "1d4 rds. + 1/level",
   "save": "None",
-  "damage": "—",
+  "damage": "1, 2, 4, 8 points per round (starting at 4th round)",
   "description": "The casting of a *death fog* spell creates an area of solid fog that has the additional property of being highly acidic. The vapors are deadly to living things, so that vegetation exposed to them will die--grass and similar small plants in two rounds, bushes and shrubs in four, small trees in eight, and large trees in 16 rounds. Animal life not immune to acid suffers damage according to the length of time it is exposed to the vapors of a death fog, as follows:\n\n|  |  |\n| --- | --- |\n| 1st round: | 1 point |\n| 2nd round: | 2 points |\n| 3rd round: | 4 points |\n| 4th and each succeeding round: | 8 points |\n\nThe death fog otherwise resembles the 2nd-level *fog cloud* spell: rolling, billowing vapors that can be moved only by a very strong wind. Any creature attempting to move through the death fog progresses at a rate of 1 foot per unit of normal movement rate per round. A *gust of wind* spell cannot affect it, but a fireball, flame strike, or wall of fire can burn it away in a single round.\n\nThe material components are a pinch of dried and powdered peas, powdered animal hoof, and strong acid of any sort (including highly distilled vinegar or acid crystals), which must be obtained from an alchemist."
 }
 ```

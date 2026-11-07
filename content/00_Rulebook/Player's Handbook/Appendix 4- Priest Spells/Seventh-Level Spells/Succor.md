@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Summoning
+spell_damage:
 ---
 
 > [!spell|alt] 7 | Succor *Reversible*

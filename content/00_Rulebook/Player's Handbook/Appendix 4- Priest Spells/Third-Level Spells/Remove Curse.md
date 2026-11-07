@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Protection
+spell_damage:
 ---
 
 > [!spell|abj] 3 | Remove Curse *Reversible*

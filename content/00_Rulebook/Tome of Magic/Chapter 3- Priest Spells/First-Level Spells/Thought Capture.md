@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Thought
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 1 | Thought Capture

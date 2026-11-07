@@ -11,6 +11,7 @@ spellist:
   - Priest
 sphere:
   - Charm
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Free Action

@@ -19,12 +19,12 @@ This is a gauntlet constructed of iron or steel, with a large spike protruding f
 
 **Close Combat Weapons**
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Head Spike | 10 | 10 | M | P | 4 | 1d6 | 1d8 |
-| Elbow spike | 1 | 2 | S | S | 2 | 1d4 | 1d4 |
-| Knee spike | 3 | 2 | S | P | 1 | 1d4 | 1d4 |
-| Glove Nail | 2 | 2 | S | P | 2 | 1d4+1 | 1d4 |
-| Chain Flail | 1 | 5 | L | B | 6 | 1d4+2 | 1d4+1 |
+|             |     |     |     |     |     |       |       |
+| ----------- | --- | --- | --- | --- | --- | ----- | ----- |
+| Head Spike  | 10  | 10  | M   | P   | 4   | 1d6   | 1d8   |
+| Elbow spike | 1   | 2   | S   | S   | 2   | 1d4   | 1d4   |
+| Knee spike  | 3   | 2   | S   | P   | 1   | 1d4   | 1d4   |
+| Glove Nail  | 2   | 2   | S   | P   | 2   | 1d4+1 | 1d4   |
+| Chain Flail | 1   | 5   | L   | B   | 6   | 1d4+2 | 1d4+1 |
 
 [[00_Rulebook/The Complete Book of Dwarves/Table of Contents|Table of Contents]]

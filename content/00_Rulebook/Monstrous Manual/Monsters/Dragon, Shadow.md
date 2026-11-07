@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Shadow (Monstrous Manual)"
+heading: Dragon-- Shadow (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03863.htm
 monster_climate:
   - arctic
@@ -28,6 +28,7 @@ monster_hd_min: 12
 monster_hd_max: 12
 type:
   - monster
+no_token: true
 ---
 
 Shadow Dragon![[SHADDRAG.gif]]

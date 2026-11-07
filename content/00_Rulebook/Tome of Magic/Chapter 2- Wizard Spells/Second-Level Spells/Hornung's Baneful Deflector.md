@@ -7,6 +7,7 @@ level: 2
 school:
   - Evocation
 spellist: Wizard
+spell_damage:
 ---
 
 

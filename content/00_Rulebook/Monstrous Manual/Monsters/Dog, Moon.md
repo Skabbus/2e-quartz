@@ -1,5 +1,5 @@
 ---
-heading: "Dog-- Moon (Monstrous Manual)"
+heading: Dog-- Moon (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03838.htm
 monster_climate:
   - arctic
@@ -37,6 +37,7 @@ monster_hd_min: 9
 monster_hd_max: 9
 type:
   - monster
+no_token: true
 ---
 
 Dog, Moon

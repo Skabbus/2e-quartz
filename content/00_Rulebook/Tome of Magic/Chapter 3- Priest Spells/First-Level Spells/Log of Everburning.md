@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Elemental
   - Plant
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Log of Everburning

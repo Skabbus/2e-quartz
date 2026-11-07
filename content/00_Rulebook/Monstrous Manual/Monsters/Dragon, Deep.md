@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Deep (Monstrous Manual)"
+heading: Dragon-- Deep (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03860.htm
 monster_climate:
   - arctic
@@ -31,6 +31,7 @@ monster_hd_min: 14
 monster_hd_max: 14
 type:
   - monster
+no_token: true
 ---
 
 Deep Dragon![[DEEPDRAG.gif]]

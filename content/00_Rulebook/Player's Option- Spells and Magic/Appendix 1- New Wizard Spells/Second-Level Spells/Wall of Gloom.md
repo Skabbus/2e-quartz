@@ -9,6 +9,7 @@ school:
   - Shadow
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|con] 2 | Wall of Gloom

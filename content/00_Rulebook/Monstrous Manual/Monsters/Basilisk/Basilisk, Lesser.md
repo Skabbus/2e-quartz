@@ -38,7 +38,7 @@ type:
 
 Basilisk, Lesser
 
-![[BASILISK.gif]]
+![[BASILISK.gif]]![[Basilisk_Medium_Scale300_Monstrosity_07.png]]
 
 |  |  |
 | --- | --- |

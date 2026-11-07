@@ -30,7 +30,7 @@ type:
 
 Couatl
 
-![[COUATL.gif]]
+![[COUATL.gif]]![[Couatl_Medium_Scale300_Celestial_01.png]]
 
 |  |  |
 | --- | --- |

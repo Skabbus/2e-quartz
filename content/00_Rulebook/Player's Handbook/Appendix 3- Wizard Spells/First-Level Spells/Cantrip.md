@@ -8,6 +8,7 @@ school:
   - All Schools
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|grey] 1 | Cantrip

@@ -10,6 +10,7 @@ spellist: Priest
 sphere:
   - Wards
   - Elemental
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Elemental Forbiddance

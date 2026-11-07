@@ -8,6 +8,7 @@ school:
   - Illusion
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 1 | Corpse Visage

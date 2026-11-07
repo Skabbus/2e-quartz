@@ -9,6 +9,7 @@ school:
   - Divination
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Magic Mirror

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Guardian
+spell_damage:
 ---
 
 > [!spell|con] 7 | Symbol

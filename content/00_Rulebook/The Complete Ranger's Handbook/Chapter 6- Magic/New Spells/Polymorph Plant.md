@@ -10,6 +10,7 @@ sphere: Plant
 spellist:
   - Ranger
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Polymorph Plant

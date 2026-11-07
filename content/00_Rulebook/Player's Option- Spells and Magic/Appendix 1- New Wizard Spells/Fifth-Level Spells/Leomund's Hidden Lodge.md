@@ -9,6 +9,7 @@ school:
   - Enchantment/Charm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 5 | Leomund's Hidden Lodge

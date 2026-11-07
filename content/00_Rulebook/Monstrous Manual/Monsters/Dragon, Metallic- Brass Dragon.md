@@ -32,7 +32,7 @@ type:
 | --- | --- |
 | Dragon, Metallic | Brass Dragon |
 
-![[BRASDRAG.gif]]
+![[BRASDRAG.gif]]![[Adult_Brass_Dragon_Huge_Scale_233_Dragon_04.png]]
 
 |  |  |
 | --- | --- |

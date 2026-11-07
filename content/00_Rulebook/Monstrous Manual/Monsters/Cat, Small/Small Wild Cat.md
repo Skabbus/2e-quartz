@@ -40,7 +40,7 @@ type:
 
 Cat, Small, Wild
 
-![[CATSMALL.gif]]
+![[CATSMALL.gif]]![[Cat_Tiny_Beast_10.png]]
 
 |  |  |
 | --- | --- |

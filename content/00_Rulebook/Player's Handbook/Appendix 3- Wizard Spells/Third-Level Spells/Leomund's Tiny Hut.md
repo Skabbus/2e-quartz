@@ -8,6 +8,7 @@ school:
   - Alteration
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Leomund's Tiny Hut

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Guardian
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Silence 15' Radius

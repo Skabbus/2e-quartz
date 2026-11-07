@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Elemental
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Lower Water *Reversible*

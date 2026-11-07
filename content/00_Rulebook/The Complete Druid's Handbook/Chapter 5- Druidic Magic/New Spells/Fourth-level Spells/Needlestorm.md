@@ -9,19 +9,44 @@ school:
 sphere: Plant
 spellist:
   - Druid
+spell_damage: 1d12 per 3 levels
 ---
 
-**Needlestorm** (Alteration)
-Sphere: Plant
-Range: 60 yards
-Components: V, S, M
-Duration: Instantaneous
-Casting Time: 7
-Area of Effect: 1 tree or plant
-Saving Throw: Save vs. spell for half damageA favorite of cold-forest and desert druids, *needlestorm* causes the spines on any pine tree or similar needle-bearing plant to spray out in a deadly barrage. The shower of needles has a radius of approximately 1 foot for every 2 feet of the subject plant's height.
+> [!spell|alt] 4 | Needlestorm
+> | Range | AoE |
+> | :--- | :--- |
+> | 60 yards | 1 tree or plant |
+> | **Casting Time** | **Duration** |
+> | 7 | Instantaneous |
+> | **Save** | **Damage** |
+> | Save vs. spell for half damageA favorite of cold-forest and desert druids, | 1d12 per 3 levels |
+> | **Components** | **Material** |
+> | S V M | A spine from a needle-bearing tree or plant |
+> 
+> *needlestorm* causes the spines on any pine tree or similar needle-bearing plant to spray out in a deadly barrage. The shower of needles has a radius of approximately 1 foot for every 2 feet of the subject plant's height.
+> 
+> Everyone within this area suffers one attack, which inflicts 1d12 points of damage for every three full levels the caster has achieved. Thus, a spruce tree enchanted by a 7th-level character attacks with a THAC0 of 16 and inflicts 2d12 points of damage.
+> 
+> The material component is a spine from a needle-bearing tree or plant.
+> 
+> | **School** | **Sphere** |
+> | :--- | :--- |
+> | Alteration | Plant |
 
-Everyone within this area suffers one attack, which inflicts 1d12 points of damage for every three full levels the caster has achieved. Thus, a spruce tree enchanted by a 7th-level character attacks with a THAC0 of 16 and inflicts 2d12 points of damage.
-
-The material component is a spine from a needle-bearing tree or plant.
-
-[[00_Rulebook/The Complete Druid's Handbook/Table of Contents|Table of Contents]]
+```json
+{
+  "name": "Needlestorm",
+  "school": "Alteration",
+  "verbal": 1,
+  "somatic": 1,
+  "material": 1,
+  "materials": "A spine from a needle-bearing tree or plant",
+  "range": "60 yards",
+  "aoe": "1 tree or plant",
+  "castingTime": "7",
+  "duration": "Instantaneous",
+  "save": "Save vs. spell for half damageA favorite of cold-forest and desert druids,",
+  "damage": "1d12 per 3 levels",
+  "description": "*needlestorm* causes the spines on any pine tree or similar needle-bearing plant to spray out in a deadly barrage. The shower of needles has a radius of approximately 1 foot for every 2 feet of the subject plant's height.\n\nEveryone within this area suffers one attack, which inflicts 1d12 points of damage for every three full levels the caster has achieved. Thus, a spruce tree enchanted by a 7th-level character attacks with a THAC0 of 16 and inflicts 2d12 points of damage.\n\nThe material component is a spine from a needle-bearing tree or plant."
+}
+```

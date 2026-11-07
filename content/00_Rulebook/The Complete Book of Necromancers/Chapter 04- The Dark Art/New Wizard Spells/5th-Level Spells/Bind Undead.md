@@ -9,6 +9,7 @@ school:
 spellist:
   - Wizard
   - Necromancer
+spell_damage:
 ---
 
 > [!spell|nec] 5 | Bind Undead

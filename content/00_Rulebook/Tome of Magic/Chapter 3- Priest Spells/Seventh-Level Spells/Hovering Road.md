@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
 sphere: Travelers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|con] 7 | Hovering Raod

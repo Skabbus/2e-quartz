@@ -33,7 +33,7 @@ type:
 | --- | --- |
 | Dragon, Metallic | Copper Dragon |
 
-![[COPRDRAG.gif]]
+![[COPRDRAG.gif]]![[Adult_Copper_Dragon_Huge_Scale233_Dragon_03.png]]
 
 |  |  |
 | --- | --- |

@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Healing
+spell_damage: 3d8+3 healing/damage
 ---
 
 > [!spell|nec] 5 | Cure Critical Wounds *Reversible*

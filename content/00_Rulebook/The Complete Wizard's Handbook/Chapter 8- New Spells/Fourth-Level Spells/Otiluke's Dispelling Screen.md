@@ -8,6 +8,7 @@ school:
   - Evocation
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 4 | Otiluke's Dispelling Screen

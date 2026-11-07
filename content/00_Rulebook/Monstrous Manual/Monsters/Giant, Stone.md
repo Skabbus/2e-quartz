@@ -31,7 +31,7 @@ monster_hd_max: 14
 
 Giant, Stone
 
-![[GIANTSTN.gif]]
+![[GIANTSTN.gif]]![[Stone_Giant_Huge_Giant_03.png]]
 
 |  |  |
 | --- | --- |

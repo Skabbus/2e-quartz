@@ -9,6 +9,7 @@ school:
   - Necromancy
 sphere: Wards
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 5 | Undead Ward

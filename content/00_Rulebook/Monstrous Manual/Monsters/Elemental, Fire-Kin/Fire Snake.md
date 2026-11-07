@@ -37,6 +37,7 @@ monster_hd_min: 2
 monster_hd_max: 2
 type:
   - monster
+no_token: true
 ---
 
 Elemental Fire Kin![[FIREKIN.gif]], Fire Snake

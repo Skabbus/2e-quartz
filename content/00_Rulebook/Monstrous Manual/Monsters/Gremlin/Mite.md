@@ -30,6 +30,7 @@ monster_hd_min: 1
 monster_hd_max: 1
 type:
   - monster
+no_token: true
 ---
 
 Gremlin, Mite

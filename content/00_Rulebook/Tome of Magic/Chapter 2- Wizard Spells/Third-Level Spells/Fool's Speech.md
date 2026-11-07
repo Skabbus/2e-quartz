@@ -7,6 +7,7 @@ level: 3
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Fool's Speech

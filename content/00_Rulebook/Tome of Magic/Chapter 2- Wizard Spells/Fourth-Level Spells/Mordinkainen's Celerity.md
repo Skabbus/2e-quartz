@@ -8,6 +8,7 @@ school:
   - Alteration
   - Invocation
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 4 | Mordinkainen's Celerity

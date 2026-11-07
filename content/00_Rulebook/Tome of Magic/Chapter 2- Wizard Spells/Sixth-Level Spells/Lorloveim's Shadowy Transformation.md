@@ -7,6 +7,7 @@ level: 6
 school:
   - Illusion
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 6 | Lorloveim's Shadowy Transformation

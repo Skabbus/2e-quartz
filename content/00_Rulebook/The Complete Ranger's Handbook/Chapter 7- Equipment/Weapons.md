@@ -25,37 +25,37 @@ source: https://regalgoblins.com/2erules/CRH/DD05741.htm
 | --- | --- | --- | --- | --- | --- | --- |
 |  | **Cost** | **Wt.** |  |  | **Speed** | **Damage** |
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| **Item** | **(gp)** | **(lb.)** | **Size** | **Type** | **Factor** | **S-M** | **L** |
-| Flail, Grain | 3 | 3 | M | B | 6 | 1d4+1 | 1d4 |
-| Hatchet | 2 | 3 | S | S | 4 | 1d4+1 | 1d4+1 |
-| Ice Pick | 1 | 1'2 | S | P | 2 | 1d4 | 1d3 |
-| Knife, |  |  |  |  |  |  |  |
-| Harness\* | - | - | S | P/S | 2 | 1-2 | 1 |
-| Machete | 30 | 4 | M | S | 8 | 1d8 | 1d8 |
-| Ritiik | 10 | 6 | L | P | 8 | 1d6+1 | 1d8+1 |
-| Scythe | 5 | 8 | M | P/S | 8 | 1d6+1 | 1d8 |
-| Snow Blade |  |  |  |  |  |  |  |
-| (iuak) | 10 | 3 | M | S | 4 | 1d4 | 1d6 |
-|  |  |  |  |  |  |  |  |
+|              |          |           |          |          |            |         |       |
+| ------------ | -------- | --------- | -------- | -------- | ---------- | ------- | ----- |
+| **Item**     | **(gp)** | **(lb.)** | **Size** | **Type** | **Factor** | **S-M** | **L** |
+| Flail, Grain | 3        | 3         | M        | B        | 6          | 1d4+1   | 1d4   |
+| Hatchet      | 2        | 3         | S        | S        | 4          | 1d4+1   | 1d4+1 |
+| Ice Pick     | 1        | 1'2       | S        | P        | 2          | 1d4     | 1d3   |
+| Knife,       |          |           |          |          |            |         |       |
+| Harness\*    | -        | -         | S        | P/S      | 2          | 1-2     | 1     |
+| Machete      | 30       | 4         | M        | S        | 8          | 1d8     | 1d8   |
+| Ritiik       | 10       | 6         | L        | P        | 8          | 1d6+1   | 1d8+1 |
+| Scythe       | 5        | 8         | M        | P/S      | 8          | 1d6+1   | 1d8   |
+| Snow Blade   |          |           |          |          |            |         |       |
+| (iuak)       | 10       | 3         | M        | S        | 4          | 1d4     | 1d6   |
+|              |          |           |          |          |            |         |       |
 
 |  |  |  |
 | --- | --- | --- |
 | **Optional Weapons from The Complete Fighter** |  |  |
 
-|  |  |  |  |  |  |  |  |
-| --- | --- | --- | --- | --- | --- | --- | --- |
-| Belaying Pin | 2 cp | 2 | S | B | 4 | 1d3 | 1d3 |
-| Gaff/Hook |  |  |  |  |  |  |  |
-| Attached | 2 gp | 2 | S | P | 4 | 1d4 | 1d3 |
-| Held | 5 cp | 2 | S | P | 4 | 1d4 | 1d3 |
-| Main-Gauche | 3 gp | 2 | S | P/S | 2 | 1d4 | 1d3 |
-| Stiletto | 5 sp | 1/2 | S | P | 2 | 1d3 | 1d2 |
-| Sword |  |  |  |  |  |  |  |
-| Cutlass | 12 gp | 4 | M | S | 5 | 1d6 | 1d8 |
-| Rapier | 15 gp | 4 | M | P | 4 | 1d6+1 | 1d8+1 |
-| Sabre | 15 gp | 5 | M | P | 4 | 1d6+1 | 1d8+1 |
+|              |       |     |     |     |     |       |       |
+| ------------ | ----- | --- | --- | --- | --- | ----- | ----- |
+| Belaying Pin | 2 cp  | 2   | S   | B   | 4   | 1d3   | 1d3   |
+| Gaff/Hook    |       |     |     |     |     |       |       |
+| Attached     | 2 gp  | 2   | S   | P   | 4   | 1d4   | 1d3   |
+| Held         | 5 cp  | 2   | S   | P   | 4   | 1d4   | 1d3   |
+| Main-Gauche  | 3 gp  | 2   | S   | P/S | 2   | 1d4   | 1d3   |
+| Stiletto     | 5 sp  | 1/2 | S   | P   | 2   | 1d3   | 1d2   |
+| Sword        |       |     |     |     |     |       |       |
+| Cutlass      | 12 gp | 4   | M   | S   | 5   | 1d6   | 1d8   |
+| Rapier       | 15 gp | 4   | M   | P   | 4   | 1d6+1 | 1d8+1 |
+| Sabre        | 15 gp | 5   | M   | P   | 4   | 1d6+1 | 1d8+1 |
 
 \*The harness knife's cost is included as part of the cost of the wilderness harness (Table 57). The knife itself weighs only a few ounces.
 

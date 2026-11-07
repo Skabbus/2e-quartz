@@ -33,7 +33,7 @@ type:
 | --- | --- |
 | Dragon, Gem | Amethyst Dragon |
 
-![[AMDRAGN.gif]]
+![[AMDRAGN.gif]]![[Ancient_Amethyst_Dragon_Gargantuan_Dragon_38x33_12.png]]
 
 |  |  |
 | --- | --- |

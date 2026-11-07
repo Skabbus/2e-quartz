@@ -9,6 +9,7 @@ school:
 sphere: Law
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Protection from Chaos

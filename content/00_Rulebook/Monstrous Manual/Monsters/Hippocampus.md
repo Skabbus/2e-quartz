@@ -34,7 +34,7 @@ type:
 
 Hippocampus
 
-![[HIPPOCAM.gif]]
+![[HIPPOCAM.gif]]![[Hippocampus_Large_Monstrosity_01.png]]
 
 |  |  |
 | --- | --- |

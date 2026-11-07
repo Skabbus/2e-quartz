@@ -7,6 +7,7 @@ level: 1
 school:
   - Alteration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 1 | Murdock's Feathery Flyer

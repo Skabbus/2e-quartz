@@ -8,6 +8,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|ill] 7 | Simulacrum

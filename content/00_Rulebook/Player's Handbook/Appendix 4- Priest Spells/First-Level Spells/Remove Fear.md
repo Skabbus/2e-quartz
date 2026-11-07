@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Charm
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Remove Fear *Reversible*

@@ -1,6 +1,6 @@
 ---
 heading: Dog, War Dog (Monstrous Manual)
-source: "[[Dog 1]]"
+source: "[[Dog]]"
 url: https://regalgoblins.com/2erules/MM/DD03837.htm
 monster_climate:
   - arctic
@@ -36,6 +36,7 @@ monster_hd_max: 2
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Dog, War Dog

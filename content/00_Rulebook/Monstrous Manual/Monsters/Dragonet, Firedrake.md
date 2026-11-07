@@ -1,5 +1,5 @@
 ---
-heading: "Dragonet-- Firedrake (Monstrous Manual)"
+heading: Dragonet-- Firedrake (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03869.htm
 monster_climate:
   - temperate
@@ -24,6 +24,7 @@ monster_hd_min: 4
 monster_hd_max: 4
 type:
   - monster
+no_token: true
 ---
 
 Dragonet, Firedrake

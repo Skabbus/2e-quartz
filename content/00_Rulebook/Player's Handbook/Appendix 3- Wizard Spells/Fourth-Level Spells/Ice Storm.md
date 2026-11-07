@@ -8,6 +8,7 @@ school:
   - Evocation
 spellist:
   - Wizard
+spell_damage: 3d10 or NONE
 ---
 
 > [!spell|inv] 4 | Ice Storm
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 4 | Special |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | 3d10 or NONE |
 > | **Components** | **Material** |
 > | S V M | A pinch of dust and a few drops of water |
 > 
@@ -44,7 +45,7 @@ spellist:
   "castingTime": "4",
   "duration": "Special",
   "save": "None",
-  "damage": "—",
+  "damage": "3d10 or NONE",
   "description": "This spell can have one of two effects, at the caster's option: Either great hail stones pound down for one round in a 40-foot-diameter area and inflict 3d10 points of damage to any creatures within the area of effect, or driving sleet falls in an 80-foot-diameter area for one round per caster level. The sleet blinds creatures within its area for the duration of the spell and causes the ground in the area to be icy, slowing movement by 50% and making it 50% probable that a creature trying to move in the area slips and falls. The sleet also extinguishes torches and small fires.\n\nNote that this spell will negate a *heat metal* spell.\n\nThe material components for this spell are a pinch of dust and a few drops of water."
 }
 ```

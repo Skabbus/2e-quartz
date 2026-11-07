@@ -1,5 +1,5 @@
 ---
-heading: "Dragonne (Monstrous Manual)"
+heading: Dragonne (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03871.htm
 monster_climate:
   - temperate
@@ -28,6 +28,7 @@ monster_hd_min: 9
 monster_hd_max: 9
 type:
   - monster
+no_token: true
 ---
 
 Dragonne

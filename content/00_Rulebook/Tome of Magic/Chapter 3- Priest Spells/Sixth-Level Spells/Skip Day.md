@@ -8,6 +8,7 @@ school:
   - Invocation/Evocation
 sphere: Time
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|inv] 6 | Skip Day

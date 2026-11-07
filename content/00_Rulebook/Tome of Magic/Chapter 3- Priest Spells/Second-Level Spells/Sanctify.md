@@ -8,6 +8,7 @@ school:
   - Conjuration/Summoning
 sphere: All
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|con] 2 | Sanctify *Reversible*

@@ -8,6 +8,7 @@ school:
   - Abjuration
 sphere: Protection
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|abj] 1 | Ring of Hands *Reversible*

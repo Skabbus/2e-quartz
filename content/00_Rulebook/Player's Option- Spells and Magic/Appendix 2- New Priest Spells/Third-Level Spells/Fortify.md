@@ -9,6 +9,7 @@ school:
 sphere: War
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|alt] 3 | Fortify

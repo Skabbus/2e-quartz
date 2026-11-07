@@ -9,6 +9,7 @@ school:
 sphere: Necromantic
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|nec] 4 | Unfailing Endurance

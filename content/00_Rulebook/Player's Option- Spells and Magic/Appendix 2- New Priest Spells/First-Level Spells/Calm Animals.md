@@ -9,6 +9,7 @@ school:
 sphere: Animal
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Calm Animals

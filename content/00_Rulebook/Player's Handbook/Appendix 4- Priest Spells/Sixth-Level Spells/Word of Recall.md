@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Summoning
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Word of Recall

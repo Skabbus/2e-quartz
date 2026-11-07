@@ -42,7 +42,7 @@ monster_hd_max: 9
 
 Golem, Lesser, Flesh
 
-![[GOLEMLES.gif]]
+![[GOLEMLES.gif]]![[Headless_Flesh_Golem_Medium_Construct_08.png]]
 
 |  |  |
 | --- | --- |

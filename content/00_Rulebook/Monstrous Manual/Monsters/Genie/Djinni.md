@@ -39,7 +39,7 @@ type:
 
 **Genie**, Djinni
 
-![[GENIE1.gif]]
+![[GENIE1.gif]]![[Djinni_Large_Elemental_08.png]]
 
 |  |  |
 | --- | --- |

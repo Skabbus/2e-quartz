@@ -8,6 +8,7 @@ school:
   - Necromantic
 sphere: Necromantic
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|grey] 7 | Breath of Life *Reversible*

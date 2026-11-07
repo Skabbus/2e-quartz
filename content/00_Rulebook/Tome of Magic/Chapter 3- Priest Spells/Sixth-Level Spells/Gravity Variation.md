@@ -8,6 +8,7 @@ school:
   - Alteration
 sphere: War
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Gravity Variation

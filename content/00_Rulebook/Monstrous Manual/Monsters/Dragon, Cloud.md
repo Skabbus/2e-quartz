@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Cloud (Monstrous Manual)"
+heading: Dragon-- Cloud (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03859.htm
 monster_climate:
   - temperate
@@ -28,6 +28,7 @@ monster_hd_min: 14
 monster_hd_max: 14
 type:
   - monster
+no_token: true
 ---
 
 Cloud Dragon![[CLOUDRAG.gif]]

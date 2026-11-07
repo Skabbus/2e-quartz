@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Steel (Monstrous Manual)"
+heading: Dragon-- Steel (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03864.htm
 monster_climate:
   - temperate
@@ -25,6 +25,7 @@ monster_hd_min: 11
 monster_hd_max: 11
 type:
   - monster
+no_token: true
 ---
 
 Steel Dragon![[STELDRAG.gif]]

@@ -8,6 +8,7 @@ school:
   - Enchantment/Charm
 sphere: Thought
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|enc] 4 | Mental Domination

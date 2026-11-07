@@ -35,7 +35,7 @@ monster_hd_max: 16
 
 Giant, Cloud
 
-![[GIANTCLD.gif]]
+![[GIANTCLD.gif]]![[Cloud_Giant_Huge_Scale166_Giant_09.png]]
 
 |  |  |
 | --- | --- |

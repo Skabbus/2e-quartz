@@ -38,7 +38,7 @@ type:
 
 Ghoul, Basic
 
-![[GHOUL.gif]]
+![[GHOUL.gif]]![[Ghoul Bone Grey [CR1,Medium,Undead].png]]
 
 |  |  |
 | --- | --- |

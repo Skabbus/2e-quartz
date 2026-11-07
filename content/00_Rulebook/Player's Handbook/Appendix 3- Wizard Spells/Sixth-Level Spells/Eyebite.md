@@ -9,6 +9,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 6 | Eyebite

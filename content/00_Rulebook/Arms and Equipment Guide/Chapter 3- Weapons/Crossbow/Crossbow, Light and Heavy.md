@@ -4,6 +4,8 @@ source: https://regalgoblins.com/2erules/AEG/DD00088.htm
 aliases:
   - Heavy crossbow
   - Light crossbow
+type:
+  - WP
 ---
 
 **Crossbow, Light and Heavy**

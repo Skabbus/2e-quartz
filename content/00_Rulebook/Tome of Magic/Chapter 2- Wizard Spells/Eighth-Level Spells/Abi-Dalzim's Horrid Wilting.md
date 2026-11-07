@@ -8,6 +8,7 @@ school:
   - Alteration
   - Necromancy
 spellist: Wizard
+spell_damage: 1d8/level
 ---
 
 > [!spell|alt] 8 | Abi-Dalzim's Horrid Wilting
@@ -17,7 +18,7 @@ spellist: Wizard
 > | **Casting Time** | **Duration** |
 > | 8 | Instantaneous |
 > | **Save** | **Damage** |
-> | ½ | — |
+> | ½ | 1d8/level |
 > | **Components** | **Material** |
 > | S V M | A bit of sponge |
 > 
@@ -42,7 +43,7 @@ spellist: Wizard
   "castingTime": "8",
   "duration": "Instantaneous",
   "save": "½",
-  "damage": "—",
+  "damage": "1d8/level",
   "description": "This spell evaporates moisture from the bodies of every living creature within the area of effect, inflicting 1d8 points of damage per level of the caster. Affected creatures are allowed a saving throw, with success indicating half damage. This spell is especially devastating to water elementals and plant creatures, who receive a penalty of -2 to their saving throws.\n\nThe material component is a bit of sponge."
 }
 ```

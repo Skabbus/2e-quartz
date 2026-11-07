@@ -1,5 +1,5 @@
 ---
-heading: "Heucuva (Monstrous Manual)"
+heading: Heucuva (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03947.htm
 monster_climate:
   - arctic
@@ -40,7 +40,7 @@ type:
 
 Heucuva
 
-![[HEUCUVA.gif]]
+![[HEUCUVA.gif]]![[Skeleton_Caster_Robed_02.png]]
 
 |  |  |
 | --- | --- |

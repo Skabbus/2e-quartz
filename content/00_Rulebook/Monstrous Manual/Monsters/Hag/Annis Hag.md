@@ -38,7 +38,7 @@ type:
 
 Hag, Annis
 
-![[HAG.gif]]
+![[HAG.gif]]![[Annis_Hag_Large_Fey_03.png]]
 
 |  |  |
 | --- | --- |

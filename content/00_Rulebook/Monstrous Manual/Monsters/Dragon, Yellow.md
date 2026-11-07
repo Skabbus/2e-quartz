@@ -1,5 +1,5 @@
 ---
-heading: "Dragon-- Yellow (Monstrous Manual)"
+heading: Dragon-- Yellow (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03865.htm
 monster_climate:
   - arctic
@@ -29,6 +29,7 @@ monster_hd_min: 13
 monster_hd_max: 13
 type:
   - monster
+no_token: true
 ---
 
 Yellow Dragon![[YELODRAG.gif]]

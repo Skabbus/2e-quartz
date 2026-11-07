@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: War
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 2 | Emotion Perception

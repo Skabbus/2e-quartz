@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Charm
+spell_damage:
 ---
 
 > [!spell|con] 4 | Cloak of Bravery *Reversible*

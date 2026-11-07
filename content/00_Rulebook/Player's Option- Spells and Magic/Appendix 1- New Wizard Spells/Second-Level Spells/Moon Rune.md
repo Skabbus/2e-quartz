@@ -10,6 +10,7 @@ school:
   - Artifice
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Moon Rune

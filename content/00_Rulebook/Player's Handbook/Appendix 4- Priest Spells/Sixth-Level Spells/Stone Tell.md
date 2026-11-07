@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Elemental
   - Divination
+spell_damage:
 ---
 
 > [!spell|gdiv] 6 | Stone Tell

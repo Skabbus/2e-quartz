@@ -1,5 +1,5 @@
 ---
-heading: "Gremlin, Jermlaine (Monstrous Manual)"
+heading: Gremlin, Jermlaine (Monstrous Manual)
 source: https://regalgoblins.com/2erules/MM/DD03937.htm
 monster_climate:
   - arctic
@@ -28,6 +28,7 @@ monster_appearing_max: 48
 monster_needs_review: true
 type:
   - monster
+no_token: true
 ---
 
 Gremlin, Jermlaine

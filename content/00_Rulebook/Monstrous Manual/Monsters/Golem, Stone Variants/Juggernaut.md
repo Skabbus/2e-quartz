@@ -37,6 +37,7 @@ monster_hd_min: 10
 monster_hd_max: 13
 type:
   - monster
+no_token:
 ---
 
 Golem, Stone Variants, Juggernaut

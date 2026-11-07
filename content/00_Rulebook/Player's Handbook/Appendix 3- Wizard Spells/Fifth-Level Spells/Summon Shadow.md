@@ -9,6 +9,7 @@ school:
   - Necromancy
 spellist:
   - Wizard
+spell_damage: Variable
 ---
 
 > [!spell|con] 5 | Summon Shadow
@@ -18,7 +19,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 5 | 1 rd. + 1 rd./level |
 > | **Save** | **Damage** |
-> | None | — |
+> | None | Variable |
 > | **Components** | **Material** |
 > | S V M | A bit of smoky quartz |
 > 
@@ -43,7 +44,7 @@ spellist:
   "castingTime": "5",
   "duration": "1 rd. + 1 rd./level",
   "save": "None",
-  "damage": "—",
+  "damage": "Variable",
   "description": "When this spell is cast, the wizard conjures up one shadow (see the [Monstrous Manual](..\\MM\\DD04048.htm#a09806d5)) for every three levels of experience he has attained. These monsters are under the control of the spellcaster and attack his enemies on command. The shadows remain until slain, turned, or the spell duration expires.\n\nThe material component for this spell is a bit of smoky quartz."
 }
 ```

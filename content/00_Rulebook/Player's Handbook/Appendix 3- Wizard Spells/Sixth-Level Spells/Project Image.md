@@ -9,6 +9,7 @@ school:
   - Illusion/Phantasm
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|alt] 6 | Project Image

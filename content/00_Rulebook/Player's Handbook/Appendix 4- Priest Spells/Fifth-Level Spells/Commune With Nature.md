@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Divination
   - Elemental
+spell_damage:
 ---
 
 > [!spell|gdiv] 5 | Commune With Nature

@@ -41,7 +41,7 @@ type:
 
 Centipede, Megalo-
 
-![[CENTPEDE.gif]]
+![[CENTPEDE.gif]]![[Giant_Centipede_Small_Beast_05.png]]
 
 |  |  |
 | --- | --- |

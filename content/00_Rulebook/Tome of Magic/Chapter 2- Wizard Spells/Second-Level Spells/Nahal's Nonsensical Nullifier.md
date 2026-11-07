@@ -7,6 +7,7 @@ level: 2
 school:
   - Abjuration
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|abj] 2 | Nahal's Nonsensical Nullifier

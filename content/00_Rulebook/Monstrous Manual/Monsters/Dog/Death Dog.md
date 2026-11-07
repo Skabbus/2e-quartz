@@ -1,6 +1,6 @@
 ---
 heading: Dog, Death Dog (Monstrous Manual)
-source: "[[Dog 1]]"
+source: "[[Dog]]"
 url: https://regalgoblins.com/2erules/MM/DD03837.htm
 monster_climate:
   - arctic
@@ -33,7 +33,7 @@ type:
 
 Dog, Death Dog
 
-![[DOG.gif]]
+![[DOG.gif]]![[Death_Dog_Medium_Monstrosity_10.png]]
 
 |  |  |
 | --- | --- |

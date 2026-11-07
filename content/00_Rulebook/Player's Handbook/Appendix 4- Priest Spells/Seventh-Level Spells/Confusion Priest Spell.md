@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Charm
+spell_damage:
 ---
 
 > [!spell|enc] 7 | Confusion

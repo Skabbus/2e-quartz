@@ -37,7 +37,7 @@ type:
 
 Bat, Common
 
-![[BAT.gif]]
+![[BAT.gif]]![[Giant_Bat_Large_Beast_02.png]]
 
 |  |  |
 | --- | --- |

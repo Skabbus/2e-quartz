@@ -37,6 +37,7 @@ monster_hd_min: 16
 monster_hd_max: 16
 type:
   - monster
+no_token: true
 ---
 
 Feyr, Great Feyr

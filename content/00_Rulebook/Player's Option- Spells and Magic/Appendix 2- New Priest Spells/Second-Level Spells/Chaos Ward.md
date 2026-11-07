@@ -9,6 +9,7 @@ school:
 sphere: Chaos
 spellist:
   - Priest
+spell_damage:
 ---
 
 > [!spell|abj] 2 | Chaos Ward

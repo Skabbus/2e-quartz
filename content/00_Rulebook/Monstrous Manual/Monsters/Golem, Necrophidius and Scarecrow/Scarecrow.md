@@ -41,7 +41,7 @@ type:
 
 Golem, Necrophidius and Scarecrow, Scarecrow
 
-![[GOLEMNES.gif]]
+![[GOLEMNES.gif]]![[Scarecrow Blue [CR1,Medium,Undead].png]]
 
 |  |  |
 | --- | --- |

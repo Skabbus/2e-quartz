@@ -36,7 +36,7 @@ type:
 
 Bulette
 
-![[BULETTE.gif]]
+![[BULETTE.gif]]![[Bulette_Large_Monstrosity_06.png]]
 
 |  |  |
 | --- | --- |

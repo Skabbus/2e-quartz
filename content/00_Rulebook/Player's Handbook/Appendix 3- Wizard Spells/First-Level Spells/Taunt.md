@@ -8,6 +8,7 @@ school:
   - Enchantment
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|enc] 1 | Taunt

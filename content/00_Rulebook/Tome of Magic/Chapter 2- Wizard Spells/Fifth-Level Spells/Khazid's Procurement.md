@@ -8,6 +8,7 @@ school:
   - Divination
   - Summoning
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|con] 5 | Khazid's Procurement

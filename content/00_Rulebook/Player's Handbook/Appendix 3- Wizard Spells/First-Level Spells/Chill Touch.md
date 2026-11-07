@@ -8,6 +8,7 @@ school:
   - Necromancy
 spellist:
   - Wizard
+spell_damage: 1d4
 ---
 
 > [!spell|nec] 1 | Chill Touch
@@ -17,7 +18,7 @@ spellist:
 > | **Casting Time** | **Duration** |
 > | 1 | 3 rds. + 1 rd./level |
 > | **Save** | **Damage** |
-> | Neg. | — |
+> | Neg. | 1d4 |
 > | **Components** | **Material** |
 > | S V | — |
 > 
@@ -42,7 +43,7 @@ spellist:
   "castingTime": "1",
   "duration": "3 rds. + 1 rd./level",
   "save": "Neg.",
-  "damage": "—",
+  "damage": "1d4",
   "description": "When the caster completes this spell, a blue glow encompasses his hand. This energy attacks the life force of any living creature upon which the wizard makes a successful melee attack. The touched creature must roll a successful saving throw vs. spell or suffer 1d4 points of damage and lose 1 point of Strength. If the save is successful, the creature remains unharmed. Creatures not rated for Strength suffer a -1 penalty to their attack rolls for every other successful touch. Lost Strength returns at the rate of 1 point per hour. Damage must be cured magically or healed naturally.\n\nThis spell has a special effect on undead creatures. Undead touched by the caster suffer no damage or Strength loss, but they must successfully save vs. spell or flee for 1d4 rounds + 1 round per level of the caster."
 }
 ```

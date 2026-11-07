@@ -32,6 +32,7 @@ monster_hd_min: 3
 monster_hd_max: 3
 type:
   - monster
+no_token: true
 ---
 
 Elemental, Air Kin![[ELEASSYL.gif]], Sylph

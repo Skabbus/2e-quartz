@@ -34,7 +34,7 @@ type:
 
 Bear, Brown
 
-![[BEAR.gif]]
+![[BEAR.gif]]![[Brown_Bear_Large_Beast_03.png]]
 
 |  |  |
 | --- | --- |

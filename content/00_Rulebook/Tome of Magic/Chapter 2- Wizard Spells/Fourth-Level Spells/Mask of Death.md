@@ -7,6 +7,7 @@ level: 4
 school:
   - Necromancy
 spellist: Wizard
+spell_damage:
 ---
 
 > [!spell|nec] 4 | Mask of Death

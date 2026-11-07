@@ -11,6 +11,7 @@ spellist:
 sphere:
   - Animal
   - Divination
+spell_damage:
 ---
 
 > [!spell|alt] 2 | Speak With Animals

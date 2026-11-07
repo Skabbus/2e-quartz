@@ -8,6 +8,7 @@ school:
   - Divination
 sphere: Numbers
 spellist: Priest
+spell_damage:
 ---
 
 > [!spell|gdiv] 3 | Moment Reading

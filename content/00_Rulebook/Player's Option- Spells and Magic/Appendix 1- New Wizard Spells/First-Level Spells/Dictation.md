@@ -9,6 +9,7 @@ school:
   - Geometry
 spellist:
   - Wizard
+spell_damage:
 ---
 
 > [!spell|inv] 1 | Dictation

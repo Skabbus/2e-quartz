@@ -31,7 +31,7 @@ type:
 
 Cloaker
 
-![[CLOAKER.gif]]
+![[CLOAKER.gif]]![[Cloaker_Large_Aberration_04.png]]
 
 |  |  |
 | --- | --- |

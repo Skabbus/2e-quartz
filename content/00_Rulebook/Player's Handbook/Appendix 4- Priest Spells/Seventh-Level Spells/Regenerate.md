@@ -10,6 +10,7 @@ spellist:
   - Priest
 sphere:
   - Necromantic
+spell_damage:
 ---
 
 > [!spell|nec] 7 | Regenerate *Reversible*

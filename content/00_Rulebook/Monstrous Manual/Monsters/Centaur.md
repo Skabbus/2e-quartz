@@ -27,7 +27,7 @@ type:
 
 Centaur
 
-![[CENTAUR.gif]]
+![[CENTAUR.gif]]![[Centaur_Large_Monstrosity_04.png]]
 
 |  |  |
 | --- | --- |
