@@ -10,9 +10,9 @@ ability:
 check_modifier: -3
 ---
 
-**Weaponsmithing**
+**Weaponsmithing**:
 
-:** This highly specialized proficiency enables a character to perform the difficult and highly exacting work involved in making metal weapons, particularly those with blades. The character blends some of the skill of the blacksmith with an ability to create blades of strength and sharpness. A fully equipped smithy is necessary to use this proficiency.
+This highly specialized proficiency enables a character to perform the difficult and highly exacting work involved in making metal weapons, particularly those with blades. The character blends some of the skill of the blacksmith with an ability to create blades of strength and sharpness. A fully equipped smithy is necessary to use this proficiency.
 
 The time and cost to make various types of weapons are listed on [[00_Rulebook/Player's Handbook/Tables/Table 41- Weapon Construction|Table 41]].
 

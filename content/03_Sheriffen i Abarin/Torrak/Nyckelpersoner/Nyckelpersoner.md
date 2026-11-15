@@ -31,7 +31,7 @@
 ***
 ![[Madeleine Nordsköld#Madeleine Nordsköld]]
 
-![[Gabriela#Gabriela]]
+![[03_Sheriffen i Abarin/Torrak/Nyckelpersoner/Gabriela#Gabriela]]
 
 ![[Sprage#Sprage]]
 

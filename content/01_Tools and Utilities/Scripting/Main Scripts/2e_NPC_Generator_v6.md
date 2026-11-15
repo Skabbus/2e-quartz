@@ -506,7 +506,7 @@ const RACE_RESTRICTIONS = {
 };
 const { PROGRESSION_DATA,   SAVING_THROWS_DATA,   CONSTITUTION_DATA,   STRENGTH_DATA,   DEXTERITY_DATA,   INTELLIGENCE_DATA,   WISDOM_DATA,   CHARISMA_DATA,   PERCEPTION_DATA } = tp.user.ProgressionStats();
 
-PROGRESSION_DATA["Commoner"] = [{ level: 0, hitDice: "1", hitDiceType: "d4", attackBonus: 0 }];
+PROGRESSION_DATA["Commoner"] = [{ level: 0, hitDice: "1", hitDiceType: "d8", attackBonus: 0 }];
 function getProgressionData(className, lvl) {
     const groupName = CLASS_GROUPS[className] || className;
     const groupData = PROGRESSION_DATA[groupName];
@@ -856,7 +856,7 @@ function calculateHitPoints(hitDiceStr, hitDiceType, conModifier = 0) {
     let totalHp = 0;
 
     // Rulla tärningarna för basnivåerna (upp till max 9 om det är en modifierad sträng, annars hela antalet)
-    const isCommoner = (hitDiceStr === "1" && hitDiceType === "d4");
+    const isCommoner = (hitDiceStr === "1" && hitDiceType === "d8");
     let diceToRoll = Math.min(baseDiceCount, 9); 
     for (let i = 0; i < diceToRoll; i++) {
         // Första tärningen = max (level 1-HP). Commoners rullar som vanligt.

@@ -2,11 +2,12 @@
 epoch: 1794009050094
 mode: agent
 backendId: opencode
-sessionId: "ses_e4cbae3ffffe107UfC5VuMpWki"
+sessionId: ses_e4cbae3ffffe107UfC5VuMpWki
 tags:
   - copilot-conversation
-topic: "Hästens hastighet vid overland resor"
+topic: Hästens hastighet vid overland resor
 usage: '{"usedTokens":40152,"contextWindow":131072,"updatedAt":1794009820195}'
+lastAccessedAt: 1794053911947
 ---
 
 **user**: Anropa verktyget obsidian-copilot.miyo_search med frågan “overland travel speed horse”. Svara med verktygets råa resultat.
@@ -141,3 +142,9 @@ Här är de exakta kostnaderna:
 
 Dessa uppgifter hittades i filen [[00_Rulebook/Arms and Equipment Guide/Chapter 4- Equipment/Lantern.md]].
 [Timestamp: 2026/11/07 01:00:31]
+
+**user**: Berätta lite om Edwin Vitterbäck och August Vitterbäck. Spekulera kring deras relation till varandra.
+[Timestamp: 2026/11/07 13:16:16]
+
+**ai**: 
+[Timestamp: 2026/11/07 13:16:16]

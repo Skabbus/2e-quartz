@@ -37,7 +37,7 @@ Last but not least, armors are loosely grouped into three basic typesóplate arm
 
 **Cord armor.** (AC 8; enc. none; type leather) Only found in savage or exotic settings, cord armor consists of rope-like fibers woven and knotted into a thick, tough fabric. It may be found in places where leather is scarce.
 
-**Field plate.** (AC 2; enc. moderate; type plate) The armorerís craft reached its peak during the Renaissance, when full suits of articulated plate armor were common. Field plate armor dispenses with the chain backing of plate mail or full plate armor to save weight. Instead, a light suit of padding, or *aketon*, would be worn beneath field plate. The considerable weight of this armor was distributed over the wearerís body, and a trained knight could lie down, stand up, or vault into the saddle while wearing heavy armor.
+**Field plate.** (AC 2; enc. moderate; type plate) The armorer's craft reached its peak during the Renaissance, when full suits of articulated plate armor were common. Field plate armor dispenses with the chain backing of plate mail or full plate armor to save weight. Instead, a light suit of padding, or *aketon*, would be worn beneath field plate. The considerable weight of this armor was distributed over the wearer's body, and a trained knight could lie down, stand up, or vault into the saddle while wearing heavy armor.
 
 **Full plate.** (AC 1; enc. moderate; type plate) The final development of armor was full plate armor, which protected the wearer with padding, chain, and a suit of beautifully crafted interlocking plates carefully angled to deflect blows. Armor of this type could even withstand long-range gunfire, as long as the bullet didnít strike square on target. A well-made suit of full plate armor was the sign of high nobility; many lesser knights had to make do with far less impressive suits due to the great expense of this marvelous armor.
 
@@ -79,7 +79,7 @@ Last but not least, armors are loosely grouped into three basic typesóplate arm
 
 **Ring mail.** (AC 7; enc. none; type leather) Ring mail consists of a leather coat with rings sewn onto it. It slightly resembles chain mail, but the links do not interlock. In the Dark Ages, ring mail was a cheap substitute for true mail, which was too expensive for many warriors. Some varieties of ring mail were used throughout the Middle Ages by light troops, artillerists, and skirmishers.
 
-**Scale mail.** (AC 6, enc. light, type mail) This ancient armor type consists of a leather coat or shirt with scales of metal riveted to it. (Some forms of scale mail were made with horn or leatherósee [[Armor Descriptions#60f405ff|Light Scale]].) Scale mail was never widely used in the West, but saw extensive use in the Mideast and Orient.
+**Scale mail.** (AC 6, enc. light, type mail) This ancient armor type consists of a leather coat or shirt with scales of metal riveted to it. (Some forms of scale mail were made with horn or leather (see [[Armor Descriptions#60f405ff|Light Scale]].) Scale mail was never widely used in the West, but saw extensive use in the Mideast and Orient.
 
 **Shield, small.** The small shield, or *targe*, is usually a round shield about two feet in diameter. Some later medieval shields were triangular or square in shape. The small shield can be used against two enemies in a combat round, as long as they are in front of the character or on his shielded flank.
 
